@@ -1,0 +1,13 @@
+{
+  "generated": true,
+  "title": "Introducción a Machine Learning",
+  "slug": "introduccion-machine-learning",
+  "structure": "ediciones",
+  "active_path": "ediciones/2026",
+  "active_year": 2026,
+  "units": [
+    "ediciones/2026"
+  ],
+  "site": "https://sebastiancontz.github.io/ust-introduccion-machine-learning",
+  "source_sha": "dac520dd592c41037aa008cfbffc66c3e09510c9"
+}
