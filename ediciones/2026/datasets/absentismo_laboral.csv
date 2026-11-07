@@ -1,0 +1,741 @@
+id_empleado,periodo,mes,dia_semana,estacion,motivo_ausencia,horas_ausencia,edad,antiguedad_anios,nivel_educacion,hijos,mascotas,distancia_casa_trabajo_km,gasto_transporte,carga_trabajo_promedio_dia,cumplimiento_meta_pct,falta_disciplinaria,bebedor_social,fumador_social,peso_kg,altura_cm,indice_masa_corporal
+E-11,2007-07,7,martes,verano,ausencia injustificada,4,33,13,media,2,1,36,289,239.554,97,no,si,no,90,172,30
+E-36,2007-07,7,martes,verano,sin motivo registrado,0,50,18,media,1,0,13,118,239.554,97,si,si,no,98,178,31
+E-03,2007-07,7,miercoles,verano,consulta medica,2,38,18,media,0,0,51,179,239.554,97,no,si,no,89,170,31
+E-07,2007-07,7,jueves,verano,enfermedades de los ojos,4,39,14,media,2,0,5,279,239.554,97,no,si,si,68,168,24
+E-11,2007-07,7,jueves,verano,consulta medica,2,33,13,media,2,1,36,289,239.554,97,no,si,no,90,172,30
+E-03,2007-07,7,viernes,verano,consulta medica,2,38,18,media,0,0,51,179,239.554,97,no,si,no,89,170,31
+E-10,2007-07,7,viernes,verano,control medico posterior,8,28,3,media,1,4,52,361,239.554,97,no,si,no,80,172,27
+E-20,2007-07,7,viernes,verano,consulta medica,4,36,11,media,4,0,50,260,239.554,97,no,si,no,65,168,23
+E-14,2007-07,7,lunes,verano,lesiones y envenenamientos,40,34,14,media,2,0,12,155,239.554,97,no,si,no,95,196,25
+E-01,2007-07,7,lunes,verano,control medico posterior,8,37,14,posgrado,1,1,11,235,239.554,97,no,no,no,88,172,29
+E-20,2007-07,7,lunes,verano,enfermedades infecciosas y parasitarias,8,36,11,media,4,0,50,260,239.554,97,no,si,no,65,168,23
+E-20,2007-07,7,martes,verano,enfermedades infecciosas y parasitarias,8,36,11,media,4,0,50,260,239.554,97,no,si,no,65,168,23
+E-20,2007-07,7,miercoles,verano,enfermedades del sistema digestivo,8,36,11,media,4,0,50,260,239.554,97,no,si,no,65,168,23
+E-03,2007-07,7,miercoles,verano,enfermedades del sistema digestivo,1,38,18,media,0,0,51,179,239.554,97,no,si,no,89,170,31
+E-03,2007-07,7,miercoles,verano,consulta medica,4,38,18,media,0,0,51,179,239.554,97,no,si,no,89,170,31
+E-24,2007-07,7,viernes,verano,enfermedades del sistema genitourinario,8,41,16,media,0,0,25,246,239.554,97,no,si,no,67,170,23
+E-03,2007-07,7,viernes,verano,consulta medica,2,38,18,media,0,0,51,179,239.554,97,no,si,no,89,170,31
+E-03,2007-07,7,lunes,verano,factores que influyen en el estado de salud,8,38,18,media,0,0,51,179,239.554,97,no,si,no,89,170,31
+E-06,2007-07,7,jueves,verano,enfermedades del sistema digestivo,8,33,13,media,2,2,29,189,239.554,97,no,no,no,69,167,25
+E-33,2007-08,8,miercoles,verano,consulta medica,2,47,14,media,2,1,25,248,205.917,92,no,no,no,86,165,32
+E-18,2007-08,8,miercoles,verano,enfermedades del sistema respiratorio,8,28,4,universitaria,0,0,16,330,205.917,92,no,no,no,84,182,25
+E-03,2007-08,8,lunes,verano,enfermedades del sistema digestivo,1,38,18,media,0,0,51,179,205.917,92,no,si,no,89,170,31
+E-10,2007-08,8,lunes,verano,enfermedades del sistema musculoesqueletico,40,28,3,media,1,4,52,361,205.917,92,no,si,no,80,172,27
+E-20,2007-08,8,viernes,verano,consulta dental,4,36,11,media,4,0,50,260,205.917,92,no,si,no,65,168,23
+E-11,2007-08,8,lunes,verano,sintomas no clasificados en otra parte,8,33,13,media,2,1,36,289,205.917,92,no,si,no,90,172,30
+E-10,2007-08,8,lunes,verano,examen de laboratorio,7,28,3,media,1,4,52,361,205.917,92,no,si,no,80,172,27
+E-11,2007-08,8,martes,verano,consulta medica,1,33,13,media,2,1,36,289,205.917,92,no,si,no,90,172,30
+E-30,2007-08,8,miercoles,verano,consulta dental,4,29,6,media,0,0,27,157,205.917,92,no,si,si,75,185,22
+E-11,2007-08,8,miercoles,verano,sintomas no clasificados en otra parte,8,33,13,media,2,1,36,289,205.917,92,no,si,no,90,172,30
+E-03,2007-08,8,viernes,verano,consulta medica,2,38,18,media,0,0,51,179,205.917,92,no,si,no,89,170,31
+E-03,2007-08,8,lunes,verano,sintomas no clasificados en otra parte,8,38,18,media,0,0,51,179,205.917,92,no,si,no,89,170,31
+E-02,2007-08,8,jueves,verano,sintomas no clasificados en otra parte,8,48,12,media,1,5,29,235,205.917,92,no,no,si,88,163,33
+E-01,2007-08,8,jueves,verano,consulta medica,4,37,14,posgrado,1,1,11,235,205.917,92,no,no,no,88,172,29
+E-02,2007-08,8,lunes,verano,sintomas no clasificados en otra parte,8,48,12,media,1,5,29,235,205.917,92,no,no,si,88,163,33
+E-03,2007-08,8,lunes,verano,consulta medica,2,38,18,media,0,0,51,179,205.917,92,no,si,no,89,170,31
+E-10,2007-08,8,lunes,verano,consulta medica,1,28,3,media,1,4,52,361,205.917,92,no,si,no,80,172,27
+E-11,2007-08,8,martes,verano,donacion de sangre,8,33,13,media,2,1,36,289,205.917,92,no,si,no,90,172,30
+E-19,2007-08,8,jueves,verano,enfermedades del sistema digestivo,4,32,12,media,0,0,50,291,205.917,92,no,si,no,65,169,23
+E-02,2007-08,8,viernes,verano,consulta dental,8,48,12,media,1,5,29,235,205.917,92,no,no,si,88,163,33
+E-20,2007-08,8,viernes,verano,consulta medica,4,36,11,media,4,0,50,260,205.917,92,no,si,no,65,168,23
+E-27,2007-09,9,martes,verano,consulta medica,2,27,7,media,0,0,42,184,241.476,92,no,no,no,58,167,21
+E-34,2007-09,9,lunes,verano,consulta medica,4,37,10,media,0,0,10,118,241.476,92,no,no,no,83,172,28
+E-03,2007-09,9,martes,verano,consulta medica,4,38,18,media,0,0,51,179,241.476,92,no,si,no,89,170,31
+E-05,2007-09,9,martes,verano,lesiones y envenenamientos,8,43,13,media,1,0,20,235,241.476,92,no,si,no,106,167,38
+E-14,2007-09,9,miercoles,verano,consulta medica,2,34,14,media,2,0,12,155,241.476,92,no,si,no,95,196,25
+E-34,2007-09,9,lunes,verano,consulta medica,3,37,10,media,0,0,10,118,241.476,92,no,no,no,83,172,28
+E-03,2007-09,9,martes,verano,consulta medica,3,38,18,media,0,0,51,179,241.476,92,no,si,no,89,170,31
+E-15,2007-09,9,jueves,verano,consulta medica,4,40,12,media,1,1,31,291,241.476,92,no,si,no,73,171,25
+E-20,2007-09,9,viernes,verano,control medico posterior,8,36,11,media,4,0,50,260,241.476,92,no,si,no,65,168,23
+E-15,2007-09,9,lunes,primavera,enfermedades del sistema genitourinario,32,40,12,media,1,1,31,291,241.476,92,no,si,no,73,171,25
+E-20,2007-09,9,lunes,primavera,sin motivo registrado,0,36,11,media,4,0,50,260,241.476,92,si,si,no,65,168,23
+E-29,2007-09,9,lunes,primavera,sin motivo registrado,0,28,9,media,1,2,26,225,241.476,92,si,no,no,69,169,24
+E-28,2007-09,9,martes,primavera,consulta medica,2,28,9,media,1,2,26,225,241.476,92,no,no,no,69,169,24
+E-34,2007-09,9,martes,primavera,consulta medica,2,37,10,media,0,0,10,118,241.476,92,no,no,no,83,172,28
+E-11,2007-09,9,martes,primavera,sin motivo registrado,0,33,13,media,2,1,36,289,241.476,92,si,si,no,90,172,30
+E-36,2007-09,9,martes,primavera,sin motivo registrado,0,50,18,media,1,0,13,118,241.476,92,si,si,no,98,178,31
+E-28,2007-09,9,miercoles,primavera,sintomas no clasificados en otra parte,3,28,9,media,1,2,26,225,241.476,92,no,no,no,69,169,24
+E-03,2007-09,9,miercoles,primavera,consulta medica,3,38,18,media,0,0,51,179,241.476,92,no,si,no,89,170,31
+E-13,2007-09,9,miercoles,primavera,sin motivo registrado,0,31,12,media,3,0,17,369,241.476,92,si,si,no,70,169,25
+E-33,2007-09,9,viernes,primavera,consulta medica,1,47,14,media,2,1,25,248,241.476,92,no,no,no,86,165,32
+E-03,2007-09,9,viernes,primavera,consulta medica,3,38,18,media,0,0,51,179,241.476,92,no,si,no,89,170,31
+E-20,2007-09,9,viernes,primavera,consulta medica,4,36,11,media,4,0,50,260,241.476,92,no,si,no,65,168,23
+E-03,2007-10,10,martes,primavera,consulta medica,3,38,18,media,0,0,51,179,253.465,93,no,si,no,89,170,31
+E-34,2007-10,10,martes,primavera,consulta medica,3,37,10,media,0,0,10,118,253.465,93,no,no,no,83,172,28
+E-36,2007-10,10,miercoles,primavera,sin motivo registrado,0,50,18,media,1,0,13,118,253.465,93,si,si,no,98,178,31
+E-22,2007-10,10,jueves,primavera,consulta medica,1,30,9,posgrado,0,0,26,179,253.465,93,no,no,no,56,171,19
+E-03,2007-10,10,viernes,primavera,consulta medica,3,38,18,media,0,0,51,179,253.465,93,no,si,no,89,170,31
+E-28,2007-10,10,viernes,primavera,consulta medica,3,28,9,media,1,2,26,225,253.465,93,no,no,no,69,169,24
+E-34,2007-10,10,martes,primavera,consulta medica,3,37,10,media,0,0,10,118,253.465,93,no,no,no,83,172,28
+E-28,2007-10,10,miercoles,primavera,consulta medica,2,28,9,media,1,2,26,225,253.465,93,no,no,no,69,169,24
+E-33,2007-10,10,miercoles,primavera,consulta medica,2,47,14,media,2,1,25,248,253.465,93,no,no,no,86,165,32
+E-15,2007-10,10,jueves,primavera,consulta medica,5,40,12,media,1,1,31,291,253.465,93,no,si,no,73,171,25
+E-03,2007-10,10,miercoles,primavera,consulta medica,8,38,18,media,0,0,51,179,253.465,93,no,si,no,89,170,31
+E-28,2007-10,10,miercoles,primavera,consulta medica,3,28,9,media,1,2,26,225,253.465,93,no,no,no,69,169,24
+E-20,2007-10,10,jueves,primavera,lesiones y envenenamientos,16,36,11,media,4,0,50,260,253.465,93,no,si,no,65,168,23
+E-15,2007-10,10,martes,primavera,enfermedades del sistema genitourinario,8,40,12,media,1,1,31,291,253.465,93,no,si,no,73,171,25
+E-28,2007-10,10,martes,primavera,consulta dental,2,28,9,media,1,2,26,225,253.465,93,no,no,no,69,169,24
+E-11,2007-10,10,miercoles,primavera,ausencia injustificada,8,33,13,media,2,1,36,289,253.465,93,no,si,no,90,172,30
+E-10,2007-10,10,viernes,primavera,consulta medica,1,28,3,media,1,4,52,361,253.465,93,no,si,no,80,172,27
+E-20,2007-10,10,viernes,primavera,consulta dental,3,36,11,media,4,0,50,260,253.465,93,no,si,no,65,168,23
+E-03,2007-11,11,jueves,primavera,consulta medica,1,38,18,media,0,0,51,179,306.345,93,no,si,no,89,170,31
+E-28,2007-11,11,miercoles,primavera,consulta medica,1,28,9,media,1,2,26,225,306.345,93,no,no,no,69,169,24
+E-03,2007-11,11,jueves,primavera,enfermedades del sistema musculoesqueletico,8,38,18,media,0,0,51,179,306.345,93,no,si,no,89,170,31
+E-17,2007-11,11,jueves,primavera,factores que influyen en el estado de salud,8,40,17,universitaria,2,0,22,179,306.345,93,no,no,si,63,170,22
+E-15,2007-11,11,jueves,primavera,consulta medica,5,40,12,media,1,1,31,291,306.345,93,no,si,no,73,171,25
+E-14,2007-11,11,lunes,primavera,enfermedades del sistema respiratorio,32,34,14,media,2,0,12,155,306.345,93,no,si,no,95,196,25
+E-06,2007-11,11,lunes,primavera,control medico posterior,8,33,13,media,2,2,29,189,306.345,93,no,no,no,69,167,25
+E-15,2007-11,11,lunes,primavera,enfermedades del sistema genitourinario,40,40,12,media,1,1,31,291,306.345,93,no,si,no,73,171,25
+E-28,2007-11,11,miercoles,primavera,consulta medica,1,28,9,media,1,2,26,225,306.345,93,no,no,no,69,169,24
+E-14,2007-11,11,viernes,primavera,enfermedades del sistema nervioso,8,34,14,media,2,0,12,155,306.345,93,no,si,no,95,196,25
+E-28,2007-11,11,miercoles,primavera,consulta medica,3,28,9,media,1,2,26,225,306.345,93,no,no,no,69,169,24
+E-17,2007-11,11,miercoles,primavera,factores que influyen en el estado de salud,8,40,17,universitaria,2,0,22,179,306.345,93,no,no,si,63,170,22
+E-28,2007-11,11,viernes,primavera,enfermedades del sistema musculoesqueletico,3,28,9,media,1,2,26,225,306.345,93,no,no,no,69,169,24
+E-20,2007-11,11,viernes,primavera,consulta dental,4,36,11,media,4,0,50,260,306.345,93,no,si,no,65,168,23
+E-33,2007-11,11,lunes,primavera,consulta dental,1,47,14,media,2,1,25,248,306.345,93,no,no,no,86,165,32
+E-28,2007-11,11,martes,primavera,consulta dental,3,28,9,media,1,2,26,225,306.345,93,no,no,no,69,169,24
+E-11,2007-11,11,miercoles,primavera,enfermedades de los ojos,24,33,13,media,2,1,36,289,306.345,93,no,si,no,90,172,30
+E-15,2007-11,11,jueves,primavera,consulta medica,3,40,12,media,1,1,31,291,306.345,93,no,si,no,73,171,25
+E-33,2007-12,12,martes,primavera,consulta medica,1,47,14,media,2,1,25,248,261.306,97,no,no,no,86,165,32
+E-34,2007-12,12,martes,primavera,lesiones y envenenamientos,64,37,10,media,0,0,10,118,261.306,97,no,no,no,83,172,28
+E-36,2007-12,12,miercoles,primavera,consulta medica,2,50,18,media,1,0,13,118,261.306,97,no,si,no,98,178,31
+E-01,2007-12,12,miercoles,primavera,ausencia injustificada,8,37,14,posgrado,1,1,11,235,261.306,97,no,no,no,88,172,29
+E-28,2007-12,12,jueves,primavera,consulta medica,2,28,9,media,1,2,26,225,261.306,97,no,no,no,69,169,24
+E-20,2007-12,12,viernes,primavera,ausencia injustificada,8,36,11,media,4,0,50,260,261.306,97,no,si,no,65,168,23
+E-34,2007-12,12,martes,primavera,lesiones y envenenamientos,56,37,10,media,0,0,10,118,261.306,97,no,no,no,83,172,28
+E-10,2007-12,12,miercoles,primavera,control medico posterior,8,28,3,media,1,4,52,361,261.306,97,no,si,no,80,172,27
+E-28,2007-12,12,jueves,primavera,consulta dental,3,28,9,media,1,2,26,225,261.306,97,no,no,no,69,169,24
+E-20,2007-12,12,viernes,primavera,consulta dental,3,36,11,media,4,0,50,260,261.306,97,no,si,no,65,168,23
+E-28,2007-12,12,martes,primavera,consulta medica,2,28,9,media,1,2,26,225,261.306,97,no,no,no,69,169,24
+E-10,2007-12,12,miercoles,primavera,control medico posterior,8,28,3,media,1,4,52,361,261.306,97,no,si,no,80,172,27
+E-34,2007-12,12,viernes,primavera,kinesiologia,2,37,10,media,0,0,10,118,261.306,97,no,no,no,83,172,28
+E-24,2007-12,12,viernes,otonio,lesiones y envenenamientos,8,41,16,media,0,0,25,246,261.306,97,no,si,no,67,170,23
+E-28,2007-12,12,viernes,otonio,consulta medica,2,28,9,media,1,2,26,225,261.306,97,no,no,no,69,169,24
+E-28,2008-01,1,miercoles,otonio,consulta medica,1,28,9,media,1,2,26,225,308.593,95,no,no,no,69,169,24
+E-34,2008-01,1,lunes,otonio,lesiones y envenenamientos,1,37,10,media,0,0,10,118,308.593,95,no,no,no,83,172,28
+E-34,2008-01,1,martes,otonio,kinesiologia,1,37,10,media,0,0,10,118,308.593,95,no,no,no,83,172,28
+E-14,2008-01,1,martes,otonio,sintomas no clasificados en otra parte,8,34,14,media,2,0,12,155,308.593,95,no,si,no,95,196,25
+E-28,2008-01,1,miercoles,otonio,kinesiologia,2,28,9,media,1,2,26,225,308.593,95,no,no,no,69,169,24
+E-27,2008-01,1,jueves,otonio,consulta medica,2,27,7,media,0,0,42,184,308.593,95,no,no,no,58,167,21
+E-28,2008-01,1,jueves,otonio,consulta dental,2,28,9,media,1,2,26,225,308.593,95,no,no,no,69,169,24
+E-28,2008-01,1,viernes,otonio,kinesiologia,1,28,9,media,1,2,26,225,308.593,95,no,no,no,69,169,24
+E-34,2008-01,1,lunes,otonio,kinesiologia,2,37,10,media,0,0,10,118,308.593,95,no,no,no,83,172,28
+E-28,2008-01,1,martes,otonio,kinesiologia,2,28,9,media,1,2,26,225,308.593,95,no,no,no,69,169,24
+E-34,2008-01,1,martes,otonio,kinesiologia,2,37,10,media,0,0,10,118,308.593,95,no,no,no,83,172,28
+E-34,2008-01,1,miercoles,otonio,kinesiologia,2,37,10,media,0,0,10,118,308.593,95,no,no,no,83,172,28
+E-34,2008-01,1,jueves,otonio,kinesiologia,2,37,10,media,0,0,10,118,308.593,95,no,no,no,83,172,28
+E-34,2008-01,1,viernes,otonio,kinesiologia,2,37,10,media,0,0,10,118,308.593,95,no,no,no,83,172,28
+E-34,2008-01,1,lunes,otonio,kinesiologia,2,37,10,media,0,0,10,118,308.593,95,no,no,no,83,172,28
+E-34,2008-01,1,martes,otonio,kinesiologia,2,37,10,media,0,0,10,118,308.593,95,no,no,no,83,172,28
+E-22,2008-01,1,martes,otonio,sintomas no clasificados en otra parte,8,30,9,posgrado,0,0,26,179,308.593,95,no,no,no,56,171,19
+E-11,2008-01,1,martes,otonio,sintomas no clasificados en otra parte,8,33,13,media,2,1,36,289,308.593,95,no,si,no,90,172,30
+E-34,2008-01,1,miercoles,otonio,kinesiologia,2,37,10,media,0,0,10,118,308.593,95,no,no,no,83,172,28
+E-27,2008-01,1,jueves,otonio,consulta medica,2,27,7,media,0,0,42,184,308.593,95,no,no,no,58,167,21
+E-34,2008-01,1,jueves,otonio,kinesiologia,2,37,10,media,0,0,10,118,308.593,95,no,no,no,83,172,28
+E-34,2008-01,1,lunes,otonio,kinesiologia,0,37,10,media,0,0,10,118,308.593,95,no,no,no,83,172,28
+E-28,2008-01,1,martes,otonio,consulta medica,1,28,9,media,1,2,26,225,308.593,95,no,no,no,69,169,24
+E-11,2008-01,1,jueves,otonio,control medico posterior,3,33,13,media,2,1,36,289,308.593,95,no,si,no,90,172,30
+E-27,2008-02,2,viernes,otonio,consulta medica,1,27,7,media,0,0,42,184,302.585,99,no,no,no,58,167,21
+E-24,2008-02,2,miercoles,otonio,enfermedades infecciosas y parasitarias,8,41,16,media,0,0,25,246,302.585,99,no,si,no,67,170,23
+E-03,2008-02,2,miercoles,otonio,enfermedades del sistema digestivo,8,38,18,media,0,0,51,179,302.585,99,no,si,no,89,170,31
+E-14,2008-02,2,jueves,otonio,consulta dental,2,34,14,media,2,0,12,155,302.585,99,no,si,no,95,196,25
+E-06,2008-02,2,jueves,otonio,consulta medica,8,33,13,media,2,2,29,189,302.585,99,no,no,no,69,167,25
+E-20,2008-02,2,viernes,otonio,consulta dental,2,36,11,media,4,0,50,260,302.585,99,no,si,no,65,168,23
+E-11,2008-02,2,viernes,otonio,control medico posterior,8,33,13,media,2,1,36,289,302.585,99,no,si,no,90,172,30
+E-31,2008-02,2,lunes,otonio,enfermedades del sistema digestivo,8,50,9,media,0,0,15,388,302.585,99,no,no,no,76,178,24
+E-31,2008-02,2,martes,otonio,enfermedades infecciosas y parasitarias,8,50,9,media,0,0,15,388,302.585,99,no,no,no,76,178,24
+E-28,2008-02,2,lunes,otonio,consulta dental,2,28,9,media,1,2,26,225,302.585,99,no,no,no,69,169,24
+E-28,2008-02,2,martes,otonio,consulta medica,2,28,9,media,1,2,26,225,302.585,99,no,no,no,69,169,24
+E-22,2008-02,2,martes,otonio,consulta medica,1,30,9,posgrado,0,0,26,179,302.585,99,no,no,no,56,171,19
+E-27,2008-02,2,martes,otonio,consulta medica,8,27,7,media,0,0,42,184,302.585,99,no,no,no,58,167,21
+E-28,2008-02,2,jueves,otonio,examen de laboratorio,3,28,9,media,1,2,26,225,302.585,99,no,no,no,69,169,24
+E-18,2008-02,2,lunes,otonio,sintomas no clasificados en otra parte,8,28,4,universitaria,0,0,16,330,302.585,99,no,no,no,84,182,25
+E-18,2008-02,2,martes,otonio,consulta medica,1,28,4,universitaria,0,0,16,330,302.585,99,no,no,no,84,182,25
+E-28,2008-02,2,miercoles,otonio,consulta medica,1,28,9,media,1,2,26,225,302.585,99,no,no,no,69,169,24
+E-06,2008-02,2,jueves,otonio,lesiones y envenenamientos,8,33,13,media,2,2,29,189,302.585,99,no,no,no,69,167,25
+E-19,2008-03,3,martes,otonio,consulta dental,2,32,12,media,0,0,50,291,343.253,95,no,si,no,65,169,23
+E-20,2008-03,3,martes,otonio,lesiones y envenenamientos,8,36,11,media,4,0,50,260,343.253,95,no,si,no,65,168,23
+E-30,2008-03,3,martes,otonio,lesiones y envenenamientos,3,29,6,media,0,0,27,157,343.253,95,no,si,si,75,185,22
+E-17,2008-03,3,martes,otonio,malformaciones congenitas,8,40,17,universitaria,2,0,22,179,343.253,95,no,no,si,63,170,22
+E-15,2008-03,3,miercoles,otonio,control medico posterior,8,40,12,media,1,1,31,291,343.253,95,no,si,no,73,171,25
+E-20,2008-03,3,miercoles,otonio,enfermedades del sistema musculoesqueletico,8,36,11,media,4,0,50,260,343.253,95,no,si,no,65,168,23
+E-22,2008-03,3,jueves,otonio,enfermedades del sistema musculoesqueletico,8,30,9,posgrado,0,0,26,179,343.253,95,no,no,no,56,171,19
+E-33,2008-03,3,viernes,otonio,enfermedades del sistema genitourinario,3,47,14,media,2,1,25,248,343.253,95,no,no,no,86,165,32
+E-20,2008-03,3,viernes,otonio,enfermedades del sistema musculoesqueletico,40,36,11,media,4,0,50,260,343.253,95,no,si,no,65,168,23
+E-17,2008-03,3,lunes,otonio,enfermedades del sistema digestivo,40,40,17,universitaria,2,0,22,179,343.253,95,no,no,si,63,170,22
+E-14,2008-03,3,lunes,otonio,enfermedades infecciosas y parasitarias,16,34,14,media,2,0,12,155,343.253,95,no,si,no,95,196,25
+E-20,2008-03,3,lunes,otonio,ausencia injustificada,16,36,11,media,4,0,50,260,343.253,95,no,si,no,65,168,23
+E-14,2008-03,3,martes,otonio,enfermedades del sistema musculoesqueletico,8,34,14,media,2,0,12,155,343.253,95,no,si,no,95,196,25
+E-11,2008-03,3,jueves,otonio,enfermedades del sistema nervioso,8,33,13,media,2,1,36,289,343.253,95,no,si,no,90,172,30
+E-17,2008-03,3,jueves,otonio,enfermedades del oido,8,40,17,universitaria,2,0,22,179,343.253,95,no,no,si,63,170,22
+E-20,2008-03,3,viernes,otonio,consulta dental,4,36,11,media,4,0,50,260,343.253,95,no,si,no,65,168,23
+E-28,2008-03,3,viernes,otonio,consulta medica,1,28,9,media,1,2,26,225,343.253,95,no,no,no,69,169,24
+E-07,2008-03,3,lunes,otonio,enfermedades del sistema genitourinario,8,39,14,media,2,0,5,279,343.253,95,no,si,si,68,168,24
+E-03,2008-03,3,martes,otonio,enfermedades del sistema musculoesqueletico,24,38,18,media,0,0,51,179,343.253,95,no,si,no,89,170,31
+E-28,2008-03,3,miercoles,otonio,consulta medica,2,28,9,media,1,2,26,225,343.253,95,no,no,no,69,169,24
+E-28,2008-03,3,lunes,invierno,enfermedades del sistema digestivo,8,28,9,media,1,2,26,225,343.253,95,no,no,no,69,169,24
+E-22,2008-03,3,lunes,invierno,enfermedades del sistema musculoesqueletico,1,30,9,posgrado,0,0,26,179,343.253,95,no,no,no,56,171,19
+E-28,2008-03,3,martes,invierno,enfermedades del sistema digestivo,8,28,9,media,1,2,26,225,343.253,95,no,no,no,69,169,24
+E-28,2008-03,3,miercoles,invierno,enfermedades del sistema digestivo,16,28,9,media,1,2,26,225,343.253,95,no,no,no,69,169,24
+E-03,2008-03,3,miercoles,invierno,enfermedades del sistema musculoesqueletico,3,38,18,media,0,0,51,179,343.253,95,no,si,no,89,170,31
+E-07,2008-03,3,jueves,invierno,enfermedades del sistema genitourinario,16,39,14,media,2,0,5,279,343.253,95,no,si,si,68,168,24
+E-28,2008-03,3,viernes,invierno,consulta dental,2,28,9,media,1,2,26,225,343.253,95,no,no,no,69,169,24
+E-33,2008-03,3,viernes,invierno,enfermedades del sistema genitourinario,3,47,14,media,2,1,25,248,343.253,95,no,no,no,86,165,32
+E-28,2008-03,3,lunes,invierno,consulta dental,1,28,9,media,1,2,26,225,343.253,95,no,no,no,69,169,24
+E-15,2008-04,4,miercoles,invierno,consulta dental,1,40,12,media,1,1,31,291,326.452,96,no,si,no,73,171,25
+E-28,2008-04,4,miercoles,invierno,consulta medica,1,28,9,media,1,2,26,225,326.452,96,no,no,no,69,169,24
+E-14,2008-04,4,martes,invierno,consulta dental,1,34,14,media,2,0,12,155,326.452,96,no,si,no,95,196,25
+E-24,2008-04,4,miercoles,invierno,enfermedades del sistema musculoesqueletico,24,41,16,media,0,0,25,246,326.452,96,no,si,no,67,170,23
+E-14,2008-04,4,jueves,invierno,consulta medica,1,34,14,media,2,0,12,155,326.452,96,no,si,no,95,196,25
+E-28,2008-04,4,viernes,invierno,consulta dental,2,28,9,media,1,2,26,225,326.452,96,no,no,no,69,169,24
+E-20,2008-04,4,viernes,invierno,consulta dental,4,36,11,media,4,0,50,260,326.452,96,no,si,no,65,168,23
+E-03,2008-04,4,miercoles,invierno,enfermedades del sistema musculoesqueletico,24,38,18,media,0,0,51,179,326.452,96,no,si,no,89,170,31
+E-36,2008-04,4,jueves,invierno,consulta medica,1,50,18,media,1,0,13,118,326.452,96,no,si,no,98,178,31
+E-15,2008-04,4,viernes,invierno,consulta medica,3,40,12,media,1,1,31,291,326.452,96,no,si,no,73,171,25
+E-24,2008-04,4,viernes,invierno,enfermedades del sistema genitourinario,8,41,16,media,0,0,25,246,326.452,96,no,si,no,67,170,23
+E-15,2008-04,4,viernes,invierno,consulta dental,1,40,12,media,1,1,31,291,326.452,96,no,si,no,73,171,25
+E-33,2008-04,4,viernes,invierno,consulta dental,8,47,14,media,2,1,25,248,326.452,96,no,no,no,86,165,32
+E-20,2008-04,4,viernes,invierno,lesiones y envenenamientos,56,36,11,media,4,0,50,260,326.452,96,no,si,no,65,168,23
+E-11,2008-04,4,martes,invierno,lesiones y envenenamientos,8,33,13,media,2,1,36,289,326.452,96,no,si,no,90,172,30
+E-14,2008-04,4,miercoles,invierno,enfermedades de la piel,24,34,14,media,2,0,12,155,326.452,96,no,si,no,95,196,25
+E-23,2008-04,4,miercoles,invierno,lesiones y envenenamientos,8,36,11,media,2,4,49,378,326.452,96,no,no,si,65,174,21
+E-11,2008-04,4,jueves,invierno,enfermedades del sistema musculoesqueletico,16,33,13,media,2,1,36,289,326.452,96,no,si,no,90,172,30
+E-01,2008-04,4,viernes,invierno,enfermedades de los ojos,3,37,14,posgrado,1,1,11,235,326.452,96,no,no,no,88,172,29
+E-02,2008-04,4,lunes,invierno,sin motivo registrado,0,48,12,media,1,5,29,235,326.452,96,si,no,si,88,163,33
+E-11,2008-05,5,miercoles,invierno,enfermedades del sistema musculoesqueletico,8,33,13,media,2,1,36,289,378.884,92,no,si,no,90,172,30
+E-14,2008-05,5,jueves,invierno,consulta dental,2,34,14,media,2,0,12,155,378.884,92,no,si,no,95,196,25
+E-14,2008-05,5,lunes,invierno,consulta dental,1,34,14,media,2,0,12,155,378.884,92,no,si,no,95,196,25
+E-03,2008-05,5,martes,invierno,sintomas no clasificados en otra parte,8,38,18,media,0,0,51,179,378.884,92,no,si,no,89,170,31
+E-28,2008-05,5,martes,invierno,lesiones y envenenamientos,8,28,9,media,1,2,26,225,378.884,92,no,no,no,69,169,24
+E-27,2008-05,5,miercoles,invierno,enfermedades de los ojos,4,27,7,media,0,0,42,184,378.884,92,no,no,no,58,167,21
+E-14,2008-05,5,lunes,invierno,consulta dental,2,34,14,media,2,0,12,155,378.884,92,no,si,no,95,196,25
+E-03,2008-05,5,martes,invierno,enfermedades de la piel,1,38,18,media,0,0,51,179,378.884,92,no,si,no,89,170,31
+E-11,2008-05,5,miercoles,invierno,enfermedades del sistema musculoesqueletico,24,33,13,media,2,1,36,289,378.884,92,no,si,no,90,172,30
+E-07,2008-05,5,miercoles,invierno,sin motivo registrado,0,39,14,media,2,0,5,279,378.884,92,si,si,si,68,168,24
+E-18,2008-05,5,miercoles,invierno,sin motivo registrado,0,28,4,universitaria,0,0,16,330,378.884,92,si,no,no,84,182,25
+E-23,2008-05,5,miercoles,invierno,sin motivo registrado,0,36,11,media,2,4,49,378,378.884,92,si,no,si,65,174,21
+E-31,2008-05,5,miercoles,invierno,sin motivo registrado,0,50,9,media,0,0,15,388,378.884,92,si,no,no,76,178,24
+E-03,2008-05,5,martes,invierno,enfermedades del sistema digestivo,1,38,18,media,0,0,51,179,378.884,92,no,si,no,89,170,31
+E-36,2008-05,5,miercoles,invierno,enfermedades del sistema musculoesqueletico,24,50,18,media,1,0,13,118,378.884,92,no,si,no,98,178,31
+E-10,2008-05,5,viernes,invierno,control medico posterior,8,28,3,media,1,4,52,361,378.884,92,no,si,no,80,172,27
+E-24,2008-06,6,lunes,invierno,lesiones y envenenamientos,8,41,16,media,0,0,25,246,377.55,94,no,si,no,67,170,23
+E-10,2008-06,6,lunes,invierno,control medico posterior,8,28,3,media,1,4,52,361,377.55,94,no,si,no,80,172,27
+E-24,2008-06,6,martes,invierno,enfermedades del sistema respiratorio,24,41,16,media,0,0,25,246,377.55,94,no,si,no,67,170,23
+E-15,2008-06,6,jueves,invierno,consulta medica,4,40,12,media,1,1,31,291,377.55,94,no,si,no,73,171,25
+E-24,2008-06,6,viernes,invierno,enfermedades del sistema respiratorio,8,41,16,media,0,0,25,246,377.55,94,no,si,no,67,170,23
+E-03,2008-06,6,lunes,invierno,enfermedades del sistema digestivo,8,38,18,media,0,0,51,179,377.55,94,no,si,no,89,170,31
+E-14,2008-06,6,lunes,invierno,consulta medica,4,34,14,media,2,0,12,155,377.55,94,no,si,no,95,196,25
+E-24,2008-06,6,lunes,invierno,enfermedades del sistema respiratorio,8,41,16,media,0,0,25,246,377.55,94,no,si,no,67,170,23
+E-36,2008-06,6,miercoles,invierno,enfermedades del sistema musculoesqueletico,8,50,18,media,1,0,13,118,377.55,94,no,si,no,98,178,31
+E-01,2008-06,6,viernes,invierno,enfermedades del sistema musculoesqueletico,16,37,14,posgrado,1,1,11,235,377.55,94,no,no,no,88,172,29
+E-36,2008-06,6,martes,invierno,consulta medica,1,50,18,media,1,0,13,118,377.55,94,no,si,no,98,178,31
+E-36,2008-06,6,miercoles,invierno,enfermedades del sistema musculoesqueletico,80,50,18,media,1,0,13,118,377.55,94,no,si,no,98,178,31
+E-23,2008-06,6,jueves,invierno,control medico posterior,8,36,11,media,2,4,49,378,377.55,94,no,no,si,65,174,21
+E-03,2008-06,6,viernes,invierno,enfermedades del sistema digestivo,2,38,18,media,0,0,51,179,377.55,94,no,si,no,89,170,31
+E-32,2008-06,6,lunes,verano,consulta dental,2,49,29,media,0,2,48,289,377.55,94,no,no,no,108,172,36
+E-28,2008-06,6,jueves,verano,consulta dental,2,28,9,media,1,2,26,225,377.55,94,no,no,no,69,169,24
+E-14,2008-07,7,martes,verano,lesiones y envenenamientos,16,34,14,media,2,0,12,155,275.312,98,no,si,no,95,196,25
+E-36,2008-07,7,miercoles,verano,enfermedades infecciosas y parasitarias,8,50,18,media,1,0,13,118,275.312,98,no,si,no,98,178,31
+E-34,2008-07,7,viernes,verano,trastornos mentales y del comportamiento,8,37,10,media,0,0,10,118,275.312,98,no,no,no,83,172,28
+E-34,2008-07,7,viernes,verano,ausencia injustificada,4,37,10,media,0,0,10,118,275.312,98,no,no,no,83,172,28
+E-18,2008-07,7,martes,verano,ausencia injustificada,8,28,4,universitaria,0,0,16,330,275.312,98,no,no,no,84,182,25
+E-22,2008-07,7,jueves,verano,sintomas no clasificados en otra parte,8,30,9,posgrado,0,0,26,179,275.312,98,no,no,no,56,171,19
+E-14,2008-07,7,viernes,verano,examen de laboratorio,2,34,14,media,2,0,12,155,275.312,98,no,si,no,95,196,25
+E-18,2008-07,7,lunes,verano,enfermedades infecciosas y parasitarias,8,28,4,universitaria,0,0,16,330,275.312,98,no,no,no,84,182,25
+E-18,2008-07,7,martes,verano,enfermedades infecciosas y parasitarias,8,28,4,universitaria,0,0,16,330,275.312,98,no,no,no,84,182,25
+E-30,2008-07,7,lunes,verano,examen de laboratorio,3,29,6,media,0,0,27,157,275.312,98,no,si,si,75,185,22
+E-10,2008-07,7,martes,verano,control medico posterior,8,28,3,media,1,4,52,361,275.312,98,no,si,no,80,172,27
+E-11,2008-07,7,miercoles,verano,ausencia injustificada,8,33,13,media,2,1,36,289,275.312,98,no,si,no,90,172,30
+E-03,2008-07,7,jueves,verano,ausencia injustificada,8,38,18,media,0,0,51,179,275.312,98,no,si,no,89,170,31
+E-11,2008-07,7,lunes,verano,lesiones y envenenamientos,32,33,13,media,2,1,36,289,275.312,98,no,si,no,90,172,30
+E-11,2008-07,7,jueves,verano,lesiones y envenenamientos,8,33,13,media,2,1,36,289,275.312,98,no,si,no,90,172,30
+E-20,2008-07,7,jueves,verano,sin motivo registrado,0,36,11,media,4,0,50,260,275.312,98,si,si,no,65,168,23
+E-11,2008-08,8,viernes,verano,lesiones y envenenamientos,8,33,13,media,2,1,36,289,265.615,94,no,si,no,90,172,30
+E-30,2008-08,8,viernes,verano,lesiones y envenenamientos,3,29,6,media,0,0,27,157,265.615,94,no,si,si,75,185,22
+E-11,2008-08,8,lunes,verano,consulta medica,1,33,13,media,2,1,36,289,265.615,94,no,si,no,90,172,30
+E-09,2008-08,8,martes,verano,sintomas no clasificados en otra parte,8,58,16,media,2,1,14,228,265.615,94,no,no,no,65,172,22
+E-26,2008-08,8,jueves,verano,enfermedades del sistema musculoesqueletico,1,43,13,media,2,1,26,300,265.615,94,no,si,si,77,175,25
+E-26,2008-08,8,jueves,verano,enfermedades del sistema genitourinario,2,43,13,media,2,1,26,300,265.615,94,no,si,si,77,175,25
+E-20,2008-08,8,viernes,verano,consulta dental,4,36,11,media,4,0,50,260,265.615,94,no,si,no,65,168,23
+E-11,2008-08,8,martes,verano,consulta medica,4,33,13,media,2,1,36,289,265.615,94,no,si,no,90,172,30
+E-33,2008-08,8,miercoles,verano,consulta medica,1,47,14,media,2,1,25,248,265.615,94,no,no,no,86,165,32
+E-21,2008-08,8,jueves,verano,enfermedades del sistema digestivo,8,33,8,universitaria,0,0,11,268,265.615,94,no,no,no,79,178,25
+E-22,2008-08,8,jueves,verano,consulta medica,1,30,9,posgrado,0,0,26,179,265.615,94,no,no,no,56,171,19
+E-36,2008-08,8,jueves,verano,enfermedades del sistema musculoesqueletico,3,50,18,media,1,0,13,118,265.615,94,no,si,no,98,178,31
+E-33,2008-08,8,lunes,verano,examen de laboratorio,2,47,14,media,2,1,25,248,265.615,94,no,no,no,86,165,32
+E-01,2008-08,8,martes,verano,consulta medica,1,37,14,posgrado,1,1,11,235,265.615,94,no,no,no,88,172,29
+E-36,2008-08,8,jueves,verano,consulta medica,1,50,18,media,1,0,13,118,265.615,94,no,si,no,98,178,31
+E-01,2008-08,8,jueves,verano,lesiones y envenenamientos,8,37,14,posgrado,1,1,11,235,265.615,94,no,no,no,88,172,29
+E-10,2008-08,8,martes,verano,enfermedades del oido,8,28,3,media,1,4,52,361,265.615,94,no,si,no,80,172,27
+E-27,2008-08,8,miercoles,verano,enfermedades del sistema nervioso,8,27,7,media,0,0,42,184,265.615,94,no,no,no,58,167,21
+E-03,2008-09,9,lunes,verano,enfermedades del sistema digestivo,8,38,18,media,0,0,51,179,294.217,81,no,si,no,89,170,31
+E-03,2008-09,9,viernes,verano,consulta medica,3,38,18,media,0,0,51,179,294.217,81,no,si,no,89,170,31
+E-11,2008-09,9,miercoles,verano,lesiones y envenenamientos,24,33,13,media,2,1,36,289,294.217,81,no,si,no,90,172,30
+E-05,2008-09,9,jueves,verano,sin motivo registrado,0,43,13,media,1,0,20,235,294.217,81,si,si,no,106,167,38
+E-24,2008-09,9,lunes,verano,enfermedades del sistema circulatorio,16,41,16,media,0,0,25,246,294.217,81,no,si,no,67,170,23
+E-15,2008-09,9,martes,verano,consulta dental,3,40,12,media,1,1,31,291,294.217,81,no,si,no,73,171,25
+E-08,2008-09,9,martes,verano,sin motivo registrado,0,39,14,media,2,2,35,231,294.217,81,si,si,no,100,170,35
+E-19,2008-09,9,martes,verano,sin motivo registrado,0,32,12,media,0,0,50,291,294.217,81,si,si,no,65,169,23
+E-03,2008-09,9,miercoles,verano,enfermedades del sistema musculoesqueletico,8,38,18,media,0,0,51,179,294.217,81,no,si,no,89,170,31
+E-24,2008-09,9,miercoles,verano,enfermedades del sistema circulatorio,32,41,16,media,0,0,25,246,294.217,81,no,si,no,67,170,23
+E-03,2008-09,9,jueves,verano,consulta medica,1,38,18,media,0,0,51,179,294.217,81,no,si,no,89,170,31
+E-15,2008-09,9,viernes,verano,consulta dental,4,40,12,media,1,1,31,291,294.217,81,no,si,no,73,171,25
+E-20,2008-09,9,viernes,verano,consulta dental,4,36,11,media,4,0,50,260,294.217,81,no,si,no,65,168,23
+E-05,2008-09,9,miercoles,primavera,ausencia injustificada,8,43,13,media,1,0,20,235,294.217,81,no,si,no,106,167,38
+E-36,2008-09,9,jueves,primavera,consulta dental,1,50,18,media,1,0,13,118,294.217,81,no,si,no,98,178,31
+E-05,2008-09,9,jueves,primavera,sin motivo registrado,0,43,13,media,1,0,20,235,294.217,81,si,si,no,106,167,38
+E-15,2008-09,9,viernes,primavera,consulta dental,3,40,12,media,1,1,31,291,294.217,81,no,si,no,73,171,25
+E-15,2008-09,9,lunes,primavera,enfermedades de los ojos,40,40,12,media,1,1,31,291,294.217,81,no,si,no,73,171,25
+E-03,2008-09,9,lunes,primavera,enfermedades del sistema musculoesqueletico,8,38,18,media,0,0,51,179,294.217,81,no,si,no,89,170,31
+E-11,2008-10,10,lunes,primavera,donacion de sangre,8,33,13,media,2,1,36,289,265.017,88,no,si,no,90,172,30
+E-01,2008-10,10,lunes,primavera,ausencia injustificada,4,37,14,posgrado,1,1,11,235,265.017,88,no,no,no,88,172,29
+E-11,2008-10,10,lunes,primavera,ausencia injustificada,8,33,13,media,2,1,36,289,265.017,88,no,si,no,90,172,30
+E-11,2008-10,10,viernes,primavera,control medico posterior,8,33,13,media,2,1,36,289,265.017,88,no,si,no,90,172,30
+E-36,2008-10,10,viernes,primavera,sin motivo registrado,0,50,18,media,1,0,13,118,265.017,88,si,si,no,98,178,31
+E-33,2008-10,10,viernes,primavera,sin motivo registrado,0,47,14,media,2,1,25,248,265.017,88,si,no,no,86,165,32
+E-22,2008-10,10,lunes,primavera,enfermedades infecciosas y parasitarias,8,30,9,posgrado,0,0,26,179,265.017,88,no,no,no,56,171,19
+E-34,2008-10,10,lunes,primavera,enfermedades de los ojos,3,37,10,media,0,0,10,118,265.017,88,no,no,no,83,172,28
+E-13,2008-10,10,lunes,primavera,control medico posterior,8,31,12,media,3,0,17,369,265.017,88,no,si,no,70,169,25
+E-03,2008-10,10,miercoles,primavera,consulta dental,1,38,18,media,0,0,51,179,265.017,88,no,si,no,89,170,31
+E-22,2008-10,10,miercoles,primavera,enfermedades infecciosas y parasitarias,64,30,9,posgrado,0,0,26,179,265.017,88,no,no,no,56,171,19
+E-05,2008-10,10,miercoles,primavera,sin motivo registrado,0,43,13,media,1,0,20,235,265.017,88,si,si,no,106,167,38
+E-11,2008-10,10,jueves,primavera,lesiones y envenenamientos,16,33,13,media,2,1,36,289,265.017,88,no,si,no,90,172,30
+E-20,2008-10,10,viernes,primavera,consulta dental,3,36,11,media,4,0,50,260,265.017,88,no,si,no,65,168,23
+E-05,2008-10,10,viernes,primavera,sin motivo registrado,0,43,13,media,1,0,20,235,265.017,88,si,si,no,106,167,38
+E-05,2008-10,10,lunes,primavera,consulta medica,2,43,13,media,1,0,20,235,265.017,88,no,si,no,106,167,38
+E-05,2008-10,10,lunes,primavera,consulta medica,2,43,13,media,1,0,20,235,265.017,88,no,si,no,106,167,38
+E-36,2008-10,10,martes,primavera,consulta dental,1,50,18,media,1,0,13,118,265.017,88,no,si,no,98,178,31
+E-15,2008-10,10,martes,primavera,consulta dental,4,40,12,media,1,1,31,291,265.017,88,no,si,no,73,171,25
+E-22,2008-10,10,jueves,primavera,consulta medica,16,30,9,posgrado,0,0,26,179,265.017,88,no,no,no,56,171,19
+E-36,2008-10,10,jueves,primavera,consulta dental,1,50,18,media,1,0,13,118,265.017,88,no,si,no,98,178,31
+E-10,2008-10,10,lunes,primavera,enfermedades del sistema respiratorio,8,28,3,media,1,4,52,361,265.017,88,no,si,no,80,172,27
+E-20,2008-10,10,martes,primavera,sin motivo registrado,0,36,11,media,4,0,50,260,265.017,88,si,si,no,65,168,23
+E-15,2008-10,10,martes,primavera,sin motivo registrado,0,40,12,media,1,1,31,291,265.017,88,si,si,no,73,171,25
+E-30,2008-10,10,martes,primavera,sin motivo registrado,0,29,6,media,0,0,27,157,265.017,88,si,si,si,75,185,22
+E-22,2008-10,10,miercoles,primavera,enfermedades infecciosas y parasitarias,5,30,9,posgrado,0,0,26,179,265.017,88,no,no,no,56,171,19
+E-22,2008-10,10,miercoles,primavera,enfermedades de los ojos,5,30,9,posgrado,0,0,26,179,265.017,88,no,no,no,56,171,19
+E-36,2008-10,10,jueves,primavera,consulta medica,1,50,18,media,1,0,13,118,265.017,88,no,si,no,98,178,31
+E-34,2008-11,11,lunes,primavera,enfermedades del sistema digestivo,8,37,10,media,0,0,10,118,284.031,97,no,no,no,83,172,28
+E-33,2008-11,11,lunes,primavera,consulta medica,2,47,14,media,2,1,25,248,284.031,97,no,no,no,86,165,32
+E-03,2008-11,11,martes,primavera,enfermedades del sistema nervioso,8,38,18,media,0,0,51,179,284.031,97,no,si,no,89,170,31
+E-20,2008-11,11,viernes,primavera,consulta dental,3,36,11,media,4,0,50,260,284.031,97,no,si,no,65,168,23
+E-15,2008-11,11,lunes,primavera,consulta medica,1,40,12,media,1,1,31,291,284.031,97,no,si,no,73,171,25
+E-23,2008-11,11,lunes,primavera,enfermedades infecciosas y parasitarias,8,36,11,media,2,4,49,378,284.031,97,no,no,si,65,174,21
+E-14,2008-11,11,lunes,primavera,enfermedades del sistema digestivo,120,34,14,media,2,0,12,155,284.031,97,no,si,no,95,196,25
+E-05,2008-11,11,lunes,primavera,ausencia injustificada,8,43,13,media,1,0,20,235,284.031,97,no,si,no,106,167,38
+E-18,2008-11,11,martes,primavera,sin motivo registrado,0,28,4,universitaria,0,0,16,330,284.031,97,si,no,no,84,182,25
+E-01,2008-11,11,miercoles,primavera,sintomas no clasificados en otra parte,1,37,14,posgrado,1,1,11,235,284.031,97,no,no,no,88,172,29
+E-34,2008-11,11,miercoles,primavera,enfermedades del sistema digestivo,3,37,10,media,0,0,10,118,284.031,97,no,no,no,83,172,28
+E-01,2008-11,11,jueves,primavera,examen de laboratorio,2,37,14,posgrado,1,1,11,235,284.031,97,no,no,no,88,172,29
+E-03,2008-11,11,jueves,primavera,consulta dental,3,38,18,media,0,0,51,179,284.031,97,no,si,no,89,170,31
+E-24,2008-11,11,viernes,primavera,enfermedades del sistema musculoesqueletico,8,41,16,media,0,0,25,246,284.031,97,no,si,no,67,170,23
+E-15,2008-11,11,viernes,primavera,enfermedades de la piel,4,40,12,media,1,1,31,291,284.031,97,no,si,no,73,171,25
+E-24,2008-11,11,lunes,primavera,enfermedades del sistema musculoesqueletico,8,41,16,media,0,0,25,246,284.031,97,no,si,no,67,170,23
+E-03,2008-11,11,martes,primavera,consulta dental,1,38,18,media,0,0,51,179,284.031,97,no,si,no,89,170,31
+E-20,2008-11,11,miercoles,primavera,enfermedades del sistema respiratorio,8,36,11,media,4,0,50,260,284.031,97,no,si,no,65,168,23
+E-20,2008-11,11,viernes,primavera,"embarazo, parto y puerperio",8,36,11,media,4,0,50,260,284.031,97,no,si,no,65,168,23
+E-23,2008-11,11,viernes,primavera,sin motivo registrado,0,36,11,media,2,4,49,378,284.031,97,si,no,si,65,174,21
+E-07,2008-11,11,martes,primavera,sin motivo registrado,0,39,14,media,2,0,5,279,284.031,97,si,si,si,68,168,24
+E-03,2008-11,11,jueves,primavera,consulta medica,1,38,18,media,0,0,51,179,284.031,97,no,si,no,89,170,31
+E-28,2008-12,12,lunes,primavera,enfermedades de la piel,3,28,9,media,1,2,26,225,236.629,93,no,no,no,69,169,24
+E-03,2008-12,12,lunes,primavera,consulta dental,2,38,18,media,0,0,51,179,236.629,93,no,si,no,89,170,31
+E-03,2008-12,12,lunes,primavera,consulta dental,1,38,18,media,0,0,51,179,236.629,93,no,si,no,89,170,31
+E-01,2008-12,12,lunes,primavera,consulta medica,3,37,14,posgrado,1,1,11,235,236.629,93,no,no,no,88,172,29
+E-36,2008-12,12,martes,primavera,consulta dental,1,50,18,media,1,0,13,118,236.629,93,no,si,no,98,178,31
+E-20,2008-12,12,viernes,primavera,consulta dental,4,36,11,media,4,0,50,260,236.629,93,no,si,no,65,168,23
+E-24,2008-12,12,jueves,primavera,enfermedades endocrinas y metabolicas,8,41,16,media,0,0,25,246,236.629,93,no,si,no,67,170,23
+E-03,2008-12,12,jueves,primavera,consulta dental,1,38,18,media,0,0,51,179,236.629,93,no,si,no,89,170,31
+E-03,2008-12,12,viernes,primavera,consulta dental,1,38,18,media,0,0,51,179,236.629,93,no,si,no,89,170,31
+E-22,2008-12,12,martes,primavera,consulta medica,1,30,9,posgrado,0,0,26,179,236.629,93,no,no,no,56,171,19
+E-34,2008-12,12,martes,primavera,examen de laboratorio,8,37,10,media,0,0,10,118,236.629,93,no,no,no,83,172,28
+E-01,2008-12,12,jueves,primavera,examen de laboratorio,2,37,14,posgrado,1,1,11,235,236.629,93,no,no,no,88,172,29
+E-03,2008-12,12,viernes,primavera,consulta dental,1,38,18,media,0,0,51,179,236.629,93,no,si,no,89,170,31
+E-05,2008-12,12,martes,otonio,enfermedades del sistema musculoesqueletico,8,43,13,media,1,0,20,235,236.629,93,no,si,no,106,167,38
+E-01,2008-12,12,martes,otonio,enfermedades del sistema genitourinario,4,37,14,posgrado,1,1,11,235,236.629,93,no,no,no,88,172,29
+E-20,2008-12,12,miercoles,otonio,ausencia injustificada,8,36,11,media,4,0,50,260,236.629,93,no,si,no,65,168,23
+E-30,2008-12,12,lunes,otonio,consulta dental,2,29,6,media,0,0,27,157,236.629,93,no,si,si,75,185,22
+E-03,2008-12,12,lunes,otonio,consulta dental,3,38,18,media,0,0,51,179,236.629,93,no,si,no,89,170,31
+E-11,2008-12,12,lunes,otonio,lesiones y envenenamientos,8,33,13,media,2,1,36,289,236.629,93,no,si,no,90,172,30
+E-28,2009-01,1,miercoles,otonio,consulta medica,5,28,9,media,1,2,26,225,330.061,100,no,no,no,69,169,24
+E-34,2009-01,1,lunes,otonio,lesiones y envenenamientos,32,37,10,media,0,0,10,118,330.061,100,no,no,no,83,172,28
+E-14,2009-01,1,lunes,otonio,consulta medica,2,34,14,media,2,0,12,155,330.061,100,no,si,no,95,196,25
+E-01,2009-01,1,martes,otonio,enfermedades del sistema musculoesqueletico,1,37,14,posgrado,1,1,11,235,330.061,100,no,no,no,88,172,29
+E-14,2009-01,1,martes,otonio,consulta medica,4,34,14,media,2,0,12,155,330.061,100,no,si,no,95,196,25
+E-11,2009-01,1,lunes,otonio,ausencia injustificada,8,33,13,media,2,1,36,289,330.061,100,no,si,no,90,172,30
+E-15,2009-01,1,miercoles,otonio,enfermedades de la sangre,8,40,12,media,1,1,31,291,330.061,100,no,si,no,73,171,25
+E-05,2009-01,1,lunes,otonio,ausencia injustificada,8,43,13,media,1,0,20,235,330.061,100,no,si,no,106,167,38
+E-36,2009-01,1,lunes,otonio,ausencia injustificada,4,50,18,media,1,0,13,118,330.061,100,no,si,no,98,178,31
+E-03,2009-01,1,miercoles,otonio,consulta dental,1,38,18,media,0,0,51,179,330.061,100,no,si,no,89,170,31
+E-03,2009-01,1,viernes,otonio,consulta dental,1,38,18,media,0,0,51,179,330.061,100,no,si,no,89,170,31
+E-34,2009-02,2,martes,otonio,consulta dental,2,37,10,media,0,0,10,118,251.818,96,no,no,no,83,172,28
+E-03,2009-02,2,miercoles,otonio,kinesiologia,3,38,18,media,0,0,51,179,251.818,96,no,si,no,89,170,31
+E-28,2009-02,2,miercoles,otonio,enfermedades de los ojos,1,28,9,media,1,2,26,225,251.818,96,no,no,no,69,169,24
+E-11,2009-02,2,viernes,otonio,control medico posterior,3,33,13,media,2,1,36,289,251.818,96,no,si,no,90,172,30
+E-20,2009-02,2,viernes,otonio,consulta dental,3,36,11,media,4,0,50,260,251.818,96,no,si,no,65,168,23
+E-03,2009-02,2,viernes,otonio,consulta medica,3,38,18,media,0,0,51,179,251.818,96,no,si,no,89,170,31
+E-03,2009-02,2,lunes,otonio,kinesiologia,2,38,18,media,0,0,51,179,251.818,96,no,si,no,89,170,31
+E-03,2009-02,2,miercoles,otonio,kinesiologia,3,38,18,media,0,0,51,179,251.818,96,no,si,no,89,170,31
+E-03,2009-02,2,jueves,otonio,enfermedades del sistema respiratorio,8,38,18,media,0,0,51,179,251.818,96,no,si,no,89,170,31
+E-24,2009-02,2,jueves,otonio,ausencia injustificada,8,41,16,media,0,0,25,246,251.818,96,no,si,no,67,170,23
+E-03,2009-02,2,viernes,otonio,kinesiologia,3,38,18,media,0,0,51,179,251.818,96,no,si,no,89,170,31
+E-06,2009-02,2,lunes,otonio,control medico posterior,8,33,13,media,2,2,29,189,251.818,96,no,no,no,69,167,25
+E-03,2009-02,2,lunes,otonio,kinesiologia,3,38,18,media,0,0,51,179,251.818,96,no,si,no,89,170,31
+E-24,2009-02,2,martes,otonio,consulta medica,2,41,16,media,0,0,25,246,251.818,96,no,si,no,67,170,23
+E-15,2009-02,2,martes,otonio,consulta medica,2,40,12,media,1,1,31,291,251.818,96,no,si,no,73,171,25
+E-30,2009-02,2,miercoles,otonio,enfermedades del sistema digestivo,16,29,6,media,0,0,27,157,251.818,96,no,si,si,75,185,22
+E-03,2009-02,2,miercoles,otonio,kinesiologia,3,38,18,media,0,0,51,179,251.818,96,no,si,no,89,170,31
+E-03,2009-02,2,viernes,otonio,kinesiologia,3,38,18,media,0,0,51,179,251.818,96,no,si,no,89,170,31
+E-24,2009-02,2,viernes,otonio,enfermedades del sistema respiratorio,24,41,16,media,0,0,25,246,251.818,96,no,si,no,67,170,23
+E-03,2009-02,2,miercoles,otonio,kinesiologia,3,38,18,media,0,0,51,179,251.818,96,no,si,no,89,170,31
+E-03,2009-02,2,viernes,otonio,kinesiologia,3,38,18,media,0,0,51,179,251.818,96,no,si,no,89,170,31
+E-34,2009-03,3,martes,otonio,sintomas no clasificados en otra parte,8,37,10,media,0,0,10,118,244.387,98,no,no,no,83,172,28
+E-24,2009-03,3,miercoles,otonio,lesiones y envenenamientos,16,41,16,media,0,0,25,246,244.387,98,no,si,no,67,170,23
+E-24,2009-03,3,viernes,otonio,consulta dental,2,41,16,media,0,0,25,246,244.387,98,no,si,no,67,170,23
+E-20,2009-03,3,viernes,otonio,consulta dental,4,36,11,media,4,0,50,260,244.387,98,no,si,no,65,168,23
+E-03,2009-03,3,lunes,otonio,consulta dental,2,38,18,media,0,0,51,179,244.387,98,no,si,no,89,170,31
+E-01,2009-03,3,lunes,otonio,control medico posterior,8,37,14,posgrado,1,1,11,235,244.387,98,no,no,no,88,172,29
+E-17,2009-03,3,martes,otonio,control medico posterior,8,40,17,universitaria,2,0,22,179,244.387,98,no,no,si,63,170,22
+E-23,2009-03,3,martes,otonio,control medico posterior,8,36,11,media,2,4,49,378,244.387,98,no,no,si,65,174,21
+E-03,2009-03,3,lunes,otonio,consulta dental,16,38,18,media,0,0,51,179,244.387,98,no,si,no,89,170,31
+E-10,2009-03,3,miercoles,otonio,control medico posterior,8,28,3,media,1,4,52,361,244.387,98,no,si,no,80,172,27
+E-13,2009-03,3,miercoles,otonio,sin motivo registrado,0,31,12,media,3,0,17,369,244.387,98,si,si,no,70,169,25
+E-01,2009-03,3,jueves,otonio,factores que influyen en el estado de salud,8,37,14,posgrado,1,1,11,235,244.387,98,no,no,no,88,172,29
+E-36,2009-03,3,viernes,invierno,consulta medica,2,50,18,media,1,0,13,118,244.387,98,no,si,no,98,178,31
+E-36,2009-03,3,martes,invierno,enfermedades del sistema genitourinario,3,50,18,media,1,0,13,118,244.387,98,no,si,no,98,178,31
+E-36,2009-03,3,miercoles,invierno,enfermedades del sistema musculoesqueletico,8,50,18,media,1,0,13,118,244.387,98,no,si,no,98,178,31
+E-01,2009-03,3,jueves,invierno,sin motivo registrado,0,37,14,posgrado,1,1,11,235,244.387,98,si,no,no,88,172,29
+E-24,2009-03,3,jueves,invierno,sin motivo registrado,0,41,16,media,0,0,25,246,244.387,98,si,si,no,67,170,23
+E-36,2009-03,3,jueves,invierno,sin motivo registrado,0,50,18,media,1,0,13,118,244.387,98,si,si,no,98,178,31
+E-03,2009-03,3,viernes,invierno,consulta dental,8,38,18,media,0,0,51,179,244.387,98,no,si,no,89,170,31
+E-11,2009-03,3,viernes,invierno,control medico posterior,8,33,13,media,2,1,36,289,244.387,98,no,si,no,90,172,30
+E-20,2009-03,3,lunes,invierno,lesiones y envenenamientos,8,36,11,media,4,0,50,260,244.387,98,no,si,no,65,168,23
+E-24,2009-03,3,martes,invierno,consulta dental,2,41,16,media,0,0,25,246,244.387,98,no,si,no,67,170,23
+E-03,2009-04,4,miercoles,invierno,consulta dental,4,38,18,media,0,0,51,179,239.409,98,no,si,no,89,170,31
+E-20,2009-04,4,viernes,invierno,consulta dental,3,36,11,media,4,0,50,260,239.409,98,no,si,no,65,168,23
+E-18,2009-04,4,viernes,invierno,ausencia injustificada,4,28,4,universitaria,0,0,16,330,239.409,98,no,no,no,84,182,25
+E-13,2009-04,4,lunes,invierno,control medico posterior,4,31,12,media,3,0,17,369,239.409,98,no,si,no,70,169,25
+E-33,2009-04,4,lunes,invierno,ausencia injustificada,4,47,14,media,2,1,25,248,239.409,98,no,no,no,86,165,32
+E-18,2009-04,4,miercoles,invierno,consulta medica,8,28,4,universitaria,0,0,16,330,239.409,98,no,no,no,84,182,25
+E-03,2009-04,4,miercoles,invierno,consulta dental,8,38,18,media,0,0,51,179,239.409,98,no,si,no,89,170,31
+E-36,2009-04,4,lunes,invierno,consulta medica,1,50,18,media,1,0,13,118,239.409,98,no,si,no,98,178,31
+E-36,2009-04,4,miercoles,invierno,enfermedades del sistema musculoesqueletico,120,50,18,media,1,0,13,118,239.409,98,no,si,no,98,178,31
+E-26,2009-04,4,viernes,invierno,consulta dental,8,43,13,media,2,1,26,300,239.409,98,no,si,si,77,175,25
+E-20,2009-04,4,viernes,invierno,consulta dental,4,36,11,media,4,0,50,260,239.409,98,no,si,no,65,168,23
+E-03,2009-04,4,lunes,invierno,consulta dental,4,38,18,media,0,0,51,179,239.409,98,no,si,no,89,170,31
+E-34,2009-04,4,miercoles,invierno,enfermedades del sistema digestivo,2,37,10,media,0,0,10,118,239.409,98,no,no,no,83,172,28
+E-05,2009-05,5,lunes,invierno,enfermedades del sistema musculoesqueletico,16,43,13,media,1,0,20,235,246.074,99,no,si,no,106,167,38
+E-33,2009-05,5,miercoles,invierno,consulta medica,2,47,14,media,2,1,25,248,246.074,99,no,no,no,86,165,32
+E-13,2009-05,5,lunes,invierno,enfermedades del sistema respiratorio,8,31,12,media,3,0,17,369,246.074,99,no,si,no,70,169,25
+E-22,2009-05,5,miercoles,invierno,consulta medica,3,30,9,posgrado,0,0,26,179,246.074,99,no,no,no,56,171,19
+E-03,2009-05,5,miercoles,invierno,consulta dental,4,38,18,media,0,0,51,179,246.074,99,no,si,no,89,170,31
+E-10,2009-05,5,jueves,invierno,consulta medica,1,28,3,media,1,4,52,361,246.074,99,no,si,no,80,172,27
+E-20,2009-05,5,viernes,invierno,consulta dental,3,36,11,media,4,0,50,260,246.074,99,no,si,no,65,168,23
+E-17,2009-05,5,lunes,invierno,enfermedades del sistema digestivo,2,40,17,universitaria,2,0,22,179,246.074,99,no,no,si,63,170,22
+E-17,2009-05,5,lunes,invierno,enfermedades del oido,3,40,17,universitaria,2,0,22,179,246.074,99,no,no,si,63,170,22
+E-09,2009-05,5,miercoles,invierno,sintomas no clasificados en otra parte,8,58,16,media,2,1,14,228,246.074,99,no,no,no,65,172,22
+E-28,2009-05,5,miercoles,invierno,examen de laboratorio,3,28,9,media,1,2,26,225,246.074,99,no,no,no,69,169,24
+E-18,2009-05,5,viernes,invierno,enfermedades del sistema musculoesqueletico,8,28,4,universitaria,0,0,16,330,246.074,99,no,no,no,84,182,25
+E-22,2009-05,5,lunes,invierno,examen de laboratorio,2,30,9,posgrado,0,0,26,179,246.074,99,no,no,no,56,171,19
+E-34,2009-05,5,lunes,invierno,consulta dental,1,37,10,media,0,0,10,118,246.074,99,no,no,no,83,172,28
+E-01,2009-05,5,lunes,invierno,enfermedades infecciosas y parasitarias,8,37,14,posgrado,1,1,11,235,246.074,99,no,no,no,88,172,29
+E-22,2009-05,5,miercoles,invierno,consulta medica,3,30,9,posgrado,0,0,26,179,246.074,99,no,no,no,56,171,19
+E-34,2009-06,6,lunes,invierno,consulta medica,3,37,10,media,0,0,10,118,253.957,95,no,no,no,83,172,28
+E-03,2009-06,6,lunes,invierno,consulta dental,3,38,18,media,0,0,51,179,253.957,95,no,si,no,89,170,31
+E-34,2009-06,6,martes,invierno,consulta dental,2,37,10,media,0,0,10,118,253.957,95,no,no,no,83,172,28
+E-28,2009-06,6,jueves,invierno,consulta medica,4,28,9,media,1,2,26,225,253.957,95,no,no,no,69,169,24
+E-20,2009-06,6,viernes,invierno,consulta dental,4,36,11,media,4,0,50,260,253.957,95,no,si,no,65,168,23
+E-03,2009-06,6,viernes,invierno,sin motivo registrado,0,38,18,media,0,0,51,179,253.957,95,si,si,no,89,170,31
+E-15,2009-06,6,lunes,invierno,enfermedades del sistema musculoesqueletico,40,40,12,media,1,1,31,291,253.957,95,no,si,no,73,171,25
+E-03,2009-06,6,lunes,invierno,consulta dental,24,38,18,media,0,0,51,179,253.957,95,no,si,no,89,170,31
+E-24,2009-06,6,martes,invierno,consulta dental,3,41,16,media,0,0,25,246,253.957,95,no,si,no,67,170,23
+E-03,2009-06,6,lunes,invierno,consulta dental,4,38,18,media,0,0,51,179,253.957,95,no,si,no,89,170,31
+E-05,2009-06,6,martes,invierno,ausencia injustificada,8,43,13,media,1,0,20,235,253.957,95,no,si,no,106,167,38
+E-03,2009-06,6,lunes,verano,consulta dental,2,38,18,media,0,0,51,179,253.957,95,no,si,no,89,170,31
+E-28,2009-06,6,miercoles,verano,consulta medica,2,28,9,media,1,2,26,225,253.957,95,no,no,no,69,169,24
+E-36,2009-06,6,miercoles,verano,consulta medica,2,50,18,media,1,0,13,118,253.957,95,no,si,no,98,178,31
+E-03,2009-06,6,miercoles,verano,trastornos mentales y del comportamiento,8,38,18,media,0,0,51,179,253.957,95,no,si,no,89,170,31
+E-22,2009-06,6,miercoles,verano,factores que influyen en el estado de salud,2,30,9,posgrado,0,0,26,179,253.957,95,no,no,no,56,171,19
+E-24,2009-06,6,viernes,verano,consulta dental,2,41,16,media,0,0,25,246,253.957,95,no,si,no,67,170,23
+E-18,2009-06,6,martes,verano,enfermedades del sistema digestivo,1,28,4,universitaria,0,0,16,330,253.957,95,no,no,no,84,182,25
+E-01,2009-06,6,martes,verano,enfermedades del sistema musculoesqueletico,8,37,14,posgrado,1,1,11,235,253.957,95,no,no,no,88,172,29
+E-22,2009-07,7,jueves,verano,consulta medica,2,30,9,posgrado,0,0,26,179,230.29,92,no,no,no,56,171,19
+E-28,2009-07,7,jueves,verano,examen de laboratorio,4,28,9,media,1,2,26,225,230.29,92,no,no,no,69,169,24
+E-20,2009-07,7,viernes,verano,enfermedades del sistema musculoesqueletico,8,36,11,media,4,0,50,260,230.29,92,no,si,no,65,168,23
+E-21,2009-07,7,lunes,verano,enfermedades de los ojos,8,33,8,universitaria,0,0,11,268,230.29,92,no,no,no,79,178,25
+E-18,2009-07,7,viernes,verano,examen de laboratorio,8,28,4,universitaria,0,0,16,330,230.29,92,no,no,no,84,182,25
+E-34,2009-07,7,viernes,verano,ausencia injustificada,8,37,10,media,0,0,10,118,230.29,92,no,no,no,83,172,28
+E-20,2009-07,7,lunes,verano,ausencia injustificada,4,36,11,media,4,0,50,260,230.29,92,no,si,no,65,168,23
+E-34,2009-07,7,martes,verano,consulta dental,8,37,10,media,0,0,10,118,230.29,92,no,no,no,83,172,28
+E-26,2009-07,7,lunes,verano,"embarazo, parto y puerperio",8,43,13,media,2,1,26,300,230.29,92,no,si,si,77,175,25
+E-02,2009-07,7,lunes,verano,consulta medica,1,48,12,media,1,5,29,235,230.29,92,no,no,si,88,163,33
+E-24,2009-07,7,martes,verano,consulta dental,2,41,16,media,0,0,25,246,230.29,92,no,si,no,67,170,23
+E-28,2009-07,7,martes,verano,enfermedades del sistema circulatorio,112,28,9,media,1,2,26,225,230.29,92,no,no,no,69,169,24
+E-03,2009-07,7,martes,verano,consulta dental,1,38,18,media,0,0,51,179,230.29,92,no,si,no,89,170,31
+E-36,2009-07,7,viernes,verano,consulta medica,1,50,18,media,1,0,13,118,230.29,92,no,si,no,98,178,31
+E-10,2009-07,7,viernes,verano,control medico posterior,8,28,3,media,1,4,52,361,230.29,92,no,si,no,80,172,27
+E-11,2009-07,7,lunes,verano,control medico posterior,8,33,13,media,2,1,36,289,230.29,92,no,si,no,90,172,30
+E-05,2009-07,7,lunes,verano,ausencia injustificada,8,43,13,media,1,0,20,235,230.29,92,no,si,no,106,167,38
+E-24,2009-07,7,martes,verano,consulta dental,2,41,16,media,0,0,25,246,230.29,92,no,si,no,67,170,23
+E-15,2009-07,7,jueves,verano,consulta dental,1,40,12,media,1,1,31,291,230.29,92,no,si,no,73,171,25
+E-07,2009-07,7,jueves,verano,consulta medica,2,39,14,media,2,0,5,279,230.29,92,no,si,si,68,168,24
+E-03,2009-08,8,jueves,verano,examen de laboratorio,4,38,18,media,0,0,51,179,249.797,93,no,si,no,89,170,31
+E-17,2009-08,8,lunes,verano,examen de laboratorio,1,40,17,universitaria,2,0,22,179,249.797,93,no,no,si,63,170,22
+E-24,2009-08,8,martes,verano,consulta dental,4,41,16,media,0,0,25,246,249.797,93,no,si,no,67,170,23
+E-34,2009-08,8,martes,verano,consulta dental,4,37,10,media,0,0,10,118,249.797,93,no,no,no,83,172,28
+E-11,2009-08,8,martes,verano,ausencia injustificada,8,33,13,media,2,1,36,289,249.797,93,no,si,no,90,172,30
+E-05,2009-08,8,martes,verano,ausencia injustificada,8,43,13,media,1,0,20,235,249.797,93,no,si,no,106,167,38
+E-15,2009-08,8,jueves,verano,consulta dental,4,40,12,media,1,1,31,291,249.797,93,no,si,no,73,171,25
+E-03,2009-08,8,lunes,verano,examen de laboratorio,4,38,18,media,0,0,51,179,249.797,93,no,si,no,89,170,31
+E-17,2009-08,8,martes,verano,examen de laboratorio,8,40,17,universitaria,2,0,22,179,249.797,93,no,no,si,63,170,22
+E-18,2009-08,8,jueves,verano,consulta medica,16,28,4,universitaria,0,0,16,330,249.797,93,no,no,no,84,182,25
+E-01,2009-08,8,martes,verano,consulta medica,4,37,14,posgrado,1,1,11,235,249.797,93,no,no,no,88,172,29
+E-24,2009-08,8,martes,verano,consulta dental,1,41,16,media,0,0,25,246,249.797,93,no,si,no,67,170,23
+E-34,2009-08,8,martes,verano,consulta dental,5,37,10,media,0,0,10,118,249.797,93,no,no,no,83,172,28
+E-15,2009-08,8,jueves,verano,consulta dental,2,40,12,media,1,1,31,291,249.797,93,no,si,no,73,171,25
+E-20,2009-08,8,lunes,verano,consulta dental,3,36,11,media,4,0,50,260,249.797,93,no,si,no,65,168,23
+E-24,2009-09,9,martes,verano,consulta dental,1,41,16,media,0,0,25,246,261.756,87,no,si,no,67,170,23
+E-24,2009-09,9,martes,verano,consulta dental,1,41,16,media,0,0,25,246,261.756,87,no,si,no,67,170,23
+E-34,2009-09,9,martes,verano,consulta dental,3,37,10,media,0,0,10,118,261.756,87,no,no,no,83,172,28
+E-14,2009-09,9,martes,verano,consulta medica,2,34,14,media,2,0,12,155,261.756,87,no,si,no,95,196,25
+E-15,2009-09,9,jueves,verano,consulta dental,2,40,12,media,1,1,31,291,261.756,87,no,si,no,73,171,25
+E-22,2009-09,9,viernes,verano,consulta medica,8,30,9,posgrado,0,0,26,179,261.756,87,no,no,no,56,171,19
+E-33,2009-09,9,viernes,verano,consulta medica,1,47,14,media,2,1,25,248,261.756,87,no,no,no,86,165,32
+E-03,2009-09,9,lunes,verano,consulta medica,4,38,18,media,0,0,51,179,261.756,87,no,si,no,89,170,31
+E-28,2009-09,9,miercoles,verano,consulta medica,1,28,9,media,1,2,26,225,261.756,87,no,no,no,69,169,24
+E-22,2009-09,9,lunes,verano,consulta medica,2,30,9,posgrado,0,0,26,179,261.756,87,no,no,no,56,171,19
+E-13,2009-09,9,martes,primavera,consulta medica,8,31,12,media,3,0,17,369,261.756,87,no,si,no,70,169,25
+E-10,2009-09,9,martes,primavera,control medico posterior,8,28,3,media,1,4,52,361,261.756,87,no,si,no,80,172,27
+E-32,2009-10,10,jueves,primavera,enfermedades endocrinas y metabolicas,1,49,29,media,0,2,48,289,284.853,91,no,no,no,108,172,36
+E-25,2009-10,10,jueves,primavera,enfermedades del sistema digestivo,3,32,8,posgrado,0,0,16,235,284.853,91,no,no,no,75,178,25
+E-24,2009-10,10,viernes,primavera,ausencia injustificada,8,41,16,media,0,0,25,246,284.853,91,no,si,no,67,170,23
+E-32,2009-10,10,miercoles,primavera,enfermedades del sistema genitourinario,3,49,29,media,0,2,48,289,284.853,91,no,no,no,108,172,36
+E-15,2009-10,10,miercoles,primavera,consulta dental,2,40,12,media,1,1,31,291,284.853,91,no,si,no,73,171,25
+E-34,2009-10,10,martes,primavera,consulta medica,2,37,10,media,0,0,10,118,284.853,91,no,no,no,83,172,28
+E-32,2009-10,10,jueves,primavera,consulta medica,2,49,29,media,0,2,48,289,284.853,91,no,no,no,108,172,36
+E-15,2009-10,10,viernes,primavera,consulta medica,1,40,12,media,1,1,31,291,284.853,91,no,si,no,73,171,25
+E-28,2009-10,10,martes,primavera,consulta medica,2,28,9,media,1,2,26,225,284.853,91,no,no,no,69,169,24
+E-13,2009-10,10,martes,primavera,consulta medica,8,31,12,media,3,0,17,369,284.853,91,no,si,no,70,169,25
+E-13,2009-10,10,martes,primavera,consulta medica,3,31,12,media,3,0,17,369,284.853,91,no,si,no,70,169,25
+E-28,2009-10,10,martes,primavera,consulta medica,4,28,9,media,1,2,26,225,284.853,91,no,no,no,69,169,24
+E-13,2009-10,10,martes,primavera,ausencia injustificada,8,31,12,media,3,0,17,369,284.853,91,no,si,no,70,169,25
+E-03,2009-10,10,miercoles,primavera,consulta dental,3,38,18,media,0,0,51,179,284.853,91,no,si,no,89,170,31
+E-09,2009-10,10,miercoles,primavera,enfermedades infecciosas y parasitarias,1,58,16,media,2,1,14,228,284.853,91,no,no,no,65,172,22
+E-15,2009-10,10,miercoles,primavera,consulta medica,1,40,12,media,1,1,31,291,284.853,91,no,si,no,73,171,25
+E-13,2009-10,10,jueves,primavera,enfermedades del sistema respiratorio,8,31,12,media,3,0,17,369,284.853,91,no,si,no,70,169,25
+E-28,2009-10,10,jueves,primavera,enfermedades del sistema musculoesqueletico,1,28,9,media,1,2,26,225,284.853,91,no,no,no,69,169,24
+E-13,2009-10,10,viernes,primavera,enfermedades del sistema respiratorio,8,31,12,media,3,0,17,369,284.853,91,no,si,no,70,169,25
+E-28,2009-10,10,viernes,primavera,enfermedades del sistema respiratorio,3,28,9,media,1,2,26,225,284.853,91,no,no,no,69,169,24
+E-06,2009-10,10,lunes,primavera,consulta medica,8,33,13,media,2,2,29,189,284.853,91,no,no,no,69,167,25
+E-25,2009-10,10,lunes,primavera,enfermedades del sistema nervioso,8,32,8,posgrado,0,0,16,235,284.853,91,no,no,no,75,178,25
+E-33,2009-10,10,lunes,primavera,enfermedades del sistema respiratorio,8,47,14,media,2,1,25,248,284.853,91,no,no,no,86,165,32
+E-28,2009-10,10,lunes,primavera,sin motivo registrado,0,28,9,media,1,2,26,225,284.853,91,si,no,no,69,169,24
+E-28,2009-10,10,martes,primavera,enfermedades del sistema musculoesqueletico,3,28,9,media,1,2,26,225,284.853,91,no,no,no,69,169,24
+E-03,2009-11,11,martes,primavera,factores que influyen en el estado de salud,1,38,18,media,0,0,51,179,268.519,93,no,si,no,89,170,31
+E-34,2009-11,11,miercoles,primavera,consulta dental,3,37,10,media,0,0,10,118,268.519,93,no,no,no,83,172,28
+E-18,2009-11,11,miercoles,primavera,tumores,24,28,4,universitaria,0,0,16,330,268.519,93,no,no,no,84,182,25
+E-03,2009-11,11,viernes,primavera,consulta dental,1,38,18,media,0,0,51,179,268.519,93,no,si,no,89,170,31
+E-34,2009-11,11,martes,primavera,enfermedades del sistema circulatorio,8,37,10,media,0,0,10,118,268.519,93,no,no,no,83,172,28
+E-11,2009-11,11,miercoles,primavera,donacion de sangre,8,33,13,media,2,1,36,289,268.519,93,no,si,no,90,172,30
+E-25,2009-11,11,viernes,primavera,enfermedades infecciosas y parasitarias,8,32,8,posgrado,0,0,16,235,268.519,93,no,no,no,75,178,25
+E-28,2009-11,11,viernes,primavera,consulta medica,4,28,9,media,1,2,26,225,268.519,93,no,no,no,69,169,24
+E-10,2009-11,11,martes,primavera,control medico posterior,8,28,3,media,1,4,52,361,268.519,93,no,si,no,80,172,27
+E-15,2009-11,11,miercoles,primavera,consulta dental,2,40,12,media,1,1,31,291,268.519,93,no,si,no,73,171,25
+E-34,2009-11,11,jueves,primavera,enfermedades del sistema musculoesqueletico,2,37,10,media,0,0,10,118,268.519,93,no,no,no,83,172,28
+E-28,2009-11,11,jueves,primavera,enfermedades del sistema genitourinario,3,28,9,media,1,2,26,225,268.519,93,no,no,no,69,169,24
+E-03,2009-11,11,lunes,primavera,consulta dental,1,38,18,media,0,0,51,179,268.519,93,no,si,no,89,170,31
+E-34,2009-11,11,lunes,primavera,consulta medica,8,37,10,media,0,0,10,118,268.519,93,no,no,no,83,172,28
+E-34,2009-11,11,martes,primavera,enfermedades del oido,8,37,10,media,0,0,10,118,268.519,93,no,no,no,83,172,28
+E-28,2009-11,11,martes,primavera,consulta medica,2,28,9,media,1,2,26,225,268.519,93,no,no,no,69,169,24
+E-15,2009-11,11,martes,primavera,sin motivo registrado,0,40,12,media,1,1,31,291,268.519,93,si,si,no,73,171,25
+E-11,2009-11,11,miercoles,primavera,sin motivo registrado,0,33,13,media,2,1,36,289,268.519,93,si,si,no,90,172,30
+E-33,2009-11,11,jueves,primavera,enfermedades del sistema genitourinario,4,47,14,media,2,1,25,248,268.519,93,no,no,no,86,165,32
+E-05,2009-11,11,jueves,primavera,sin motivo registrado,0,43,13,media,1,0,20,235,268.519,93,si,si,no,106,167,38
+E-28,2009-11,11,viernes,primavera,consulta medica,2,28,9,media,1,2,26,225,268.519,93,no,no,no,69,169,24
+E-13,2009-11,11,viernes,primavera,ausencia injustificada,8,31,12,media,3,0,17,369,268.519,93,no,si,no,70,169,25
+E-10,2009-11,11,lunes,primavera,consulta dental,2,28,3,media,1,4,52,361,268.519,93,no,si,no,80,172,27
+E-03,2009-12,12,martes,primavera,enfermedades del sistema musculoesqueletico,32,38,18,media,0,0,51,179,280.549,98,no,si,no,89,170,31
+E-15,2009-12,12,miercoles,primavera,consulta dental,1,40,12,media,1,1,31,291,280.549,98,no,si,no,73,171,25
+E-28,2009-12,12,miercoles,primavera,consulta medica,3,28,9,media,1,2,26,225,280.549,98,no,no,no,69,169,24
+E-22,2009-12,12,viernes,primavera,enfermedades del sistema musculoesqueletico,1,30,9,posgrado,0,0,26,179,280.549,98,no,no,no,56,171,19
+E-28,2009-12,12,viernes,primavera,consulta medica,3,28,9,media,1,2,26,225,280.549,98,no,no,no,69,169,24
+E-28,2009-12,12,miercoles,primavera,consulta medica,3,28,9,media,1,2,26,225,280.549,98,no,no,no,69,169,24
+E-10,2009-12,12,jueves,primavera,enfermedades del sistema genitourinario,4,28,3,media,1,4,52,361,280.549,98,no,si,no,80,172,27
+E-17,2009-12,12,viernes,primavera,sintomas no clasificados en otra parte,2,40,17,universitaria,2,0,22,179,280.549,98,no,no,si,63,170,22
+E-05,2009-12,12,viernes,primavera,ausencia injustificada,8,43,13,media,1,0,20,235,280.549,98,no,si,no,106,167,38
+E-12,2009-12,12,lunes,primavera,sintomas no clasificados en otra parte,8,31,1,universitaria,1,8,51,233,280.549,98,no,si,no,68,178,21
+E-22,2009-12,12,martes,primavera,enfermedades del sistema musculoesqueletico,16,30,9,posgrado,0,0,26,179,280.549,98,no,no,no,56,171,19
+E-28,2009-12,12,martes,primavera,consulta medica,2,28,9,media,1,2,26,225,280.549,98,no,no,no,69,169,24
+E-28,2009-12,12,jueves,primavera,consulta medica,3,28,9,media,1,2,26,225,280.549,98,no,no,no,69,169,24
+E-28,2009-12,12,lunes,primavera,consulta medica,2,28,9,media,1,2,26,225,280.549,98,no,no,no,69,169,24
+E-14,2009-12,12,martes,otonio,sintomas no clasificados en otra parte,80,34,14,media,2,0,12,155,280.549,98,no,si,no,95,196,25
+E-22,2010-01,1,lunes,otonio,enfermedades de la piel,24,30,9,posgrado,0,0,26,179,313.532,96,no,no,no,56,171,19
+E-22,2010-01,1,jueves,otonio,enfermedades de la piel,16,30,9,posgrado,0,0,26,179,313.532,96,no,no,no,56,171,19
+E-17,2010-01,1,jueves,otonio,examen de laboratorio,2,40,17,universitaria,2,0,22,179,313.532,96,no,no,si,63,170,22
+E-17,2010-01,1,viernes,otonio,examen de laboratorio,2,40,17,universitaria,2,0,22,179,313.532,96,no,no,si,63,170,22
+E-22,2010-01,1,lunes,otonio,enfermedades del sistema musculoesqueletico,3,30,9,posgrado,0,0,26,179,313.532,96,no,no,no,56,171,19
+E-17,2010-01,1,miercoles,otonio,examen de laboratorio,2,40,17,universitaria,2,0,22,179,313.532,96,no,no,si,63,170,22
+E-32,2010-01,1,jueves,otonio,enfermedades del sistema respiratorio,8,49,29,media,0,2,48,289,313.532,96,no,no,no,108,172,36
+E-17,2010-01,1,viernes,otonio,sintomas no clasificados en otra parte,3,40,17,universitaria,2,0,22,179,313.532,96,no,no,si,63,170,22
+E-22,2010-01,1,lunes,otonio,kinesiologia,2,30,9,posgrado,0,0,26,179,313.532,96,no,no,no,56,171,19
+E-14,2010-01,1,martes,otonio,sintomas no clasificados en otra parte,8,34,14,media,2,0,12,155,313.532,96,no,si,no,95,196,25
+E-22,2010-01,1,miercoles,otonio,kinesiologia,2,30,9,posgrado,0,0,26,179,313.532,96,no,no,no,56,171,19
+E-03,2010-01,1,miercoles,otonio,kinesiologia,3,38,18,media,0,0,51,179,313.532,96,no,si,no,89,170,31
+E-11,2010-01,1,miercoles,otonio,enfermedades del sistema musculoesqueletico,8,33,13,media,2,1,36,289,313.532,96,no,si,no,90,172,30
+E-03,2010-01,1,jueves,otonio,kinesiologia,3,38,18,media,0,0,51,179,313.532,96,no,si,no,89,170,31
+E-03,2010-01,1,viernes,otonio,kinesiologia,2,38,18,media,0,0,51,179,313.532,96,no,si,no,89,170,31
+E-03,2010-02,2,martes,otonio,enfermedades del sistema musculoesqueletico,8,38,18,media,0,0,51,179,264.249,97,no,si,no,89,170,31
+E-28,2010-02,2,martes,otonio,consulta medica,3,28,9,media,1,2,26,225,264.249,97,no,no,no,69,169,24
+E-33,2010-02,2,miercoles,otonio,enfermedades infecciosas y parasitarias,8,47,14,media,2,1,25,248,264.249,97,no,no,no,86,165,32
+E-03,2010-02,2,miercoles,otonio,kinesiologia,2,38,18,media,0,0,51,179,264.249,97,no,si,no,89,170,31
+E-28,2010-02,2,jueves,otonio,consulta dental,3,28,9,media,1,2,26,225,264.249,97,no,no,no,69,169,24
+E-03,2010-02,2,jueves,otonio,kinesiologia,2,38,18,media,0,0,51,179,264.249,97,no,si,no,89,170,31
+E-22,2010-02,2,jueves,otonio,kinesiologia,2,30,9,posgrado,0,0,26,179,264.249,97,no,no,no,56,171,19
+E-29,2010-02,2,viernes,otonio,consulta dental,2,41,15,magister o doctorado,2,2,15,225,264.249,97,no,si,no,94,182,28
+E-03,2010-02,2,viernes,otonio,kinesiologia,2,38,18,media,0,0,51,179,264.249,97,no,si,no,89,170,31
+E-12,2010-02,2,lunes,otonio,lesiones y envenenamientos,2,31,1,universitaria,1,8,51,233,264.249,97,no,si,no,68,178,21
+E-03,2010-02,2,lunes,otonio,kinesiologia,2,38,18,media,0,0,51,179,264.249,97,no,si,no,89,170,31
+E-28,2010-02,2,martes,otonio,enfermedades de los ojos,8,28,9,media,1,2,26,225,264.249,97,no,no,no,69,169,24
+E-03,2010-02,2,miercoles,otonio,kinesiologia,3,38,18,media,0,0,51,179,264.249,97,no,si,no,89,170,31
+E-03,2010-02,2,jueves,otonio,kinesiologia,3,38,18,media,0,0,51,179,264.249,97,no,si,no,89,170,31
+E-28,2010-02,2,jueves,otonio,examen de laboratorio,3,28,9,media,1,2,26,225,264.249,97,no,no,no,69,169,24
+E-22,2010-02,2,jueves,otonio,enfermedades del sistema musculoesqueletico,2,30,9,posgrado,0,0,26,179,264.249,97,no,no,no,56,171,19
+E-17,2010-02,2,viernes,otonio,consulta medica,2,40,17,universitaria,2,0,22,179,264.249,97,no,no,si,63,170,22
+E-03,2010-02,2,viernes,otonio,kinesiologia,3,38,18,media,0,0,51,179,264.249,97,no,si,no,89,170,31
+E-12,2010-02,2,miercoles,otonio,enfermedades de la piel,3,31,1,universitaria,1,8,51,233,264.249,97,no,si,no,68,178,21
+E-22,2010-02,2,miercoles,otonio,kinesiologia,2,30,9,posgrado,0,0,26,179,264.249,97,no,no,no,56,171,19
+E-03,2010-02,2,miercoles,otonio,kinesiologia,2,38,18,media,0,0,51,179,264.249,97,no,si,no,89,170,31
+E-03,2010-02,2,jueves,otonio,enfermedades del sistema musculoesqueletico,8,38,18,media,0,0,51,179,264.249,97,no,si,no,89,170,31
+E-03,2010-02,2,viernes,otonio,kinesiologia,2,38,18,media,0,0,51,179,264.249,97,no,si,no,89,170,31
+E-14,2010-02,2,lunes,otonio,examen de laboratorio,5,34,14,media,2,0,12,155,264.249,97,no,si,no,95,196,25
+E-25,2010-02,2,lunes,otonio,examen de laboratorio,3,32,8,posgrado,0,0,16,235,264.249,97,no,no,no,75,178,25
+E-03,2010-02,2,lunes,otonio,kinesiologia,2,38,18,media,0,0,51,179,264.249,97,no,si,no,89,170,31
+E-28,2010-02,2,lunes,otonio,enfermedades de los ojos,2,28,9,media,1,2,26,225,264.249,97,no,no,no,69,169,24
+E-03,2010-02,2,martes,otonio,kinesiologia,2,38,18,media,0,0,51,179,264.249,97,no,si,no,89,170,31
+E-33,2010-02,2,martes,otonio,consulta medica,2,47,14,media,2,1,25,248,264.249,97,no,no,no,86,165,32
+E-28,2010-02,2,martes,otonio,examen de laboratorio,2,28,9,media,1,2,26,225,264.249,97,no,no,no,69,169,24
+E-03,2010-02,2,miercoles,otonio,kinesiologia,2,38,18,media,0,0,51,179,264.249,97,no,si,no,89,170,31
+E-03,2010-02,2,jueves,otonio,kinesiologia,2,38,18,media,0,0,51,179,264.249,97,no,si,no,89,170,31
+E-25,2010-02,2,viernes,otonio,examen de laboratorio,2,32,8,posgrado,0,0,16,235,264.249,97,no,no,no,75,178,25
+E-03,2010-03,3,lunes,otonio,kinesiologia,2,38,18,media,0,0,51,179,222.196,99,no,si,no,89,170,31
+E-33,2010-03,3,lunes,otonio,consulta medica,2,47,14,media,2,1,25,248,222.196,99,no,no,no,86,165,32
+E-09,2010-03,3,martes,otonio,examen de laboratorio,3,58,16,media,2,1,14,228,222.196,99,no,no,no,65,172,22
+E-33,2010-03,3,martes,otonio,examen de laboratorio,3,47,14,media,2,1,25,248,222.196,99,no,no,no,86,165,32
+E-09,2010-03,3,martes,otonio,enfermedades de la piel,112,58,16,media,2,1,14,228,222.196,99,no,no,no,65,172,22
+E-03,2010-03,3,miercoles,otonio,kinesiologia,2,38,18,media,0,0,51,179,222.196,99,no,si,no,89,170,31
+E-28,2010-03,3,jueves,otonio,kinesiologia,2,28,9,media,1,2,26,225,222.196,99,no,no,no,69,169,24
+E-03,2010-03,3,jueves,otonio,kinesiologia,3,38,18,media,0,0,51,179,222.196,99,no,si,no,89,170,31
+E-28,2010-03,3,jueves,otonio,examen de laboratorio,2,28,9,media,1,2,26,225,222.196,99,no,no,no,69,169,24
+E-22,2010-03,3,viernes,otonio,kinesiologia,3,30,9,posgrado,0,0,26,179,222.196,99,no,no,no,56,171,19
+E-25,2010-03,3,lunes,otonio,examen de laboratorio,3,32,8,posgrado,0,0,16,235,222.196,99,no,no,no,75,178,25
+E-10,2010-03,3,lunes,otonio,lesiones y envenenamientos,8,28,3,media,1,4,52,361,222.196,99,no,si,no,80,172,27
+E-03,2010-03,3,martes,otonio,enfermedades del sistema musculoesqueletico,8,38,18,media,0,0,51,179,222.196,99,no,si,no,89,170,31
+E-03,2010-03,3,miercoles,otonio,kinesiologia,2,38,18,media,0,0,51,179,222.196,99,no,si,no,89,170,31
+E-03,2010-03,3,jueves,otonio,kinesiologia,3,38,18,media,0,0,51,179,222.196,99,no,si,no,89,170,31
+E-22,2010-03,3,viernes,otonio,kinesiologia,2,30,9,posgrado,0,0,26,179,222.196,99,no,no,no,56,171,19
+E-03,2010-03,3,lunes,otonio,enfermedades del sistema respiratorio,4,38,18,media,0,0,51,179,222.196,99,no,si,no,89,170,31
+E-33,2010-03,3,lunes,otonio,enfermedades del sistema musculoesqueletico,2,47,14,media,2,1,25,248,222.196,99,no,no,no,86,165,32
+E-03,2010-03,3,lunes,otonio,kinesiologia,3,38,18,media,0,0,51,179,222.196,99,no,si,no,89,170,31
+E-28,2010-03,3,lunes,otonio,enfermedades de los ojos,8,28,9,media,1,2,26,225,222.196,99,no,no,no,69,169,24
+E-03,2010-03,3,martes,otonio,kinesiologia,2,38,18,media,0,0,51,179,222.196,99,no,si,no,89,170,31
+E-11,2010-03,3,miercoles,otonio,consulta medica,8,33,13,media,2,1,36,289,222.196,99,no,si,no,90,172,30
+E-09,2010-03,3,miercoles,otonio,examen de laboratorio,2,58,16,media,2,1,14,228,222.196,99,no,no,no,65,172,22
+E-03,2010-03,3,miercoles,otonio,kinesiologia,2,38,18,media,0,0,51,179,222.196,99,no,si,no,89,170,31
+E-33,2010-03,3,jueves,otonio,consulta medica,3,47,14,media,2,1,25,248,222.196,99,no,no,no,86,165,32
+E-03,2010-03,3,jueves,otonio,kinesiologia,3,38,18,media,0,0,51,179,222.196,99,no,si,no,89,170,31
+E-22,2010-03,3,viernes,otonio,consulta medica,2,30,9,posgrado,0,0,26,179,222.196,99,no,no,no,56,171,19
+E-03,2010-03,3,viernes,otonio,kinesiologia,3,38,18,media,0,0,51,179,222.196,99,no,si,no,89,170,31
+E-03,2010-03,3,martes,invierno,kinesiologia,3,38,18,media,0,0,51,179,222.196,99,no,si,no,89,170,31
+E-16,2010-03,3,miercoles,invierno,consulta medica,8,46,24,media,2,0,15,118,222.196,99,no,si,si,75,175,25
+E-14,2010-03,3,miercoles,invierno,enfermedades del sistema musculoesqueletico,24,34,14,media,2,0,12,155,222.196,99,no,si,no,95,196,25
+E-03,2010-03,3,miercoles,invierno,kinesiologia,3,38,18,media,0,0,51,179,222.196,99,no,si,no,89,170,31
+E-03,2010-03,3,jueves,invierno,kinesiologia,3,38,18,media,0,0,51,179,222.196,99,no,si,no,89,170,31
+E-22,2010-03,3,lunes,invierno,enfermedades del sistema musculoesqueletico,2,30,9,posgrado,0,0,26,179,222.196,99,no,no,no,56,171,19
+E-11,2010-03,3,lunes,invierno,lesiones y envenenamientos,104,33,13,media,2,1,36,289,222.196,99,no,si,no,90,172,30
+E-13,2010-03,3,miercoles,invierno,control medico posterior,8,31,12,media,3,0,17,369,222.196,99,no,si,no,70,169,25
+E-28,2010-04,4,lunes,invierno,enfermedades del sistema musculoesqueletico,8,28,9,media,1,2,26,225,246.288,91,no,no,no,69,169,24
+E-34,2010-04,4,lunes,invierno,enfermedades del sistema respiratorio,8,37,10,media,0,0,10,118,246.288,91,no,no,no,83,172,28
+E-10,2010-04,4,martes,invierno,lesiones y envenenamientos,8,28,3,media,1,4,52,361,246.288,91,no,si,no,80,172,27
+E-33,2010-04,4,miercoles,invierno,lesiones y envenenamientos,8,47,14,media,2,1,25,248,246.288,91,no,no,no,86,165,32
+E-06,2010-04,4,jueves,invierno,enfermedades del sistema musculoesqueletico,8,33,13,media,2,2,29,189,246.288,91,no,no,no,69,167,25
+E-22,2010-04,4,viernes,invierno,kinesiologia,2,30,9,posgrado,0,0,26,179,246.288,91,no,no,no,56,171,19
+E-13,2010-04,4,lunes,invierno,enfermedades de los ojos,24,31,12,media,3,0,17,369,246.288,91,no,si,no,70,169,25
+E-17,2010-04,4,martes,invierno,afecciones del periodo perinatal,2,40,17,universitaria,2,0,22,179,246.288,91,no,no,si,63,170,22
+E-36,2010-04,4,martes,invierno,consulta medica,3,50,18,media,1,0,13,118,246.288,91,no,si,no,98,178,31
+E-10,2010-04,4,martes,invierno,consulta medica,2,28,3,media,1,4,52,361,246.288,91,no,si,no,80,172,27
+E-34,2010-04,4,miercoles,invierno,enfermedades del sistema respiratorio,2,37,10,media,0,0,10,118,246.288,91,no,no,no,83,172,28
+E-01,2010-04,4,viernes,invierno,control medico posterior,8,37,14,posgrado,1,1,11,235,246.288,91,no,no,no,88,172,29
+E-22,2010-04,4,viernes,invierno,kinesiologia,2,30,9,posgrado,0,0,26,179,246.288,91,no,no,no,56,171,19
+E-28,2010-04,4,lunes,invierno,lesiones y envenenamientos,8,28,9,media,1,2,26,225,246.288,91,no,no,no,69,169,24
+E-25,2010-04,4,martes,invierno,afecciones del periodo perinatal,3,32,8,posgrado,0,0,16,235,246.288,91,no,no,no,75,178,25
+E-22,2010-04,4,viernes,invierno,kinesiologia,2,30,9,posgrado,0,0,26,179,246.288,91,no,no,no,56,171,19
+E-14,2010-04,4,martes,invierno,consulta dental,4,34,14,media,2,0,12,155,246.288,91,no,si,no,95,196,25
+E-28,2010-04,4,jueves,invierno,lesiones y envenenamientos,8,28,9,media,1,2,26,225,246.288,91,no,no,no,69,169,24
+E-36,2010-04,4,jueves,invierno,enfermedades del sistema genitourinario,2,50,18,media,1,0,13,118,246.288,91,no,si,no,98,178,31
+E-22,2010-04,4,viernes,invierno,kinesiologia,2,30,9,posgrado,0,0,26,179,246.288,91,no,no,no,56,171,19
+E-01,2010-05,5,lunes,invierno,control medico posterior,8,37,14,posgrado,1,1,11,235,237.656,99,no,no,no,88,172,29
+E-29,2010-05,5,miercoles,invierno,lesiones y envenenamientos,3,41,15,magister o doctorado,2,2,15,225,237.656,99,no,si,no,94,182,28
+E-25,2010-05,5,miercoles,invierno,consulta dental,2,32,8,posgrado,0,0,16,235,237.656,99,no,no,no,75,178,25
+E-34,2010-05,5,miercoles,invierno,enfermedades del oido,3,37,10,media,0,0,10,118,237.656,99,no,no,no,83,172,28
+E-05,2010-05,5,miercoles,invierno,ausencia injustificada,8,43,13,media,1,0,20,235,237.656,99,no,si,no,106,167,38
+E-22,2010-05,5,jueves,invierno,enfermedades del sistema musculoesqueletico,1,30,9,posgrado,0,0,26,179,237.656,99,no,no,no,56,171,19
+E-15,2010-05,5,jueves,invierno,consulta dental,2,40,12,media,1,1,31,291,237.656,99,no,si,no,73,171,25
+E-29,2010-05,5,jueves,invierno,enfermedades del sistema genitourinario,8,41,15,magister o doctorado,2,2,15,225,237.656,99,no,si,no,94,182,28
+E-26,2010-05,5,viernes,invierno,lesiones y envenenamientos,64,43,13,media,2,1,26,300,237.656,99,no,si,si,77,175,25
+E-29,2010-05,5,viernes,invierno,control medico posterior,8,41,15,magister o doctorado,2,2,15,225,237.656,99,no,si,no,94,182,28
+E-22,2010-05,5,viernes,invierno,kinesiologia,2,30,9,posgrado,0,0,26,179,237.656,99,no,no,no,56,171,19
+E-36,2010-05,5,lunes,invierno,consulta medica,2,50,18,media,1,0,13,118,237.656,99,no,si,no,98,178,31
+E-36,2010-05,5,martes,invierno,trastornos mentales y del comportamiento,3,50,18,media,1,0,13,118,237.656,99,no,si,no,98,178,31
+E-34,2010-05,5,martes,invierno,consulta dental,1,37,10,media,0,0,10,118,237.656,99,no,no,no,83,172,28
+E-36,2010-05,5,martes,invierno,sin motivo registrado,0,50,18,media,1,0,13,118,237.656,99,si,si,no,98,178,31
+E-22,2010-05,5,miercoles,invierno,kinesiologia,2,30,9,posgrado,0,0,26,179,237.656,99,no,no,no,56,171,19
+E-23,2010-05,5,miercoles,invierno,sin motivo registrado,0,36,11,media,2,4,49,378,237.656,99,si,no,si,65,174,21
+E-17,2010-05,5,viernes,invierno,afecciones del periodo perinatal,1,40,17,universitaria,2,0,22,179,237.656,99,no,no,si,63,170,22
+E-14,2010-05,5,lunes,invierno,enfermedades del sistema respiratorio,48,34,14,media,2,0,12,155,237.656,99,no,si,no,95,196,25
+E-25,2010-05,5,lunes,invierno,enfermedades del sistema respiratorio,8,32,8,posgrado,0,0,16,235,237.656,99,no,no,no,75,178,25
+E-15,2010-05,5,miercoles,invierno,control medico posterior,8,40,12,media,1,1,31,291,237.656,99,no,si,no,73,171,25
+E-17,2010-05,5,miercoles,invierno,enfermedades del sistema respiratorio,8,40,17,universitaria,2,0,22,179,237.656,99,no,no,si,63,170,22
+E-28,2010-05,5,miercoles,invierno,enfermedades del sistema nervioso,3,28,9,media,1,2,26,225,237.656,99,no,no,no,69,169,24
+E-18,2010-05,5,jueves,invierno,enfermedades del sistema respiratorio,8,28,4,universitaria,0,0,16,330,237.656,99,no,no,no,84,182,25
+E-25,2010-05,5,jueves,invierno,consulta medica,2,32,8,posgrado,0,0,16,235,237.656,99,no,no,no,75,178,25
+E-15,2010-05,5,jueves,invierno,consulta dental,2,40,12,media,1,1,31,291,237.656,99,no,si,no,73,171,25
+E-22,2010-05,5,viernes,invierno,kinesiologia,2,30,9,posgrado,0,0,26,179,237.656,99,no,no,no,56,171,19
+E-10,2010-05,5,lunes,invierno,enfermedades de los ojos,8,28,3,media,1,4,52,361,237.656,99,no,si,no,80,172,27
+E-14,2010-05,5,miercoles,invierno,consulta medica,2,34,14,media,2,0,12,155,237.656,99,no,si,no,95,196,25
+E-17,2010-05,5,viernes,invierno,examen de laboratorio,8,40,17,universitaria,2,0,22,179,237.656,99,no,no,si,63,170,22
+E-14,2010-05,5,viernes,invierno,enfermedades del sistema respiratorio,8,34,14,media,2,0,12,155,237.656,99,no,si,no,95,196,25
+E-28,2010-05,5,lunes,invierno,enfermedades del sistema digestivo,1,28,9,media,1,2,26,225,237.656,99,no,no,no,69,169,24
+E-16,2010-06,6,miercoles,invierno,enfermedades de los ojos,8,46,24,media,2,0,15,118,275.089,96,no,si,si,75,175,25
+E-22,2010-06,6,miercoles,invierno,kinesiologia,3,30,9,posgrado,0,0,26,179,275.089,96,no,no,no,56,171,19
+E-34,2010-06,6,viernes,invierno,ausencia injustificada,8,37,10,media,0,0,10,118,275.089,96,no,no,no,83,172,28
+E-34,2010-06,6,miercoles,invierno,enfermedades del sistema respiratorio,8,37,10,media,0,0,10,118,275.089,96,no,no,no,83,172,28
+E-23,2010-06,6,jueves,invierno,control medico posterior,8,36,11,media,2,4,49,378,275.089,96,no,no,si,65,174,21
+E-36,2010-06,6,jueves,invierno,lesiones y envenenamientos,24,50,18,media,1,0,13,118,275.089,96,no,si,no,98,178,31
+E-12,2010-06,6,viernes,invierno,lesiones y envenenamientos,8,31,1,universitaria,1,8,51,233,275.089,96,no,si,no,68,178,21
+E-22,2010-06,6,viernes,invierno,kinesiologia,2,30,9,posgrado,0,0,26,179,275.089,96,no,no,no,56,171,19
+E-02,2010-06,6,lunes,invierno,sin motivo registrado,0,48,12,media,1,5,29,235,275.089,96,si,no,si,88,163,33
+E-21,2010-06,6,lunes,invierno,sin motivo registrado,0,33,8,universitaria,0,0,11,268,275.089,96,si,no,no,79,178,25
+E-36,2010-06,6,jueves,invierno,lesiones y envenenamientos,3,50,18,media,1,0,13,118,275.089,96,no,si,no,98,178,31
+E-22,2010-06,6,jueves,invierno,enfermedades del sistema musculoesqueletico,2,30,9,posgrado,0,0,26,179,275.089,96,no,no,no,56,171,19
+E-15,2010-06,6,jueves,invierno,consulta dental,2,40,12,media,1,1,31,291,275.089,96,no,si,no,73,171,25
+E-22,2010-06,6,lunes,verano,enfermedades del sistema musculoesqueletico,3,30,9,posgrado,0,0,26,179,275.089,96,no,no,no,56,171,19
+E-34,2010-06,6,lunes,verano,examen de laboratorio,3,37,10,media,0,0,10,118,275.089,96,no,no,no,83,172,28
+E-12,2010-06,6,jueves,verano,control medico posterior,8,31,1,universitaria,1,8,51,233,275.089,96,no,si,no,68,178,21
+E-34,2010-06,6,viernes,verano,enfermedades del oido,2,37,10,media,0,0,10,118,275.089,96,no,no,no,83,172,28
+E-34,2010-06,6,miercoles,verano,enfermedades del sistema respiratorio,3,37,10,media,0,0,10,118,275.089,96,no,no,no,83,172,28
+E-12,2010-06,6,miercoles,verano,control medico posterior,3,31,1,universitaria,1,8,51,233,275.089,96,no,si,no,68,178,21
+E-05,2010-07,7,miercoles,verano,ausencia injustificada,4,43,13,media,1,0,20,235,264.604,93,no,si,no,106,167,38
+E-12,2010-07,7,viernes,verano,lesiones y envenenamientos,2,31,1,universitaria,1,8,51,233,264.604,93,no,si,no,68,178,21
+E-09,2010-07,7,lunes,verano,enfermedades del sistema nervioso,8,58,16,media,2,1,14,228,264.604,93,no,no,no,65,172,22
+E-34,2010-07,7,lunes,verano,consulta dental,4,37,10,media,0,0,10,118,264.604,93,no,no,no,83,172,28
+E-09,2010-07,7,martes,verano,enfermedades del sistema nervioso,120,58,16,media,2,1,14,228,264.604,93,no,no,no,65,172,22
+E-06,2010-07,7,martes,verano,control medico posterior,16,33,13,media,2,2,29,189,264.604,93,no,no,no,69,167,25
+E-34,2010-07,7,miercoles,verano,consulta medica,2,37,10,media,0,0,10,118,264.604,93,no,no,no,83,172,28
+E-10,2010-07,7,miercoles,verano,control medico posterior,8,28,3,media,1,4,52,361,264.604,93,no,si,no,80,172,27
+E-28,2010-07,7,miercoles,verano,control medico posterior,8,28,9,media,1,2,26,225,264.604,93,no,no,no,69,169,24
+E-13,2010-07,7,lunes,verano,enfermedades del sistema musculoesqueletico,80,31,12,media,3,0,17,369,264.604,93,no,si,no,70,169,25
+E-11,2010-07,7,martes,verano,enfermedades del sistema genitourinario,8,33,13,media,2,1,36,289,264.604,93,no,si,no,90,172,30
+E-01,2010-07,7,martes,verano,enfermedades del sistema digestivo,4,37,14,posgrado,1,1,11,235,264.604,93,no,no,no,88,172,29
+E-04,,0,martes,verano,sin motivo registrado,0,40,13,media,1,8,14,118,271.219,95,no,si,no,98,170,34
+E-08,,0,miercoles,otonio,sin motivo registrado,0,39,14,media,2,2,35,231,271.219,95,no,si,no,100,170,35
+E-35,,0,viernes,invierno,sin motivo registrado,0,53,14,media,1,1,45,179,271.219,95,no,no,no,77,175,25
