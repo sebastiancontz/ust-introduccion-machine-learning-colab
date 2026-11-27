@@ -1,0 +1,613 @@
+id_factura,rut_cliente,razon_social,segmento,region,ejecutivo,prioridad_cobranza,fecha_emision,fecha_vencimiento,fecha_pago,dias_credito,monto_neto,monto_total,tasa_morosidad_cartera,estado_cobranza,monto_gestion_cobranza,dias_atraso
+F-0082,64.538.186-6,Distribuidora Cordillera,corporativo,Los Lagos,C. Peña,baja,2025-03-30,2025-05-29,2025-05-29,60,1543000,1836170,"5,7",pagada al día,0,0
+F-0219,61.842.713-7,Distribuidora Central,pyme,Metropolitana,C. Peña,media,2025-09-16,2025-10-16,2025-10-25,30,357000,424830,"3,1",pagada con atraso,7140,9
+F-0056,75.567.645-4,Ingeniería Araucanía,pyme,Metropolitana,C. Peña,baja,2025-12-17,2026-01-16,2026-01-16,30,256000,304640,"3,9",pagada al día,0,0
+F-0001,67.409.188-5,Comercial Central,pyme,Antofagasta,M. Fuentes,media,2025-02-12,2025-03-14,2025-03-20,30,255000,303450,"2,7",pagada con atraso,5100,6
+F-0265,73.729.559-1,Transportes del Sur,pyme,Metropolitana,C. Peña,baja,2025-08-21,2025-09-20,2025-10-08,30,1106000,1316140,"6,1",pagada con atraso,22120,18
+F-0156,69.007.690-K,Distribuidora Pacífico,corporativo,Metropolitana,J. Salas,baja,2025-04-21,2025-05-21,2025-05-21,30,197000,234430,"6,2",pagada al día,0,0
+F-0484,63.892.768-3,Comercial Pacífico,pyme,Biobío,C. Peña,alta,2025-04-06,2025-05-06,2025-05-18,30,797000,948430,"6,2",pagada con atraso,15940,12
+F-0322,73.660.964-9,Ingeniería Pacífico,corporativo,Metropolitana,C. Peña,baja,2025-01-20,2025-02-19,2025-03-05,30,665000,791350,"5,5",pagada con atraso,13300,14
+F-0583,79.413.925-3,Servicios Aconcagua,corporativo,Los Lagos,M. Fuentes,baja,2025-09-21,2025-10-21,2025-10-21,30,386000,459340,"3,1",pagada al día,0,0
+F-0292,61.358.397-1,Servicios Cordillera,gobierno,Valparaíso,A. Rojas,baja,2025-02-23,2025-03-25,2025-04-19,30,150000,178500,"2,7",pagada con atraso,3000,25
+F-0239,66.516.501-9,Distribuidora Araucanía,corporativo,Biobío,C. Peña,baja,2025-12-30,2026-01-29,2026-02-09,30,305000,362950,"3,9",pagada con atraso,6100,11
+F-0251,74.867.501-9,Transportes Cordillera,pyme,Metropolitana,M. Fuentes,baja,2025-01-30,2025-03-31,2025-03-31,60,470000,559300,"5,5",pagada al día,0,0
+F-0197,73.947.308-K,Transportes Central,pyme,Metropolitana,P. Vergara,baja,2025-06-26,2025-07-26,2025-08-13,30,426000,506940,"4,2",pagada con atraso,8520,18
+F-0395,74.349.497-0,Distribuidora del Sur,pyme,Biobío,C. Peña,baja,2025-08-24,2025-10-23,2025-11-07,60,1612000,1918280,"6,1",pagada con atraso,32240,15
+F-0291,70.529.542-5,Comercial del Sur,corporativo,Antofagasta,J. Salas,baja,2025-10-11,2025-11-10,2025-11-10,30,153000,182070,"3,5",pagada al día,0,0
+F-0321,68.913.734-2,Comercial Norte Grande,pyme,Los Lagos,J. Salas,media,2025-09-21,2025-10-21,2025-10-21,30,425000,505750,"3,1",pagada al día,0,0
+F-0548,62.562.264-6,Servicios Aconcagua,pyme,Metropolitana,A. Rojas,media,2025-10-05,2025-11-04,2025-11-04,30,644000,766360,"3,5",pagada al día,0,0
+F-0526,75.222.742-K,Servicios Cordillera,pyme,Metropolitana,M. Fuentes,media,2025-08-14,2025-09-13,2025-09-18,30,313000,372470,"6,1",pagada con atraso,6260,5
+F-0011,73.558.357-3,Distribuidora Pacífico,gobierno,Biobío,A. Rojas,alta,2025-06-14,2025-07-14,2025-08-10,30,1001000,1191190,"4,2",pagada con atraso,20020,27
+F-0003,76.455.187-7,Ingeniería Aconcagua,pyme,Valparaíso,M. Fuentes,baja,2025-07-21,2025-08-20,2025-09-09,30,554000,659260,"6,6",pagada con atraso,11080,20
+F-0193,65.535.181-7,Transportes Pacífico,gobierno,Metropolitana,P. Vergara,media,2025-09-29,2025-10-29,2025-11-21,30,1067000,1269730,"3,1",pagada con atraso,21340,23
+F-0228,77.757.755-7,Comercial del Sur,pyme,Biobío,C. Peña,baja,2025-11-07,2026-02-05,2026-02-27,90,835000,993650,"5,7",pagada con atraso,16700,22
+F-0430,73.660.964-9,Ingeniería Pacífico,corporativo,Metropolitana,C. Peña,alta,2025-09-20,2025-10-20,2025-10-20,30,2960000,3522400,"3,1",pagada al día,0,0
+F-0177,69.007.690-K,Distribuidora Pacífico,corporativo,Metropolitana,J. Salas,media,2025-07-21,2025-08-20,2025-09-02,30,465000,553350,"6,6",pagada con atraso,9300,13
+F-0132,70.264.498-4,Transportes Aconcagua,pyme,Antofagasta,A. Rojas,baja,2025-01-16,2025-03-17,2025-04-06,60,1715000,2040850,"5,5",pagada con atraso,34300,20
+F-0384,60.876.074-1,Transportes del Sur,pyme,Valparaíso,M. Fuentes,baja,2025-03-15,2025-04-14,2025-04-25,30,599000,712810,"5,7",pagada con atraso,11980,11
+F-0473,68.777.534-1,Transportes Pacífico,gobierno,Metropolitana,P. Vergara,media,2025-05-07,2025-06-06,2025-07-05,30,785000,934150,"5,9",pagada con atraso,15700,29
+F-0164,60.876.074-1,Transportes del Sur,pyme,Valparaíso,M. Fuentes,baja,2025-02-11,2025-03-13,2025-03-24,30,1658000,1973020,"2,7",pagada con atraso,33160,11
+F-0300,68.868.260-6,Comercial Andes,gobierno,Metropolitana,P. Vergara,baja,2025-12-29,2026-03-29,2026-05-17,90,543000,646170,"3,9",en gestión judicial,10860,49
+F-0261,78.535.246-7,Constructora Aconcagua,corporativo,Metropolitana,C. Peña,baja,2025-04-19,2025-05-19,2025-05-30,30,1211000,1441090,"6,2",pagada con atraso,24220,11
+F-0105,63.304.574-7,Transportes Central,pyme,Metropolitana,J. Salas,alta,2025-04-05,2025-05-05,2025-05-12,30,762000,906780,"6,2",pagada con atraso,15240,7
+F-0211,73.947.308-K,Transportes Central,pyme,Metropolitana,M. Fuentes,media,2025-02-03,2025-03-05,2025-01-28,30,617000,734230,"2,7",pagada al día,0,0
+F-0078,61.842.713-7,Distribuidora Central,pyme,Metropolitana,C. Peña,media,2025-08-27,2025-09-26,2025-09-26,30,789000,938910,"6,1",pagada al día,0,0
+F-0378,63.892.768-3,Comercial Pacífico,pyme,Biobío,C. Peña,media,2025-02-25,2025-03-27,2025-04-14,30,927000,1103130,"2,7",pagada con atraso,18540,18
+F-0545,74.010.432-2,Ingeniería Aconcagua,corporativo,Valparaíso,M. Fuentes,media,2025-11-02,2026-01-01,2026-01-01,60,523000,622370,"5,7",pagada al día,0,0
+F-0425,63.650.981-7,Comercial Central,pyme,Metropolitana,C. Peña,baja,2025-03-19,2025-06-17,2025-06-30,90,496000,590240,"5,7",pagada con atraso,9920,13
+F-0594,73.660.964-9,Ingeniería Pacífico,corporativo,Metropolitana,C. Peña,baja,2025-10-11,2025-11-10,2025-11-18,30,766000,911540,"3,5",pagada con atraso,15320,8
+F-0205,74.010.432-2,Ingeniería Aconcagua,corporativo,Valparaíso,M. Fuentes,baja,2025-08-09,2025-09-08,2025-09-08,30,1537000,1829030,"6,1",pagada al día,0,0
+F-0362,61.276.342-9,Ingeniería Norte Grande,pyme,Los Lagos,C. Peña,baja,2025-01-06,2025-02-05,2025-02-19,30,1918000,2282420,"5,5",pagada con atraso,38360,14
+F-0031,75.567.645-4,Ingeniería Araucanía,pyme,Metropolitana,M. Fuentes,baja,2025-01-23,2025-03-24,2025-03-24,60,204000,242760,"5,5",pagada al día,0,0
+F-0568,61.718.906-2,Constructora del Sur,corporativo,Metropolitana,A. Rojas,baja,2025-06-01,2025-07-01,2025-07-01,30,465000,553350,"4,2",pagada al día,0,0
+F-0451,75.721.234-K,Servicios Norte Grande,corporativo,Antofagasta,P. Vergara,media,2025-05-05,2025-07-04,2025-07-05,60,553000,658070,"5,9",pagada con atraso,11060,1
+F-0381,68.048.265-9,Distribuidora Andes,pyme,Antofagasta,C. Peña,baja,2025-04-08,2025-05-08,2025-05-08,30,435000,517650,"6,2",pagada al día,0,0
+F-0356,68.777.534-1,Transportes Pacífico,gobierno,Metropolitana,P. Vergara,baja,2025-12-25,2026-02-23,2026-03-09,60,167000,198730,"3,9",pagada con atraso,3340,14
+F-0102,77.165.787-7,Distribuidora Pacífico,corporativo,Metropolitana,P. Vergara,baja,2025-12-30,2026-02-28,2026-03-01,60,683000,812770,"3,9",pagada con atraso,13660,1
+F-0015,69.009.168-2,Transportes Araucanía,pyme,Antofagasta,M. Fuentes,baja,2025-07-15,2025-08-14,2025-08-21,30,2977000,3542630,"6,6",pagada con atraso,59540,7
+F-0196,61.842.713-7,Distribuidora Central,pyme,Metropolitana,C. Peña,media,2025-12-06,2026-01-05,2026-01-18,30,726000,863940,"3,9",pagada con atraso,14520,13
+F-0245,69.955.817-6,Transportes Araucanía,corporativo,Metropolitana,J. Salas,alta,2025-07-23,2025-08-22,2025-08-22,30,300000,357000,"6,6",pagada al día,0,0
+F-0071,73.396.278-K,Servicios Central,corporativo,Metropolitana,C. Peña,media,2025-04-23,2025-05-23,2025-05-23,30,233000,277270,"6,2",pagada al día,0,0
+F-0235,75.161.724-0,Transportes Andes,corporativo,Valparaíso,A. Rojas,alta,2025-06-17,2025-08-16,2025-08-24,60,1505000,1790950,"4,2",pagada con atraso,30100,8
+F-0508,75.222.742-K,Servicios Cordillera,pyme,Metropolitana,M. Fuentes,media,2025-12-26,2026-01-25,2026-02-13,30,94000,111860,"3,9",pagada con atraso,1880,19
+F-0154,68.868.260-6,Comercial Andes,gobierno,Metropolitana,P. Vergara,baja,2025-03-18,2025-06-16,2025-06-16,90,925000,1100750,"5,7",pagada al día,0,0
+F-0149,67.415.938-2,Comercial Central,pyme,Metropolitana,J. Salas,baja,2025-10-12,2026-01-10,2026-01-10,90,815000,969850,"3,5",pagada al día,0,0
+F-0083,68.660.271-0,Constructora Central,gobierno,Metropolitana,A. Rojas,alta,2025-04-21,2025-06-20,2025-07-22,60,1704000,2027760,"6,2",en gestión judicial,34080,32
+F-0495,68.217.000-K,Transportes Andes,pyme,Antofagasta,M. Fuentes,baja,2025-11-19,2025-12-19,2025-12-31,30,2175000,2588250,"5,7",pagada con atraso,43500,12
+F-0232,64.538.186-6,Distribuidora Cordillera,corporativo,Los Lagos,C. Peña,media,2025-11-08,2025-12-08,2025-12-12,30,415000,493850,"5,7",pagada con atraso,8300,4
+F-0014,61.883.540-5,Distribuidora Norte Grande,pyme,Metropolitana,M. Fuentes,alta,2025-10-22,2026-01-20,2026-01-30,90,276000,328440,"3,5",pagada con atraso,5520,10
+F-0269,74.010.432-2,Ingeniería Aconcagua,corporativo,Valparaíso,M. Fuentes,alta,2025-11-11,2026-02-09,2026-02-10,90,827,984,"5,7",pagada con atraso,16540,1
+F-0030,60.876.074-1,Transportes del Sur,pyme,Valparaíso,M. Fuentes,media,2025-08-06,2025-10-05,2025-10-15,60,888000,1056720,"6,1",pagada con atraso,17760,10
+F-0518,68.868.260-6,Comercial Andes,gobierno,Metropolitana,P. Vergara,media,2025-04-22,2025-07-21,2025-08-02,90,1394000,1658860,"6,2",pagada con atraso,27880,12
+F-0212,79.413.925-3,Servicios Aconcagua,corporativo,Los Lagos,M. Fuentes,baja,2025-01-05,2025-03-06,2025-03-12,60,645000,767550,"5,5",pagada con atraso,12900,6
+F-0025,61.358.397-1,Servicios Cordillera,gobierno,Valparaíso,M. Fuentes,baja,2025-03-10,2025-04-09,2025-05-05,30,1836000,2184840,"5,7",pagada con atraso,36720,26
+F-0166,73.558.357-3,Distribuidora Pacífico,gobierno,Biobío,A. Rojas,media,2025-11-12,2025-12-12,2026-01-08,30,1067000,1269730,"5,7",pagada con atraso,21340,27
+F-0571,61.718.906-2,Constructora del Sur,corporativo,Metropolitana,A. Rojas,media,2025-03-10,2025-04-09,2025-04-23,30,764000,909160,"5,7",pagada con atraso,15280,14
+F-0504,72.877.266-2,Transportes Cordillera,pyme,Los Lagos,P. Vergara,alta,2025-11-17,2025-12-17,2025-12-30,30,626000,744940,"5,7",pagada con atraso,12520,13
+F-0141,66.516.501-9,Distribuidora Araucanía,corporativo,Biobío,C. Peña,media,2025-10-16,2025-11-15,2025-11-16,30,3954000,4705260,"3,5",pagada con atraso,79080,1
+F-0276,75.721.234-K,Servicios Norte Grande,corporativo,Antofagasta,P. Vergara,media,2025-03-03,2025-04-02,2025-04-02,30,517000,615230,"5,7",pagada al día,0,0
+F-0185,61.842.713-7,Distribuidora Central,pyme,Metropolitana,C. Peña,alta,2025-08-07,2025-09-06,2025-09-06,30,788000,937720,"6,1",pagada al día,0,0
+F-0236,70.908.553-0,Servicios Aconcagua,pyme,Valparaíso,C. Peña,baja,2025-03-02,2025-04-01,2025-04-14,30,1058000,1259020,"5,7",pagada con atraso,21160,13
+F-0409,75.479.059-8,Distribuidora Central,pyme,Valparaíso,A. Rojas,media,2025-06-12,2025-07-12,2025-07-25,30,1264000,1504160,"4,2",pagada con atraso,25280,13
+F-0077,66.516.501-9,Distribuidora Araucanía,corporativo,Biobío,C. Peña,media,2025-08-15,2025-09-14,2025-09-14,30,840000,999600,"6,1",pagada al día,0,0
+F-0557,72.877.266-2,Transportes Cordillera,pyme,Los Lagos,P. Vergara,baja,2025-03-27,2025-04-26,2025-04-26,30,643000,765170,"5,7",pagada al día,0,0
+F-0064,68.868.260-6,Comercial Andes,gobierno,Metropolitana,P. Vergara,baja,2025-11-24,2025-12-24,2026-01-19,30,390000,464100,"5,7",pagada con atraso,7800,26
+F-0275,79.512.378-4,Distribuidora Araucanía,pyme,Metropolitana,P. Vergara,media,2025-09-14,2025-10-14,2025-10-14,30,165000,196350,"3,1",pagada al día,0,0
+F-0073,61.785.011-7,Comercial Central,pyme,Antofagasta,C. Peña,baja,2025-12-26,2026-01-25,2026-01-25,30,579000,689010,"3,9",pagada al día,0,0
+F-0453,66.603.925-4,Ingeniería Andes,pyme,Metropolitana,J. Salas,alta,2025-05-14,2025-07-13,2025-07-24,60,714000,849660,"5,9",pagada con atraso,14280,11
+F-0079,69.514.095-9,Distribuidora Aconcagua,corporativo,Metropolitana,J. Salas,media,2025-01-11,2025-02-10,2025-02-10,30,2155000,2564450,"5,5",pagada al día,0,0
+F-0573,67.415.938-2,Comercial Central,pyme,Metropolitana,J. Salas,baja,2025-11-17,2025-12-17,2025-12-17,30,729000,867510,"5,7",pagada al día,0,0
+F-0354,79.512.378-4,Distribuidora Araucanía,pyme,Metropolitana,P. Vergara,media,2025-10-05,2025-11-04,2025-11-11,30,269000,320110,"3,5",pagada con atraso,5380,7
+F-0382,76.794.911-1,Comercial Norte Grande,corporativo,Valparaíso,A. Rojas,media,2025-03-07,2025-05-06,2025-05-06,60,1474000,1754060,"5,7",pagada al día,0,0
+F-0369,72.877.266-2,Transportes Cordillera,pyme,Los Lagos,P. Vergara,baja,2025-12-09,2026-01-08,2026-01-21,30,205000,243950,"3,9",pagada con atraso,4100,13
+F-0549,75.567.645-4,Ingeniería Araucanía,pyme,Metropolitana,C. Peña,baja,2025-01-12,2025-02-11,2025-02-28,30,983000,1169770,"5,5",pagada con atraso,19660,17
+F-0312,68.777.534-1,Transportes Pacífico,gobierno,Metropolitana,P. Vergara,baja,2025-11-24,2025-12-24,2026-01-26,30,689000,819910,"5,7",en gestión judicial,13780,33
+F-0007,61.785.011-7,Comercial Central,pyme,Antofagasta,C. Peña,baja,2025-09-06,2025-12-05,2025-12-17,90,1622000,1930180,"3,1",pagada con atraso,32440,12
+F-0332,62.562.264-6,Servicios Aconcagua,pyme,Metropolitana,A. Rojas,media,2025-01-08,2025-03-09,2025-03-16,60,785000,934150,"5,5",pagada con atraso,15700,7
+F-0370,67.409.188-5,Comercial Central,pyme,Antofagasta,J. Salas,baja,2025-02-05,2025-03-07,2025-03-18,30,992000,1180480,"2,7",pagada con atraso,19840,11
+F-0482,68.048.265-9,Distribuidora Andes,pyme,Antofagasta,C. Peña,media,2025-06-21,2025-07-21,2025-07-29,30,401000,477190,"4,2",pagada con atraso,8020,8
+F-0376,69.334.407-7,Servicios Norte Grande,corporativo,Valparaíso,C. Peña,media,2025-09-07,2025-11-06,2025-11-06,60,427000,508130,"3,1",pagada al día,0,0
+F-0405,76.455.187-7,Ingeniería Aconcagua,pyme,Valparaíso,C. Peña,baja,2025-07-15,2025-08-14,2025-09-02,30,633000,753270,"6,6",pagada con atraso,12660,19
+F-0087,73.947.308-K,Transportes Central,pyme,Metropolitana,P. Vergara,media,2025-05-08,2025-06-07,2025-06-22,30,966000,1149540,"5,9",pagada con atraso,19320,15
+F-0111,74.010.432-2,Ingeniería Aconcagua,corporativo,Valparaíso,M. Fuentes,baja,2025-06-22,2025-08-21,2025-08-22,60,264000,314160,"4,2",pagada con atraso,5280,1
+F-0266,72.877.266-2,Transportes Cordillera,pyme,Los Lagos,P. Vergara,alta,2025-04-27,2025-06-26,2025-07-11,60,1639000,1950410,"6,2",pagada con atraso,32780,15
+F-0483,75.222.742-K,Servicios Cordillera,pyme,Metropolitana,M. Fuentes,media,2025-06-16,2025-07-16,2025-08-05,30,914000,1087660,"4,2",pagada con atraso,18280,20
+F-0368,61.276.342-9,Ingeniería Norte Grande,pyme,Los Lagos,C. Peña,media,2025-05-30,2025-06-29,2025-07-19,30,767000,912730,"5,9",pagada con atraso,15340,20
+F-0182,63.789.425-0,Distribuidora Araucanía,pyme,Valparaíso,C. Peña,media,2025-04-06,2025-06-05,2025-06-05,60,456000,542640,"6,2",pagada al día,0,0
+F-0146,79.413.925-3,Servicios Aconcagua,corporativo,Los Lagos,M. Fuentes,media,2025-02-11,2025-04-12,2025-04-12,60,392,466,"2,7",pagada al día,0,0
+F-0501,76.552.587-K,Transportes Pacífico,pyme,Metropolitana,J. Salas,baja,2025-04-25,2025-06-24,2025-07-13,60,667000,793730,"6,2",pagada con atraso,13340,19
+F-0481,64.544.763-8,Distribuidora Araucanía,pyme,Valparaíso,J. Salas,media,2025-01-22,2025-02-21,2025-03-15,30,470000,559300,"5,5",pagada con atraso,9400,22
+F-0074,74.895.228-4,Transportes Pacífico,pyme,Metropolitana,A. Rojas,baja,2025-09-29,2025-12-28,2025-12-28,90,382000,454580,"3,1",pagada al día,0,0
+F-0040,73.558.357-3,Distribuidora Pacífico,gobierno,Biobío,M. Fuentes,baja,2025-05-14,2025-06-13,2025-07-17,30,592000,704480,"5,9",en gestión judicial,11840,34
+F-0534,61.358.397-1,Servicios Cordillera,gobierno,Valparaíso,A. Rojas,baja,2025-03-01,2025-04-30,2025-05-28,60,5627000,6696130,"5,7",pagada con atraso,112540,28
+F-0442,75.913.590-3,Constructora Andes,pyme,Antofagasta,P. Vergara,baja,2025-05-30,2025-06-29,2025-07-11,30,408000,485520,"5,9",pagada con atraso,8160,12
+F-0067,70.931.376-2,Distribuidora Andes,pyme,Metropolitana,P. Vergara,media,2025-07-25,2025-10-23,2025-11-05,90,114000,135660,"6,6",pagada con atraso,2280,13
+F-0018,63.650.981-7,Comercial Central,pyme,Metropolitana,M. Fuentes,media,2025-04-19,2025-05-19,2025-05-19,30,186000,221340,"6,2",pagada al día,0,0
+F-0136,76.455.187-7,Ingeniería Aconcagua,pyme,Valparaíso,C. Peña,baja,2025-01-25,2025-02-24,2025-03-09,30,204000,242760,"5,5",pagada con atraso,4080,13
+F-0249,75.631.304-5,Transportes Pacífico,pyme,Metropolitana,J. Salas,media,2025-11-29,2025-12-29,2025-12-29,30,332000,395080,"5,7",pagada al día,0,0
+F-0559,78.110.701-8,Constructora del Sur,pyme,Antofagasta,J. Salas,baja,2025-09-23,2025-10-23,2025-11-13,30,131000,155890,"3,1",pagada con atraso,2620,21
+F-0061,64.544.763-8,Distribuidora Araucanía,pyme,Valparaíso,J. Salas,baja,2025-12-24,2026-02-22,2026-02-22,60,1611000,1917090,"3,9",pagada al día,0,0
+F-0110,70.931.376-2,Distribuidora Andes,pyme,Metropolitana,P. Vergara,baja,2025-10-15,2025-11-14,2025-11-14,30,1481000,1762390,"3,5",pagada al día,0,0
+F-0427,79.512.378-4,Distribuidora Araucanía,pyme,Metropolitana,P. Vergara,baja,2025-12-27,2026-02-25,2026-02-25,60,375000,446250,"3,9",pagada al día,0,0
+F-0287,73.660.964-9,Ingeniería Pacífico,corporativo,Metropolitana,C. Peña,alta,2025-02-24,2025-04-25,2025-05-11,60,944000,1123360,"2,7",pagada con atraso,18880,16
+F-0551,62.562.264-6,Servicios Aconcagua,pyme,Metropolitana,A. Rojas,media,2025-01-17,2025-02-16,2025-02-16,30,511000,608090,"5,5",pagada al día,0,0
+F-0012,75.197.965-7,Distribuidora Cordillera,corporativo,Valparaíso,A. Rojas,alta,2025-09-20,2025-10-20,2025-10-21,30,832000,990080,"3,1",pagada con atraso,16640,1
+F-0383,75.631.304-5,Transportes Pacífico,pyme,Metropolitana,J. Salas,media,2025-09-07,2025-10-07,2025-10-19,30,1037000,1234030,"3,1",pagada con atraso,20740,12
+F-0084,75.631.304-5,Transportes Pacífico,pyme,Metropolitana,J. Salas,media,2025-04-29,2025-06-28,2025-07-11,60,227000,270130,"6,2",pagada con atraso,4540,13
+F-0091,63.789.425-0,Distribuidora Araucanía,pyme,Valparaíso,C. Peña,alta,2025-01-24,2025-03-25,2025-03-25,60,819000,974610,"5,5",pagada al día,0,0
+F-0282,73.558.357-3,Distribuidora Pacífico,gobierno,Biobío,A. Rojas,media,2025-09-27,2025-10-27,2025-11-26,30,920000,1094800,"3,1",pagada con atraso,18400,30
+F-0542,75.631.304-5,Transportes Pacífico,pyme,Metropolitana,J. Salas,media,2025-04-19,2025-07-18,2025-07-31,90,2402000,2858380,"6,2",pagada con atraso,48040,13
+F-0531,74.010.432-2,Ingeniería Aconcagua,corporativo,Valparaíso,M. Fuentes,media,2025-01-31,2025-03-02,2025-03-02,30,1173000,1395870,"5,5",pagada al día,0,0
+F-0530,75.222.742-K,Servicios Cordillera,pyme,Metropolitana,M. Fuentes,baja,2025-03-03,2025-04-02,2025-04-02,30,284000,337960,"5,7",pagada al día,0,0
+F-0119,71.091.669-1,Ingeniería Aconcagua,gobierno,Biobío,P. Vergara,baja,2025-04-28,2025-06-27,2025-08-05,60,664000,790160,"6,2",en gestión judicial,13280,39
+F-0080,67.415.938-2,Comercial Central,pyme,Metropolitana,J. Salas,baja,2025-04-20,2025-05-20,2025-06-06,30,296000,352240,"6,2",pagada con atraso,5920,17
+F-0024,70.529.542-5,Comercial del Sur,corporativo,Antofagasta,J. Salas,baja,2025-07-30,2025-08-29,2025-08-31,30,610000,725900,"6,6",pagada con atraso,12200,2
+F-0562,74.714.996-8,Constructora Andes,pyme,Valparaíso,A. Rojas,media,2025-04-08,2025-05-08,2025-05-25,30,882000,1049580,"6,2",pagada con atraso,17640,17
+F-0288,69.007.690-K,Distribuidora Pacífico,corporativo,Metropolitana,J. Salas,media,2025-08-06,2025-09-05,2025-09-05,30,660000,785400,"6,1",pagada al día,0,0
+F-0323,75.197.965-7,Distribuidora Cordillera,corporativo,Valparaíso,A. Rojas,baja,2025-06-13,2025-07-13,2025-07-21,30,1276000,1518440,"4,2",pagada con atraso,25520,8
+F-0133,66.516.501-9,Distribuidora Araucanía,corporativo,Biobío,C. Peña,alta,2025-01-20,2025-02-19,2025-03-04,30,987000,1174530,"5,5",pagada con atraso,19740,13
+F-0175,74.714.996-8,Constructora Andes,pyme,Valparaíso,A. Rojas,media,2025-05-31,2025-08-29,2025-09-23,90,259000,308210,"5,9",pagada con atraso,5180,25
+F-0339,75.197.965-7,Distribuidora Cordillera,corporativo,Valparaíso,A. Rojas,media,2025-11-03,2026-01-02,2026-01-16,60,886000,1054340,"5,7",pagada con atraso,17720,14
+F-0178,69.258.807-K,Distribuidora Araucanía,pyme,Valparaíso,J. Salas,baja,2025-10-13,2025-11-12,2025-11-12,30,3917000,4661230,"3,5",pagada al día,0,0
+F-0159,73.947.308-K,Transportes Central,pyme,Metropolitana,P. Vergara,baja,2025-03-26,2025-04-25,2025-04-25,30,383000,455770,"5,7",pagada al día,0,0
+F-0138,69.258.807-K,Distribuidora Araucanía,pyme,Valparaíso,J. Salas,baja,2025-06-16,2025-08-15,2025-08-28,60,176000,209440,"4,2",pagada con atraso,3520,13
+F-0397,61.276.342-9,Ingeniería Norte Grande,pyme,Los Lagos,C. Peña,alta,2025-08-25,2025-09-24,2025-10-18,30,416000,495040,"6,1",pagada con atraso,8320,24
+F-0010,72.877.266-2,Transportes Cordillera,pyme,Los Lagos,M. Fuentes,baja,2025-05-06,2025-06-05,2025-06-16,30,1049000,1248310,"5,9",pagada con atraso,20980,11
+F-0572,73.660.964-9,Ingeniería Pacífico,corporativo,Metropolitana,C. Peña,baja,2025-04-01,2025-05-01,2025-05-13,30,1058000,1259020,"6,2",pagada con atraso,21160,12
+F-0576,68.660.271-0,Constructora Central,gobierno,Metropolitana,A. Rojas,baja,2025-11-07,2025-12-07,2026-01-02,30,1189000,1414910,"5,7",pagada con atraso,23780,26
+F-0305,70.007.007-7,Servicios del Sur,gobierno,Valparaíso,C. Peña,alta,2025-07-22,2025-08-21,2025-09-18,30,341000,405790,"6,6",pagada con atraso,6820,28
+F-0599,67.415.938-2,Comercial Central,pyme,Metropolitana,J. Salas,media,2025-06-15,2025-08-14,2025-09-01,60,776000,923440,"4,2",pagada con atraso,15520,18
+F-0248,69.514.095-9,Distribuidora Aconcagua,corporativo,Metropolitana,J. Salas,baja,2025-08-09,2025-09-08,2025-09-08,30,1241000,1476790,"6,1",pagada al día,0,0
+F-0085,74.714.996-8,Constructora Andes,pyme,Valparaíso,A. Rojas,baja,2025-03-07,2025-04-06,2025-04-17,30,522000,621180,"5,7",pagada con atraso,10440,11
+F-0189,62.562.264-6,Servicios Aconcagua,pyme,Metropolitana,A. Rojas,media,2025-11-12,2025-12-12,2025-12-25,30,1424000,1694560,"5,7",pagada con atraso,28480,13
+F-0200,75.721.234-K,Servicios Norte Grande,corporativo,Antofagasta,P. Vergara,baja,2025-06-18,2025-08-17,2025-08-17,60,242000,287980,"4,2",pagada al día,0,0
+F-0210,73.729.559-1,Transportes del Sur,pyme,Metropolitana,C. Peña,baja,2025-12-02,2026-01-01,2026-01-20,30,679000,808010,"3,9",pagada con atraso,13580,19
+F-0006,68.868.260-6,Comercial Andes  S.A.,gobierno,Metropolitana,M. Fuentes,baja,2025-03-11,2025-04-10,2025-05-10,30,1482000,1763580,"5,7",pagada con atraso,29640,30
+F-0487,68.660.271-0,Constructora Central,gobierno,Metropolitana,A. Rojas,baja,2025-01-05,2025-04-05,2025-04-18,90,615000,731850,"5,5",pagada con atraso,12300,13
+F-0183,69.391.110-9,Comercial Andes,gobierno,Metropolitana,J. Salas,media,2025-03-26,2025-05-25,2025-05-25,60,734000,873460,"5,7",pagada al día,0,0
+F-0076,74.867.501-9,Transportes Cordillera,pyme,Metropolitana,M. Fuentes,media,2025-08-05,2025-10-04,2025-10-04,60,927000,1103130,"6,1",pagada al día,0,0
+F-0093,67.090.505-5,Transportes Aconcagua,corporativo,Antofagasta,A. Rojas,media,2025-04-03,2025-05-03,2025-05-13,30,639000,760410,"6,2",pagada con atraso,12780,10
+F-0303,62.598.429-7,Servicios Andes,pyme,Metropolitana,C. Peña,baja,2025-12-04,2026-01-03,2026-01-16,30,1650000,1963500,"3,9",pagada con atraso,33000,13
+F-0069,73.947.308-K,Transportes Central,pyme,Metropolitana,P. Vergara,baja,2025-11-22,2026-01-21,2026-01-21,60,315000,374850,"5,7",pagada al día,0,0
+F-0016,77.165.787-7,Distribuidora Pacífico,corporativo,Metropolitana,M. Fuentes,media,2025-12-31,2026-03-01,2026-03-01,60,321000,381990,"3,9",pagada al día,0,0
+F-0569,67.332.846-6,Distribuidora Norte Grande,pyme,Metropolitana,P. Vergara,media,2025-01-24,2025-02-23,2025-02-23,30,412000,490280,"5,5",pagada al día,0,0
+F-0588,74.010.432-2,Ingeniería Aconcagua,corporativo,Valparaíso,M. Fuentes,baja,2025-03-01,2025-04-30,2025-05-16,60,301000,358190,"5,7",pagada con atraso,6020,16
+F-0089,66.603.925-4,Ingeniería Andes,pyme,Metropolitana,J. Salas,media,2025-01-02,2025-03-03,2025-03-25,60,561,668,"5,5",pagada con atraso,11220,22
+F-0513,66.516.501-9,Distribuidora Araucanía,corporativo,Biobío,C. Peña,baja,2025-08-04,2025-09-03,2025-09-08,30,1082000,1287580,"6,1",pagada con atraso,21640,5
+F-0118,74.349.497-0,Distribuidora del Sur,pyme,Biobío,C. Peña,media,2025-08-27,2025-09-26,2025-09-26,30,1370000,1630300,"6,1",pagada al día,0,0
+F-0394,74.867.501-9,Transportes Cordillera,pyme,Metropolitana,M. Fuentes,baja,2025-09-25,2025-10-25,2025-11-03,30,74000,88060,"3,1",pagada con atraso,1480,9
+F-0418,62.562.264-6,Servicios Aconcagua,pyme,Metropolitana,A. Rojas,media,2025-02-07,2025-04-08,2025-04-17,60,276000,328440,"2,7",pagada con atraso,5520,9
+F-0034,64.029.376-4,Distribuidora del Sur,gobierno,Metropolitana,P. Vergara,media,2025-12-01,2025-12-31,2026-01-23,30,502000,597380,"3,9",pagada con atraso,10040,23
+F-0001,67.409.188-5,Comercial Central,pyme,Antofagasta,M. Fuentes,media,2025-02-12,2025-03-14,2025-03-20,30,255000,303450,"2,7",pagada con atraso,5100,6
+F-0009,75.913.590-3,Constructora Andes,pyme,Antofagasta,M. Fuentes,alta,2025-09-04,2025-10-04,2025-10-12,30,133000,158270,"3,1",pagada con atraso,2660,8
+F-0468,78.535.246-7,Constructora Aconcagua,corporativo,Metropolitana,C. Peña,baja,2025-02-07,2025-03-09,2025-03-09,30,371000,441490,"2,7",pagada al día,0,0
+F-0355,76.794.911-1,Comercial Norte Grande,corporativo,Valparaíso,A. Rojas,media,2025-09-20,2025-10-20,2025-10-20,30,297000,353430,"3,1",pagada al día,0,0
+F-0341,61.883.540-5,Distribuidora Norte Grande,pyme,Metropolitana,J. Salas,media,2025-08-15,2025-09-14,2025-09-30,30,1079000,1284010,"6,1",pagada con atraso,21580,16
+F-0250,70.931.376-2,Distribuidora Andes,pyme,Metropolitana,P. Vergara,media,2025-12-26,2026-01-25,2026-02-13,30,5429000,6460510,"3,9",pagada con atraso,108580,19
+F-0258,61.526.862-3,Servicios Cordillera,pyme,Metropolitana,P. Vergara,baja,2025-10-19,2025-11-18,2025-12-12,30,773000,919870,"3,5",pagada con atraso,15460,24
+F-0023,75.721.234-K,Servicios Norte Grande,corporativo,Antofagasta,M. Fuentes,alta,2025-02-14,2025-04-15,2025-04-15,60,788000,937720,"2,7",pagada al día,0,0
+F-0585,70.908.553-0,Servicios Aconcagua,pyme,Valparaíso,C. Peña,baja,2025-05-03,2025-06-02,2025-06-13,30,535000,636650,"5,9",pagada con atraso,10700,11
+F-0117,70.264.498-4,Transportes Aconcagua,pyme,Antofagasta,A. Rojas,baja,2025-06-06,2025-07-06,2025-07-06,30,176000,209440,"4,2",pagada al día,0,0
+F-0090,61.276.342-9,Ingeniería Norte Grande,pyme,Los Lagos,C. Peña,baja,2025-04-15,2025-05-15,2025-05-25,30,495000,589050,"6,2",pagada con atraso,9900,10
+F-0421,64.544.763-8,Distribuidora Araucanía,pyme,Valparaíso,J. Salas,alta,2025-06-07,2025-07-07,2025-07-20,30,254000,302260,"4,2",pagada con atraso,5080,13
+F-0297,65.535.181-7,Transportes Pacífico,gobierno,Metropolitana,P. Vergara,baja,2025-10-18,2025-12-17,2026-01-13,60,1086000,1292340,"3,5",pagada con atraso,21720,27
+F-0019,74.714.996-8,Constructora Andes,pyme,Valparaíso,A. Rojas,baja,2025-10-11,2025-11-10,2025-11-26,30,329000,391510,"3,5",pagada con atraso,6580,16
+F-0213,67.278.110-8,Constructora Norte Grande,corporativo,Metropolitana,A. Rojas,alta,2025-12-07,2026-01-06,2026-01-18,30,562000,668780,"3,9",pagada con atraso,11240,12
+F-0329,77.165.787-7,Distribuidora Pacífico,corporativo,Metropolitana,P. Vergara,baja,2025-12-23,2026-01-22,2026-02-02,30,495000,589050,"3,9",pagada con atraso,9900,11
+F-0145,76.455.187-7,Ingeniería Aconcagua,pyme,Valparaíso,C. Peña,media,2025-11-08,2025-12-08,2025-12-10,30,1613000,1919470,"5,7",pagada con atraso,32260,2
+F-0311,75.913.590-3,Constructora Andes,pyme,Antofagasta,P. Vergara,baja,2025-07-29,2025-10-27,2025-11-04,90,1156000,1375640,"6,6",pagada con atraso,23120,8
+F-0281,70.264.498-4,Transportes Aconcagua,pyme,Antofagasta,A. Rojas,alta,2025-04-21,2025-06-20,2025-07-02,60,641000,762790,"6,2",pagada con atraso,12820,12
+F-0552,67.332.846-6,Distribuidora Norte Grande,pyme,Metropolitana,P. Vergara,baja,2025-03-18,2025-04-17,2025-04-30,30,230000,273700,"5,7",pagada con atraso,4600,13
+F-0371,69.007.690-K,Distribuidora Pacífico,corporativo,Metropolitana,J. Salas,baja,2025-10-10,2025-12-09,2025-12-09,60,1423000,1693370,"3,5",pagada al día,0,0
+F-0260,61.526.862-3,Servicios Cordillera,pyme,Metropolitana,P. Vergara,media,2025-08-08,2025-09-07,2025-09-20,30,1976000,2351440,"6,1",pagada con atraso,39520,13
+F-0302,68.217.000-K,Transportes Andes,pyme,Antofagasta,M. Fuentes,baja,2025-01-03,2025-02-02,2025-02-08,30,1175000,1398250,"5,5",pagada con atraso,23500,6
+F-0229,69.955.817-6,Transportes Araucanía,corporativo,Metropolitana,J. Salas,baja,2025-06-30,2025-07-30,2025-07-30,30,456000,542640,"4,2",pagada al día,0,0
+F-0413,61.358.397-1,Servicios Cordillera,gobierno,Valparaíso,A. Rojas,baja,2025-09-13,2025-10-13,2025-10-13,30,345000,410550,"3,1",pagada al día,0,0
+F-0168,74.349.497-0,Distribuidora del Sur,pyme,Biobío,C. Peña,media,2025-01-02,2025-03-03,2025-03-18,60,795000,946050,"5,5",pagada con atraso,15900,15
+F-0055,76.455.187-7,Ingeniería Aconcagua,pyme,Valparaíso,C. Peña,baja,2025-11-21,2025-12-21,2026-01-03,30,222000,264180,"5,7",pagada con atraso,4440,13
+F-0578,67.090.505-5,Transportes Aconcagua,corporativo,Antofagasta,A. Rojas,media,2025-11-16,2026-01-15,2026-01-16,60,361000,429590,"5,7",pagada con atraso,7220,1
+F-0047,63.304.574-7,Transportes Central,pyme,Metropolitana,J. Salas,alta,2025-04-21,2025-07-20,2025-08-11,90,276000,328440,"6,2",pagada con atraso,5520,22
+F-0094,72.633.261-4,Distribuidora Pacífico,pyme,Metropolitana,A. Rojas,media,2025-10-17,2025-11-16,2025-11-30,30,700000,833000,"3,5",pagada con atraso,14000,14
+F-0546,70.931.376-2,Distribuidora Andes,pyme,Metropolitana,P. Vergara,media,2025-05-29,2025-06-28,2025-06-28,30,580000,690200,"5,9",pagada al día,0,0
+F-0109,62.598.429-7,Servicios Andes,pyme,Metropolitana,C. Peña,media,2025-04-09,2025-05-09,2025-05-24,30,874000,1040060,"6,2",pagada con atraso,17480,15
+F-0279,75.567.645-4,Ingeniería Araucanía,pyme,Metropolitana,C. Peña,baja,2025-11-05,2025-12-05,2025-12-05,30,433000,515270,"5,7",pagada al día,0,0
+F-0023,75.721.234-K,Servicios Norte Grande,corporativo,Antofagasta,M. Fuentes,alta,2025-02-14,2025-04-15,2025-04-15,60,788000,937720,"2,7",pagada al día,0,0
+F-0494,62.598.429-7,Servicios Andes,pyme,Metropolitana,C. Peña,media,2025-07-01,2025-09-29,2025-10-10,90,655000,779450,"6,6",pagada con atraso,13100,11
+F-0450,75.631.304-5,Transportes Pacífico,pyme,Metropolitana,J. Salas,media,2025-03-14,2025-05-13,2025-05-18,60,1199000,1426810,"5,7",pagada con atraso,23980,5
+F-0470,78.110.701-8,Constructora del Sur,pyme,Antofagasta,J. Salas,baja,2025-10-03,2025-11-02,2025-11-02,30,238000,283220,"3,5",pagada al día,0,0
+F-0524,75.913.590-3,Constructora Andes,pyme,Antofagasta,P. Vergara,alta,2025-11-05,2025-12-05,2025-12-18,30,372000,442680,"5,7",pagada con atraso,7440,13
+F-0299,63.789.425-0,Distribuidora Araucanía,pyme,Valparaíso,C. Peña,media,2025-02-15,2025-03-17,2025-04-04,30,949000,1129310,"2,7",pagada con atraso,18980,18
+F-0528,76.794.911-1,Comercial Norte Grande,corporativo,Valparaíso,A. Rojas,media,2025-07-18,2025-08-17,2025-08-17,30,959000,1141210,"6,6",pagada al día,0,0
+F-0272,73.947.308-K,Transportes Central,pyme,Metropolitana,P. Vergara,media,2025-05-08,2025-06-07,2025-06-17,30,656000,780640,"5,9",pagada con atraso,13120,10
+F-0350,78.110.701-8,Constructora del Sur,pyme,Antofagasta,J. Salas,media,2025-09-23,2025-12-22,2025-12-22,90,788000,937720,"3,1",pagada al día,0,0
+F-0486,63.085.786-4,Comercial Andes,gobierno,Metropolitana,J. Salas,baja,2025-01-18,2025-02-17,2025-03-07,30,1532000,1823080,"5,5",pagada con atraso,30640,18
+F-0070,78.110.701-8,Constructora del Sur,pyme,Antofagasta,J. Salas,baja,2025-11-28,2025-12-28,2026-01-05,30,469000,558110,"5,7",pagada con atraso,9380,8
+F-0577,70.529.542-5,Comercial del Sur,corporativo,Antofagasta,J. Salas,alta,2025-07-30,2025-09-28,2025-09-28,60,1268000,1508920,"6,6",pagada al día,0,0
+F-0416,69.258.807-K,Distribuidora Araucanía,pyme,Valparaíso,J. Salas,alta,2025-10-19,2025-11-18,2025-11-18,30,2198000,2615620,"3,5",pagada al día,0,0
+F-0285,77.757.755-7,Comercial del Sur,pyme,Biobío,C. Peña,media,2025-02-16,2025-03-18,2025-04-06,30,707000,841330,"2,7",pagada con atraso,14140,19
+F-0539,73.947.308-K,Transportes Central,pyme,Metropolitana,P. Vergara,media,2025-07-11,2025-08-10,2025-08-16,30,420000,499800,"6,6",pagada con atraso,8400,6
+F-0209,75.197.965-7,Distribuidora Cordillera,corporativo,Valparaíso,A. Rojas,media,2025-01-09,2025-03-10,2025-03-22,60,697000,829430,"5,5",pagada con atraso,13940,12
+F-0262,68.913.734-2,Comercial Norte Grande,pyme,Los Lagos,J. Salas,baja,2025-03-21,2025-04-20,2025-05-05,30,709000,843710,"5,7",pagada con atraso,14180,15
+F-0150,63.789.425-0,Distribuidora Araucanía,pyme,Valparaíso,C. Peña,media,2025-01-24,2025-02-23,2025-03-11,30,391000,465290,"5,5",pagada con atraso,7820,16
+F-0125,78.110.701-8,Constructora del Sur,pyme,Antofagasta,J. Salas,baja,2025-02-21,2025-05-22,2025-06-07,90,216000,257040,"2,7",pagada con atraso,4320,16
+F-0454,77.862.392-7,Transportes Araucanía,pyme,Metropolitana,C. Peña,media,2025-05-25,2025-08-23,2025-08-26,90,2356000,2803640,"5,9",pagada con atraso,47120,3
+F-0480,63.304.574-7,Transportes Central,pyme,Metropolitana,J. Salas,baja,2025-07-11,2025-10-09,2025-10-27,90,3473000,4132870,"6,6",pagada con atraso,69460,18
+F-0186,68.913.734-2,Comercial Norte Grande,pyme,Los Lagos,J. Salas,baja,2025-03-31,2025-04-30,2025-05-08,30,2750000,3272500,"5,7",pagada con atraso,55000,8
+F-0375,63.650.981-7,Comercial Central,pyme,Metropolitana,C. Peña,baja,2025-03-01,2025-05-30,2025-06-19,90,540000,642600,"5,7",pagada con atraso,10800,20
+F-0361,75.631.304-5,Transportes Pacífico,pyme,Metropolitana,J. Salas,baja,2025-12-11,2026-01-10,2026-02-02,30,1137000,1353030,"3,9",pagada con atraso,22740,23
+F-0589,75.197.965-7,Distribuidora Cordillera,corporativo,Valparaíso,A. Rojas,baja,2025-01-15,2025-02-14,2025-02-21,30,363000,431970,"5,5",pagada con atraso,7260,7
+F-0547,69.258.807-K,Distribuidora Araucanía,pyme,Valparaíso,J. Salas,media,2025-02-11,2025-04-12,2025-04-19,60,1361000,1619590,"2,7",pagada con atraso,27220,7
+F-0396,75.913.590-3,Constructora Andes,pyme,Antofagasta,P. Vergara,baja,2025-11-17,2025-12-17,2026-01-02,30,67000,79730,"5,7",pagada con atraso,1340,16
+F-0032,67.409.188-5,Comercial Central,pyme,Antofagasta,J. Salas,baja,2025-05-24,2025-07-23,2025-08-05,60,383,456,"5,9",pagada con atraso,7660,13
+F-0458,74.349.497-0,Distribuidora del Sur,pyme,Biobío,C. Peña,alta,2025-03-02,2025-04-01,2025-04-18,30,777000,924630,"5,7",pagada con atraso,15540,17
+F-0438,73.660.964-9,Ingeniería Pacífico,corporativo,Metropolitana,C. Peña,alta,2025-08-11,2025-11-09,2025-11-09,90,268000,318920,"6,1",pagada al día,0,0
+F-0579,79.512.378-4,Distribuidora Araucanía,pyme,Metropolitana,P. Vergara,baja,2025-09-30,2025-11-29,2025-11-29,60,170000,202300,"3,1",pagada al día,0,0
+F-0469,61.526.862-3,Servicios Cordillera,pyme,Metropolitana,P. Vergara,alta,2025-06-23,2025-08-22,2025-08-31,60,361000,429590,"4,2",pagada con atraso,7220,9
+F-0004,68.868.260-6,Comercial Andes,gobierno,Metropolitana,M. Fuentes,alta,2025-11-20,2025-12-20,2026-01-15,30,573000,681870,"5,7",pagada con atraso,11460,26
+F-0115,73.660.964-9,Ingeniería Pacífico,corporativo,Metropolitana,C. Peña,media,2025-04-28,2025-06-27,2025-06-27,60,816000,971040,"6,2",pagada al día,0,0
+F-0204,67.409.188-5,Comercial Central,pyme,Antofagasta,J. Salas,media,2025-02-25,2025-03-27,2025-04-05,30,2792,3322,"2,7",pagada con atraso,55840,9
+F-0142,64.029.376-4,Distribuidora del Sur,gobierno,Metropolitana,P. Vergara,baja,2025-04-25,2025-05-25,2025-06-12,30,289000,343910,"6,2",pagada con atraso,5780,18
+F-0443,76.455.187-7,Ingeniería Aconcagua,pyme,Valparaíso,C. Peña,baja,2025-01-05,2025-04-05,2025-04-16,90,539000,641410,"5,5",pagada con atraso,10780,11
+F-0008,73.396.278-K,Constructora Cordillera,gobierno,Metropolitana,M. Fuentes,alta,2025-02-01,2025-03-03,2025-03-12,30,148000000,176120000,"2,7",pagada con atraso,11620,9
+F-0532,79.350.177-3,Ingeniería del Sur,pyme,Metropolitana,J. Salas,media,2025-04-04,2025-06-03,2025-06-10,60,263000,312970,"6,2",pagada con atraso,5260,7
+F-0020,78.450.537-5,Constructora Araucanía,pyme,Metropolitana,C. Peña,media,2025-05-30,2025-06-29,2025-07-17,30,2058000,2449020,"5,9",pagada con atraso,41160,18
+F-0173,68.660.271-0,Constructora Central,gobierno,Metropolitana,A. Rojas,media,2025-01-12,2025-02-11,2025-03-13,30,234000,278460,"5,5",pagada con atraso,4680,30
+F-0466,64.538.186-6,Distribuidora Cordillera,corporativo,Los Lagos,C. Peña,alta,2025-03-31,2025-04-30,2025-05-02,30,531000,631890,"5,7",pagada con atraso,10620,2
+F-0057,75.197.965-7,Distribuidora Cordillera,corporativo,Valparaíso,A. Rojas,baja,2025-12-18,2026-02-16,2026-02-25,60,675000,803250,"3,9",pagada con atraso,13500,9
+F-0432,69.007.690-K,Distribuidora Pacífico,corporativo,Metropolitana,J. Salas,baja,2025-11-21,2026-01-20,2026-01-24,60,793000,943670,"5,7",pagada con atraso,15860,4
+F-0345,63.892.768-3,Comercial Pacífico,pyme,Biobío,C. Peña,media,2025-07-12,2025-09-10,2025-09-10,60,820000,975800,"6,6",pagada al día,0,0
+F-0465,75.197.965-7,Distribuidora Cordillera,corporativo,Valparaíso,A. Rojas,media,2025-09-23,2025-10-23,2025-11-03,30,366000,435540,"3,1",pagada con atraso,7320,11
+F-0445,68.660.271-0,Constructora Central,gobierno,Metropolitana,A. Rojas,media,2025-07-30,2025-08-29,2025-09-26,30,380000,452200,"6,6",pagada con atraso,7600,28
+F-0319,73.091.379-6,Constructora Central,pyme,Biobío,J. Salas,alta,2025-03-09,2025-05-08,2025-05-15,60,2000000,2380000,"5,7",pagada con atraso,40000,7
+F-0050,65.535.181-7,Transportes Pacífico,gobierno,Metropolitana,P. Vergara,baja,2025-08-20,2025-09-19,2025-10-08,30,201000,239190,"6,1",pagada con atraso,4020,19
+F-0273,74.349.497-0,Distribuidora del Sur,pyme,Biobío,C. Peña,media,2025-05-21,2025-06-20,2025-06-30,30,810000,963900,"5,9",pagada con atraso,16200,10
+F-0026,62.562.264-6,Servicios Aconcagua,pyme,Metropolitana,A. Rojas,baja,2025-12-31,2026-03-31,2026-03-31,90,553000,658070,"3,9",pagada al día,0,0
+F-0457,69.514.095-9,Distribuidora Aconcagua,corporativo,Metropolitana,J. Salas,media,2025-05-02,2025-06-01,2025-06-07,30,160000,190400,"5,9",pagada con atraso,3200,6
+F-0221,79.413.925-3,Servicios Aconcagua,corporativo,Los Lagos,M. Fuentes,baja,2025-06-24,2025-08-23,2025-09-01,60,493000,586670,"4,2",pagada con atraso,9860,9
+F-0357,68.913.734-2,Comercial Norte Grande,pyme,Los Lagos,J. Salas,baja,2025-02-25,2025-03-27,2025-04-19,30,1141000,1357790,"2,7",pagada con atraso,22820,23
+F-0597,68.913.734-2,Comercial Norte Grande,pyme,Los Lagos,J. Salas,media,2025-04-14,2025-07-13,2025-07-13,90,692000,823480,"6,2",pagada al día,0,0
+F-0246,78.535.246-7,Constructora Aconcagua,corporativo,Metropolitana,C. Peña,baja,2025-06-16,2025-07-16,2025-07-16,30,592000,704480,"4,2",pagada al día,0,0
+F-0043,69.955.817-6,Transportes Araucanía,corporativo,Metropolitana,J. Salas,media,2025-05-09,2025-06-08,2025-06-16,30,358000,426020,"5,9",pagada con atraso,7160,8
+F-0429,79.413.925-3,Servicios Aconcagua,corporativo,Los Lagos,M. Fuentes,media,2025-10-22,2026-01-20,2026-01-20,90,343000,408170,"3,5",pagada al día,0,0
+F-0412,77.165.787-7,Distribuidora Pacífico,corporativo,Metropolitana,P. Vergara,alta,2025-11-27,2026-02-25,2026-03-07,90,488000,580720,"5,7",pagada con atraso,9760,10
+F-0410,76.552.587-K,Transportes Pacífico,pyme,Metropolitana,J. Salas,media,2025-02-09,2025-03-11,2025-03-28,30,1143000,1360170,"2,7",pagada con atraso,22860,17
+F-0290,68.660.271-0,Constructora Central,gobierno,Metropolitana,A. Rojas,baja,2025-02-16,2025-05-17,2025-06-20,90,1357000,1614830,"2,7",en gestión judicial,27140,34
+F-0553,64.029.376-4,Distribuidora del Sur,gobierno,Metropolitana,P. Vergara,media,2025-08-09,2025-10-08,2025-11-09,60,150000,178500,"6,1",en gestión judicial,3000,32
+F-0488,61.785.011-7,Comercial Central,pyme,Antofagasta,C. Peña,alta,2025-06-26,2025-07-26,2025-08-06,30,287000,341530,"4,2",pagada con atraso,5740,11
+F-0424,76.455.187-7,Ingeniería Aconcagua,pyme,Valparaíso,C. Peña,media,2025-01-10,2025-04-10,2025-04-27,90,129000,153510,"5,5",pagada con atraso,2580,17
+F-0155,79.413.925-3,Servicios Aconcagua,corporativo,Los Lagos,M. Fuentes,media,2025-12-23,2026-03-23,2026-03-23,90,557000,662830,"3,9",pagada al día,0,0
+F-0127,60.876.074-1,Transportes del Sur,pyme,Valparaíso,M. Fuentes,baja,2025-12-09,2026-02-07,2026-02-07,60,604000,718760,"3,9",pagada al día,0,0
+F-0353,63.892.768-3,Comercial Pacífico,pyme,Biobío,C. Peña,baja,2025-04-09,2025-05-09,2025-05-09,30,416000,495040,"6,2",pagada al día,0,0
+F-0114,67.409.188-5,Comercial Central,pyme,Antofagasta,J. Salas,media,2025-07-25,2025-10-23,2025-10-23,90,652000,775880,"6,6",pagada al día,0,0
+F-0174,75.222.742-K,Servicios Cordillera,pyme,Metropolitana,M. Fuentes,baja,2025-05-03,2025-07-02,2025-07-02,60,443000,527170,"5,9",pagada al día,0,0
+F-0058,68.868.260-6,Comercial Andes,gobierno,Metropolitana,P. Vergara,alta,2025-10-02,2025-12-01,2025-12-26,60,1428000,1699320,"3,5",pagada con atraso,28560,25
+F-0330,68.868.260-6,Comercial Andes,gobierno,Metropolitana,P. Vergara,media,2025-11-02,2025-12-02,2025-12-22,30,1084000,1289960,"5,7",pagada con atraso,21680,20
+F-0223,75.631.304-5,Transportes Pacífico,pyme,Metropolitana,J. Salas,baja,2025-02-03,2025-03-05,2025-03-22,30,965000,1148350,"2,7",pagada con atraso,19300,17
+F-0018,63.650.981-7,Comercial Central,pyme,Metropolitana,M. Fuentes,media,2025-04-19,2025-05-19,2025-05-19,30,186000,221340,"6,2",pagada al día,0,0
+F-0306,69.258.807-K,Distribuidora Araucanía,pyme,Valparaíso,J. Salas,baja,2025-12-29,2026-02-27,2026-03-11,60,1094000,1301860,"3,9",pagada con atraso,21880,12
+F-0256,61.718.906-2,Constructora del Sur,corporativo,Metropolitana,A. Rojas,alta,2025-04-27,2025-05-27,2025-05-27,30,825000,981750,"6,2",pagada al día,0,0
+F-0313,73.558.357-3,Distribuidora Pacífico,gobierno,Biobío,A. Rojas,media,2025-02-04,2025-03-06,2025-04-06,30,286000,340340,"2,7",en gestión judicial,5720,31
+F-0586,77.165.787-7,Distribuidora Pacífico,corporativo,Metropolitana,P. Vergara,alta,2025-04-01,2025-05-01,2025-05-01,30,450000,535500,"6,2",pagada al día,0,0
+F-0191,61.883.540-5,Distribuidora Norte Grande,pyme,Metropolitana,J. Salas,baja,2025-05-03,2025-06-02,2025-06-21,30,427000,508130,"5,9",pagada con atraso,8540,19
+F-0463,79.413.925-3,Servicios Aconcagua,corporativo,Los Lagos,M. Fuentes,baja,2025-01-10,2025-02-09,2025-02-09,30,676000,804440,"5,5",pagada al día,0,0
+F-0538,75.479.059-8,Distribuidora Central,pyme,Valparaíso,A. Rojas,alta,2025-08-02,2025-10-01,2025-10-09,60,170000,202300,"6,1",pagada con atraso,3400,8
+F-0278,78.806.120-K,Servicios Aconcagua,corporativo,Metropolitana,P. Vergara,media,2025-09-22,2025-10-22,2025-10-30,30,591000,703290,"3,1",pagada con atraso,11820,8
+F-0095,75.161.724-0,Transportes Andes,corporativo,Valparaíso,A. Rojas,alta,2025-08-02,2025-09-01,2025-09-01,30,397000,472430,"6,1",pagada al día,0,0
+F-0181,78.110.701-8,Constructora del Sur,pyme,Antofagasta,J. Salas,baja,2025-07-13,2025-08-12,2025-08-12,30,283000,336770,"6,6",pagada al día,0,0
+F-0448,66.603.925-4,Ingeniería Andes,pyme,Metropolitana,J. Salas,media,2025-06-21,2025-07-21,2025-08-05,30,618000,735420,"4,2",pagada con atraso,12360,15
+F-0337,67.415.938-2,Comercial Central,pyme,Metropolitana,J. Salas,alta,2025-11-06,2025-12-06,2025-12-06,30,582000,692580,"5,7",pagada al día,0,0
+F-0320,74.895.228-4,Transportes Pacífico,pyme,Metropolitana,A. Rojas,media,2025-04-11,2025-05-11,2025-05-21,30,336000,399840,"6,2",pagada con atraso,6720,10
+F-0006,68.868.260-6,Comercial Andes  S.A.,gobierno,Metropolitana,M. Fuentes,baja,2025-03-11,2025-04-10,2025-05-10,30,1482000,1763580,"5,7",pagada con atraso,29640,30
+F-0046,75.161.724-0,Transportes Andes,corporativo,Valparaíso,A. Rojas,media,2025-01-08,2025-02-07,2025-02-07,30,410000,487900,"5,5",pagada al día,0,0
+F-0301,69.258.807-K,Distribuidora Araucanía,pyme,Valparaíso,J. Salas,alta,2025-04-08,2025-05-08,2025-05-26,30,136000,161840,"6,2",pagada con atraso,2720,18
+F-0400,75.913.590-3,Constructora Andes,pyme,Antofagasta,P. Vergara,media,2025-07-09,2025-08-08,2025-08-08,30,220000,261800,"6,6",pagada al día,0,0
+F-0391,75.721.234-K,Servicios Norte Grande,corporativo,Antofagasta,P. Vergara,alta,2025-05-06,2025-07-05,2025-07-05,60,368000,437920,"5,9",pagada al día,0,0
+F-0017,73.558.357-3,Distribuidora Pacífico,gobierno,Biobío,A. Rojas,media,2025-08-22,2025-09-21,2025-10-25,30,1158000,1378020,"6,1",en gestión judicial,23160,34
+F-0049,67.409.188-5,Comercial Central,pyme,Antofagasta,J. Salas,baja,2025-12-18,2026-02-16,2026-02-16,60,1141000,1357790,"3,9",pagada al día,0,0
+F-0592,71.289.996-4,Distribuidora Pacífico,pyme,Metropolitana,P. Vergara,alta,2025-11-21,2025-12-21,2026-01-06,30,958000,1140020,"5,7",pagada con atraso,19160,16
+F-0502,75.479.059-8,Distribuidora Central,pyme,Valparaíso,A. Rojas,alta,2025-10-07,2025-11-06,2025-11-20,30,365000,434350,"3,5",pagada con atraso,7300,14
+F-0004,68.868.260-6,Comercial Andes,gobierno,Metropolitana,M. Fuentes,alta,2025-11-20,2025-12-20,2026-01-15,30,573000,681870,"5,7",pagada con atraso,11460,26
+F-0335,69.334.407-7,Servicios Norte Grande,corporativo,Valparaíso,C. Peña,media,2025-02-27,2025-03-29,2025-03-31,30,943000,1122170,"2,7",pagada con atraso,18860,2
+F-0452,75.721.234-K,Servicios Norte Grande,corporativo,Antofagasta,P. Vergara,media,2025-05-19,2025-08-17,2025-08-29,90,524000,623560,"5,9",pagada con atraso,10480,12
+F-0600,66.603.925-4,Ingeniería Andes,pyme,Metropolitana,J. Salas,baja,2025-07-13,2025-09-11,2025-09-19,60,1178000,1401820,"6,6",pagada con atraso,23560,8
+F-0447,71.091.669-1,Ingeniería Aconcagua,gobierno,Biobío,P. Vergara,alta,2025-07-04,2025-10-02,2025-11-03,90,789000,938910,"6,6",en gestión judicial,15780,32
+F-0317,63.085.786-4,Comercial Andes,gobierno,Metropolitana,J. Salas,alta,2025-03-03,2025-04-02,2025-05-03,30,778000,925820,"5,7",en gestión judicial,15560,31
+F-0226,68.868.260-6,Comercial Andes,gobierno,Metropolitana,P. Vergara,alta,2025-08-04,2025-10-03,2025-10-03,60,369000,439110,"6,1",pagada al día,0,0
+F-0027,79.512.378-4,Distribuidora Araucanía,pyme,Metropolitana,P. Vergara,media,2025-11-09,2025-12-09,2025-12-24,30,174000,207060,"5,7",pagada con atraso,3480,15
+F-0437,68.868.260-6,Comercial Andes,gobierno,Metropolitana,P. Vergara,baja,2025-05-08,2025-06-07,2025-06-07,30,1304000,1551760,"5,9",pagada al día,0,0
+F-0264,76.552.587-K,Transportes Pacífico,pyme,Metropolitana,J. Salas,media,2025-06-01,2025-07-31,2025-08-13,60,316000,376040,"4,2",pagada con atraso,6320,13
+F-0051,72.877.266-2,Transportes Cordillera,pyme,Los Lagos,P. Vergara,baja,2025-11-18,2026-01-17,2026-01-27,60,673000,800870,"5,7",pagada con atraso,13460,10
+F-0230,72.633.261-4,Distribuidora Pacífico,pyme,Metropolitana,A. Rojas,media,2025-01-03,2025-03-04,2025-03-04,60,1289000,1533910,"5,5",pagada al día,0,0
+F-0038,65.535.181-7,Transportes Pacífico,gobierno,Metropolitana,M. Fuentes,baja,2025-02-19,2025-03-21,2025-04-21,30,1177000,1400630,"2,7",en gestión judicial,23540,31
+F-0158,74.714.996-8,Constructora Andes,pyme,Valparaíso,A. Rojas,alta,2025-05-25,2025-07-24,2025-08-12,60,868000,1032920,"5,9",pagada con atraso,17360,19
+F-0238,75.721.234-K,Servicios Norte Grande,corporativo,Antofagasta,P. Vergara,baja,2025-10-10,2025-12-09,2025-12-09,60,3615000,4301850,"3,5",pagada al día,0,0
+F-0587,67.278.110-8,Constructora Norte Grande,corporativo,Metropolitana,A. Rojas,alta,2025-04-19,2025-05-19,2025-05-20,30,1887000,2245530,"6,2",pagada con atraso,37740,1
+F-0176,70.908.553-0,Servicios Aconcagua,pyme,Valparaíso,C. Peña,baja,2025-06-08,2025-07-08,2025-07-08,30,898000,1068620,"4,2",pagada al día,0,0
+F-0514,74.714.996-8,Constructora Andes,pyme,Valparaíso,A. Rojas,media,2025-01-28,2025-02-27,2025-03-08,30,490000,583100,"5,5",pagada con atraso,9800,9
+F-0358,68.777.534-1,Transportes Pacífico,gobierno,Metropolitana,P. Vergara,media,2025-06-03,2025-07-03,2025-07-22,30,2563000,3049970,"4,2",pagada con atraso,51260,19
+F-0195,78.535.246-7,Comercial Andes Limitada,corporativo,Metropolitana,C. Peña,alta,2025-04-01,2025-05-01,2025-05-01,30,309000,367710,"6,2",pagada al día,0,0
+F-0516,71.289.996-4,Distribuidora Pacífico,pyme,Metropolitana,P. Vergara,baja,2025-02-21,2025-03-23,2025-04-02,30,1147000,1364930,"2,7",pagada con atraso,22940,10
+F-0334,75.567.645-4,Ingeniería Araucanía,pyme,Metropolitana,M. Fuentes,baja,2025-08-06,2025-09-05,2025-07-31,30,1093000,1300670,"6,1",pagada con atraso,21860,13
+F-0591,68.660.271-0,Constructora Central,gobierno,Metropolitana,A. Rojas,alta,2025-01-29,2025-02-28,2025-03-29,30,885000,1053150,"5,5",pagada con atraso,17700,29
+F-0522,75.161.724-0,Transportes Andes,corporativo,Valparaíso,A. Rojas,alta,2025-02-06,2025-03-08,2025-03-08,30,1083000,1288770,"2,7",pagada al día,0,0
+F-0068,67.090.505-5,Transportes Aconcagua,corporativo,Antofagasta,A. Rojas,alta,2025-04-30,2025-05-30,2025-06-05,30,1339000,1593410,"6,2",pagada con atraso,26780,6
+F-0328,70.908.553-0,Servicios Aconcagua,pyme,Valparaíso,C. Peña,baja,2025-08-31,2025-09-30,2025-10-10,30,285000,339150,"6,1",pagada con atraso,5700,10
+F-0169,71.091.669-1,Ingeniería Aconcagua,gobierno,Biobío,P. Vergara,alta,2025-02-11,2025-04-12,2025-05-02,60,594000,706860,"2,7",pagada con atraso,11880,20
+F-0333,69.007.690-K,Distribuidora Pacífico,corporativo,Metropolitana,J. Salas,media,2025-01-20,2025-02-19,2025-02-19,30,527000,627130,"5,5",pagada al día,0,0
+F-0163,67.415.938-2,Comercial Central,pyme,Metropolitana,J. Salas,media,2025-04-17,2025-06-16,2025-06-27,60,441000,524790,"6,2",pagada con atraso,8820,11
+F-0310,63.650.981-7,Comercial Central,pyme,Metropolitana,C. Peña,alta,2025-02-17,2025-03-19,2025-03-19,30,557000,662830,"2,7",pagada al día,0,0
+F-0194,75.222.742-K,Servicios Cordillera,pyme,Metropolitana,M. Fuentes,baja,2025-05-02,2025-06-01,2025-06-01,30,606000,721140,"5,9",pagada al día,0,0
+F-0153,68.868.260-6,Comercial Andes,gobierno,Metropolitana,P. Vergara,baja,2025-06-14,2025-08-13,2025-08-13,60,730000,868700,"4,2",pagada al día,0,0
+F-0336,61.276.342-9,Ingeniería Norte Grande,pyme,Los Lagos,C. Peña,media,2025-03-27,2025-04-26,2025-05-07,30,393000,467670,"5,7",pagada con atraso,7860,11
+F-0347,64.029.376-4,Distribuidora del Sur,gobierno,Metropolitana,P. Vergara,baja,2025-10-02,2025-11-01,2025-11-28,30,564000,671160,"3,5",pagada con atraso,11280,27
+F-0500,67.415.938-2,Comercial Central,pyme,Metropolitana,J. Salas,baja,2025-04-19,2025-05-19,2025-05-19,30,944000,1123360,"6,2",pagada al día,0,0
+F-0342,79.413.925-3,Servicios Aconcagua,corporativo,Los Lagos,M. Fuentes,baja,2025-08-12,2025-09-11,2025-09-17,30,293,349,"6,1",pagada con atraso,5860,6
+F-0104,72.877.266-2,Transportes Cordillera,pyme,Los Lagos,P. Vergara,alta,2025-09-04,2025-11-03,2025-11-12,60,1594000,1896860,"3,1",pagada con atraso,31880,9
+F-0403,70.529.542-5,Comercial del Sur,corporativo,Antofagasta,J. Salas,media,2025-08-27,2025-10-26,2025-10-26,60,156,186,"6,1",pagada al día,0,0
+F-0075,73.091.379-6,Constructora Central,pyme,Biobío,J. Salas,baja,2025-03-21,2025-04-20,2025-05-10,30,876000,1042440,"5,7",pagada con atraso,17520,20
+F-0435,64.538.186-6,Distribuidora Cordillera,corporativo,Los Lagos,C. Peña,media,2025-08-18,2025-10-17,2025-10-17,60,776000,923440,"6,1",pagada al día,0,0
+F-0590,73.660.964-9,Ingeniería Pacífico,corporativo,Metropolitana,C. Peña,media,2025-12-10,2026-01-09,2026-01-22,30,773000,919870,"3,9",pagada con atraso,15460,13
+F-0120,63.085.786-4,Comercial Andes,gobierno,Metropolitana,J. Salas,media,2025-12-15,2026-01-14,2026-02-04,30,566000,673540,"3,9",pagada con atraso,11320,21
+F-0399,61.785.011-7,Comercial Central,pyme,Antofagasta,C. Peña,baja,2025-06-01,2025-07-31,2025-07-31,60,520000,618800,"4,2",pagada al día,0,0
+F-0422,71.289.996-4,Distribuidora Pacífico,pyme,Metropolitana,P. Vergara,baja,2025-09-29,2025-10-29,2025-11-19,30,709000,843710,"3,1",pagada con atraso,14180,21
+F-0496,68.868.260-6,Comercial Andes,gobierno,Metropolitana,P. Vergara,media,2025-02-11,2025-03-13,2025-04-13,30,744000,885360,"2,7",en gestión judicial,14880,31
+F-0208,64.538.186-6,Distribuidora Cordillera,corporativo,Los Lagos,C. Peña,baja,2025-02-21,2025-03-23,2025-03-23,30,444000,528360,"2,7",pagada al día,0,0
+F-0491,63.304.574-7,Transportes Central,pyme,Metropolitana,J. Salas,baja,2025-04-01,2025-05-31,2025-05-31,60,256000,304640,"6,2",pagada al día,0,0
+F-0363,75.567.645-4,Ingeniería Araucanía,pyme,Metropolitana,C. Peña,media,2025-01-14,2025-02-13,2025-02-24,30,469000,558110,"5,5",pagada con atraso,9380,11
+F-0351,77.165.787-7,Distribuidora Pacífico,corporativo,Metropolitana,P. Vergara,baja,2025-10-06,2025-11-05,2025-11-05,30,1269000,1510110,"3,5",pagada al día,0,0
+F-0417,61.785.011-7,Comercial Central,pyme,Antofagasta,C. Peña,baja,2025-07-04,2025-09-02,2025-09-02,60,644000,766360,"6,6",pagada al día,0,0
+F-0009,75.913.590-3,Constructora Andes,pyme,Antofagasta,M. Fuentes,alta,2025-09-04,2025-10-04,2025-10-12,30,133000,158270,"3,1",pagada con atraso,2660,8
+F-0389,69.955.817-6,Transportes Araucanía,corporativo,Metropolitana,J. Salas,baja,2025-03-31,2025-04-30,2025-04-30,30,464000,552160,"5,7",pagada al día,0,0
+F-0037,73.558.357-3,Distribuidora Pacífico,gobierno,Biobío,M. Fuentes,alta,2025-05-07,2025-07-06,2025-08-01,60,382000,454580,"5,9",pagada con atraso,7640,26
+F-0140,70.264.498-4,Transportes Aconcagua,pyme,Antofagasta,A. Rojas,baja,2025-07-08,2025-08-07,2025-08-15,30,727000,865130,"6,6",pagada con atraso,14540,8
+F-0254,76.794.911-1,Comercial Norte Grande,corporativo,Valparaíso,A. Rojas,baja,2025-10-24,2025-11-23,2025-11-23,30,2373000,2823870,"3,5",pagada al día,0,0
+F-0304,76.455.187-7,Ingeniería Aconcagua,pyme,Valparaíso,C. Peña,baja,2025-01-08,2025-04-08,2025-04-29,90,1070000,1273300,"5,5",pagada con atraso,21400,21
+F-0550,63.789.425-0,Distribuidora Araucanía,pyme,Valparaíso,C. Peña,media,2025-10-10,2025-12-09,2026-01-01,60,570000,678300,"3,5",pagada con atraso,11400,23
+F-0060,73.660.964-9,Ingeniería Pacífico,corporativo,Metropolitana,C. Peña,baja,2025-07-17,2025-08-16,2025-08-16,30,855000,1017450,"6,6",pagada al día,0,0
+F-0112,74.010.432-2,Ingeniería Aconcagua,corporativo,Valparaíso,M. Fuentes,alta,2025-03-10,2025-05-09,2025-05-13,60,354000,421260,"5,7",pagada con atraso,7080,4
+F-0364,75.479.059-8,Distribuidora Central,pyme,Valparaíso,A. Rojas,media,2025-10-18,2025-12-17,2026-01-04,60,712000,847280,"3,5",pagada con atraso,14240,18
+F-0420,73.947.308-K,Transportes Central,pyme,Metropolitana,P. Vergara,baja,2025-03-17,2025-04-16,2025-04-16,30,362000,430780,"5,7",pagada al día,0,0
+F-0365,69.009.168-2,Transportes Araucanía,pyme,Antofagasta,J. Salas,baja,2025-05-12,2025-06-11,2025-06-27,30,146000,173740,"5,9",pagada con atraso,2920,16
+F-0263,73.947.308-K,Transportes Central,pyme,Metropolitana,P. Vergara,baja,2025-07-08,2025-09-06,2025-09-19,60,106000,126140,"6,6",pagada con atraso,2120,13
+F-0507,67.332.846-6,Distribuidora Norte Grande,pyme,Metropolitana,P. Vergara,baja,2025-02-09,2025-03-11,2025-03-26,30,1008000,1199520,"2,7",pagada con atraso,20160,15
+F-0298,75.913.590-3,Constructora Andes,pyme,Antofagasta,P. Vergara,baja,2025-07-05,2025-09-03,2025-09-12,60,1328000,1580320,"6,6",pagada con atraso,26560,9
+F-0151,61.842.713-7,Distribuidora Central,pyme,Metropolitana,C. Peña,baja,2025-11-24,2025-12-24,2026-01-10,30,617000,734230,"5,7",pagada con atraso,12340,17
+F-0267,63.304.574-7,Transportes Central,pyme,Metropolitana,J. Salas,baja,2025-10-28,2025-11-27,2025-12-08,30,1516000,1804040,"3,5",pagada con atraso,30320,11
+F-0529,63.650.981-7,Comercial Central,pyme,Metropolitana,C. Peña,media,2025-07-10,2025-09-08,2025-09-20,60,713000,848470,"6,6",pagada con atraso,14260,12
+F-0541,70.529.542-5,Comercial del Sur,corporativo,Antofagasta,J. Salas,baja,2025-09-28,2025-11-27,2025-11-27,60,223000,265370,"3,1",pagada al día,0,0
+F-0039,77.757.755-7,Comercial del Sur,pyme,Biobío,C. Peña,baja,2025-02-08,2025-05-09,2025-05-26,90,1211000,1441090,"2,7",pagada con atraso,24220,17
+F-0444,79.512.378-4,Distribuidora Araucanía,pyme,Metropolitana,P. Vergara,media,2025-08-09,2025-09-08,2025-09-24,30,553000,658070,"6,1",pagada con atraso,11060,16
+F-0308,72.633.261-4,Distribuidora Pacífico,pyme,Metropolitana,A. Rojas,baja,2025-08-02,2025-10-31,2025-10-31,90,2125000,2528750,"6,1",pagada al día,0,0
+F-0199,67.278.110-8,Constructora Norte Grande,corporativo,Metropolitana,A. Rojas,baja,2025-07-01,2025-07-31,2025-07-31,30,1040000,1237600,"6,6",pagada al día,0,0
+F-0479,70.264.498-4,Transportes Aconcagua,pyme,Antofagasta,A. Rojas,alta,2025-06-25,2025-09-23,2025-09-27,90,443000,527170,"4,2",pagada con atraso,8860,4
+F-0366,76.455.187-7,Ingeniería Aconcagua,pyme,Valparaíso,C. Peña,media,2025-07-10,2025-09-08,2025-09-08,60,806000,959140,"6,6",pagada al día,0,0
+F-0147,70.007.007-7,Servicios del Sur,gobierno,Valparaíso,C. Peña,baja,2025-08-21,2025-09-20,2025-11-01,30,781000,929390,"6,1",en gestión judicial,15620,42
+F-0574,78.110.701-8,Constructora del Sur,pyme,Antofagasta,J. Salas,media,2025-09-17,2025-11-16,2025-11-29,60,1220000,1451800,"3,1",pagada con atraso,24400,13
+F-0543,67.415.938-2,Comercial Central,pyme,Metropolitana,J. Salas,media,2025-11-06,2025-12-06,2025-12-11,30,810000,963900,"5,7",pagada con atraso,16200,5
+F-0148,76.455.187-7,Ingeniería Aconcagua,pyme,Valparaíso,C. Peña,baja,2025-05-21,2025-06-20,2025-06-20,30,661000,786590,"5,9",pagada al día,0,0
+F-0433,73.091.379-6,Constructora Central,pyme,Biobío,J. Salas,media,2025-08-18,2025-09-17,2025-09-24,30,174000,207060,"6,1",pagada con atraso,3480,7
+F-0349,63.650.981-7,Comercial Central,pyme,Metropolitana,C. Peña,baja,2025-07-14,2025-08-13,2025-08-13,30,500000,595000,"6,6",pagada al día,0,0
+F-0326,60.876.074-1,Transportes del Sur,pyme,Valparaíso,M. Fuentes,alta,2025-04-19,2025-07-18,2025-07-27,90,143000,170170,"6,2",pagada con atraso,2860,9
+F-0404,74.010.432-2,Ingeniería Aconcagua,corporativo,Valparaíso,M. Fuentes,baja,2025-09-25,2025-10-25,2025-11-05,30,1539000,1831410,"3,1",pagada con atraso,30780,11
+F-0124,70.931.376-2,Distribuidora Andes,pyme,Metropolitana,P. Vergara,baja,2025-06-08,2025-08-07,2025-08-28,60,1073000,1276870,"4,2",pagada con atraso,21460,21
+F-0515,75.721.234-K,Servicios Norte Grande,corporativo,Antofagasta,P. Vergara,baja,2025-05-31,2025-06-30,2025-06-30,30,719000,855610,"5,9",pagada al día,0,0
+F-0097,63.789.425-0,Distribuidora Araucanía,pyme,Valparaíso,M. Fuentes,media,2025-08-21,2025-11-19,2025-08-15,90,5872000,6987680,"6,1",pagada con atraso,117440,13
+F-0144,61.883.540-5,Distribuidora Norte Grande,pyme,Metropolitana,J. Salas,baja,2025-01-20,2025-03-21,2025-03-21,60,2543000,3026170,"5,5",pagada al día,0,0
+F-0240,79.350.177-3,Ingeniería del Sur,pyme,Metropolitana,J. Salas,baja,2025-11-09,2026-01-08,2026-01-08,60,696000,828240,"5,7",pagada al día,0,0
+F-0474,68.913.734-2,Comercial Norte Grande,pyme,Los Lagos,J. Salas,alta,2025-04-13,2025-05-13,2025-05-25,30,1361000,1619590,"6,2",pagada con atraso,27220,12
+F-0098,67.332.846-6,Distribuidora Norte Grande,pyme,Metropolitana,P. Vergara,baja,2025-06-10,2025-07-10,2025-07-10,30,174000,207060,"4,2",pagada al día,0,0
+F-0372,67.415.938-2,Comercial Central,pyme,Metropolitana,J. Salas,baja,2025-11-21,2025-12-21,2026-01-08,30,367000,436730,"5,7",pagada con atraso,7340,18
+F-0325,68.913.734-2,Comercial Norte Grande,pyme,Los Lagos,J. Salas,media,2025-02-19,2025-05-20,2025-05-20,90,247000,293930,"2,7",pagada al día,0,0
+F-0280,68.660.271-0,Constructora Central,gobierno,Metropolitana,A. Rojas,baja,2025-09-16,2025-10-16,2025-11-28,30,473000,562870,"3,1",en gestión judicial,9460,43
+F-0294,69.514.095-9,Distribuidora Aconcagua,corporativo,Metropolitana,J. Salas,baja,2025-09-11,2025-11-10,2025-11-12,60,656000,780640,"3,1",pagada con atraso,13120,2
+F-0595,63.085.786-4,Comercial Andes,gobierno,Metropolitana,J. Salas,baja,2025-05-01,2025-05-31,2025-06-26,30,953000,1134070,"5,9",pagada con atraso,19060,26
+F-0123,63.085.786-4,Comercial Andes,gobierno,Metropolitana,J. Salas,media,2025-12-08,2026-03-08,2026-03-30,90,108000,128520,"3,9",pagada con atraso,2160,22
+F-0184,64.544.763-8,Distribuidora Araucanía,pyme,Valparaíso,J. Salas,media,2025-04-29,2025-06-28,2025-07-06,60,115000,136850,"6,2",pagada con atraso,2300,8
+F-0203,67.415.938-2,Comercial Central,pyme,Metropolitana,J. Salas,baja,2025-03-12,2025-05-11,2025-05-26,60,402000,478380,"5,7",pagada con atraso,8040,15
+F-0324,62.562.264-6,Servicios Aconcagua,pyme,Metropolitana,A. Rojas,media,2025-08-06,2025-10-05,2025-10-10,60,215000,255850,"6,1",pagada con atraso,4300,5
+F-0247,70.908.553-0,Servicios Aconcagua,pyme,Valparaíso,C. Peña,baja,2025-12-20,2026-02-18,2026-03-03,60,265000,315350,"3,9",pagada con atraso,5300,13
+F-0498,73.558.357-3,Distribuidora Pacífico,gobierno,Biobío,A. Rojas,baja,2025-04-03,2025-05-03,2025-05-25,30,402000,478380,"6,2",pagada con atraso,8040,22
+F-0523,66.516.501-9,Distribuidora Araucanía,corporativo,Biobío,C. Peña,baja,2025-10-26,2025-11-25,2025-12-01,30,2778000,3305820,"3,5",pagada con atraso,55560,6
+F-0536,69.334.407-7,Servicios Norte Grande,corporativo,Valparaíso,C. Peña,media,2025-11-08,2026-01-07,2026-01-09,60,1022000,1216180,"5,7",pagada con atraso,20440,2
+F-0423,64.029.376-4,Distribuidora del Sur,gobierno,Metropolitana,P. Vergara,baja,2025-06-16,2025-07-16,2025-08-22,30,263000,312970,"4,2",en gestión judicial,5260,37
+F-0540,70.264.498-4,Transportes Aconcagua,pyme,Antofagasta,A. Rojas,baja,2025-09-26,2025-11-25,2025-11-25,60,291000,346290,"3,1",pagada al día,0,0
+F-0401,71.091.669-1,Ingeniería Aconcagua,gobierno,Biobío,P. Vergara,baja,2025-02-03,2025-04-04,2025-05-08,60,291000,346290,"2,7",en gestión judicial,5820,34
+F-0126,78.110.701-8,Constructora del Sur,pyme,Antofagasta,J. Salas,media,2025-01-15,2025-03-16,2025-03-16,60,687000,817530,"5,5",pagada al día,0,0
+F-0439,65.535.181-7,Transportes Pacífico,gobierno,Metropolitana,P. Vergara,alta,2025-07-28,2025-08-27,2025-09-25,30,532000,633080,"6,6",pagada con atraso,10640,29
+F-0426,68.048.265-9,Distribuidora Andes,pyme,Antofagasta,C. Peña,baja,2025-12-24,2026-01-23,2026-01-23,30,171000,203490,"3,9",pagada al día,0,0
+F-0224,76.794.911-1,Comercial Norte Grande,corporativo,Valparaíso,A. Rojas,baja,2025-07-28,2025-08-27,2025-09-05,30,247000,293930,"6,6",pagada con atraso,4940,9
+F-0343,67.409.188-5,Comercial Central,pyme,Antofagasta,J. Salas,alta,2025-03-10,2025-05-09,2025-05-28,60,1904000,2265760,"5,7",pagada con atraso,38080,19
+F-0054,61.785.011-7,Comercial Central,pyme,Antofagasta,C. Peña,media,2025-06-04,2025-09-02,2025-09-15,90,654000,778260,"4,2",pagada con atraso,13080,13
+F-0220,69.007.690-K,Distribuidora Pacífico,corporativo,Metropolitana,J. Salas,alta,2025-08-15,2025-09-14,2025-09-14,30,717000,853230,"6,1",pagada al día,0,0
+F-0130,70.908.553-0,Servicios Aconcagua,pyme,Valparaíso,C. Peña,alta,2025-02-08,2025-03-10,2025-03-10,30,392000,466480,"2,7",pagada al día,0,0
+F-0554,67.090.505-5,Transportes Aconcagua,corporativo,Antofagasta,A. Rojas,media,2025-12-10,2026-02-08,2026-02-09,60,542000,644980,"3,9",pagada con atraso,10840,1
+F-0406,76.455.187-7,Ingeniería Aconcagua,pyme,Valparaíso,C. Peña,media,2025-10-13,2025-11-12,2025-11-21,30,270000,321300,"3,5",pagada con atraso,5400,9
+F-0497,69.007.690-K,Distribuidora Pacífico,corporativo,Metropolitana,J. Salas,baja,2025-03-28,2025-04-27,2025-04-27,30,646000,768740,"5,7",pagada al día,0,0
+F-0556,61.785.011-7,Comercial Central,pyme,Antofagasta,C. Peña,media,2025-02-14,2025-03-16,2025-03-19,30,252000,299880,"2,7",pagada con atraso,5040,3
+F-0408,76.552.587-K,Transportes Pacífico,pyme,Metropolitana,J. Salas,alta,2025-07-28,2025-08-27,2025-09-08,30,308000,366520,"6,6",pagada con atraso,6160,12
+F-0525,64.544.763-8,Distribuidora Araucanía,pyme,Valparaíso,J. Salas,baja,2025-09-29,2025-11-28,2025-12-15,60,235000,279650,"3,1",pagada con atraso,4700,17
+F-0415,63.304.574-7,Transportes Central,pyme,Metropolitana,J. Salas,media,2025-11-11,2026-02-09,2026-02-09,90,240000,285600,"5,7",pagada al día,0,0
+F-0387,74.010.432-2,Ingeniería Aconcagua,corporativo,Valparaíso,M. Fuentes,media,2025-12-26,2026-01-25,2026-01-25,30,676000,804440,"3,9",pagada al día,0,0
+F-0593,75.161.724-0,Transportes Andes,corporativo,Valparaíso,A. Rojas,baja,2025-01-03,2025-02-02,2025-02-17,30,1307000,1555330,"5,5",pagada con atraso,26140,15
+F-0295,68.660.271-0,Constructora Central,gobierno,Metropolitana,A. Rojas,media,2025-01-23,2025-02-22,2025-02-22,30,750000,892500,"5,5",pagada al día,0,0
+F-0268,69.514.095-9,Distribuidora Aconcagua,corporativo,Metropolitana,J. Salas,baja,2025-01-30,2025-03-01,2025-03-06,30,200000,238000,"5,5",pagada con atraso,4000,5
+F-0581,63.892.768-3,Comercial Pacífico,pyme,Biobío,C. Peña,baja,2025-07-15,2025-09-13,2025-09-24,60,800000,952000,"6,6",pagada con atraso,16000,11
+F-0560,62.598.429-7,Servicios Andes,pyme,Metropolitana,C. Peña,baja,2025-02-07,2025-03-09,2025-03-09,30,332000,395080,"2,7",pagada al día,0,0
+F-0113,61.842.713-7,Distribuidora Central,pyme,Metropolitana,C. Peña,baja,2025-03-05,2025-04-04,2025-04-23,30,736000,875840,"5,7",pagada con atraso,14720,19
+F-0180,63.304.574-7,Transportes Central,pyme,Metropolitana,J. Salas,baja,2025-11-04,2026-01-03,2026-01-27,60,769000,915110,"5,7",pagada con atraso,15380,24
+F-0434,63.085.786-4,Comercial Andes,gobierno,Metropolitana,J. Salas,alta,2025-05-25,2025-06-24,2025-07-15,30,404000,480760,"5,9",pagada con atraso,8080,21
+F-0512,73.558.357-3,Distribuidora Pacífico,gobierno,Biobío,A. Rojas,alta,2025-12-14,2026-01-13,2026-02-19,30,456000,542640,"3,9",en gestión judicial,9120,37
+F-0464,67.415.938-2,Comercial Central,pyme,Metropolitana,J. Salas,alta,2025-12-15,2026-01-14,2026-02-09,30,546000,649740,"3,9",pagada con atraso,10920,26
+F-0374,66.603.925-4,Ingeniería Andes,pyme,Metropolitana,J. Salas,baja,2025-05-25,2025-08-23,2025-09-08,90,131000,155890,"5,9",pagada con atraso,2620,16
+F-0315,68.217.000-K,Transportes Andes,pyme,Antofagasta,M. Fuentes,baja,2025-06-02,2025-07-02,2025-07-02,30,1019000,1212610,"4,2",pagada al día,0,0
+F-0152,69.009.168-2,Transportes Araucanía,pyme,Antofagasta,J. Salas,media,2025-09-13,2025-10-13,2025-10-23,30,199000,236810,"3,1",pagada con atraso,3980,10
+F-0506,66.516.501-9,Distribuidora Araucanía,corporativo,Biobío,C. Peña,baja,2025-11-26,2026-01-25,2026-01-25,60,219000,260610,"5,7",pagada al día,0,0
+F-0234,73.091.379-6,Constructora Central,pyme,Biobío,J. Salas,baja,2025-08-15,2025-11-13,2025-11-29,90,432000,514080,"6,1",pagada con atraso,8640,16
+F-0307,69.334.407-7,Servicios Norte Grande,corporativo,Valparaíso,C. Peña,media,2025-07-31,2025-08-30,2025-08-30,30,1258000,1497020,"6,6",pagada al día,0,0
+F-0440,71.289.996-4,Distribuidora Pacífico,pyme,Metropolitana,P. Vergara,baja,2025-08-01,2025-08-31,2025-08-31,30,425000,505750,"6,1",pagada al día,0,0
+F-0165,70.007.007-7,Servicios del Sur,gobierno,Valparaíso,C. Peña,alta,2025-06-01,2025-07-01,2025-07-22,30,409000,486710,"4,2",pagada con atraso,8180,21
+F-0318,71.091.669-1,Ingeniería Aconcagua,gobierno,Biobío,P. Vergara,media,2025-08-16,2025-09-15,2025-10-07,30,544000,647360,"6,1",pagada con atraso,10880,22
+F-0137,74.010.432-2,Ingeniería Aconcagua,corporativo,Valparaíso,M. Fuentes,baja,2025-12-26,2026-01-25,2026-01-25,30,883000,1050770,"3,9",pagada al día,0,0
+F-0411,79.350.177-3,Ingeniería del Sur,pyme,Metropolitana,J. Salas,media,2025-10-12,2025-11-11,2025-11-11,30,182000,216580,"3,5",pagada al día,0,0
+F-0198,75.161.724-0,Transportes Andes,corporativo,Valparaíso,A. Rojas,media,2025-01-19,2025-02-18,2025-02-26,30,444000,528360,"5,5",pagada con atraso,8880,8
+F-0520,63.789.425-0,Distribuidora Araucanía,pyme,Valparaíso,C. Peña,baja,2025-07-22,2025-08-21,2025-08-30,30,823000,979370,"6,6",pagada con atraso,16460,9
+F-0259,78.806.120-K,Servicios Aconcagua,corporativo,Metropolitana,P. Vergara,baja,2025-02-12,2025-04-13,2025-04-13,60,285000,339150,"2,7",pagada al día,0,0
+F-0233,63.304.574-7,Transportes Central,pyme,Metropolitana,J. Salas,baja,2025-07-15,2025-09-13,2025-09-30,60,403000,479570,"6,6",pagada con atraso,8060,17
+F-0116,75.161.724-0,Transportes Andes,corporativo,Valparaíso,A. Rojas,media,2025-02-08,2025-03-10,2025-03-13,30,1489000,1771910,"2,7",pagada con atraso,29780,3
+F-0121,74.867.501-9,Transportes Cordillera,pyme,Metropolitana,M. Fuentes,baja,2025-10-12,2025-11-11,2025-11-11,30,219000,260610,"3,5",pagada al día,0,0
+F-0489,72.633.261-4,Distribuidora Pacífico,pyme,Metropolitana,A. Rojas,alta,2025-02-03,2025-04-04,2025-04-18,60,1610000,1915900,"2,7",pagada con atraso,32200,14
+F-0377,74.895.228-4,Transportes Pacífico,pyme,Metropolitana,A. Rojas,baja,2025-06-21,2025-07-21,2025-08-10,30,206000,245140,"4,2",pagada con atraso,4120,20
+F-0385,64.538.186-6,Distribuidora Cordillera,corporativo,Los Lagos,C. Peña,media,2025-12-02,2026-03-02,2026-03-16,90,1050000,1249500,"3,9",pagada con atraso,21000,14
+F-0225,77.757.755-7,Comercial del Sur,pyme,Biobío,C. Peña,alta,2025-03-26,2025-04-25,2025-05-08,30,1092000,1299480,"5,7",pagada con atraso,21840,13
+F-0580,70.931.376-2,Distribuidora Andes,pyme,Metropolitana,P. Vergara,baja,2025-05-05,2025-06-04,2025-06-04,30,2100000,2499000,"5,9",pagada al día,0,0
+F-0471,75.197.965-7,Distribuidora Cordillera,corporativo,Valparaíso,A. Rojas,baja,2025-08-02,2025-10-31,2025-11-02,90,885000,1053150,"6,1",pagada con atraso,17700,2
+F-0348,76.552.587-K,Transportes Pacífico,pyme,Metropolitana,J. Salas,media,2025-09-05,2025-11-04,2025-11-21,60,1098000,1306620,"3,1",pagada con atraso,21960,17
+F-0128,69.258.807-K,Distribuidora Araucanía,pyme,Valparaíso,J. Salas,baja,2025-12-17,2026-02-15,2026-02-15,60,1587000,1888530,"3,9",pagada al día,0,0
+F-0003,76.455.187-7,Ingeniería Aconcagua,pyme,Valparaíso,M. Fuentes,baja,2025-07-21,2025-08-20,2025-09-09,30,554000,659260,"6,6",pagada con atraso,11080,20
+F-0446,67.332.846-6,Distribuidora Norte Grande,pyme,Metropolitana,P. Vergara,baja,2025-12-08,2026-01-07,2026-01-21,30,950000,1130500,"3,9",pagada con atraso,19000,14
+F-0286,75.631.304-5,Transportes Pacífico,pyme,Metropolitana,J. Salas,baja,2025-11-21,2025-12-21,2025-12-29,30,156000,185640,"5,7",pagada con atraso,3120,8
+F-0564,70.264.498-4,Transportes Aconcagua,pyme,Antofagasta,A. Rojas,baja,2025-11-06,2026-01-05,2026-01-05,60,743000,884170,"5,7",pagada al día,0,0
+F-0044,64.029.376-4,Distribuidora del Sur,gobierno,Metropolitana,P. Vergara,baja,2025-03-16,2025-04-15,2025-05-12,30,279000,332010,"5,7",pagada con atraso,5580,27
+F-0108,78.450.537-5,Constructora Araucanía,pyme,Metropolitana,C. Peña,media,2025-11-26,2026-01-25,2026-01-25,60,2176000,2589440,"5,7",pagada al día,0,0
+F-0517,78.110.701-8,Constructora del Sur,pyme,Antofagasta,J. Salas,media,2025-12-10,2026-01-09,2026-01-09,30,467000,555730,"3,9",pagada al día,0,0
+F-0002,64.029.376-4,Distribuidora del Sur,gobierno,Metropolitana,M. Fuentes,media,2025-04-12,2025-05-12,2025-06-12,30,84000,99960,"6,2",en gestión judicial,1680,31
+F-0134,74.010.432-2,Ingeniería Aconcagua,corporativo,Valparaíso,M. Fuentes,baja,2025-04-01,2025-05-01,2025-05-07,30,494000,587860,"6,2",pagada con atraso,9880,6
+F-0441,73.729.559-1,Transportes del Sur,pyme,Metropolitana,C. Peña,media,2025-05-22,2025-06-21,2025-07-02,30,747000,888930,"5,9",pagada con atraso,14940,11
+F-0510,74.867.501-9,Transportes Cordillera,pyme,Metropolitana,M. Fuentes,media,2025-12-25,2026-01-24,2026-02-06,30,461000,548590,"3,9",pagada con atraso,9220,13
+F-0045,78.806.120-K,Servicios Aconcagua,corporativo,Metropolitana,P. Vergara,baja,2025-07-22,2025-09-20,2025-10-03,60,326000,387940,"6,6",pagada con atraso,6520,13
+F-0170,70.529.542-5,Comercial del Sur,corporativo,Antofagasta,J. Salas,media,2025-07-05,2025-10-03,2025-10-03,90,1270000,1511300,"6,6",pagada al día,0,0
+F-0066,78.535.246-7,Constructora Aconcagua,corporativo,Metropolitana,C. Peña,baja,2025-03-28,2025-04-27,2025-05-10,30,196000,233240,"5,7",pagada con atraso,3920,13
+F-0284,64.544.763-8,Distribuidora Araucanía,pyme,Valparaíso,J. Salas,media,2025-04-27,2025-05-27,2025-06-06,30,485000,577150,"6,2",pagada con atraso,9700,10
+F-0086,75.161.724-0,Transportes Andes,corporativo,Valparaíso,A. Rojas,baja,2025-02-27,2025-03-29,2025-04-09,30,1828000,2175320,"2,7",pagada con atraso,36560,11
+F-0243,76.455.187-7,Ingeniería Aconcagua,pyme,Valparaíso,C. Peña,baja,2025-04-02,2025-06-01,2025-06-08,60,411000,489090,"6,2",pagada con atraso,8220,7
+F-0187,79.350.177-3,Ingeniería del Sur,pyme,Metropolitana,J. Salas,media,2025-11-30,2026-01-29,2026-02-13,60,470000,559300,"5,7",pagada con atraso,9400,15
+F-0327,74.010.432-2,Ingeniería Aconcagua,corporativo,Valparaíso,M. Fuentes,media,2025-05-07,2025-06-06,2025-06-08,30,676000,804440,"5,9",pagada con atraso,13520,2
+F-0160,75.721.234-K,Servicios Norte Grande,corporativo,Antofagasta,P. Vergara,baja,2025-06-02,2025-08-01,2025-08-01,60,535000,636650,"4,2",pagada al día,0,0
+F-0013,75.631.304-5,Transportes Pacífico,pyme,Metropolitana,M. Fuentes,media,2025-06-05,2025-07-05,2025-05-30,30,1378000,1639820,"4,2",pagada con atraso,27560,10
+F-0036,67.415.938-2,Comercial Central,pyme,Metropolitana,J. Salas,media,2025-07-01,2025-07-31,2025-07-31,30,412000,490280,"6,6",pagada al día,0,0
+F-0029,69.514.095-9,Distribuidora Aconcagua,corporativo,Metropolitana,J. Salas,baja,2025-09-26,2025-10-26,2025-10-26,30,998000,1187620,"3,1",pagada al día,0,0
+F-0171,73.396.278-K,Servicios Central,corporativo,Metropolitana,C. Peña,baja,2025-04-12,2025-07-11,2025-07-12,90,442000,525980,"6,2",pagada con atraso,8840,1
+F-0143,68.868.260-6,Comercial Andes,gobierno,Metropolitana,P. Vergara,baja,2025-01-19,2025-03-20,2025-04-17,60,611000,727090,"5,5",pagada con atraso,12220,28
+F-0237,79.350.177-3,Ingeniería del Sur,pyme,Metropolitana,J. Salas,alta,2025-11-24,2025-12-24,2026-01-05,30,2380000,2832200,"5,7",pagada con atraso,47600,12
+F-0478,75.222.742-K,Servicios Cordillera,pyme,Metropolitana,M. Fuentes,media,2025-03-10,2025-04-09,2025-04-29,30,616,733,"5,7",pagada con atraso,12320,20
+F-0582,79.350.177-3,Ingeniería del Sur,pyme,Metropolitana,J. Salas,baja,2025-07-14,2025-08-13,2025-08-13,30,182000,216580,"6,6",pagada al día,0,0
+F-0222,79.350.177-3,Ingeniería del Sur,pyme,Metropolitana,J. Salas,baja,2025-03-30,2025-04-29,2025-04-29,30,1999000,2378810,"5,7",pagada al día,0,0
+F-0555,61.883.540-5,Distribuidora Norte Grande,pyme,Metropolitana,J. Salas,media,2025-05-30,2025-07-29,2025-08-10,60,689000,819910,"5,9",pagada con atraso,13780,12
+F-0096,74.895.228-4,Transportes Pacífico,pyme,Metropolitana,A. Rojas,alta,2025-10-14,2025-12-13,2025-12-13,60,984000,1170960,"3,5",pagada al día,0,0
+F-0052,75.222.742-K,Servicios Cordillera,pyme,Metropolitana,M. Fuentes,baja,2025-05-06,2025-06-05,2025-06-05,30,560000,666400,"5,9",pagada al día,0,0
+F-0241,60.876.074-1,Transportes del Sur,pyme,Valparaíso,M. Fuentes,baja,2025-04-17,2025-05-17,2025-06-01,30,273000,324870,"6,2",pagada con atraso,5460,15
+F-0519,74.867.501-9,Transportes Cordillera,pyme,Metropolitana,M. Fuentes,media,2025-03-23,2025-04-22,2025-04-22,30,313000,372470,"5,7",pagada al día,0,0
+F-0352,69.009.168-2,Transportes Araucanía,pyme,Antofagasta,J. Salas,media,2025-07-27,2025-10-25,2025-10-25,90,433000,515270,"6,6",pagada al día,0,0
+F-0527,73.660.964-9,Ingeniería Pacífico,corporativo,Metropolitana,C. Peña,alta,2025-05-28,2025-08-26,2025-08-31,90,1083000,1288770,"5,9",pagada con atraso,21660,5
+F-0179,68.217.000-K,Transportes Andes,pyme,Antofagasta,M. Fuentes,alta,2025-06-21,2025-07-21,2025-08-08,30,179000,213010,"4,2",pagada con atraso,3580,18
+F-0461,70.908.553-0,Servicios Aconcagua,pyme,Valparaíso,C. Peña,media,2025-01-19,2025-03-20,2025-03-20,60,750000,892500,"5,5",pagada al día,0,0
+F-0537,69.391.110-9,Comercial Andes,gobierno,Metropolitana,J. Salas,media,2025-05-18,2025-07-17,2025-08-14,60,456000,542640,"5,9",pagada con atraso,9120,28
+F-0042,75.479.059-8,Distribuidora Central,pyme,Valparaíso,A. Rojas,media,2025-01-26,2025-02-25,2025-02-25,30,733000,872270,"5,5",pagada al día,0,0
+F-0566,63.789.425-0,Distribuidora Araucanía,pyme,Valparaíso,C. Peña,baja,2025-03-08,2025-04-07,2025-04-15,30,1182000,1406580,"5,7",pagada con atraso,23640,8
+F-0533,68.217.000-K,Transportes Andes,pyme,Antofagasta,M. Fuentes,baja,2025-06-16,2025-08-15,2025-08-31,60,1574000,1873060,"4,2",pagada con atraso,31480,16
+F-0207,73.947.308-K,Transportes Central,pyme,Metropolitana,P. Vergara,media,2025-04-28,2025-06-27,2025-07-14,60,326000,387940,"6,2",pagada con atraso,6520,17
+F-0393,74.349.497-0,Distribuidora del Sur,pyme,Biobío,C. Peña,media,2025-11-18,2025-12-18,2025-12-29,30,998000,1187620,"5,7",pagada con atraso,19960,11
+F-0283,75.479.059-8,Distribuidora Central,pyme,Valparaíso,A. Rojas,media,2025-10-29,2025-11-28,2025-12-15,30,525000,624750,"3,5",pagada con atraso,10500,17
+F-0359,75.197.965-7,Distribuidora Cordillera,corporativo,Valparaíso,A. Rojas,media,2025-12-04,2026-02-02,2026-02-11,60,1922000,2287180,"3,9",pagada con atraso,38440,9
+F-0398,73.729.559-1,Transportes del Sur,pyme,Metropolitana,C. Peña,media,2025-05-19,2025-06-18,2025-07-03,30,1424000,1694560,"5,9",pagada con atraso,28480,15
+F-0255,67.409.188-5,Comercial Central,pyme,Antofagasta,J. Salas,baja,2025-02-25,2025-03-27,2025-04-15,30,1528000,1818320,"2,7",pagada con atraso,30560,19
+F-0218,67.409.188-5,Comercial Central,pyme,Antofagasta,J. Salas,baja,2025-02-11,2025-03-13,2025-03-28,30,573000,681870,"2,7",pagada con atraso,11460,15
+F-0005,75.161.724-0,Transportes Andes,corporativo,Valparaíso,A. Rojas,baja,2025-11-13,2026-02-11,2026-02-11,90,480000,571200,"5,7",pagada al día,0,0
+F-0257,73.396.278-K,Servicios Central,corporativo,Metropolitana,C. Peña,baja,2025-07-20,2025-08-19,2025-09-08,30,240000,285600,"6,6",pagada con atraso,4800,20
+F-0575,75.567.645-4,Ingeniería Araucanía,pyme,Metropolitana,C. Peña,media,2025-02-19,2025-03-21,2025-03-21,30,709000,843710,"2,7",pagada al día,0,0
+F-0544,70.007.007-7,Servicios del Sur,gobierno,Valparaíso,C. Peña,media,2025-05-17,2025-06-16,2025-07-24,30,877000,1043630,"5,9",en gestión judicial,17540,38
+F-0431,62.562.264-6,Servicios Aconcagua,pyme,Metropolitana,A. Rojas,media,2025-12-06,2026-03-06,2026-03-23,90,689000,819910,"3,9",pagada con atraso,13780,17
+F-0101,71.091.669-1,Ingeniería Aconcagua,gobierno,Biobío,P. Vergara,media,2025-12-13,2026-03-13,2026-04-10,90,1018000,1211420,"3,9",pagada con atraso,20360,28
+F-0227,66.516.501-9,Distribuidora Araucanía,corporativo,Biobío,C. Peña,alta,2025-09-09,2025-10-09,2025-10-22,30,428000,509320,"3,1",pagada con atraso,8560,13
+F-0449,61.276.342-9,Ingeniería Norte Grande,pyme,Los Lagos,C. Peña,baja,2025-01-26,2025-03-27,2025-03-27,60,478000,568820,"5,5",pagada al día,0,0
+F-0558,61.883.540-5,Distribuidora Norte Grande,pyme,Metropolitana,J. Salas,baja,2025-11-24,2026-02-22,2026-03-09,90,687000,817530,"5,7",pagada con atraso,13740,15
+F-0584,78.450.537-5,Constructora Araucanía,pyme,Metropolitana,C. Peña,media,2025-04-02,2025-05-02,2025-05-12,30,1178000,1401820,"6,2",pagada con atraso,23560,10
+F-0214,76.552.587-K,Transportes Pacífico,pyme,Metropolitana,J. Salas,baja,2025-03-11,2025-05-10,2025-05-10,60,224000,266560,"5,7",pagada al día,0,0
+F-0360,74.895.228-4,Transportes Pacífico,pyme,Metropolitana,A. Rojas,baja,2025-07-08,2025-09-06,2025-09-26,60,195000,232050,"6,6",pagada con atraso,3900,20
+F-0172,68.913.734-2,Comercial Norte Grande,pyme,Los Lagos,J. Salas,baja,2025-06-29,2025-07-29,2025-07-29,30,203000,241570,"4,2",pagada al día,0,0
+F-0099,77.165.787-7,Distribuidora Pacífico,corporativo,Metropolitana,P. Vergara,baja,2025-11-11,2025-12-11,2025-12-22,30,842000,1001980,"5,7",pagada con atraso,16840,11
+F-0293,74.010.432-2,Ingeniería Aconcagua,corporativo,Valparaíso,M. Fuentes,baja,2025-09-02,2025-10-02,2025-10-15,30,810000,963900,"3,1",pagada con atraso,16200,13
+F-0216,69.955.817-6,Transportes Araucanía,corporativo,Metropolitana,J. Salas,baja,2025-01-13,2025-03-14,2025-03-14,60,1311000,1560090,"5,5",pagada al día,0,0
+F-0062,75.721.234-K,Servicios Norte Grande,corporativo,Antofagasta,P. Vergara,media,2025-04-15,2025-06-14,2025-06-16,60,588000,699720,"6,2",pagada con atraso,11760,2
+F-0407,73.660.964-9,Ingeniería Pacífico,corporativo,Metropolitana,C. Peña,baja,2025-12-13,2026-01-12,2026-01-12,30,426000,506940,"3,9",pagada al día,0,0
+F-0503,75.567.645-4,Ingeniería Araucanía,pyme,Metropolitana,C. Peña,media,2025-04-21,2025-05-21,2025-06-06,30,728000,866320,"6,2",pagada con atraso,14560,16
+F-0048,68.048.265-9,Distribuidora Andes,pyme,Antofagasta,C. Peña,baja,2025-06-15,2025-07-15,2025-07-15,30,745000,886550,"4,2",pagada al día,0,0
+F-0033,69.334.407-7,Servicios Norte Grande,corporativo,Valparaíso,M. Fuentes,alta,2025-07-01,2025-08-30,2025-08-30,60,427000,508130,"6,6",pagada al día,0,0
+F-0201,62.598.429-7,Servicios Andes,pyme,Metropolitana,C. Peña,media,2025-11-12,2025-12-12,2025-12-25,30,1448000,1723120,"5,7",pagada con atraso,28960,13
+F-0135,74.867.501-9,Transportes Cordillera,pyme,Metropolitana,M. Fuentes,baja,2025-07-29,2025-08-28,2025-09-05,30,553000,658070,"6,6",pagada con atraso,11060,8
+F-0028,69.514.095-9,Distribuidora Aconcagua,corporativo,Metropolitana,M. Fuentes,media,2025-09-14,2025-10-14,2025-10-24,30,361000,429590,"3,1",pagada con atraso,7220,10
+F-0535,76.552.587-K,Transportes Pacífico,pyme,Metropolitana,J. Salas,media,2025-02-09,2025-03-11,2025-03-20,30,869000,1034110,"2,7",pagada con atraso,17380,9
+F-0231,73.396.278-K,Servicios Central,corporativo,Metropolitana,C. Peña,baja,2025-04-14,2025-05-14,2025-05-14,30,369000,439110,"6,2",pagada al día,0,0
+F-0490,66.516.501-9,Distribuidora Araucanía,corporativo,Biobío,C. Peña,alta,2025-12-17,2026-01-16,2026-01-17,30,1055000,1255450,"3,9",pagada con atraso,21100,1
+F-0379,63.789.425-0,Distribuidora Araucanía,pyme,Valparaíso,C. Peña,baja,2025-05-12,2025-07-11,2025-07-29,60,471000,560490,"5,9",pagada con atraso,9420,18
+F-0289,73.558.357-3,Distribuidora Pacífico,gobierno,Biobío,A. Rojas,media,2025-03-29,2025-05-28,2025-07-01,60,680000,809200,"5,7",en gestión judicial,13600,34
+F-0419,74.714.996-8,Constructora Andes,pyme,Valparaíso,A. Rojas,media,2025-01-03,2025-03-04,2025-03-30,60,397000,472430,"5,5",pagada con atraso,7940,26
+F-0392,61.718.906-2,Constructora del Sur,corporativo,Metropolitana,A. Rojas,baja,2025-06-22,2025-08-21,2025-08-21,60,967000,1150730,"4,2",pagada al día,0,0
+F-0499,70.264.498-4,Transportes Aconcagua,pyme,Antofagasta,A. Rojas,baja,2025-02-20,2025-05-21,2025-06-09,90,1021000,1214990,"2,7",pagada con atraso,20420,19
+F-0139,77.165.787-7,Distribuidora Pacífico,corporativo,Metropolitana,P. Vergara,media,2025-04-08,2025-06-07,2025-06-07,60,1160000,1380400,"6,2",pagada al día,0,0
+F-0063,68.868.260-6,Comercial Andes,gobierno,Metropolitana,P. Vergara,alta,2025-05-08,2025-08-06,2025-09-05,90,997000,1186430,"5,9",pagada con atraso,19940,30
+F-0472,72.633.261-4,Distribuidora Pacífico,pyme,Metropolitana,A. Rojas,alta,2025-11-18,2026-01-17,2026-01-17,60,994000,1182860,"5,7",pagada al día,0,0
+F-0129,70.007.007-7,SERVICIOS DEL SUR,gobierno,Valparaíso,C. Peña,baja,2025-09-28,2025-10-28,2025-11-17,30,577000,686630,"3,1",pagada con atraso,11540,20
+F-0596,74.867.501-9,Transportes Cordillera,pyme,Metropolitana,M. Fuentes,media,2025-07-09,2025-09-07,2025-09-07,60,543000,646170,"6,6",pagada al día,0,0
+F-0521,69.007.690-K,Distribuidora Pacífico,corporativo,Metropolitana,J. Salas,alta,2025-06-05,2025-07-05,2025-07-05,30,1318000,1568420,"4,2",pagada al día,0,0
+F-0065,68.048.265-9,Distribuidora Andes,pyme,Antofagasta,C. Peña,baja,2025-05-22,2025-07-21,2025-07-21,60,603000,717570,"5,9",pagada al día,0,0
+F-0015,69.009.168-2,Transportes Araucanía,pyme,Antofagasta,M. Fuentes,baja,2025-07-15,2025-08-14,2025-08-21,30,2977000,3542630,"6,6",pagada con atraso,59540,7
+F-0157,73.947.308-K,Transportes Central,pyme,Metropolitana,P. Vergara,baja,2025-06-29,2025-07-29,2025-07-29,30,1385000,1648150,"4,2",pagada al día,0,0
+F-0041,77.862.392-7,Transportes Araucanía,pyme,Metropolitana,C. Peña,media,2025-02-01,2025-03-03,2025-03-03,30,492000,585480,"2,7",pagada al día,0,0
+F-0493,61.842.713-7,Distribuidora Central,pyme,Metropolitana,C. Peña,media,2025-09-04,2025-11-03,2025-11-19,60,1082000,1287580,"3,1",pagada con atraso,21640,16
+F-0380,73.091.379-6,Constructora Central,pyme,Biobío,J. Salas,media,2025-12-18,2026-01-17,2026-01-17,30,295000,351050,"3,9",pagada al día,0,0
+F-0188,68.777.534-1,Transportes Pacífico,gobierno,Metropolitana,P. Vergara,baja,2025-06-25,2025-08-24,2025-09-21,60,802000,954380,"4,2",pagada con atraso,16040,28
+F-0217,60.876.074-1,Transportes del Sur,pyme,Valparaíso,M. Fuentes,baja,2025-02-26,2025-03-28,2025-03-28,30,237000,282030,"2,7",pagada al día,0,0
+F-0053,78.110.701-8,Constructora del Sur,pyme,Antofagasta,J. Salas,baja,2025-06-14,2025-07-14,2025-07-24,30,853000,1015070,"4,2",pagada con atraso,17060,10
+F-0338,61.883.540-5,Distribuidora Norte Grande,pyme,Metropolitana,J. Salas,baja,2025-11-16,2025-12-16,2025-12-16,30,1444000,1718360,"5,7",pagada al día,0,0
+F-0296,74.895.228-4,Transportes Pacífico,pyme,Metropolitana,A. Rojas,alta,2025-03-05,2025-05-04,2025-05-16,60,467000,555730,"5,7",pagada con atraso,9340,12
+F-0252,75.197.965-7,Distribuidora Cordillera,corporativo,Valparaíso,A. Rojas,media,2025-05-13,2025-07-12,2025-07-18,60,697000,829430,"5,9",pagada con atraso,13940,6
+F-0462,64.029.376-4,Distribuidora del Sur,gobierno,Metropolitana,P. Vergara,baja,2025-05-05,2025-06-04,2025-06-27,30,434000,516460,"5,9",pagada con atraso,8680,23
+F-0456,71.289.996-4,Distribuidora Pacífico,pyme,Metropolitana,M. Fuentes,baja,2025-02-18,2025-04-19,2025-02-12,60,1176000,1399440,"2,7",pagada con atraso,23520,13
+F-0016,77.165.787-7,Distribuidora Pacífico,corporativo,Metropolitana,M. Fuentes,media,2025-12-31,2026-03-01,2026-03-01,60,321000,381990,"3,9",pagada al día,0,0
+F-0270,75.161.724-0,Transportes Andes,corporativo,Valparaíso,A. Rojas,media,2025-01-12,2025-02-11,2025-03-03,30,1414000,1682660,"5,5",pagada con atraso,28280,20
+F-0202,61.526.862-3,Servicios Cordillera,pyme,Metropolitana,P. Vergara,baja,2025-09-18,2025-11-17,2025-11-30,60,231000,274890,"3,1",pagada con atraso,4620,13
+F-0162,73.660.964-9,Ingeniería Pacífico,corporativo,Metropolitana,C. Peña,baja,2025-01-02,2025-02-01,2025-02-01,30,306000,364140,"5,5",pagada al día,0,0
+F-0402,69.334.407-7,Servicios Norte Grande,corporativo,Valparaíso,C. Peña,baja,2025-09-28,2025-10-28,2025-11-12,30,1426000,1696940,"3,1",pagada con atraso,28520,15
+F-0477,61.785.011-7,Comercial Central,pyme,Antofagasta,C. Peña,media,2025-12-23,2026-01-22,2026-01-22,30,829000,986510,"3,9",pagada al día,0,0
+F-0106,73.396.278-K,Servicios Central,corporativo,Metropolitana,C. Peña,alta,2025-10-25,2026-01-23,2026-01-26,90,1543000,1836170,"3,5",pagada con atraso,30860,3
+F-0390,63.789.425-0,Distribuidora Araucanía,pyme,Valparaíso,C. Peña,baja,2025-03-20,2025-04-19,2025-04-19,30,915000,1088850,"5,7",pagada al día,0,0
+F-0002,64.029.376-4,Distribuidora del Sur,gobierno,Metropolitana,M. Fuentes,media,2025-04-12,2025-05-12,2025-06-12,30,84000,99960,"6,2",en gestión judicial,1680,31
+F-0570,63.304.574-7,Transportes Central,pyme,Metropolitana,J. Salas,media,2025-06-14,2025-07-14,2025-07-27,30,937000,1115030,"4,2",pagada con atraso,18740,13
+F-0081,78.110.701-8,Constructora del Sur,pyme,Antofagasta,J. Salas,baja,2025-11-09,2025-12-09,2025-12-19,30,633000,753270,"5,7",pagada con atraso,12660,10
+F-0206,69.955.817-6,Transportes Araucanía,corporativo,Metropolitana,J. Salas,media,2025-01-19,2025-03-20,2025-03-20,60,710000,844900,"5,5",pagada al día,0,0
+F-0035,75.479.059-8,Distribuidora Central,pyme,Valparaíso,A. Rojas,media,2025-03-22,2025-06-20,2025-07-11,90,235000,279650,"5,7",pagada con atraso,4700,21
+F-0509,60.876.074-1,Transportes del Sur,pyme,Valparaíso,M. Fuentes,baja,2025-08-13,2025-10-12,2025-10-22,60,770000,916300,"6,1",pagada con atraso,15400,10
+F-0428,61.883.540-5,Distribuidora Norte Grande,pyme,Metropolitana,J. Salas,baja,2025-05-19,2025-06-18,2025-06-26,30,334000,397460,"5,9",pagada con atraso,6680,8
+F-0455,78.110.701-8,Constructora del Sur,pyme,Antofagasta,J. Salas,baja,2025-10-08,2025-11-07,2025-11-07,30,242000,287980,"3,5",pagada al día,0,0
+F-0367,70.264.498-4,Transportes Aconcagua,pyme,Antofagasta,A. Rojas,media,2025-06-06,2025-07-06,2025-07-28,30,297000,353430,"4,2",pagada con atraso,5940,22
+F-0092,64.544.763-8,Distribuidora Araucanía,pyme,Valparaíso,J. Salas,media,2025-07-25,2025-08-24,2025-09-03,30,546000,649740,"6,6",pagada con atraso,10920,10
+F-0340,64.538.186-6,Distribuidora Cordillera,corporativo,Los Lagos,C. Peña,baja,2025-04-04,2025-05-04,2025-05-19,30,231000,274890,"6,2",pagada con atraso,4620,15
+F-0565,65.535.181-7,Transportes Pacífico,gobierno,Metropolitana,P. Vergara,baja,2025-08-14,2025-10-13,2025-11-09,60,1421000,1690990,"6,1",pagada con atraso,28420,27
+F-0346,66.603.925-4,Ingeniería Andes,pyme,Metropolitana,J. Salas,media,2025-05-26,2025-08-24,2025-08-24,90,743000,884170,"5,9",pagada al día,0,0
+F-0242,79.350.177-3,Ingeniería del Sur,pyme,Metropolitana,J. Salas,media,2025-04-04,2025-05-04,2025-05-11,30,368000,437920,"6,2",pagada con atraso,7360,7
+F-0014,61.883.540-5,Distribuidora Norte Grande,pyme,Metropolitana,M. Fuentes,alta,2025-10-22,2026-01-20,2026-01-30,90,276000,328440,"3,5",pagada con atraso,5520,10
+F-0316,74.714.996-8,Constructora Andes,pyme,Valparaíso,A. Rojas,baja,2025-07-16,2025-08-15,2025-09-01,30,705000,838950,"6,6",pagada con atraso,14100,17
+F-0388,63.085.786-4,Comercial Andes,gobierno,Metropolitana,J. Salas,baja,2025-11-30,2025-12-30,2026-01-15,30,737000,877030,"5,7",pagada con atraso,14740,16
+F-0274,73.091.379-6,Constructora Central,pyme,Biobío,J. Salas,baja,2025-01-08,2025-03-09,2025-03-09,60,527000,627130,"5,5",pagada al día,0,0
+F-0167,69.258.807-K,Distribuidora Araucanía,pyme,Valparaíso,J. Salas,alta,2025-03-02,2025-04-01,2025-04-14,30,441000,524790,"5,7",pagada con atraso,8820,13
+F-0010,72.877.266-2,Transportes Cordillera,pyme,Los Lagos,M. Fuentes,baja,2025-05-06,2025-06-05,2025-06-16,30,1049000,1248310,"5,9",pagada con atraso,20980,11
+F-0485,72.877.266-2,Transportes Cordillera,pyme,Los Lagos,P. Vergara,media,2025-02-17,2025-03-19,2025-04-06,30,230000,273700,"2,7",pagada con atraso,4600,18
+F-0598,78.535.246-7,Constructora Aconcagua,corporativo,Metropolitana,C. Peña,media,2025-06-29,2025-07-29,2025-08-04,30,715000,850850,"4,2",pagada con atraso,14300,6
+F-0505,75.197.965-7,Distribuidora Cordillera,corporativo,Valparaíso,A. Rojas,baja,2025-10-10,2025-12-09,2025-12-09,60,243000,289170,"3,5",pagada al día,0,0
+F-0244,69.391.110-9,Comercial Andes,gobierno,Metropolitana,J. Salas,media,2025-12-02,2026-01-31,2026-02-28,60,299000,355810,"3,9",pagada con atraso,5980,28
+F-0567,63.085.786-4,Comercial Andes,gobierno,Metropolitana,J. Salas,media,2025-08-26,2025-09-25,2025-10-27,30,614000,730660,"6,1",en gestión judicial,12280,32
+F-0563,66.603.925-4,Ingeniería Andes,pyme,Metropolitana,J. Salas,media,2025-03-07,2025-05-06,2025-05-06,60,278000,330820,"5,7",pagada al día,0,0
+F-0190,73.396.278-K,Servicios Central,corporativo,Metropolitana,C. Peña,baja,2025-09-07,2025-11-06,2025-11-06,60,584000,694960,"3,1",pagada al día,0,0
+F-0476,75.721.234-K,Servicios Norte Grande,corporativo,Antofagasta,P. Vergara,alta,2025-03-16,2025-06-14,2025-06-18,90,886000,1054340,"5,7",pagada con atraso,17720,4
+F-0511,70.007.007-7,Servicios del Sur,gobierno,Valparaíso,C. Peña,media,2025-05-11,2025-08-09,2025-09-07,90,1761000,2095590,"5,9",pagada con atraso,35220,29
+F-0059,70.529.542-5,Comercial del Sur,corporativo,Antofagasta,J. Salas,baja,2025-07-04,2025-08-03,2025-08-04,30,125000,148750,"6,6",pagada con atraso,2500,1
+F-0475,79.512.378-4,Distribuidora Araucanía,pyme,Metropolitana,P. Vergara,baja,2025-06-25,2025-07-25,2025-08-03,30,705000,838950,"4,2",pagada con atraso,14100,9
+F-0561,74.714.996-8,Constructora Andes,pyme,Valparaíso,A. Rojas,media,2025-05-22,2025-06-21,2025-07-04,30,896000,1066240,"5,9",pagada con atraso,17920,13
+F-0253,68.048.265-9,Distribuidora Andes,pyme,Antofagasta,C. Peña,baja,2025-09-26,2025-10-26,2025-10-26,30,250000,297500,"3,1",pagada al día,0,0
+F-0022,61.883.540-5,Distribuidora Norte Grande,pyme,Metropolitana,J. Salas,baja,2025-02-20,2025-04-21,2025-05-06,60,1239000,1474410,"2,7",pagada con atraso,24780,15
+F-0314,69.514.095-9,Distribuidora Aconcagua,corporativo,Metropolitana,J. Salas,alta,2025-11-18,2025-12-18,2025-12-18,30,901000,1072190,"5,7",pagada al día,0,0
+F-0460,71.091.669-1,Ingeniería Aconcagua,gobierno,Biobío,P. Vergara,baja,2025-09-08,2025-12-07,2026-01-07,90,952000,1132880,"3,1",en gestión judicial,19040,31
+F-0161,69.334.407-7,Servicios Norte Grande,corporativo,Valparaíso,C. Peña,baja,2025-02-26,2025-04-27,2025-04-30,60,214000,254660,"2,7",pagada con atraso,4280,3
+F-0277,79.512.378-4,Distribuidora Araucanía,pyme,Metropolitana,P. Vergara,baja,2025-08-29,2025-09-28,2025-10-10,30,516000,614040,"6,1",pagada con atraso,10320,12
+F-0192,77.862.392-7,Transportes Araucanía,pyme,Metropolitana,C. Peña,media,2025-03-26,2025-05-25,2025-05-25,60,120000,142800,"5,7",pagada al día,0,0
+F-0386,77.862.392-7,Transportes Araucanía,pyme,Metropolitana,C. Peña,baja,2025-11-10,2026-01-09,2026-01-23,60,276000,328440,"5,7",pagada con atraso,5520,14
+F-0414,61.883.540-5,Distribuidora Norte Grande,pyme,Metropolitana,J. Salas,media,2025-11-13,2026-01-12,2026-01-28,60,1741000,2071790,"5,7",pagada con atraso,34820,16
+F-0492,75.161.724-0,Transportes Andes,corporativo,Valparaíso,A. Rojas,baja,2025-08-27,2025-10-26,2025-10-26,60,2503000,2978570,"6,1",pagada al día,0,0
+F-0344,68.913.734-2,Comercial Norte Grande,pyme,Los Lagos,J. Salas,alta,2025-07-22,2025-08-21,2025-09-04,30,1423000,1693370,"6,6",pagada con atraso,28460,14
+F-0309,61.526.862-3,Servicios Cordillera,pyme,Metropolitana,P. Vergara,baja,2025-05-23,2025-06-22,2025-06-22,30,342000,406980,"5,9",pagada al día,0,0
+F-0131,75.222.742-K,Servicios  Cordillera,pyme,Metropolitana,M. Fuentes,media,2025-04-18,2025-05-18,2025-05-18,30,451000,536690,"6,2",pagada al día,0,0
+F-0100,61.276.342-9,Ingeniería Norte Grande,pyme,Los Lagos,C. Peña,media,2025-06-24,2025-08-23,2025-09-09,60,373000,443870,"4,2",pagada con atraso,7460,17
+F-0373,76.455.187-7,Ingeniería Aconcagua,pyme,Valparaíso,C. Peña,baja,2025-08-29,2025-09-28,2025-10-06,30,281000,334390,"6,1",pagada con atraso,5620,8
+F-0088,67.332.846-6,Distribuidora Norte Grande,pyme,Metropolitana,P. Vergara,media,2025-11-16,2026-01-15,2026-01-28,60,764000,909160,"5,7",pagada con atraso,15280,13
+F-0459,67.278.110-8,Constructora Norte Grande,corporativo,Metropolitana,A. Rojas,baja,2025-04-24,2025-06-23,2025-06-29,60,2151000,2559690,"6,2",pagada con atraso,43020,6
+F-0331,69.007.690-K,Distribuidora Pacífico,corporativo,Metropolitana,J. Salas,baja,2025-03-12,2025-04-11,2025-04-21,30,408000,485520,"5,7",pagada con atraso,8160,10
+F-0215,67.415.938-2,Comercial Central,pyme,Metropolitana,J. Salas,media,2025-10-26,2025-11-25,2025-11-25,30,448000,533120,"3,5",pagada al día,0,0
+F-0467,67.409.188-5,Comercial Central,pyme,Antofagasta,J. Salas,media,2025-03-15,2025-04-14,2025-04-24,30,766000,911540,"5,7",pagada con atraso,15320,10
+F-0122,72.877.266-2,Transportes Cordillera,pyme,Los Lagos,P. Vergara,media,2025-07-07,2025-10-05,2025-10-05,90,962000,1144780,"6,6",pagada al día,0,0
+F-0021,70.007.007-7,Servicios del Sur,gobierno,Valparaíso,C. Peña,alta,2025-07-15,2025-10-13,2025-11-13,90,543000,646170,"6,6",en gestión judicial,10860,31
+F-0072,61.842.713-7,Distribuidora Central,pyme,Metropolitana,C. Peña,media,2025-07-13,2025-09-11,2025-09-17,60,229000,272510,"6,6",pagada con atraso,4580,6
+F-0107,67.090.505-5,Transportes Aconcagua,corporativo,Antofagasta,A. Rojas,baja,2025-09-03,2025-10-03,2025-10-16,30,114000,135660,"3,1",pagada con atraso,2280,13
+F-0271,71.289.996-4,Distribuidora Pacífico,pyme,Metropolitana,P. Vergara,baja,2025-09-26,2025-10-26,2025-10-31,30,190000,226100,"3,1",pagada con atraso,3800,5
+F-0436,73.729.559-1,Transportes del Sur,pyme,Metropolitana,C. Peña,baja,2025-04-28,2025-05-28,2025-06-10,30,306000,364140,"6,2",pagada con atraso,6120,13
+F-0103,77.757.755-7,Comercial del Sur,pyme,Biobío,C. Peña,baja,2025-08-04,2025-09-03,2025-09-19,30,1169000,1391110,"6,1",pagada con atraso,23380,16

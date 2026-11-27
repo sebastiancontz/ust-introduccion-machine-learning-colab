@@ -1,0 +1,3001 @@
+id_cliente,meses_antiguedad,tipo_contrato,plan,usa_tv,cargo_mensual,zona,velocidad_medida_pct,cortes_ultimos_3m,reclamos_ultimos_3m,dias_atraso_pago,se_dio_de_baja
+IH-00001,57,12 meses,600 Mb,si,33710,urbana,80,0,0,9,no
+IH-00002,11,12 meses,300 Mb,no,19310,urbana,86,2,1,0,no
+IH-00003,30,12 meses,600 Mb,si,37760,urbana,95,1,3,0,no
+IH-00004,17,mes a mes,100 Mb,si,25380,urbana,76,1,1,0,no
+IH-00005,27,12 meses,100 Mb,no,16860,urbana,77,2,1,0,no
+IH-00006,32,mes a mes,100 Mb,no,19110,urbana,90,0,1,0,no
+IH-00007,51,mes a mes,100 Mb,si,24960,urbana,77,1,4,53,si
+IH-00008,27,12 meses,300 Mb,no,24090,urbana,77,0,1,0,no
+IH-00009,5,mes a mes,600 Mb,si,32850,urbana,93,0,0,33,no
+IH-00010,45,12 meses,600 Mb,no,29370,urbana,83,2,1,0,no
+IH-00011,29,12 meses,600 Mb,no,28830,urbana,81,1,2,12,no
+IH-00012,27,mes a mes,1 Gb,si,40900,urbana,81,1,0,20,no
+IH-00013,34,mes a mes,1 Gb,no,30230,urbana,77,0,0,0,no
+IH-00014,4,12 meses,100 Mb,si,26210,urbana,92,2,1,0,no
+IH-00015,26,mes a mes,100 Mb,no,15150,urbana,80,1,0,12,no
+IH-00016,2,mes a mes,1 Gb,no,33910,urbana,94,1,0,11,no
+IH-00017,10,12 meses,1 Gb,no,34100,rural,97,2,1,0,no
+IH-00018,22,24 meses,100 Mb,si,24510,urbana,86,0,0,0,no
+IH-00019,10,12 meses,100 Mb,no,16700,urbana,93,1,1,0,no
+IH-00020,41,mes a mes,600 Mb,si,34450,urbana,81,0,0,16,no
+IH-00021,2,mes a mes,100 Mb,no,17350,urbana,96,0,0,0,no
+IH-00022,11,12 meses,300 Mb,si,30490,urbana,84,0,0,27,no
+IH-00023,4,12 meses,100 Mb,no,18460,rural,56,1,3,13,si
+IH-00024,39,mes a mes,1 Gb,no,34280,rural,74,0,0,0,no
+IH-00025,11,mes a mes,600 Mb,no,30310,rural,68,0,0,0,no
+IH-00026,49,12 meses,300 Mb,si,31650,urbana,100,0,1,26,no
+IH-00027,49,24 meses,300 Mb,no,19580,urbana,75,0,0,0,no
+IH-00028,12,12 meses,600 Mb,no,25850,rural,84,4,2,3,no
+IH-00029,46,12 meses,600 Mb,si,35900,urbana,95,1,1,22,no
+IH-00030,11,12 meses,600 Mb,si,37280,urbana,86,0,0,0,no
+IH-00031,3,12 meses,100 Mb,no,17930,urbana,99,1,0,0,si
+IH-00032,23,mes a mes,100 Mb,no,15680,urbana,95,0,3,6,no
+IH-00033,53,24 meses,300 Mb,si,32280,urbana,90,0,0,8,no
+IH-00034,45,mes a mes,300 Mb,no,23990,rural,79,2,1,9,no
+IH-00035,20,mes a mes,1 Gb,no,34580,urbana,100,0,1,9,si
+IH-00036,31,12 meses,100 Mb,si,27480,urbana,81,0,1,15,no
+IH-00037,28,mes a mes,300 Mb,no,22580,urbana,83,1,2,13,no
+IH-00038,44,24 meses,100 Mb,no,18740,urbana,92,0,0,18,no
+IH-00039,17,mes a mes,300 Mb,no,18370,urbana,83,0,0,1,no
+IH-00040,15,12 meses,300 Mb,no,22260,rural,79,2,2,0,no
+IH-00041,13,mes a mes,100 Mb,no,18980,urbana,92,0,0,0,no
+IH-00042,63,12 meses,300 Mb,no,22100,urbana,95,0,1,0,no
+IH-00043,6,mes a mes,100 Mb,no,18260,urbana,80,0,0,11,no
+IH-00044,27,12 meses,100 Mb,si,29120,urbana,100,0,2,17,no
+IH-00045,8,mes a mes,300 Mb,si,29890,urbana,82,1,2,0,no
+IH-00046,15,12 meses,600 Mb,si,35980,urbana,79,2,2,0,no
+IH-00047,85,12 meses,100 Mb,no,17340,urbana,100,0,0,0,no
+IH-00048,7,mes a mes,300 Mb,si,30090,urbana,92,2,0,0,no
+IH-00049,16,12 meses,300 Mb,si,29150,urbana,82,0,1,0,si
+IH-00050,55,24 meses,100 Mb,si,24040,urbana,68,1,1,0,no
+IH-00051,30,12 meses,100 Mb,no,17780,rural,77,1,1,0,no
+IH-00052,7,mes a mes,600 Mb,si,34250,urbana,93,1,1,0,no
+IH-00053,15,12 meses,300 Mb,si,30350,urbana,82,1,1,0,no
+IH-00054,25,mes a mes,600 Mb,no,27350,urbana,85,1,1,0,no
+IH-00055,6,12 meses,600 Mb,si,35260,rural,78,4,7,0,si
+IH-00056,11,mes a mes,300 Mb,si,32130,urbana,80,0,1,0,no
+IH-00057,5,mes a mes,300 Mb,no,22660,urbana,84,0,3,0,si
+IH-00058,25,mes a mes,100 Mb,no,16920,rural,57,0,0,0,no
+IH-00059,19,mes a mes,100 Mb,no,15410,rural,70,6,3,10,no
+IH-00060,29,24 meses,600 Mb,si,37090,rural,77,2,3,0,no
+IH-00061,29,24 meses,300 Mb,si,31270,urbana,82,0,1,0,no
+IH-00062,6,mes a mes,300 Mb,no,23090,urbana,88,0,0,16,no
+IH-00063,30,12 meses,100 Mb,no,16610,urbana,86,0,2,0,no
+IH-00064,4,12 meses,100 Mb,si,25440,urbana,87,0,0,9,no
+IH-00065,55,24 meses,600 Mb,si,36560,urbana,100,0,0,0,no
+IH-00066,7,12 meses,1 Gb,no,32450,urbana,100,0,0,11,no
+IH-00067,2,24 meses,600 Mb,si,32370,urbana,94,1,0,0,no
+IH-00068,12,mes a mes,300 Mb,no,22370,urbana,92,1,1,0,no
+IH-00069,22,mes a mes,100 Mb,si,26120,rural,92,2,1,0,si
+IH-00070,10,mes a mes,600 Mb,si,34630,urbana,100,1,0,0,si
+IH-00071,49,mes a mes,300 Mb,si,32460,rural,81,1,0,0,no
+IH-00072,37,12 meses,600 Mb,no,27190,urbana,85,0,1,0,no
+IH-00073,24,12 meses,1 Gb,no,35310,urbana,87,2,2,0,no
+IH-00074,3,12 meses,600 Mb,no,26510,urbana,84,0,0,0,no
+IH-00075,14,24 meses,600 Mb,si,36330,urbana,82,1,1,0,no
+IH-00076,19,24 meses,600 Mb,no,25320,urbana,94,0,1,12,no
+IH-00077,44,mes a mes,100 Mb,no,15370,urbana,85,0,2,11,no
+IH-00078,34,12 meses,100 Mb,si,26760,urbana,81,0,0,0,no
+IH-00079,21,mes a mes,600 Mb,no,25090,urbana,86,4,1,0,no
+IH-00080,13,mes a mes,300 Mb,no,19990,urbana,100,2,1,0,no
+IH-00081,39,24 meses,300 Mb,no,22170,urbana,100,1,0,0,no
+IH-00082,15,12 meses,1 Gb,si,44160,urbana,86,1,1,0,no
+IH-00083,18,12 meses,600 Mb,no,26150,urbana,77,1,1,15,no
+IH-00084,25,mes a mes,300 Mb,no,22600,urbana,92,0,1,0,no
+IH-00085,18,mes a mes,300 Mb,no,22190,urbana,94,0,1,3,no
+IH-00086,14,mes a mes,300 Mb,no,22460,rural,65,1,2,50,no
+IH-00087,10,12 meses,1 Gb,no,35500,rural,88,4,2,0,no
+IH-00088,24,12 meses,1 Gb,si,43730,urbana,91,1,2,0,no
+IH-00089,15,mes a mes,600 Mb,si,36280,urbana,87,0,0,0,si
+IH-00090,30,24 meses,100 Mb,si,25910,rural,70,0,1,0,no
+IH-00091,30,12 meses,600 Mb,si,35790,urbana,100,0,0,0,no
+IH-00092,23,12 meses,100 Mb,si,26070,rural,87,0,1,0,no
+IH-00093,18,12 meses,1 Gb,no,31850,urbana,83,0,1,0,no
+IH-00094,12,mes a mes,1 Gb,no,32700,rural,81,0,4,13,no
+IH-00095,25,24 meses,600 Mb,no,28860,urbana,89,0,0,0,no
+IH-00096,34,mes a mes,100 Mb,no,17080,urbana,94,1,0,0,no
+IH-00097,7,mes a mes,300 Mb,no,20140,urbana,86,2,1,0,si
+IH-00098,6,mes a mes,300 Mb,si,30840,urbana,100,1,1,0,si
+IH-00099,39,12 meses,100 Mb,no,14930,urbana,94,3,1,0,no
+IH-00100,6,12 meses,600 Mb,no,27820,urbana,98,2,1,0,no
+IH-00101,26,24 meses,300 Mb,si,30160,urbana,94,0,1,0,no
+IH-00102,87,mes a mes,100 Mb,no,17450,urbana,87,0,0,0,no
+IH-00103,17,12 meses,300 Mb,no,21300,rural,74,3,3,3,no
+IH-00104,29,24 meses,300 Mb,no,20450,urbana,77,1,1,10,no
+IH-00105,20,mes a mes,300 Mb,no,21370,urbana,85,2,0,0,no
+IH-00106,80,12 meses,300 Mb,no,21590,rural,88,6,3,0,no
+IH-00107,6,mes a mes,100 Mb,no,16600,rural,78,0,1,0,si
+IH-00108,24,mes a mes,300 Mb,no,21980,urbana,86,0,0,1,si
+IH-00109,44,mes a mes,100 Mb,si,25270,urbana,82,0,1,0,no
+IH-00110,2,12 meses,300 Mb,si,33340,urbana,77,0,0,0,no
+IH-00111,26,mes a mes,300 Mb,si,30690,urbana,85,2,1,0,no
+IH-00112,32,mes a mes,300 Mb,si,31460,urbana,98,0,1,0,no
+IH-00113,2,mes a mes,1 Gb,no,36310,urbana,89,0,1,0,no
+IH-00114,18,mes a mes,1 Gb,no,30010,urbana,98,0,0,0,no
+IH-00115,47,12 meses,300 Mb,no,20430,urbana,84,0,0,0,no
+IH-00116,5,mes a mes,100 Mb,no,15260,rural,93,0,0,8,no
+IH-00117,10,mes a mes,300 Mb,no,21970,urbana,91,0,0,21,si
+IH-00118,11,24 meses,300 Mb,si,32700,urbana,93,0,1,0,no
+IH-00119,19,mes a mes,100 Mb,si,24930,urbana,98,0,2,0,si
+IH-00120,5,mes a mes,600 Mb,no,28420,urbana,99,2,1,14,no
+IH-00121,19,12 meses,300 Mb,no,24570,urbana,96,1,2,5,no
+IH-00122,77,mes a mes,600 Mb,no,26770,urbana,81,0,2,10,no
+IH-00123,57,24 meses,100 Mb,si,24720,rural,80,1,4,0,no
+IH-00124,66,mes a mes,300 Mb,si,33530,urbana,90,0,0,0,no
+IH-00125,18,mes a mes,100 Mb,no,17410,urbana,95,1,1,4,no
+IH-00126,12,mes a mes,600 Mb,no,26110,urbana,86,0,0,3,no
+IH-00127,13,12 meses,300 Mb,si,32160,urbana,84,0,0,0,no
+IH-00128,49,24 meses,300 Mb,no,23370,urbana,88,0,0,0,no
+IH-00129,29,24 meses,600 Mb,si,36040,urbana,80,1,2,0,no
+IH-00130,17,24 meses,600 Mb,si,38540,urbana,81,0,0,17,no
+IH-00131,11,12 meses,1 Gb,no,32690,rural,80,1,2,0,no
+IH-00132,39,24 meses,300 Mb,si,31160,urbana,94,0,0,0,no
+IH-00133,32,mes a mes,600 Mb,no,25660,urbana,97,0,1,0,no
+IH-00134,10,12 meses,300 Mb,no,20520,urbana,88,1,2,0,no
+IH-00135,30,mes a mes,300 Mb,no,22190,urbana,89,0,1,9,no
+IH-00136,8,24 meses,600 Mb,no,26840,urbana,100,2,1,10,no
+IH-00137,3,24 meses,300 Mb,no,22610,urbana,89,0,0,0,no
+IH-00138,8,mes a mes,300 Mb,si,32130,urbana,88,0,0,0,no
+IH-00139,37,24 meses,100 Mb,no,15290,urbana,93,2,1,20,no
+IH-00140,18,24 meses,300 Mb,si,30260,urbana,93,0,1,0,no
+IH-00141,5,12 meses,100 Mb,no,16830,urbana,84,0,0,0,no
+IH-00142,6,mes a mes,600 Mb,no,27920,urbana,97,0,0,0,si
+IH-00143,18,24 meses,300 Mb,no,20990,urbana,100,1,0,0,no
+IH-00144,17,mes a mes,1 Gb,no,33810,urbana,99,0,0,0,si
+IH-00145,23,24 meses,100 Mb,no,17860,urbana,89,0,1,0,no
+IH-00146,15,12 meses,600 Mb,no,26360,urbana,92,0,0,0,no
+IH-00147,5,mes a mes,300 Mb,no,24130,urbana,82,0,0,3,si
+IH-00148,9,12 meses,600 Mb,no,26080,urbana,100,0,1,0,no
+IH-00149,2,24 meses,600 Mb,si,35830,urbana,78,1,0,9,no
+IH-00150,26,mes a mes,100 Mb,no,16380,urbana,89,0,0,4,no
+IH-00151,12,mes a mes,300 Mb,no,21150,urbana,94,1,0,0,no
+IH-00152,6,mes a mes,300 Mb,no,22130,urbana,100,1,0,0,no
+IH-00153,27,mes a mes,100 Mb,si,25800,urbana,100,0,0,0,no
+IH-00154,10,mes a mes,600 Mb,no,28920,urbana,79,0,2,0,no
+IH-00155,9,12 meses,100 Mb,si,27650,urbana,88,0,0,0,no
+IH-00156,10,mes a mes,100 Mb,no,20000,urbana,81,1,0,2,no
+IH-00157,14,24 meses,600 Mb,no,25840,urbana,100,0,0,0,no
+IH-00158,12,mes a mes,600 Mb,no,26640,urbana,82,1,2,0,si
+IH-00159,28,mes a mes,100 Mb,no,18420,urbana,78,0,0,0,no
+IH-00160,6,24 meses,300 Mb,no,22480,urbana,83,2,1,43,no
+IH-00161,44,mes a mes,300 Mb,no,21490,rural,81,1,0,0,no
+IH-00162,16,mes a mes,100 Mb,no,17430,urbana,96,0,0,0,no
+IH-00163,22,mes a mes,300 Mb,no,24440,urbana,78,1,1,0,no
+IH-00164,9,12 meses,1 Gb,si,43040,urbana,87,0,0,0,no
+IH-00165,4,24 meses,300 Mb,no,19680,urbana,95,1,1,0,no
+IH-00166,7,mes a mes,1 Gb,no,34510,urbana,86,0,1,0,no
+IH-00167,14,24 meses,600 Mb,si,38790,urbana,92,0,0,5,no
+IH-00168,40,24 meses,1 Gb,no,34130,urbana,86,0,3,0,no
+IH-00169,16,12 meses,1 Gb,no,32190,rural,77,3,0,0,no
+IH-00170,13,mes a mes,300 Mb,si,31170,urbana,100,0,1,0,no
+IH-00171,10,mes a mes,1 Gb,si,44640,urbana,91,1,1,0,si
+IH-00172,31,24 meses,300 Mb,si,32940,rural,99,3,3,0,no
+IH-00173,40,24 meses,600 Mb,no,28060,urbana,94,0,0,0,no
+IH-00174,18,mes a mes,300 Mb,no,22350,rural,83,1,0,0,si
+IH-00175,6,12 meses,100 Mb,si,25530,urbana,73,0,1,33,no
+IH-00176,20,12 meses,300 Mb,no,25530,urbana,88,0,0,0,no
+IH-00177,61,mes a mes,100 Mb,no,14430,urbana,84,0,1,0,no
+IH-00178,12,12 meses,1 Gb,no,32890,urbana,88,0,0,16,no
+IH-00179,26,12 meses,300 Mb,si,31470,urbana,100,0,1,0,no
+IH-00180,11,mes a mes,300 Mb,si,31350,urbana,82,2,2,0,si
+IH-00181,6,12 meses,100 Mb,no,18980,rural,90,3,5,0,si
+IH-00182,8,mes a mes,100 Mb,no,18740,urbana,100,0,1,0,si
+IH-00183,22,mes a mes,100 Mb,no,15890,urbana,88,0,0,0,no
+IH-00184,6,12 meses,300 Mb,si,32620,urbana,91,0,0,0,no
+IH-00185,7,12 meses,100 Mb,no,17620,urbana,66,1,4,9,si
+IH-00186,33,mes a mes,100 Mb,si,25070,urbana,100,0,0,1,no
+IH-00187,14,24 meses,300 Mb,no,20690,urbana,87,1,1,0,no
+IH-00188,20,24 meses,600 Mb,si,33970,urbana,84,1,1,28,si
+IH-00189,24,mes a mes,300 Mb,si,27790,rural,73,1,2,32,si
+IH-00190,58,12 meses,600 Mb,si,37470,urbana,77,1,1,10,no
+IH-00191,52,mes a mes,100 Mb,no,17650,urbana,86,1,1,0,no
+IH-00192,14,12 meses,1 Gb,si,40100,urbana,87,0,0,0,no
+IH-00193,4,12 meses,100 Mb,no,16760,urbana,81,0,3,9,si
+IH-00194,6,12 meses,100 Mb,no,17180,urbana,100,0,0,16,no
+IH-00195,15,12 meses,300 Mb,no,19820,urbana,78,1,0,8,no
+IH-00196,17,mes a mes,300 Mb,no,21580,urbana,100,2,0,0,no
+IH-00197,6,mes a mes,1 Gb,no,32140,urbana,76,0,0,0,si
+IH-00198,33,mes a mes,300 Mb,si,30420,rural,76,1,0,24,no
+IH-00199,7,12 meses,1 Gb,no,34140,urbana,85,0,2,0,no
+IH-00200,53,12 meses,100 Mb,no,15460,urbana,84,1,1,0,no
+IH-00201,96,12 meses,300 Mb,no,24270,urbana,88,0,0,15,no
+IH-00202,59,12 meses,300 Mb,si,31170,urbana,86,0,0,0,no
+IH-00203,51,mes a mes,300 Mb,no,19470,urbana,82,0,0,0,no
+IH-00204,9,12 meses,100 Mb,no,12920,urbana,93,0,0,0,no
+IH-00205,53,mes a mes,1 Gb,no,34880,urbana,99,0,0,0,no
+IH-00206,25,mes a mes,600 Mb,si,35720,urbana,100,2,0,0,no
+IH-00207,14,24 meses,300 Mb,si,30090,rural,83,2,1,3,no
+IH-00208,4,24 meses,100 Mb,no,17950,urbana,88,0,0,0,no
+IH-00209,8,12 meses,600 Mb,no,23830,urbana,85,0,1,6,no
+IH-00210,23,24 meses,600 Mb,no,27850,urbana,84,0,0,0,no
+IH-00211,27,12 meses,1 Gb,si,43470,urbana,85,0,0,0,no
+IH-00212,25,12 meses,300 Mb,si,30320,urbana,86,0,0,0,no
+IH-00213,43,mes a mes,100 Mb,no,14500,urbana,88,0,1,0,no
+IH-00214,57,mes a mes,1 Gb,si,39870,urbana,88,1,1,0,si
+IH-00215,19,24 meses,300 Mb,no,24560,rural,81,0,0,4,no
+IH-00216,51,12 meses,100 Mb,no,17880,urbana,100,1,0,0,no
+IH-00217,49,24 meses,100 Mb,no,15950,urbana,86,0,0,3,no
+IH-00218,2,12 meses,600 Mb,si,35340,rural,90,1,3,0,no
+IH-00219,61,12 meses,300 Mb,no,22630,urbana,92,0,0,8,no
+IH-00220,6,24 meses,1 Gb,si,43890,urbana,93,0,0,0,no
+IH-00221,54,24 meses,300 Mb,si,32640,urbana,94,0,0,0,no
+IH-00222,20,12 meses,100 Mb,no,19450,rural,73,3,1,0,no
+IH-00223,11,24 meses,300 Mb,si,31920,rural,75,2,1,0,si
+IH-00224,21,12 meses,300 Mb,no,19350,rural,80,4,3,11,si
+IH-00225,16,12 meses,300 Mb,si,30430,rural,74,1,3,0,no
+IH-00226,36,12 meses,100 Mb,si,25320,urbana,83,2,2,0,no
+IH-00227,2,mes a mes,300 Mb,si,28230,urbana,100,2,1,0,no
+IH-00228,7,24 meses,300 Mb,no,21740,urbana,82,1,0,4,no
+IH-00229,30,24 meses,300 Mb,si,31810,urbana,100,2,4,8,no
+IH-00230,13,mes a mes,600 Mb,si,35080,urbana,75,1,0,2,no
+IH-00231,28,mes a mes,300 Mb,no,25020,urbana,100,1,0,1,no
+IH-00232,2,12 meses,600 Mb,no,28430,urbana,92,2,1,0,no
+IH-00233,23,mes a mes,600 Mb,si,36240,rural,88,4,0,0,no
+IH-00234,5,24 meses,300 Mb,si,32040,urbana,98,0,0,0,no
+IH-00235,65,12 meses,1 Gb,no,32320,rural,89,1,1,0,no
+IH-00236,31,12 meses,100 Mb,si,26310,urbana,88,0,0,13,no
+IH-00237,16,mes a mes,600 Mb,no,26430,urbana,100,1,0,0,si
+IH-00238,10,24 meses,1 Gb,si,42890,rural,72,1,3,0,si
+IH-00239,23,24 meses,100 Mb,no,16870,urbana,83,0,1,0,no
+IH-00240,16,24 meses,600 Mb,no,27540,urbana,80,2,3,19,no
+IH-00241,6,mes a mes,600 Mb,si,38320,urbana,90,1,1,0,no
+IH-00242,15,mes a mes,300 Mb,si,32690,rural,81,1,2,0,si
+IH-00243,11,24 meses,300 Mb,no,23620,urbana,87,0,0,0,no
+IH-00244,11,12 meses,300 Mb,no,22130,urbana,81,0,0,0,no
+IH-00245,45,mes a mes,100 Mb,no,16220,rural,86,0,0,0,no
+IH-00246,34,24 meses,300 Mb,no,22580,rural,67,1,1,24,no
+IH-00247,17,24 meses,300 Mb,si,31040,urbana,93,0,0,14,no
+IH-00248,2,12 meses,100 Mb,no,17020,urbana,95,0,0,0,no
+IH-00249,21,mes a mes,100 Mb,no,16830,rural,55,5,5,0,si
+IH-00250,29,24 meses,300 Mb,no,22860,urbana,91,1,0,0,no
+IH-00251,21,24 meses,300 Mb,si,30900,urbana,83,0,0,0,no
+IH-00252,11,mes a mes,600 Mb,si,36050,urbana,75,0,1,0,si
+IH-00253,29,12 meses,600 Mb,no,29030,urbana,77,1,3,0,si
+IH-00254,57,24 meses,300 Mb,no,21060,urbana,96,1,0,0,no
+IH-00255,16,12 meses,300 Mb,si,29080,urbana,90,0,0,0,no
+IH-00256,8,mes a mes,100 Mb,no,16260,urbana,88,0,2,0,si
+IH-00257,23,12 meses,600 Mb,no,27800,urbana,95,1,1,6,no
+IH-00258,14,24 meses,300 Mb,no,23140,urbana,76,0,1,0,no
+IH-00259,14,mes a mes,600 Mb,no,26640,rural,69,1,0,7,no
+IH-00260,1,mes a mes,600 Mb,si,35910,urbana,95,0,0,0,no
+IH-00261,12,mes a mes,300 Mb,no,21580,rural,75,1,1,0,si
+IH-00262,23,mes a mes,100 Mb,si,27730,urbana,91,0,0,9,no
+IH-00263,6,24 meses,600 Mb,no,26400,urbana,97,1,1,0,no
+IH-00264,5,12 meses,600 Mb,si,35220,urbana,91,0,1,0,no
+IH-00265,50,mes a mes,100 Mb,no,16460,urbana,100,2,0,0,no
+IH-00266,25,mes a mes,300 Mb,no,20380,rural,95,1,1,0,si
+IH-00267,91,12 meses,600 Mb,si,37950,urbana,87,2,1,7,si
+IH-00268,10,mes a mes,300 Mb,no,22610,rural,71,1,2,0,no
+IH-00269,13,12 meses,300 Mb,no,23870,urbana,98,0,1,0,no
+IH-00270,9,12 meses,1 Gb,no,33670,urbana,90,0,0,0,no
+IH-00271,34,mes a mes,100 Mb,no,17660,urbana,94,1,2,0,no
+IH-00272,33,mes a mes,600 Mb,no,26900,urbana,89,1,1,22,no
+IH-00273,14,mes a mes,100 Mb,no,17120,urbana,93,0,2,12,no
+IH-00274,52,12 meses,300 Mb,no,21990,rural,72,4,2,0,no
+IH-00275,2,mes a mes,100 Mb,no,19480,urbana,99,0,0,0,no
+IH-00276,6,mes a mes,600 Mb,si,36390,rural,78,0,1,0,si
+IH-00277,15,mes a mes,600 Mb,si,37150,urbana,95,0,1,0,no
+IH-00278,6,mes a mes,300 Mb,no,20140,urbana,92,1,2,1,si
+IH-00279,1,12 meses,300 Mb,no,22970,urbana,78,0,0,25,no
+IH-00280,9,mes a mes,600 Mb,no,26050,urbana,99,0,0,6,no
+IH-00281,4,mes a mes,100 Mb,no,16210,urbana,100,0,2,0,no
+IH-00282,34,mes a mes,1 Gb,si,41670,rural,84,2,1,0,si
+IH-00283,22,mes a mes,100 Mb,no,16990,urbana,100,0,0,10,no
+IH-00284,62,mes a mes,600 Mb,no,28340,rural,78,3,2,0,no
+IH-00285,12,12 meses,600 Mb,si,37310,urbana,84,0,0,0,no
+IH-00286,9,mes a mes,100 Mb,no,17660,urbana,84,0,0,23,si
+IH-00287,23,12 meses,300 Mb,no,22610,urbana,71,0,1,0,no
+IH-00288,31,12 meses,600 Mb,no,27640,urbana,81,0,0,0,no
+IH-00289,19,24 meses,300 Mb,si,32880,urbana,86,2,2,0,no
+IH-00290,8,12 meses,100 Mb,no,17010,urbana,82,1,1,0,no
+IH-00291,5,12 meses,1 Gb,no,31400,urbana,79,1,0,0,no
+IH-00292,21,mes a mes,300 Mb,no,21570,urbana,87,0,1,0,no
+IH-00293,5,mes a mes,600 Mb,si,39120,urbana,96,0,0,20,no
+IH-00294,9,mes a mes,100 Mb,no,16910,urbana,85,2,2,0,no
+IH-00295,46,mes a mes,100 Mb,no,16510,urbana,92,0,0,0,no
+IH-00296,9,mes a mes,300 Mb,no,21590,urbana,95,1,1,0,no
+IH-00297,9,mes a mes,300 Mb,no,21930,urbana,92,1,0,0,no
+IH-00298,12,mes a mes,300 Mb,no,20080,urbana,86,0,2,0,no
+IH-00299,28,12 meses,100 Mb,no,17420,urbana,83,0,0,0,no
+IH-00300,1,12 meses,100 Mb,si,27130,urbana,79,0,0,0,no
+IH-00301,17,12 meses,600 Mb,no,28420,urbana,86,0,0,0,no
+IH-00302,5,12 meses,100 Mb,si,25510,rural,82,2,1,0,no
+IH-00303,2,12 meses,600 Mb,si,35590,urbana,97,1,0,0,no
+IH-00304,25,12 meses,1 Gb,no,32520,urbana,93,1,0,0,no
+IH-00305,19,mes a mes,600 Mb,si,34980,urbana,91,1,1,23,no
+IH-00306,62,24 meses,300 Mb,no,20930,urbana,100,1,3,2,no
+IH-00307,51,12 meses,100 Mb,si,26140,urbana,100,1,0,7,no
+IH-00308,14,12 meses,1 Gb,no,31900,urbana,90,0,2,6,no
+IH-00309,16,mes a mes,1 Gb,no,32110,rural,78,0,1,0,no
+IH-00310,40,12 meses,300 Mb,si,32920,rural,74,0,0,0,no
+IH-00311,10,12 meses,600 Mb,no,26470,urbana,97,0,0,0,no
+IH-00312,36,12 meses,100 Mb,si,26480,urbana,79,0,0,0,no
+IH-00313,77,mes a mes,100 Mb,si,24870,urbana,98,0,1,0,no
+IH-00314,9,mes a mes,300 Mb,si,29940,urbana,82,0,0,0,no
+IH-00315,2,12 meses,600 Mb,no,27640,urbana,100,2,1,0,no
+IH-00316,1,mes a mes,100 Mb,no,16850,urbana,100,0,1,6,no
+IH-00317,12,24 meses,600 Mb,si,33740,urbana,88,0,1,0,no
+IH-00318,2,mes a mes,300 Mb,si,29900,rural,79,2,0,13,no
+IH-00319,5,mes a mes,300 Mb,si,33100,urbana,86,0,1,0,no
+IH-00320,13,24 meses,300 Mb,si,33260,urbana,90,1,1,27,no
+IH-00321,51,24 meses,100 Mb,no,17620,urbana,97,1,0,0,no
+IH-00322,13,mes a mes,600 Mb,si,36110,urbana,84,1,0,0,no
+IH-00323,2,mes a mes,100 Mb,no,16860,urbana,99,0,0,6,no
+IH-00324,14,mes a mes,600 Mb,no,28040,urbana,72,1,2,0,si
+IH-00325,16,12 meses,100 Mb,no,15370,urbana,100,1,0,0,no
+IH-00326,12,mes a mes,1 Gb,si,39920,rural,63,0,0,0,si
+IH-00327,99,12 meses,300 Mb,no,21700,urbana,83,1,0,0,no
+IH-00328,7,mes a mes,300 Mb,no,21680,urbana,90,0,0,0,no
+IH-00329,23,mes a mes,1 Gb,no,33020,urbana,100,0,0,0,no
+IH-00330,7,24 meses,600 Mb,si,36300,urbana,95,1,0,0,no
+IH-00331,18,12 meses,100 Mb,no,17730,urbana,97,0,1,0,no
+IH-00332,17,mes a mes,100 Mb,no,18760,urbana,87,0,1,0,no
+IH-00333,16,mes a mes,300 Mb,si,29800,rural,85,1,1,0,si
+IH-00334,2,12 meses,600 Mb,no,27230,rural,89,1,1,0,no
+IH-00335,28,mes a mes,600 Mb,no,25470,urbana,100,1,0,0,no
+IH-00336,7,mes a mes,1 Gb,si,41460,urbana,84,0,1,0,no
+IH-00337,7,mes a mes,100 Mb,no,14950,rural,68,1,0,0,si
+IH-00338,21,mes a mes,1 Gb,no,32910,urbana,100,1,0,0,si
+IH-00339,12,mes a mes,300 Mb,no,21780,urbana,96,0,1,0,no
+IH-00340,27,mes a mes,300 Mb,si,30240,urbana,76,0,0,0,si
+IH-00341,26,mes a mes,100 Mb,no,16900,urbana,68,1,1,0,no
+IH-00342,4,12 meses,300 Mb,no,22620,rural,79,2,1,25,no
+IH-00343,37,mes a mes,1 Gb,no,31870,urbana,95,1,0,0,no
+IH-00344,26,12 meses,1 Gb,no,32010,urbana,99,1,1,0,no
+IH-00345,1,mes a mes,100 Mb,no,16280,urbana,88,1,1,0,si
+IH-00346,18,mes a mes,600 Mb,no,28240,urbana,74,0,1,0,no
+IH-00347,40,mes a mes,300 Mb,no,23640,rural,77,0,2,0,si
+IH-00348,21,mes a mes,1 Gb,si,41220,urbana,67,0,2,6,si
+IH-00349,19,mes a mes,600 Mb,no,26730,urbana,98,0,0,8,no
+IH-00350,20,12 meses,1 Gb,no,32730,urbana,89,0,1,0,no
+IH-00351,31,24 meses,600 Mb,si,36300,rural,68,1,4,0,no
+IH-00352,11,mes a mes,100 Mb,no,17090,urbana,88,0,1,0,no
+IH-00353,2,mes a mes,300 Mb,no,20930,urbana,88,0,0,6,no
+IH-00354,1,mes a mes,1 Gb,no,32270,urbana,89,0,0,0,no
+IH-00355,71,12 meses,600 Mb,si,35910,urbana,86,0,1,0,no
+IH-00356,9,24 meses,300 Mb,no,20560,urbana,89,0,0,12,no
+IH-00357,28,12 meses,300 Mb,no,21570,urbana,94,1,1,0,no
+IH-00358,5,24 meses,1 Gb,no,32360,urbana,94,2,0,4,no
+IH-00359,5,mes a mes,300 Mb,no,22610,rural,86,1,0,0,si
+IH-00360,34,mes a mes,100 Mb,no,20630,urbana,96,0,0,8,no
+IH-00361,6,mes a mes,300 Mb,no,19760,rural,100,2,0,0,si
+IH-00362,26,mes a mes,600 Mb,si,34090,urbana,90,3,3,0,si
+IH-00363,43,24 meses,600 Mb,si,36080,urbana,84,0,1,0,no
+IH-00364,22,mes a mes,100 Mb,no,15090,urbana,91,0,0,0,no
+IH-00365,10,12 meses,100 Mb,si,26870,urbana,83,0,1,14,no
+IH-00366,22,mes a mes,1 Gb,si,38530,urbana,78,1,2,0,si
+IH-00367,22,mes a mes,300 Mb,no,21070,urbana,88,0,0,5,no
+IH-00368,13,12 meses,600 Mb,no,24870,urbana,91,0,1,0,no
+IH-00369,7,12 meses,300 Mb,no,23930,urbana,94,1,0,4,no
+IH-00370,19,24 meses,100 Mb,si,26280,urbana,100,0,0,7,no
+IH-00371,44,mes a mes,300 Mb,no,24240,urbana,72,1,1,5,no
+IH-00372,19,mes a mes,300 Mb,no,20460,urbana,100,0,0,0,si
+IH-00373,9,24 meses,600 Mb,no,26580,urbana,83,0,0,0,no
+IH-00374,42,12 meses,100 Mb,si,24680,urbana,73,0,2,0,no
+IH-00375,4,mes a mes,600 Mb,no,28410,urbana,82,1,0,0,no
+IH-00376,42,mes a mes,1 Gb,no,34400,urbana,93,0,1,16,no
+IH-00377,24,mes a mes,1 Gb,no,31800,urbana,76,0,1,0,no
+IH-00378,32,mes a mes,100 Mb,no,17970,urbana,86,0,0,0,no
+IH-00379,4,12 meses,100 Mb,no,18630,rural,85,1,1,4,no
+IH-00380,28,24 meses,1 Gb,no,31280,urbana,100,2,1,0,no
+IH-00381,2,mes a mes,1 Gb,no,32130,urbana,97,0,0,0,no
+IH-00382,5,mes a mes,600 Mb,si,37310,urbana,85,1,1,0,no
+IH-00383,24,mes a mes,300 Mb,si,31330,urbana,89,3,1,0,si
+IH-00384,3,24 meses,300 Mb,no,19340,urbana,86,0,0,0,no
+IH-00385,19,12 meses,100 Mb,no,18420,urbana,94,0,0,0,no
+IH-00386,30,24 meses,100 Mb,no,17870,urbana,92,2,0,0,no
+IH-00387,3,mes a mes,100 Mb,no,16030,urbana,93,1,1,3,si
+IH-00388,19,12 meses,300 Mb,no,23240,urbana,85,0,2,8,no
+IH-00389,31,12 meses,300 Mb,no,23510,rural,77,2,2,0,no
+IH-00390,63,24 meses,100 Mb,no,16160,rural,74,3,0,0,no
+IH-00391,32,12 meses,300 Mb,no,23110,urbana,97,2,0,0,no
+IH-00392,11,mes a mes,300 Mb,no,21770,urbana,93,0,0,0,no
+IH-00393,5,24 meses,300 Mb,si,29050,urbana,100,1,1,9,no
+IH-00394,17,mes a mes,1 Gb,no,33130,urbana,85,0,0,0,no
+IH-00395,10,mes a mes,1 Gb,si,42470,urbana,76,0,1,0,si
+IH-00396,17,12 meses,300 Mb,no,21830,urbana,87,0,0,0,no
+IH-00397,15,12 meses,100 Mb,no,18500,urbana,77,0,0,7,no
+IH-00398,52,12 meses,100 Mb,no,19780,rural,95,1,0,1,no
+IH-00399,41,12 meses,300 Mb,no,23980,urbana,83,0,0,0,no
+IH-00400,10,mes a mes,100 Mb,no,17390,urbana,76,1,2,0,no
+IH-00401,6,12 meses,100 Mb,no,16660,urbana,86,1,0,0,no
+IH-00402,25,mes a mes,600 Mb,si,38410,urbana,87,0,0,0,no
+IH-00403,6,mes a mes,300 Mb,si,34160,urbana,100,1,1,0,no
+IH-00404,20,24 meses,1 Gb,si,42670,urbana,100,0,0,0,no
+IH-00405,17,12 meses,300 Mb,no,24150,rural,76,0,1,14,no
+IH-00406,25,12 meses,300 Mb,no,23830,urbana,93,0,0,0,no
+IH-00407,16,mes a mes,100 Mb,no,16840,urbana,70,3,2,0,si
+IH-00408,10,24 meses,600 Mb,no,26850,urbana,87,1,4,0,no
+IH-00409,67,12 meses,100 Mb,no,17490,urbana,81,0,2,4,no
+IH-00410,13,mes a mes,600 Mb,no,28990,urbana,76,0,2,12,si
+IH-00411,35,mes a mes,300 Mb,no,23790,urbana,87,0,1,0,no
+IH-00412,99,mes a mes,600 Mb,si,37100,urbana,100,0,0,30,no
+IH-00413,15,mes a mes,300 Mb,si,29530,urbana,92,0,2,0,si
+IH-00414,39,mes a mes,600 Mb,no,27320,urbana,70,0,0,0,no
+IH-00415,5,mes a mes,300 Mb,no,24120,urbana,99,1,1,1,no
+IH-00416,11,24 meses,100 Mb,no,14500,urbana,84,2,0,0,no
+IH-00417,15,24 meses,600 Mb,no,25110,urbana,92,1,2,0,no
+IH-00418,1,24 meses,600 Mb,no,28870,urbana,81,1,1,0,no
+IH-00419,1,mes a mes,300 Mb,no,22440,urbana,100,0,0,0,no
+IH-00420,25,12 meses,600 Mb,si,35610,urbana,95,0,1,0,no
+IH-00421,26,12 meses,100 Mb,no,15310,urbana,83,0,0,0,no
+IH-00422,40,12 meses,100 Mb,no,17120,urbana,92,0,1,6,no
+IH-00423,47,12 meses,300 Mb,si,31200,urbana,92,0,4,20,no
+IH-00424,15,mes a mes,300 Mb,no,22650,urbana,74,0,0,44,no
+IH-00425,12,12 meses,600 Mb,si,36830,urbana,83,3,3,0,no
+IH-00426,34,12 meses,300 Mb,no,21390,urbana,94,1,0,7,no
+IH-00427,22,mes a mes,1 Gb,si,43610,urbana,100,0,0,6,no
+IH-00428,47,12 meses,100 Mb,si,27280,rural,81,1,1,0,no
+IH-00429,21,12 meses,1 Gb,si,44770,urbana,70,0,1,5,si
+IH-00430,29,24 meses,300 Mb,no,22220,rural,74,1,0,0,si
+IH-00431,72,12 meses,600 Mb,no,24780,urbana,79,0,0,0,no
+IH-00432,14,mes a mes,100 Mb,si,26190,urbana,98,0,1,0,no
+IH-00433,17,mes a mes,300 Mb,no,21040,urbana,88,1,2,4,si
+IH-00434,20,mes a mes,300 Mb,si,31320,urbana,100,0,1,0,no
+IH-00435,52,12 meses,100 Mb,si,30570,urbana,87,1,0,0,no
+IH-00436,24,mes a mes,600 Mb,no,25310,rural,79,0,0,0,no
+IH-00437,28,12 meses,300 Mb,si,29560,urbana,100,2,1,20,no
+IH-00438,20,12 meses,300 Mb,no,23160,rural,91,1,2,4,no
+IH-00439,18,12 meses,100 Mb,no,17550,urbana,97,1,1,0,no
+IH-00440,4,mes a mes,100 Mb,si,26280,urbana,100,1,1,0,no
+IH-00441,21,12 meses,600 Mb,no,25350,urbana,74,1,0,0,no
+IH-00442,6,12 meses,1 Gb,no,33620,urbana,91,0,1,0,no
+IH-00443,17,12 meses,300 Mb,no,21970,urbana,84,0,0,6,no
+IH-00444,80,12 meses,100 Mb,no,18090,urbana,91,0,0,0,no
+IH-00445,41,mes a mes,600 Mb,no,26040,urbana,89,0,0,9,no
+IH-00446,14,12 meses,300 Mb,no,23030,urbana,82,0,0,0,no
+IH-00447,39,24 meses,100 Mb,no,20310,rural,100,3,0,0,no
+IH-00448,7,mes a mes,600 Mb,no,26200,rural,73,1,1,0,si
+IH-00449,8,24 meses,100 Mb,no,18040,urbana,79,0,0,9,no
+IH-00450,68,24 meses,300 Mb,no,22320,urbana,100,0,1,4,no
+IH-00451,23,12 meses,300 Mb,si,32170,urbana,97,1,0,0,no
+IH-00452,21,24 meses,300 Mb,no,21180,rural,69,1,1,0,no
+IH-00453,50,mes a mes,300 Mb,no,23240,urbana,95,1,2,0,no
+IH-00454,23,24 meses,1 Gb,no,32690,rural,83,1,1,0,no
+IH-00455,12,mes a mes,1 Gb,no,32680,urbana,89,0,0,0,no
+IH-00456,6,24 meses,1 Gb,si,43440,rural,86,1,0,0,no
+IH-00457,30,mes a mes,300 Mb,no,21050,rural,79,4,3,0,si
+IH-00458,2,mes a mes,300 Mb,si,29670,urbana,87,0,0,0,no
+IH-00459,23,mes a mes,600 Mb,no,26800,urbana,90,1,0,0,si
+IH-00460,10,mes a mes,1 Gb,no,34090,urbana,100,0,0,0,no
+IH-00461,31,24 meses,600 Mb,si,36030,urbana,98,0,1,3,no
+IH-00462,44,12 meses,100 Mb,si,25280,rural,79,1,1,0,no
+IH-00463,12,mes a mes,300 Mb,no,23500,urbana,95,2,4,11,no
+IH-00464,43,12 meses,600 Mb,si,36250,urbana,97,0,0,0,no
+IH-00465,36,12 meses,100 Mb,no,17150,rural,56,3,4,0,si
+IH-00466,27,mes a mes,600 Mb,no,29830,urbana,100,0,1,0,no
+IH-00467,40,24 meses,300 Mb,si,32070,urbana,90,2,2,0,no
+IH-00468,42,24 meses,300 Mb,no,21430,urbana,96,0,0,0,no
+IH-00469,16,24 meses,600 Mb,no,28320,urbana,97,1,0,0,no
+IH-00470,2,mes a mes,100 Mb,no,15360,rural,76,4,2,15,no
+IH-00471,6,mes a mes,1 Gb,no,34670,urbana,82,0,0,0,no
+IH-00472,27,24 meses,600 Mb,si,35510,urbana,91,1,1,8,no
+IH-00473,7,24 meses,300 Mb,si,32530,rural,62,0,2,0,si
+IH-00474,26,24 meses,1 Gb,no,33360,urbana,88,1,0,6,no
+IH-00475,15,12 meses,300 Mb,si,28860,urbana,77,0,1,11,no
+IH-00476,7,mes a mes,100 Mb,si,28160,urbana,79,0,0,18,no
+IH-00477,25,12 meses,600 Mb,si,36090,urbana,100,1,0,0,no
+IH-00478,10,12 meses,300 Mb,si,32070,urbana,75,0,0,0,no
+IH-00479,50,mes a mes,300 Mb,no,22120,urbana,80,0,0,0,si
+IH-00480,1,24 meses,300 Mb,no,19080,rural,80,3,1,0,no
+IH-00481,12,12 meses,600 Mb,no,24770,urbana,100,0,1,0,no
+IH-00482,43,12 meses,600 Mb,si,36060,urbana,93,0,1,18,no
+IH-00483,39,12 meses,600 Mb,si,33540,urbana,86,2,1,0,si
+IH-00484,7,mes a mes,300 Mb,no,23710,rural,90,0,0,2,no
+IH-00485,40,mes a mes,300 Mb,si,32850,urbana,81,0,1,0,no
+IH-00486,23,12 meses,100 Mb,no,18850,urbana,92,1,0,23,no
+IH-00487,59,mes a mes,300 Mb,no,21940,rural,69,2,3,0,no
+IH-00488,2,12 meses,600 Mb,si,35210,urbana,87,1,0,3,no
+IH-00489,63,24 meses,600 Mb,no,25390,rural,71,2,1,5,no
+IH-00490,12,mes a mes,1 Gb,no,30110,rural,75,5,1,0,si
+IH-00491,27,mes a mes,300 Mb,no,21990,urbana,96,0,0,0,no
+IH-00492,43,12 meses,600 Mb,no,27060,rural,84,3,2,0,no
+IH-00493,25,mes a mes,1 Gb,no,32920,urbana,76,0,1,0,si
+IH-00494,13,24 meses,1 Gb,si,39790,rural,65,1,0,7,no
+IH-00495,17,24 meses,100 Mb,no,18370,urbana,95,0,1,0,no
+IH-00496,4,mes a mes,300 Mb,no,21380,urbana,81,1,2,0,si
+IH-00497,33,mes a mes,1 Gb,si,40530,urbana,92,1,1,10,no
+IH-00498,9,mes a mes,600 Mb,si,36290,urbana,73,0,0,0,no
+IH-00499,32,24 meses,600 Mb,no,28660,rural,75,2,3,0,no
+IH-00500,10,12 meses,600 Mb,no,26890,urbana,81,2,2,7,si
+IH-00501,14,24 meses,300 Mb,no,24280,rural,69,3,0,3,no
+IH-00502,25,24 meses,300 Mb,si,31400,urbana,90,0,0,7,no
+IH-00503,15,mes a mes,300 Mb,si,30960,rural,84,1,2,0,si
+IH-00504,4,12 meses,1 Gb,no,35020,urbana,96,0,0,8,no
+IH-00505,29,mes a mes,600 Mb,si,35410,urbana,87,1,2,0,no
+IH-00506,36,12 meses,600 Mb,no,29040,urbana,79,1,0,2,no
+IH-00507,36,12 meses,300 Mb,no,21350,urbana,90,0,1,10,no
+IH-00508,48,12 meses,100 Mb,no,16510,urbana,91,2,0,0,no
+IH-00509,9,24 meses,600 Mb,si,33900,urbana,78,1,2,4,no
+IH-00510,20,12 meses,300 Mb,no,20540,rural,79,4,3,4,si
+IH-00511,34,mes a mes,1 Gb,si,43180,urbana,94,2,3,0,si
+IH-00512,25,12 meses,100 Mb,no,17190,rural,76,0,0,19,no
+IH-00513,16,12 meses,100 Mb,no,18350,rural,75,0,2,0,no
+IH-00514,20,12 meses,100 Mb,si,25480,urbana,92,1,1,0,no
+IH-00515,4,12 meses,600 Mb,no,26230,urbana,87,1,2,0,no
+IH-00516,14,12 meses,600 Mb,no,26480,rural,80,1,1,22,no
+IH-00517,29,12 meses,300 Mb,no,22620,urbana,100,0,0,1,no
+IH-00518,1,mes a mes,300 Mb,si,32990,rural,82,1,1,0,si
+IH-00519,10,12 meses,300 Mb,no,21440,urbana,100,0,0,0,no
+IH-00520,34,12 meses,600 Mb,no,27260,urbana,84,0,3,0,no
+IH-00521,48,mes a mes,300 Mb,no,21170,rural,68,5,4,0,no
+IH-00522,9,mes a mes,300 Mb,no,17700,rural,80,1,1,0,no
+IH-00523,18,mes a mes,1 Gb,no,33520,urbana,93,0,1,0,no
+IH-00524,19,mes a mes,600 Mb,no,29950,urbana,89,0,0,0,no
+IH-00525,12,12 meses,100 Mb,si,25910,urbana,90,0,0,1,no
+IH-00526,34,24 meses,300 Mb,no,20470,urbana,82,1,2,0,no
+IH-00527,3,12 meses,300 Mb,no,20760,urbana,92,0,0,0,no
+IH-00528,37,12 meses,600 Mb,no,24920,urbana,78,0,1,20,si
+IH-00529,9,12 meses,100 Mb,no,19370,urbana,95,0,0,16,no
+IH-00530,16,12 meses,300 Mb,si,31590,urbana,85,0,1,0,no
+IH-00531,21,12 meses,300 Mb,no,20710,urbana,90,0,0,0,no
+IH-00532,41,mes a mes,100 Mb,no,17220,urbana,81,1,0,0,no
+IH-00533,25,12 meses,1 Gb,no,32150,urbana,88,0,2,4,no
+IH-00534,31,12 meses,300 Mb,no,22620,urbana,88,0,1,0,no
+IH-00535,28,24 meses,300 Mb,no,23710,urbana,81,1,0,0,no
+IH-00536,8,mes a mes,300 Mb,no,22550,urbana,92,1,2,0,no
+IH-00537,4,12 meses,300 Mb,no,21060,rural,81,3,2,14,si
+IH-00538,25,mes a mes,100 Mb,no,17020,urbana,96,0,0,1,no
+IH-00539,10,12 meses,1 Gb,si,40110,urbana,92,1,1,9,no
+IH-00540,6,12 meses,100 Mb,si,26720,rural,83,0,0,0,no
+IH-00541,25,12 meses,100 Mb,no,16140,urbana,80,0,2,0,no
+IH-00542,68,12 meses,300 Mb,si,31920,rural,82,3,0,29,no
+IH-00543,1,12 meses,100 Mb,si,27870,rural,57,2,1,0,no
+IH-00544,5,mes a mes,600 Mb,no,27430,urbana,90,2,0,0,no
+IH-00545,4,mes a mes,600 Mb,no,27750,urbana,92,0,0,0,no
+IH-00546,3,12 meses,300 Mb,no,22210,rural,84,0,1,6,no
+IH-00547,5,mes a mes,300 Mb,si,27640,urbana,78,1,1,0,no
+IH-00548,33,12 meses,300 Mb,no,22410,rural,82,2,2,0,no
+IH-00549,39,mes a mes,300 Mb,si,33930,rural,86,2,1,0,no
+IH-00550,7,24 meses,300 Mb,no,20350,urbana,89,0,0,7,no
+IH-00551,6,mes a mes,300 Mb,no,19400,urbana,85,1,1,0,no
+IH-00552,4,mes a mes,600 Mb,no,29790,urbana,91,0,0,0,no
+IH-00553,22,24 meses,300 Mb,si,30250,rural,63,0,0,0,no
+IH-00554,9,12 meses,600 Mb,no,25850,urbana,85,2,5,0,no
+IH-00555,43,mes a mes,300 Mb,si,32520,urbana,85,0,0,0,no
+IH-00556,13,mes a mes,300 Mb,no,22260,urbana,81,1,0,0,no
+IH-00557,20,12 meses,600 Mb,no,29450,urbana,80,0,0,0,no
+IH-00558,61,mes a mes,600 Mb,si,35330,urbana,91,2,2,0,no
+IH-00559,8,24 meses,300 Mb,no,22570,urbana,79,0,1,0,no
+IH-00560,19,24 meses,600 Mb,no,25800,urbana,76,1,0,0,no
+IH-00561,59,mes a mes,100 Mb,no,16930,urbana,95,1,1,0,no
+IH-00562,54,12 meses,100 Mb,no,15450,urbana,81,0,0,13,no
+IH-00563,20,24 meses,300 Mb,si,31380,urbana,97,1,2,5,no
+IH-00564,59,mes a mes,600 Mb,no,27730,urbana,88,1,1,8,no
+IH-00565,16,12 meses,600 Mb,no,27000,urbana,81,0,1,9,no
+IH-00566,9,12 meses,300 Mb,no,23940,urbana,75,0,3,0,si
+IH-00567,31,mes a mes,300 Mb,si,30190,urbana,94,0,0,0,si
+IH-00568,16,mes a mes,600 Mb,no,24740,urbana,96,1,1,0,no
+IH-00569,32,mes a mes,600 Mb,si,34010,rural,94,1,0,0,no
+IH-00570,42,mes a mes,100 Mb,no,14990,urbana,98,1,1,0,no
+IH-00571,64,24 meses,1 Gb,si,43980,urbana,95,0,1,0,no
+IH-00572,8,12 meses,300 Mb,si,31610,urbana,77,0,3,7,no
+IH-00573,33,mes a mes,100 Mb,si,27420,urbana,76,0,1,0,si
+IH-00574,20,mes a mes,1 Gb,si,44930,urbana,79,0,0,5,si
+IH-00575,10,12 meses,300 Mb,no,22140,urbana,92,0,1,0,no
+IH-00576,22,mes a mes,300 Mb,si,31810,rural,54,3,4,0,si
+IH-00577,15,12 meses,100 Mb,no,18610,urbana,88,0,1,0,no
+IH-00578,25,24 meses,300 Mb,no,23700,urbana,100,1,0,2,no
+IH-00579,40,12 meses,300 Mb,no,19230,rural,78,4,3,18,no
+IH-00580,8,mes a mes,100 Mb,si,25040,urbana,89,1,1,0,no
+IH-00581,11,mes a mes,300 Mb,si,33580,urbana,77,0,1,0,no
+IH-00582,16,12 meses,300 Mb,no,20770,urbana,75,4,4,0,si
+IH-00583,25,24 meses,100 Mb,si,25740,rural,86,2,2,5,no
+IH-00584,16,mes a mes,600 Mb,si,35950,rural,89,2,1,0,no
+IH-00585,19,mes a mes,300 Mb,no,22830,urbana,75,2,2,0,no
+IH-00586,23,12 meses,300 Mb,no,20960,rural,80,4,2,10,si
+IH-00587,4,24 meses,100 Mb,no,17750,urbana,75,1,1,0,no
+IH-00588,30,24 meses,300 Mb,si,31010,urbana,88,1,3,0,no
+IH-00589,21,12 meses,600 Mb,si,37630,rural,88,1,3,0,no
+IH-00590,43,mes a mes,100 Mb,no,19720,urbana,82,1,0,0,no
+IH-00591,9,24 meses,1 Gb,no,32200,urbana,100,0,1,12,no
+IH-00592,112,mes a mes,300 Mb,no,21320,urbana,82,0,1,0,no
+IH-00593,13,12 meses,600 Mb,no,28330,rural,82,0,0,11,no
+IH-00594,16,24 meses,100 Mb,no,19820,rural,76,4,2,0,no
+IH-00595,32,12 meses,1 Gb,no,35160,urbana,89,1,1,0,no
+IH-00596,2,24 meses,100 Mb,no,18540,urbana,88,0,1,10,no
+IH-00597,22,24 meses,100 Mb,si,26500,rural,70,1,1,0,si
+IH-00598,23,mes a mes,300 Mb,no,21770,rural,88,1,1,0,no
+IH-00599,28,12 meses,100 Mb,si,25340,urbana,94,0,0,12,no
+IH-00600,36,mes a mes,1 Gb,si,42330,urbana,76,1,0,0,no
+IH-00601,4,12 meses,100 Mb,no,16090,urbana,78,0,0,0,no
+IH-00602,7,12 meses,600 Mb,si,36530,urbana,99,1,0,11,si
+IH-00603,27,24 meses,100 Mb,no,17310,urbana,80,2,2,0,no
+IH-00604,32,12 meses,600 Mb,no,28450,urbana,80,0,1,8,si
+IH-00605,29,24 meses,1 Gb,si,41580,urbana,82,0,3,0,no
+IH-00606,1,12 meses,600 Mb,no,26040,urbana,93,0,1,0,no
+IH-00607,3,12 meses,600 Mb,si,38730,urbana,100,0,1,0,no
+IH-00608,5,24 meses,300 Mb,no,20500,urbana,74,1,0,2,no
+IH-00609,43,12 meses,300 Mb,no,21450,urbana,92,0,0,0,no
+IH-00610,47,12 meses,300 Mb,si,34000,urbana,100,0,0,11,no
+IH-00611,61,mes a mes,300 Mb,si,27810,urbana,81,1,2,0,no
+IH-00612,47,12 meses,600 Mb,si,36900,urbana,77,3,4,13,no
+IH-00613,9,24 meses,300 Mb,si,28560,rural,73,0,1,0,si
+IH-00614,12,mes a mes,300 Mb,no,23330,urbana,86,1,0,28,no
+IH-00615,35,24 meses,300 Mb,si,31150,rural,93,1,1,0,no
+IH-00616,22,12 meses,100 Mb,no,18190,urbana,86,1,1,2,si
+IH-00617,12,24 meses,100 Mb,si,28170,urbana,89,0,2,0,no
+IH-00618,2,12 meses,300 Mb,si,30450,urbana,84,0,0,0,si
+IH-00619,3,24 meses,1 Gb,si,43280,urbana,95,0,1,0,no
+IH-00620,15,mes a mes,1 Gb,si,43330,urbana,95,0,0,0,no
+IH-00621,26,24 meses,100 Mb,no,14750,urbana,86,0,0,0,no
+IH-00622,21,12 meses,300 Mb,no,22730,rural,75,1,1,0,no
+IH-00623,12,mes a mes,100 Mb,no,16820,urbana,91,0,0,0,no
+IH-00624,6,mes a mes,300 Mb,si,30280,urbana,77,0,0,0,si
+IH-00625,29,mes a mes,600 Mb,no,25650,rural,71,2,2,0,no
+IH-00626,41,12 meses,100 Mb,si,25830,urbana,95,0,0,2,no
+IH-00627,20,12 meses,100 Mb,si,25800,urbana,86,2,2,0,no
+IH-00628,19,12 meses,300 Mb,no,21500,rural,70,1,2,4,si
+IH-00629,9,mes a mes,100 Mb,si,25120,urbana,92,1,1,0,no
+IH-00630,35,mes a mes,300 Mb,no,21350,urbana,100,1,1,0,no
+IH-00631,11,mes a mes,100 Mb,no,16710,urbana,81,2,0,2,si
+IH-00632,35,mes a mes,100 Mb,si,27120,rural,77,0,2,0,no
+IH-00633,9,12 meses,300 Mb,no,22930,urbana,87,0,0,0,no
+IH-00634,48,mes a mes,300 Mb,si,30130,urbana,94,0,1,3,no
+IH-00635,16,24 meses,100 Mb,si,24900,urbana,65,2,2,0,no
+IH-00636,55,12 meses,600 Mb,no,25960,urbana,95,0,2,0,no
+IH-00637,52,12 meses,1 Gb,no,34460,urbana,81,1,1,0,no
+IH-00638,18,mes a mes,300 Mb,no,20860,urbana,90,0,0,11,no
+IH-00639,15,24 meses,300 Mb,no,22220,urbana,73,0,0,3,si
+IH-00640,69,24 meses,600 Mb,no,26870,urbana,99,3,1,4,no
+IH-00641,38,12 meses,600 Mb,no,26990,urbana,93,0,1,0,no
+IH-00642,30,mes a mes,600 Mb,no,24810,urbana,77,0,0,0,no
+IH-00643,18,12 meses,300 Mb,no,21090,urbana,92,1,0,0,no
+IH-00644,22,mes a mes,300 Mb,no,23770,rural,83,0,0,0,si
+IH-00645,25,24 meses,300 Mb,no,21730,urbana,82,2,1,0,no
+IH-00646,25,12 meses,1 Gb,no,36170,urbana,94,0,0,0,no
+IH-00647,6,mes a mes,1 Gb,no,32980,urbana,95,0,0,0,no
+IH-00648,36,mes a mes,300 Mb,si,32520,urbana,86,2,0,0,no
+IH-00649,1,mes a mes,100 Mb,si,22930,urbana,90,1,1,0,no
+IH-00650,11,mes a mes,300 Mb,no,23370,urbana,77,0,1,8,no
+IH-00651,66,mes a mes,300 Mb,si,28880,urbana,84,0,0,0,no
+IH-00652,10,mes a mes,300 Mb,no,22200,rural,63,3,0,0,si
+IH-00653,13,mes a mes,100 Mb,si,26310,rural,70,0,1,0,si
+IH-00654,10,24 meses,100 Mb,no,13790,rural,95,3,2,0,no
+IH-00655,16,mes a mes,300 Mb,si,34350,rural,87,1,2,0,no
+IH-00656,14,mes a mes,100 Mb,no,14240,urbana,100,0,0,0,no
+IH-00657,8,12 meses,100 Mb,no,17700,urbana,94,0,1,0,no
+IH-00658,30,mes a mes,300 Mb,no,23360,urbana,78,1,0,6,no
+IH-00659,24,mes a mes,300 Mb,si,28380,urbana,79,1,1,0,no
+IH-00660,5,12 meses,300 Mb,no,19580,urbana,92,2,2,0,no
+IH-00661,4,mes a mes,300 Mb,si,30540,urbana,88,1,1,0,si
+IH-00662,9,12 meses,600 Mb,no,27550,urbana,90,0,0,0,no
+IH-00663,5,12 meses,600 Mb,no,28980,urbana,81,0,0,0,no
+IH-00664,17,mes a mes,300 Mb,si,31670,urbana,93,0,1,0,no
+IH-00665,6,12 meses,1 Gb,no,33280,urbana,92,2,2,0,no
+IH-00666,27,mes a mes,600 Mb,no,29180,urbana,85,2,1,0,si
+IH-00667,25,24 meses,300 Mb,no,24470,urbana,65,1,1,12,no
+IH-00668,8,mes a mes,300 Mb,no,23970,rural,75,1,0,1,no
+IH-00669,21,mes a mes,600 Mb,no,28370,rural,84,2,4,6,no
+IH-00670,14,mes a mes,100 Mb,si,23550,urbana,83,0,2,0,si
+IH-00671,25,mes a mes,300 Mb,no,20970,rural,80,0,0,0,no
+IH-00672,12,24 meses,100 Mb,si,25690,urbana,86,1,1,0,no
+IH-00673,10,mes a mes,600 Mb,si,36920,urbana,89,0,0,0,no
+IH-00674,13,mes a mes,300 Mb,no,22630,rural,92,0,0,0,no
+IH-00675,38,12 meses,600 Mb,no,27210,urbana,100,2,2,0,no
+IH-00676,29,mes a mes,300 Mb,no,22980,urbana,73,0,0,0,no
+IH-00677,27,24 meses,1 Gb,no,33830,urbana,80,0,1,0,no
+IH-00678,13,12 meses,300 Mb,no,21950,urbana,100,0,0,0,no
+IH-00679,14,mes a mes,1 Gb,si,39980,urbana,100,1,1,0,no
+IH-00680,23,12 meses,600 Mb,no,26670,urbana,100,1,1,0,no
+IH-00681,10,12 meses,600 Mb,si,36510,urbana,87,1,1,0,no
+IH-00682,3,24 meses,300 Mb,no,19850,urbana,81,0,1,20,no
+IH-00683,61,24 meses,1 Gb,no,32490,urbana,77,0,1,8,no
+IH-00684,52,mes a mes,300 Mb,no,20710,urbana,93,1,2,0,no
+IH-00685,1,12 meses,300 Mb,si,31980,urbana,82,0,1,1,no
+IH-00686,32,12 meses,600 Mb,no,29940,urbana,84,0,1,0,no
+IH-00687,19,12 meses,600 Mb,si,36610,rural,57,1,0,0,no
+IH-00688,15,24 meses,100 Mb,no,15180,urbana,91,1,1,0,no
+IH-00689,10,12 meses,100 Mb,si,26700,urbana,94,1,1,0,si
+IH-00690,14,mes a mes,300 Mb,si,28050,urbana,94,1,1,0,no
+IH-00691,29,mes a mes,300 Mb,no,21700,urbana,90,0,0,30,no
+IH-00692,40,mes a mes,600 Mb,no,25300,urbana,100,3,2,0,si
+IH-00693,66,mes a mes,300 Mb,no,21420,urbana,92,2,1,0,si
+IH-00694,11,mes a mes,1 Gb,no,31670,urbana,92,0,0,0,si
+IH-00695,44,mes a mes,100 Mb,si,23390,urbana,85,0,2,0,no
+IH-00696,18,mes a mes,300 Mb,no,23100,urbana,85,1,1,0,no
+IH-00697,22,24 meses,1 Gb,no,32560,urbana,81,3,0,0,no
+IH-00698,4,12 meses,600 Mb,si,31380,urbana,74,1,1,0,no
+IH-00699,8,12 meses,100 Mb,no,18300,rural,70,7,2,0,si
+IH-00700,30,mes a mes,100 Mb,no,15500,urbana,82,1,1,8,no
+IH-00701,56,24 meses,300 Mb,si,31690,urbana,87,0,2,0,no
+IH-00702,59,24 meses,300 Mb,si,27570,urbana,89,1,0,7,no
+IH-00703,22,12 meses,100 Mb,si,26070,urbana,79,0,2,0,no
+IH-00704,24,mes a mes,600 Mb,si,37300,urbana,84,0,1,0,no
+IH-00705,18,mes a mes,300 Mb,si,32190,rural,76,2,3,2,si
+IH-00706,7,24 meses,1 Gb,no,31620,urbana,97,0,0,28,no
+IH-00707,73,12 meses,1 Gb,si,41930,urbana,93,0,1,0,no
+IH-00708,6,12 meses,1 Gb,no,31320,urbana,86,0,2,0,no
+IH-00709,10,mes a mes,1 Gb,no,33790,urbana,86,0,0,0,no
+IH-00710,10,mes a mes,600 Mb,no,28380,urbana,79,0,1,0,si
+IH-00711,44,12 meses,600 Mb,si,34790,urbana,90,0,1,10,no
+IH-00712,17,12 meses,600 Mb,no,27640,urbana,100,1,0,0,no
+IH-00713,61,mes a mes,100 Mb,si,26390,urbana,90,0,2,0,no
+IH-00714,10,mes a mes,100 Mb,no,15950,urbana,77,0,2,0,no
+IH-00715,50,mes a mes,600 Mb,no,27790,urbana,99,0,1,0,no
+IH-00716,35,24 meses,300 Mb,no,21690,rural,91,2,3,0,no
+IH-00717,25,12 meses,300 Mb,no,20790,urbana,79,2,3,0,no
+IH-00718,6,24 meses,600 Mb,no,25540,urbana,100,0,0,0,no
+IH-00719,14,12 meses,100 Mb,si,24670,urbana,100,1,0,0,no
+IH-00720,7,mes a mes,1 Gb,no,33530,urbana,79,0,4,0,si
+IH-00721,45,12 meses,1 Gb,no,30330,rural,67,4,3,0,si
+IH-00722,15,12 meses,100 Mb,si,27470,urbana,100,1,1,20,no
+IH-00723,8,mes a mes,1 Gb,no,33510,urbana,100,0,0,0,si
+IH-00724,15,12 meses,300 Mb,si,32850,urbana,88,0,0,0,no
+IH-00725,8,12 meses,100 Mb,no,14060,urbana,100,0,0,0,no
+IH-00726,8,12 meses,100 Mb,no,13170,urbana,92,1,0,5,no
+IH-00727,29,12 meses,300 Mb,no,21100,urbana,88,0,1,0,no
+IH-00728,13,12 meses,600 Mb,no,28620,rural,80,2,1,9,no
+IH-00729,13,mes a mes,100 Mb,si,26380,urbana,88,0,1,0,no
+IH-00730,8,12 meses,100 Mb,si,27350,urbana,100,0,0,0,no
+IH-00731,33,24 meses,1 Gb,no,33210,urbana,98,0,0,6,no
+IH-00732,54,12 meses,100 Mb,no,19550,urbana,100,1,0,13,no
+IH-00733,14,12 meses,300 Mb,si,32390,urbana,95,1,0,0,no
+IH-00734,38,mes a mes,1 Gb,si,42600,urbana,79,1,1,0,si
+IH-00735,19,mes a mes,600 Mb,no,27000,rural,77,0,0,0,no
+IH-00736,15,24 meses,300 Mb,no,19470,urbana,91,0,0,0,no
+IH-00737,10,mes a mes,100 Mb,no,16300,rural,80,1,3,12,no
+IH-00738,17,mes a mes,1 Gb,no,34240,rural,71,3,2,0,si
+IH-00739,8,12 meses,1 Gb,si,42300,urbana,75,0,1,0,no
+IH-00740,39,mes a mes,600 Mb,no,23840,rural,71,2,1,0,no
+IH-00741,91,mes a mes,300 Mb,si,31300,urbana,92,1,3,0,no
+IH-00742,27,mes a mes,300 Mb,si,28570,rural,80,0,1,0,no
+IH-00743,21,mes a mes,100 Mb,si,27350,urbana,98,1,0,0,no
+IH-00744,4,12 meses,300 Mb,no,21560,urbana,95,0,0,0,no
+IH-00745,42,mes a mes,300 Mb,si,31780,urbana,90,1,1,0,no
+IH-00746,10,12 meses,300 Mb,si,30080,urbana,89,0,0,0,no
+IH-00747,78,12 meses,100 Mb,si,27230,urbana,68,1,0,16,no
+IH-00748,24,mes a mes,300 Mb,no,20860,urbana,94,0,1,0,no
+IH-00749,11,12 meses,600 Mb,si,35970,urbana,91,0,1,0,no
+IH-00750,24,mes a mes,300 Mb,no,22640,urbana,95,1,1,0,no
+IH-00751,3,12 meses,300 Mb,no,24230,urbana,91,0,0,0,no
+IH-00752,3,mes a mes,300 Mb,si,31590,urbana,76,1,2,0,si
+IH-00753,13,mes a mes,600 Mb,no,25640,urbana,86,0,1,3,no
+IH-00754,42,12 meses,600 Mb,si,36700,rural,68,1,3,0,si
+IH-00755,19,mes a mes,1 Gb,no,31280,urbana,92,0,0,0,no
+IH-00756,41,24 meses,100 Mb,si,24090,urbana,85,0,0,0,no
+IH-00757,35,24 meses,600 Mb,no,27090,urbana,93,1,1,46,si
+IH-00758,13,12 meses,300 Mb,no,23250,rural,87,3,1,0,no
+IH-00759,15,mes a mes,100 Mb,no,14360,urbana,100,1,3,8,no
+IH-00760,6,24 meses,300 Mb,no,21140,rural,86,3,1,23,no
+IH-00761,34,12 meses,600 Mb,si,35200,urbana,90,0,1,0,no
+IH-00762,26,12 meses,300 Mb,no,20320,rural,77,3,4,0,si
+IH-00763,9,24 meses,300 Mb,si,32930,urbana,81,0,1,12,no
+IH-00764,6,24 meses,1 Gb,si,40720,urbana,90,0,0,9,no
+IH-00765,9,mes a mes,300 Mb,no,21390,rural,82,2,2,0,si
+IH-00766,10,mes a mes,600 Mb,no,27380,urbana,84,0,0,0,no
+IH-00767,61,mes a mes,100 Mb,si,27100,urbana,90,0,0,0,no
+IH-00768,12,12 meses,100 Mb,no,16390,urbana,77,1,0,0,no
+IH-00769,15,mes a mes,300 Mb,no,20800,urbana,89,1,0,0,no
+IH-00770,30,24 meses,300 Mb,no,20660,rural,86,1,1,35,no
+IH-00771,17,mes a mes,100 Mb,no,15400,urbana,84,1,1,7,no
+IH-00772,28,24 meses,1 Gb,no,33220,urbana,78,0,0,0,no
+IH-00773,60,mes a mes,600 Mb,si,36720,urbana,77,0,1,0,no
+IH-00774,40,mes a mes,600 Mb,no,28310,urbana,100,0,0,0,no
+IH-00775,48,12 meses,300 Mb,no,22780,rural,80,2,2,7,no
+IH-00776,26,12 meses,600 Mb,si,36080,urbana,75,0,1,0,no
+IH-00777,2,mes a mes,100 Mb,no,17080,urbana,80,1,2,0,si
+IH-00778,43,12 meses,300 Mb,no,21170,rural,77,0,1,0,no
+IH-00779,39,12 meses,600 Mb,no,27940,urbana,79,0,0,22,no
+IH-00780,12,mes a mes,600 Mb,si,37310,urbana,100,0,2,0,no
+IH-00781,56,mes a mes,100 Mb,si,25390,urbana,85,0,1,0,no
+IH-00782,15,24 meses,100 Mb,si,24990,urbana,94,0,0,0,no
+IH-00783,12,mes a mes,100 Mb,no,19650,urbana,98,0,0,0,no
+IH-00784,23,12 meses,300 Mb,si,34240,urbana,73,0,0,0,no
+IH-00785,9,mes a mes,1 Gb,si,42600,urbana,83,1,0,0,no
+IH-00786,22,mes a mes,600 Mb,si,36490,urbana,86,1,0,0,no
+IH-00787,5,mes a mes,1 Gb,no,34940,urbana,88,2,1,0,no
+IH-00788,8,mes a mes,100 Mb,no,18350,urbana,93,1,1,0,no
+IH-00789,11,mes a mes,300 Mb,si,27390,urbana,88,0,0,7,no
+IH-00790,49,mes a mes,1 Gb,no,31550,urbana,81,0,0,0,no
+IH-00791,18,mes a mes,300 Mb,no,23620,urbana,89,1,0,47,si
+IH-00792,16,24 meses,100 Mb,si,25210,urbana,97,1,0,32,no
+IH-00793,19,mes a mes,300 Mb,no,23210,urbana,61,2,1,0,si
+IH-00794,4,mes a mes,100 Mb,no,15620,urbana,79,0,0,14,si
+IH-00795,10,24 meses,300 Mb,no,24780,urbana,84,1,1,0,no
+IH-00796,4,24 meses,300 Mb,no,21370,urbana,90,0,1,0,no
+IH-00797,7,mes a mes,600 Mb,no,30190,urbana,88,1,0,0,no
+IH-00798,7,mes a mes,300 Mb,si,29880,rural,85,0,1,13,no
+IH-00799,34,mes a mes,300 Mb,no,19930,urbana,57,0,2,0,no
+IH-00800,36,mes a mes,300 Mb,no,21610,urbana,88,0,0,0,no
+IH-00801,38,mes a mes,600 Mb,no,27490,rural,82,2,1,0,no
+IH-00802,21,mes a mes,300 Mb,no,22330,urbana,89,0,0,13,si
+IH-00803,5,24 meses,600 Mb,no,27560,rural,78,0,2,0,si
+IH-00804,37,mes a mes,600 Mb,no,28480,urbana,92,0,1,0,no
+IH-00805,10,12 meses,100 Mb,si,25890,rural,63,2,1,0,no
+IH-00806,12,24 meses,300 Mb,si,27550,urbana,85,0,0,0,no
+IH-00807,16,24 meses,600 Mb,no,28090,urbana,92,0,1,20,no
+IH-00808,48,12 meses,100 Mb,no,17190,rural,68,2,5,22,no
+IH-00809,69,12 meses,300 Mb,no,23450,rural,63,2,4,0,si
+IH-00810,33,mes a mes,600 Mb,si,36980,urbana,87,1,1,0,no
+IH-00811,27,12 meses,100 Mb,no,18160,urbana,84,2,2,10,no
+IH-00812,20,24 meses,600 Mb,no,29120,urbana,76,1,0,16,no
+IH-00813,11,mes a mes,600 Mb,no,27390,urbana,95,0,0,15,si
+IH-00814,17,24 meses,600 Mb,no,26610,urbana,85,0,1,8,no
+IH-00815,14,12 meses,300 Mb,no,23130,urbana,89,1,1,0,no
+IH-00816,38,24 meses,600 Mb,no,28110,rural,73,0,0,31,no
+IH-00817,7,mes a mes,600 Mb,no,28500,urbana,90,0,0,1,si
+IH-00818,24,24 meses,300 Mb,no,21540,urbana,98,0,1,0,no
+IH-00819,29,mes a mes,600 Mb,no,28710,urbana,78,2,1,0,no
+IH-00820,11,mes a mes,100 Mb,si,29790,rural,68,2,0,7,si
+IH-00821,14,24 meses,1 Gb,no,33790,urbana,94,0,1,0,no
+IH-00822,30,12 meses,1 Gb,no,30370,urbana,89,1,0,0,no
+IH-00823,28,mes a mes,1 Gb,no,34170,urbana,94,1,1,0,no
+IH-00824,3,mes a mes,100 Mb,no,17550,rural,95,4,3,0,no
+IH-00825,7,mes a mes,300 Mb,no,18740,urbana,84,1,1,0,no
+IH-00826,8,24 meses,100 Mb,no,17370,rural,85,1,0,9,no
+IH-00827,8,mes a mes,100 Mb,no,16160,urbana,89,0,3,0,no
+IH-00828,13,24 meses,300 Mb,no,22760,urbana,84,1,0,0,no
+IH-00829,3,mes a mes,1 Gb,no,32690,urbana,92,1,3,0,si
+IH-00830,6,mes a mes,600 Mb,no,28090,urbana,92,2,0,0,no
+IH-00831,6,mes a mes,300 Mb,no,23400,urbana,90,2,0,0,no
+IH-00832,17,mes a mes,1 Gb,si,41920,urbana,93,0,0,0,si
+IH-00833,4,12 meses,300 Mb,si,29560,urbana,79,1,2,0,si
+IH-00834,11,mes a mes,600 Mb,si,33680,urbana,83,0,2,0,no
+IH-00835,19,mes a mes,300 Mb,no,23310,urbana,78,0,1,0,no
+IH-00836,3,mes a mes,100 Mb,si,27700,urbana,86,0,2,0,si
+IH-00837,14,12 meses,300 Mb,si,31470,urbana,89,1,1,0,no
+IH-00838,11,24 meses,300 Mb,no,21140,rural,78,1,1,0,no
+IH-00839,29,24 meses,600 Mb,si,36590,urbana,80,0,2,5,no
+IH-00840,20,mes a mes,300 Mb,no,20230,urbana,75,2,0,0,no
+IH-00841,42,12 meses,1 Gb,no,31170,urbana,81,1,1,0,no
+IH-00842,11,12 meses,600 Mb,si,35380,urbana,78,3,0,3,no
+IH-00843,23,12 meses,600 Mb,no,26740,urbana,80,0,1,14,no
+IH-00844,23,24 meses,600 Mb,no,26810,urbana,92,2,0,15,no
+IH-00845,9,12 meses,600 Mb,si,33980,urbana,94,2,2,0,no
+IH-00846,16,mes a mes,100 Mb,no,18500,urbana,90,2,2,0,si
+IH-00847,30,mes a mes,1 Gb,no,30390,urbana,99,0,0,8,no
+IH-00848,44,24 meses,100 Mb,si,27520,urbana,98,0,0,5,no
+IH-00849,6,12 meses,100 Mb,si,26080,urbana,91,0,0,0,no
+IH-00850,41,12 meses,600 Mb,no,25860,urbana,89,0,0,0,no
+IH-00851,16,mes a mes,600 Mb,no,26110,urbana,71,0,1,0,no
+IH-00852,36,24 meses,300 Mb,no,23000,urbana,67,1,3,0,no
+IH-00853,25,mes a mes,300 Mb,no,19550,urbana,100,0,0,0,no
+IH-00854,27,24 meses,100 Mb,no,17300,urbana,90,3,3,1,no
+IH-00855,6,mes a mes,1 Gb,si,43030,urbana,94,0,0,0,si
+IH-00856,12,24 meses,600 Mb,no,28130,urbana,80,0,1,0,no
+IH-00857,32,24 meses,1 Gb,no,33020,urbana,95,2,2,0,no
+IH-00858,8,mes a mes,1 Gb,no,33200,urbana,79,0,0,0,si
+IH-00859,12,12 meses,100 Mb,si,28680,urbana,79,1,0,0,si
+IH-00860,46,12 meses,300 Mb,no,25420,urbana,85,0,0,8,no
+IH-00861,30,mes a mes,600 Mb,no,26450,urbana,100,2,0,11,no
+IH-00862,7,24 meses,100 Mb,no,16910,urbana,90,0,0,6,no
+IH-00863,16,mes a mes,100 Mb,no,17070,urbana,82,0,0,4,no
+IH-00864,7,12 meses,100 Mb,no,16550,urbana,75,1,0,15,no
+IH-00865,4,mes a mes,100 Mb,si,25750,rural,94,5,2,0,no
+IH-00866,40,mes a mes,600 Mb,si,35530,urbana,81,0,2,0,no
+IH-00867,22,mes a mes,300 Mb,si,28890,urbana,83,3,1,0,no
+IH-00868,9,mes a mes,100 Mb,no,17260,urbana,86,0,1,14,si
+IH-00869,11,12 meses,100 Mb,no,14860,urbana,69,0,1,0,no
+IH-00870,17,24 meses,600 Mb,no,29530,urbana,82,1,1,5,no
+IH-00871,17,mes a mes,100 Mb,no,18350,urbana,100,0,1,0,no
+IH-00872,21,12 meses,100 Mb,no,18270,urbana,79,0,1,0,no
+IH-00873,6,mes a mes,300 Mb,no,22670,urbana,87,0,1,14,no
+IH-00874,33,mes a mes,300 Mb,si,30470,urbana,97,1,0,0,no
+IH-00875,2,12 meses,300 Mb,si,32880,urbana,84,0,0,0,no
+IH-00876,44,mes a mes,600 Mb,no,27080,urbana,96,1,2,12,si
+IH-00877,11,mes a mes,300 Mb,no,22040,rural,66,2,1,0,si
+IH-00878,5,mes a mes,600 Mb,no,27940,urbana,100,0,1,0,no
+IH-00879,3,12 meses,600 Mb,no,28140,rural,88,1,1,11,si
+IH-00880,5,mes a mes,600 Mb,si,37480,urbana,81,1,2,0,no
+IH-00881,16,24 meses,600 Mb,si,35290,rural,83,2,1,0,no
+IH-00882,3,mes a mes,300 Mb,no,23200,urbana,80,1,2,8,si
+IH-00883,14,24 meses,100 Mb,si,28410,urbana,86,0,1,20,no
+IH-00884,52,mes a mes,600 Mb,no,29590,urbana,93,2,0,2,no
+IH-00885,9,12 meses,600 Mb,no,27130,urbana,100,0,0,5,no
+IH-00886,15,mes a mes,1 Gb,si,43460,urbana,90,0,1,7,no
+IH-00887,55,mes a mes,100 Mb,no,19790,urbana,98,1,0,13,no
+IH-00888,27,mes a mes,1 Gb,si,42250,rural,67,2,5,0,si
+IH-00889,19,12 meses,1 Gb,no,31530,urbana,100,3,0,0,no
+IH-00890,27,12 meses,600 Mb,si,34910,urbana,79,1,2,32,no
+IH-00891,19,24 meses,1 Gb,no,34230,urbana,76,0,2,0,no
+IH-00892,15,24 meses,100 Mb,no,16210,urbana,88,1,3,0,no
+IH-00893,9,mes a mes,300 Mb,si,31900,urbana,90,1,2,0,no
+IH-00894,40,mes a mes,300 Mb,si,31190,urbana,94,4,2,0,no
+IH-00895,17,mes a mes,300 Mb,si,32570,urbana,74,1,1,10,no
+IH-00896,32,mes a mes,600 Mb,no,26630,urbana,88,0,1,16,si
+IH-00897,11,12 meses,100 Mb,no,15980,urbana,100,0,0,0,no
+IH-00898,12,mes a mes,100 Mb,no,18560,urbana,100,1,0,11,si
+IH-00899,25,12 meses,300 Mb,si,30930,urbana,92,1,0,0,no
+IH-00900,3,12 meses,600 Mb,no,26810,urbana,89,0,1,0,no
+IH-00901,17,mes a mes,100 Mb,no,17470,rural,71,1,0,3,no
+IH-00902,35,24 meses,600 Mb,no,25650,urbana,83,0,3,12,no
+IH-00903,23,24 meses,1 Gb,si,42050,urbana,100,0,1,0,no
+IH-00904,7,12 meses,600 Mb,no,26720,urbana,88,0,1,0,no
+IH-00905,78,24 meses,300 Mb,si,30430,rural,88,2,2,0,no
+IH-00906,24,mes a mes,100 Mb,no,15370,urbana,80,0,0,0,no
+IH-00907,10,24 meses,300 Mb,si,29360,urbana,87,1,1,14,no
+IH-00908,31,12 meses,300 Mb,no,23120,urbana,88,0,1,0,no
+IH-00909,28,mes a mes,1 Gb,si,40510,urbana,88,0,1,0,no
+IH-00910,67,mes a mes,600 Mb,no,24870,urbana,73,1,3,0,no
+IH-00911,8,24 meses,1 Gb,no,31410,urbana,73,0,0,0,no
+IH-00912,8,12 meses,100 Mb,si,27120,urbana,83,1,1,0,no
+IH-00913,1,24 meses,300 Mb,no,20720,urbana,87,2,1,0,no
+IH-00914,33,12 meses,300 Mb,no,20900,urbana,94,0,0,0,no
+IH-00915,20,12 meses,600 Mb,no,25200,urbana,92,0,0,0,no
+IH-00916,3,mes a mes,600 Mb,no,27950,rural,85,0,0,0,no
+IH-00917,41,mes a mes,600 Mb,no,28700,urbana,84,0,0,0,si
+IH-00918,36,mes a mes,600 Mb,no,27840,urbana,95,0,2,0,no
+IH-00919,18,12 meses,600 Mb,no,27940,urbana,86,0,0,0,no
+IH-00920,12,12 meses,1 Gb,si,41680,urbana,88,0,0,0,no
+IH-00921,3,24 meses,600 Mb,no,25970,urbana,93,1,2,0,no
+IH-00922,10,24 meses,100 Mb,si,23910,urbana,74,0,0,0,no
+IH-00923,13,24 meses,300 Mb,no,22130,urbana,99,1,0,0,no
+IH-00924,10,mes a mes,1 Gb,si,44910,urbana,93,2,2,8,no
+IH-00925,25,mes a mes,300 Mb,no,22820,urbana,85,2,0,0,no
+IH-00926,9,12 meses,100 Mb,no,15290,urbana,88,1,0,0,no
+IH-00927,28,24 meses,600 Mb,si,36280,urbana,82,0,0,0,no
+IH-00928,20,12 meses,300 Mb,si,33070,urbana,71,0,0,0,no
+IH-00929,14,24 meses,600 Mb,no,26670,urbana,84,1,1,0,no
+IH-00930,12,mes a mes,1 Gb,no,32520,urbana,89,1,2,0,si
+IH-00931,24,12 meses,1 Gb,si,41470,urbana,100,2,2,0,no
+IH-00932,1,mes a mes,100 Mb,no,15320,urbana,83,0,1,6,no
+IH-00933,8,mes a mes,300 Mb,no,22350,urbana,86,0,0,0,no
+IH-00934,4,mes a mes,300 Mb,no,22580,urbana,88,0,1,0,no
+IH-00935,6,mes a mes,300 Mb,no,25260,urbana,98,1,0,0,no
+IH-00936,26,12 meses,1 Gb,si,42330,urbana,95,2,1,13,no
+IH-00937,6,12 meses,300 Mb,no,19700,urbana,87,2,4,6,si
+IH-00938,1,mes a mes,100 Mb,no,17300,urbana,92,0,0,0,no
+IH-00939,9,12 meses,300 Mb,no,21560,urbana,92,0,0,0,no
+IH-00940,34,mes a mes,100 Mb,no,15440,urbana,78,1,0,0,no
+IH-00941,14,12 meses,100 Mb,si,28900,urbana,84,0,1,15,no
+IH-00942,16,24 meses,300 Mb,si,29470,rural,89,3,2,12,no
+IH-00943,9,mes a mes,100 Mb,si,29100,urbana,93,2,0,0,no
+IH-00944,39,24 meses,1 Gb,no,30230,rural,83,0,1,0,no
+IH-00945,16,mes a mes,100 Mb,si,25490,urbana,90,1,0,0,no
+IH-00946,46,12 meses,300 Mb,no,20570,rural,73,0,2,20,si
+IH-00947,40,mes a mes,600 Mb,no,27410,urbana,100,1,0,0,no
+IH-00948,40,12 meses,1 Gb,no,29320,urbana,91,0,0,0,no
+IH-00949,9,12 meses,300 Mb,no,23950,urbana,86,1,3,0,no
+IH-00950,4,12 meses,100 Mb,no,18920,urbana,80,0,2,0,no
+IH-00951,4,12 meses,100 Mb,si,25850,rural,71,4,2,0,no
+IH-00952,19,mes a mes,600 Mb,no,24940,urbana,89,0,0,0,no
+IH-00953,8,12 meses,1 Gb,si,41400,urbana,87,0,0,5,no
+IH-00954,18,mes a mes,1 Gb,no,33320,urbana,93,0,0,0,si
+IH-00955,5,12 meses,100 Mb,no,17460,urbana,90,0,0,0,si
+IH-00956,3,mes a mes,300 Mb,no,20850,urbana,88,1,1,0,no
+IH-00957,7,24 meses,100 Mb,no,17470,urbana,77,0,0,0,no
+IH-00958,27,mes a mes,600 Mb,no,25780,rural,70,4,1,0,no
+IH-00959,6,mes a mes,300 Mb,no,24160,urbana,75,2,2,3,si
+IH-00960,18,24 meses,300 Mb,si,29970,urbana,95,2,1,0,no
+IH-00961,17,mes a mes,600 Mb,no,25400,rural,62,1,2,0,si
+IH-00962,20,mes a mes,1 Gb,no,36320,urbana,88,3,1,0,no
+IH-00963,2,mes a mes,600 Mb,si,38060,urbana,99,1,1,31,no
+IH-00964,7,12 meses,300 Mb,no,22790,rural,66,1,1,0,no
+IH-00965,5,mes a mes,600 Mb,no,24580,urbana,100,1,0,36,si
+IH-00966,28,24 meses,600 Mb,no,27740,urbana,84,1,0,0,no
+IH-00967,15,24 meses,1 Gb,no,34240,urbana,80,0,2,0,no
+IH-00968,37,mes a mes,300 Mb,si,33000,urbana,87,0,1,0,no
+IH-00969,6,12 meses,300 Mb,no,21530,urbana,91,0,0,9,no
+IH-00970,3,24 meses,100 Mb,no,17090,rural,91,6,2,0,si
+IH-00971,29,24 meses,600 Mb,no,26570,urbana,96,0,1,1,no
+IH-00972,32,mes a mes,300 Mb,si,32670,rural,75,0,1,0,no
+IH-00973,5,mes a mes,100 Mb,no,17240,urbana,93,0,0,0,si
+IH-00974,18,mes a mes,600 Mb,no,27410,urbana,80,1,3,0,no
+IH-00975,33,12 meses,300 Mb,no,23730,urbana,95,2,0,0,no
+IH-00976,13,mes a mes,1 Gb,no,31250,urbana,83,0,0,0,si
+IH-00977,33,12 meses,1 Gb,si,41620,urbana,69,0,2,0,no
+IH-00978,33,24 meses,100 Mb,no,15230,urbana,77,0,1,3,no
+IH-00979,2,mes a mes,600 Mb,no,27700,urbana,86,0,1,0,no
+IH-00980,56,12 meses,600 Mb,si,36460,urbana,100,2,1,3,no
+IH-00981,2,mes a mes,300 Mb,no,22460,urbana,100,0,1,0,no
+IH-00982,7,12 meses,300 Mb,si,27900,urbana,93,0,0,0,si
+IH-00983,12,mes a mes,600 Mb,si,34370,urbana,76,1,0,0,si
+IH-00984,27,mes a mes,100 Mb,si,28150,rural,84,0,0,0,no
+IH-00985,18,12 meses,100 Mb,no,18980,urbana,82,1,0,0,no
+IH-00986,30,24 meses,100 Mb,no,19220,urbana,95,0,1,0,no
+IH-00987,2,12 meses,1 Gb,si,40290,urbana,79,2,2,13,si
+IH-00988,1,24 meses,100 Mb,si,24700,urbana,91,0,1,0,no
+IH-00989,13,mes a mes,300 Mb,si,32930,urbana,75,0,2,11,no
+IH-00990,15,mes a mes,600 Mb,no,27020,urbana,93,0,0,0,no
+IH-00991,12,12 meses,100 Mb,si,24340,urbana,78,3,0,0,no
+IH-00992,51,mes a mes,1 Gb,si,41360,rural,74,3,4,0,no
+IH-00993,19,12 meses,300 Mb,no,23470,urbana,100,2,1,0,no
+IH-00994,21,mes a mes,300 Mb,no,22500,urbana,94,0,2,0,si
+IH-00995,12,12 meses,300 Mb,no,22260,rural,91,4,2,0,si
+IH-00996,3,24 meses,100 Mb,no,17670,urbana,92,0,0,0,no
+IH-00997,32,mes a mes,300 Mb,si,34640,rural,76,4,1,0,no
+IH-00998,12,mes a mes,600 Mb,no,25090,urbana,87,0,0,0,no
+IH-00999,35,mes a mes,600 Mb,no,27680,urbana,100,0,0,0,no
+IH-01000,33,mes a mes,100 Mb,no,17270,urbana,78,1,0,15,no
+IH-01001,16,24 meses,100 Mb,si,25700,urbana,88,0,1,1,no
+IH-01002,12,mes a mes,1 Gb,no,33250,urbana,100,0,0,0,no
+IH-01003,6,mes a mes,300 Mb,no,23730,urbana,93,2,1,0,no
+IH-01004,11,mes a mes,600 Mb,no,27610,urbana,92,1,0,0,no
+IH-01005,25,24 meses,300 Mb,no,23960,urbana,91,0,1,6,no
+IH-01006,13,mes a mes,300 Mb,si,31330,urbana,75,1,1,0,si
+IH-01007,6,24 meses,300 Mb,no,21710,urbana,100,0,0,0,no
+IH-01008,20,12 meses,600 Mb,no,24720,rural,75,1,0,9,no
+IH-01009,8,mes a mes,300 Mb,no,22210,urbana,87,0,0,0,no
+IH-01010,13,12 meses,300 Mb,si,33510,urbana,86,0,1,3,si
+IH-01011,7,24 meses,300 Mb,si,30870,urbana,92,0,0,5,no
+IH-01012,26,12 meses,600 Mb,si,34620,urbana,81,2,3,6,no
+IH-01013,7,24 meses,300 Mb,no,22820,urbana,100,0,0,0,no
+IH-01014,48,24 meses,1 Gb,no,33450,urbana,94,0,0,34,no
+IH-01015,2,mes a mes,1 Gb,no,31510,urbana,87,0,1,0,no
+IH-01016,39,12 meses,300 Mb,no,23900,urbana,86,0,1,21,no
+IH-01017,21,12 meses,300 Mb,si,29340,urbana,93,1,2,0,no
+IH-01018,12,12 meses,1 Gb,no,34250,urbana,96,0,0,5,no
+IH-01019,7,12 meses,600 Mb,no,26940,rural,82,1,0,0,no
+IH-01020,22,mes a mes,1 Gb,no,33620,rural,63,0,2,0,si
+IH-01021,3,mes a mes,300 Mb,no,20110,rural,75,3,2,0,si
+IH-01022,25,24 meses,100 Mb,no,13570,urbana,100,1,0,0,no
+IH-01023,57,mes a mes,300 Mb,si,31490,urbana,98,1,0,0,si
+IH-01024,25,12 meses,300 Mb,no,23320,urbana,86,1,0,0,no
+IH-01025,12,12 meses,100 Mb,si,25520,urbana,91,0,0,0,no
+IH-01026,105,mes a mes,1 Gb,no,32430,urbana,84,0,2,0,si
+IH-01027,8,24 meses,300 Mb,no,23680,rural,78,2,0,4,no
+IH-01028,46,12 meses,300 Mb,no,21940,urbana,86,0,1,0,no
+IH-01029,12,12 meses,100 Mb,si,27080,urbana,88,1,1,0,no
+IH-01030,39,12 meses,100 Mb,no,14430,urbana,75,1,2,14,no
+IH-01031,20,mes a mes,300 Mb,si,32520,rural,84,0,0,0,no
+IH-01032,16,24 meses,100 Mb,si,24340,urbana,90,1,1,3,no
+IH-01033,18,mes a mes,600 Mb,no,28470,urbana,100,0,0,0,si
+IH-01034,12,24 meses,1 Gb,no,34270,urbana,85,0,0,0,no
+IH-01035,11,24 meses,1 Gb,no,34590,urbana,92,0,1,0,no
+IH-01036,9,12 meses,600 Mb,si,35400,urbana,97,0,0,0,no
+IH-01037,3,12 meses,100 Mb,no,17430,urbana,80,1,1,0,no
+IH-01038,20,12 meses,300 Mb,no,25990,urbana,85,0,0,0,no
+IH-01039,7,12 meses,300 Mb,si,32160,urbana,81,1,0,0,no
+IH-01040,29,mes a mes,300 Mb,no,23200,urbana,93,0,0,0,no
+IH-01041,70,24 meses,1 Gb,si,43050,urbana,100,3,1,0,no
+IH-01042,1,12 meses,300 Mb,si,32880,urbana,97,3,3,9,no
+IH-01043,8,24 meses,100 Mb,si,26780,urbana,81,1,1,0,no
+IH-01044,23,mes a mes,1 Gb,no,32980,urbana,79,1,0,0,no
+IH-01045,9,24 meses,600 Mb,si,37900,urbana,95,1,1,0,no
+IH-01046,5,mes a mes,1 Gb,no,32480,urbana,93,1,1,0,no
+IH-01047,4,mes a mes,300 Mb,no,22140,urbana,90,1,1,0,si
+IH-01048,26,12 meses,300 Mb,si,28700,urbana,79,0,1,4,no
+IH-01049,99,mes a mes,300 Mb,no,19860,urbana,93,2,1,0,no
+IH-01050,25,24 meses,300 Mb,si,30550,urbana,75,1,2,0,no
+IH-01051,22,12 meses,100 Mb,si,25310,urbana,87,0,1,3,no
+IH-01052,21,12 meses,100 Mb,si,24930,urbana,100,0,0,0,no
+IH-01053,5,mes a mes,300 Mb,no,21090,urbana,86,1,2,24,no
+IH-01054,7,12 meses,300 Mb,no,20980,urbana,92,2,2,13,si
+IH-01055,55,12 meses,300 Mb,si,32620,urbana,93,1,0,0,no
+IH-01056,11,24 meses,300 Mb,si,30160,urbana,90,1,0,0,no
+IH-01057,21,mes a mes,1 Gb,no,31670,urbana,92,1,0,0,no
+IH-01058,48,12 meses,100 Mb,no,17680,urbana,83,1,0,0,no
+IH-01059,19,24 meses,600 Mb,no,27240,urbana,85,0,1,0,no
+IH-01060,32,mes a mes,600 Mb,no,26780,rural,59,1,2,0,si
+IH-01061,17,12 meses,300 Mb,no,22860,urbana,89,0,1,0,no
+IH-01062,4,12 meses,600 Mb,si,35570,urbana,90,1,0,0,no
+IH-01063,11,mes a mes,600 Mb,si,35100,urbana,75,1,1,0,no
+IH-01064,7,mes a mes,1 Gb,no,31300,urbana,85,1,0,0,no
+IH-01065,51,12 meses,600 Mb,si,33510,rural,63,1,2,0,no
+IH-01066,46,12 meses,300 Mb,si,31770,urbana,87,0,0,19,no
+IH-01067,5,mes a mes,300 Mb,si,33210,rural,82,2,4,0,si
+IH-01068,24,mes a mes,600 Mb,si,37950,urbana,91,0,0,7,no
+IH-01069,5,24 meses,300 Mb,no,23920,urbana,87,1,1,0,no
+IH-01070,12,12 meses,300 Mb,si,35200,urbana,95,0,0,20,no
+IH-01071,7,mes a mes,300 Mb,no,23800,urbana,93,1,0,0,no
+IH-01072,1,24 meses,300 Mb,si,29110,urbana,71,1,0,0,no
+IH-01073,36,mes a mes,1 Gb,si,45230,urbana,88,0,1,0,no
+IH-01074,30,mes a mes,300 Mb,si,32990,urbana,96,1,0,15,no
+IH-01075,47,mes a mes,300 Mb,no,21500,urbana,84,1,2,20,no
+IH-01076,15,mes a mes,100 Mb,no,15650,urbana,96,1,3,5,no
+IH-01077,31,12 meses,300 Mb,no,23030,rural,78,4,3,21,no
+IH-01078,21,12 meses,100 Mb,no,18000,urbana,76,1,2,3,no
+IH-01079,18,mes a mes,600 Mb,no,27700,urbana,93,1,0,47,si
+IH-01080,4,mes a mes,300 Mb,si,31960,urbana,94,0,1,7,no
+IH-01081,1,mes a mes,100 Mb,si,28370,urbana,77,0,1,0,no
+IH-01082,17,mes a mes,300 Mb,no,23620,urbana,99,2,0,2,no
+IH-01083,22,12 meses,600 Mb,no,26160,urbana,74,0,1,0,no
+IH-01084,5,12 meses,300 Mb,no,20750,urbana,85,0,1,4,no
+IH-01085,15,12 meses,100 Mb,si,28970,urbana,87,0,1,0,no
+IH-01086,17,24 meses,600 Mb,si,36660,urbana,85,0,0,0,no
+IH-01087,40,mes a mes,1 Gb,no,32380,urbana,100,0,0,3,no
+IH-01088,9,12 meses,300 Mb,no,22900,urbana,91,0,1,17,no
+IH-01089,47,24 meses,300 Mb,no,22770,rural,90,1,1,36,no
+IH-01090,57,12 meses,300 Mb,no,22350,urbana,100,0,3,0,no
+IH-01091,24,mes a mes,300 Mb,si,29100,urbana,78,2,1,0,si
+IH-01092,17,24 meses,100 Mb,no,16960,urbana,76,0,0,0,no
+IH-01093,47,12 meses,300 Mb,si,27810,rural,60,0,3,2,si
+IH-01094,17,mes a mes,600 Mb,si,36820,urbana,92,0,0,0,no
+IH-01095,3,24 meses,300 Mb,si,31540,rural,95,3,0,46,no
+IH-01096,2,mes a mes,1 Gb,si,43050,urbana,84,0,0,0,no
+IH-01097,47,12 meses,100 Mb,no,15530,urbana,92,0,1,0,si
+IH-01098,38,24 meses,300 Mb,no,21000,urbana,100,0,1,0,no
+IH-01099,11,mes a mes,100 Mb,no,18110,urbana,93,0,0,0,si
+IH-01100,3,24 meses,100 Mb,no,16550,urbana,94,1,1,0,no
+IH-01101,22,mes a mes,1 Gb,no,32450,urbana,82,0,1,0,no
+IH-01102,19,12 meses,600 Mb,no,26000,urbana,86,1,0,0,no
+IH-01103,21,12 meses,100 Mb,no,17810,urbana,86,1,1,0,si
+IH-01104,17,mes a mes,300 Mb,si,31410,urbana,84,1,0,0,no
+IH-01105,3,12 meses,300 Mb,no,23430,urbana,91,0,1,0,no
+IH-01106,14,12 meses,600 Mb,si,37480,urbana,100,0,0,0,no
+IH-01107,3,24 meses,1 Gb,si,41940,urbana,100,1,0,0,no
+IH-01108,38,mes a mes,300 Mb,no,21370,rural,80,0,2,8,no
+IH-01109,11,mes a mes,300 Mb,no,21680,urbana,84,1,0,0,no
+IH-01110,26,mes a mes,300 Mb,si,30990,urbana,86,1,1,0,no
+IH-01111,32,24 meses,300 Mb,si,31710,urbana,100,1,1,0,no
+IH-01112,7,mes a mes,100 Mb,si,25220,urbana,76,2,2,24,si
+IH-01113,17,24 meses,600 Mb,si,35870,urbana,93,1,1,0,no
+IH-01114,53,24 meses,1 Gb,no,30970,urbana,77,3,0,0,si
+IH-01115,40,12 meses,300 Mb,si,29800,rural,68,3,1,0,no
+IH-01116,13,12 meses,600 Mb,si,36500,urbana,74,1,0,0,no
+IH-01117,10,24 meses,600 Mb,no,24130,rural,83,2,2,0,no
+IH-01118,33,mes a mes,100 Mb,si,28120,urbana,100,3,0,0,no
+IH-01119,44,24 meses,300 Mb,no,23000,urbana,100,1,2,0,no
+IH-01120,9,12 meses,100 Mb,no,16490,rural,66,3,0,0,no
+IH-01121,17,mes a mes,1 Gb,si,41830,urbana,87,0,0,0,no
+IH-01122,6,12 meses,300 Mb,no,18600,rural,78,0,1,10,no
+IH-01123,28,12 meses,300 Mb,no,17140,urbana,90,0,0,12,no
+IH-01124,46,mes a mes,100 Mb,no,17490,urbana,98,0,0,0,no
+IH-01125,18,12 meses,100 Mb,si,23970,urbana,82,0,0,0,no
+IH-01126,26,mes a mes,600 Mb,si,34530,urbana,100,0,1,11,no
+IH-01127,18,12 meses,100 Mb,no,14750,urbana,71,1,0,16,no
+IH-01128,27,mes a mes,300 Mb,si,30620,urbana,84,1,0,4,no
+IH-01129,11,mes a mes,600 Mb,si,32990,rural,71,0,0,0,no
+IH-01130,3,12 meses,100 Mb,no,18290,rural,68,1,0,0,no
+IH-01131,15,12 meses,100 Mb,si,25550,urbana,81,0,1,17,no
+IH-01132,23,mes a mes,300 Mb,no,23540,urbana,83,1,0,0,si
+IH-01133,38,mes a mes,300 Mb,si,30050,rural,97,0,0,9,no
+IH-01134,25,12 meses,100 Mb,no,19530,urbana,100,0,0,0,no
+IH-01135,28,mes a mes,100 Mb,no,17180,urbana,92,1,4,2,no
+IH-01136,13,24 meses,300 Mb,si,30540,urbana,100,2,0,0,no
+IH-01137,23,12 meses,600 Mb,si,36300,urbana,97,1,0,11,no
+IH-01138,13,24 meses,600 Mb,no,26270,urbana,91,1,0,0,no
+IH-01139,9,12 meses,300 Mb,si,31080,urbana,81,3,3,13,no
+IH-01140,36,mes a mes,600 Mb,si,36560,rural,84,0,0,0,si
+IH-01141,2,12 meses,300 Mb,no,24700,rural,70,5,1,0,no
+IH-01142,53,24 meses,100 Mb,no,17950,urbana,69,1,1,0,no
+IH-01143,32,mes a mes,300 Mb,no,21630,rural,72,2,2,7,no
+IH-01144,11,24 meses,100 Mb,no,13780,urbana,97,0,0,10,no
+IH-01145,20,mes a mes,600 Mb,no,22730,urbana,91,2,0,0,no
+IH-01146,49,mes a mes,1 Gb,si,41150,urbana,76,0,2,0,no
+IH-01147,7,mes a mes,100 Mb,no,17080,urbana,85,1,1,0,no
+IH-01148,46,24 meses,300 Mb,si,33080,urbana,82,1,1,0,no
+IH-01149,45,mes a mes,300 Mb,si,30310,urbana,89,2,2,10,no
+IH-01150,10,mes a mes,600 Mb,no,28740,urbana,100,2,1,8,si
+IH-01151,8,mes a mes,1 Gb,no,34220,urbana,82,0,1,0,no
+IH-01152,8,24 meses,1 Gb,no,34130,urbana,87,0,0,12,no
+IH-01153,26,mes a mes,600 Mb,no,28710,urbana,64,0,1,2,no
+IH-01154,14,12 meses,300 Mb,si,30430,urbana,91,1,1,0,si
+IH-01155,5,mes a mes,600 Mb,si,33160,urbana,79,1,0,0,si
+IH-01156,5,mes a mes,600 Mb,no,26600,urbana,87,0,0,0,no
+IH-01157,73,mes a mes,300 Mb,si,30440,rural,76,1,0,0,no
+IH-01158,23,24 meses,300 Mb,no,21880,urbana,100,1,0,0,no
+IH-01159,18,24 meses,300 Mb,si,29590,urbana,85,1,1,0,no
+IH-01160,45,mes a mes,300 Mb,no,20040,urbana,93,1,0,8,no
+IH-01161,10,12 meses,1 Gb,no,33380,urbana,100,0,1,0,no
+IH-01162,34,12 meses,1 Gb,no,30910,urbana,88,1,0,0,no
+IH-01163,52,24 meses,600 Mb,no,28230,urbana,82,1,0,0,no
+IH-01164,6,12 meses,600 Mb,no,28020,urbana,88,0,1,39,si
+IH-01165,38,12 meses,300 Mb,si,31590,urbana,89,0,2,0,no
+IH-01166,17,24 meses,100 Mb,si,26640,urbana,92,0,0,11,no
+IH-01167,16,12 meses,600 Mb,no,26410,urbana,84,0,0,0,no
+IH-01168,62,mes a mes,1 Gb,no,33160,urbana,81,1,0,11,no
+IH-01169,7,mes a mes,1 Gb,si,40800,rural,69,1,0,0,no
+IH-01170,8,12 meses,100 Mb,no,17010,urbana,91,1,2,0,no
+IH-01171,20,12 meses,100 Mb,no,14060,rural,92,1,2,9,no
+IH-01172,20,mes a mes,300 Mb,no,22850,urbana,69,0,0,0,no
+IH-01173,5,12 meses,1 Gb,si,41760,rural,67,0,1,4,no
+IH-01174,12,mes a mes,1 Gb,si,41780,urbana,83,1,1,0,si
+IH-01175,25,12 meses,600 Mb,si,36510,urbana,93,0,1,6,no
+IH-01176,36,12 meses,100 Mb,si,24480,rural,79,6,4,0,si
+IH-01177,15,24 meses,100 Mb,no,17980,rural,78,2,2,0,si
+IH-01178,15,12 meses,1 Gb,no,32630,rural,74,1,0,0,no
+IH-01179,29,24 meses,600 Mb,no,26260,urbana,100,0,0,0,no
+IH-01180,4,mes a mes,600 Mb,no,27700,rural,62,1,0,26,no
+IH-01181,6,12 meses,1 Gb,si,43880,rural,79,2,1,15,no
+IH-01182,18,12 meses,100 Mb,no,14990,rural,87,1,3,0,no
+IH-01183,38,12 meses,300 Mb,no,21440,rural,67,2,4,1,si
+IH-01184,3,mes a mes,300 Mb,no,20860,urbana,76,1,1,0,no
+IH-01185,29,12 meses,300 Mb,no,18840,urbana,85,2,4,0,no
+IH-01186,21,12 meses,600 Mb,no,25970,urbana,100,0,0,0,no
+IH-01187,17,mes a mes,600 Mb,no,27370,urbana,76,0,0,0,no
+IH-01188,28,mes a mes,1 Gb,no,30230,urbana,73,2,0,29,no
+IH-01189,53,24 meses,1 Gb,no,33440,urbana,90,0,0,0,no
+IH-01190,10,24 meses,1 Gb,no,31650,urbana,90,2,2,0,no
+IH-01191,25,mes a mes,600 Mb,no,25980,urbana,87,2,0,0,no
+IH-01192,4,mes a mes,300 Mb,no,23630,rural,81,1,0,0,no
+IH-01193,5,24 meses,300 Mb,no,20880,urbana,77,0,0,8,no
+IH-01194,10,mes a mes,100 Mb,no,16680,urbana,70,0,2,4,no
+IH-01195,17,12 meses,100 Mb,si,26340,urbana,95,0,0,0,no
+IH-01196,6,12 meses,1 Gb,no,33570,urbana,97,0,0,10,no
+IH-01197,24,12 meses,1 Gb,si,43350,urbana,89,1,2,0,no
+IH-01198,36,mes a mes,100 Mb,no,16690,urbana,85,1,1,0,no
+IH-01199,37,12 meses,100 Mb,no,17490,urbana,74,1,1,6,no
+IH-01200,36,mes a mes,600 Mb,si,35270,urbana,83,1,2,0,si
+IH-01201,46,12 meses,100 Mb,no,18950,urbana,91,0,1,0,no
+IH-01202,13,12 meses,100 Mb,no,18650,urbana,96,1,0,0,no
+IH-01203,5,12 meses,300 Mb,si,34450,urbana,88,0,0,0,no
+IH-01204,7,12 meses,100 Mb,si,25170,urbana,94,0,0,0,no
+IH-01205,17,mes a mes,300 Mb,no,22300,urbana,98,1,0,0,no
+IH-01206,109,mes a mes,600 Mb,si,36460,rural,95,1,0,0,no
+IH-01207,31,12 meses,600 Mb,no,27760,urbana,86,1,1,0,no
+IH-01208,40,mes a mes,100 Mb,no,17110,urbana,87,0,2,0,no
+IH-01209,19,12 meses,300 Mb,si,28440,urbana,91,0,0,0,no
+IH-01210,12,12 meses,300 Mb,no,21750,urbana,98,0,1,0,no
+IH-01211,21,mes a mes,600 Mb,no,26820,urbana,82,0,1,0,si
+IH-01212,7,mes a mes,100 Mb,no,18000,urbana,97,0,0,0,no
+IH-01213,9,12 meses,600 Mb,no,27110,rural,72,0,0,0,no
+IH-01214,28,mes a mes,1 Gb,no,32380,urbana,84,0,1,0,si
+IH-01215,12,12 meses,600 Mb,no,26340,urbana,100,0,2,9,no
+IH-01216,25,12 meses,600 Mb,no,26120,urbana,90,0,1,20,si
+IH-01217,22,mes a mes,600 Mb,no,27880,urbana,94,1,1,0,si
+IH-01218,19,24 meses,300 Mb,si,30490,urbana,88,0,2,17,no
+IH-01219,16,12 meses,100 Mb,no,13860,urbana,81,0,0,0,no
+IH-01220,27,mes a mes,300 Mb,no,25760,urbana,94,0,0,17,no
+IH-01221,11,mes a mes,100 Mb,no,16120,urbana,91,0,1,10,si
+IH-01222,28,mes a mes,100 Mb,si,26250,urbana,87,2,1,18,no
+IH-01223,90,12 meses,100 Mb,no,17720,urbana,89,0,1,0,no
+IH-01224,11,12 meses,100 Mb,no,17600,urbana,91,0,0,0,no
+IH-01225,51,mes a mes,300 Mb,si,31570,urbana,91,0,0,0,si
+IH-01226,15,mes a mes,100 Mb,si,27520,rural,81,0,2,0,si
+IH-01227,28,mes a mes,100 Mb,no,22000,urbana,90,1,1,15,si
+IH-01228,9,12 meses,300 Mb,si,30280,urbana,100,0,0,0,no
+IH-01229,33,12 meses,600 Mb,si,36540,urbana,86,0,1,43,no
+IH-01230,35,12 meses,300 Mb,si,28530,urbana,84,0,0,0,no
+IH-01231,11,mes a mes,1 Gb,si,44760,urbana,87,2,1,0,no
+IH-01232,5,mes a mes,300 Mb,no,23780,urbana,91,0,1,0,no
+IH-01233,37,24 meses,100 Mb,si,26000,rural,71,0,1,0,no
+IH-01234,6,mes a mes,600 Mb,no,28910,rural,74,1,1,0,si
+IH-01235,30,12 meses,300 Mb,si,29730,urbana,85,1,2,0,no
+IH-01236,4,24 meses,100 Mb,no,16240,rural,80,1,2,0,no
+IH-01237,60,mes a mes,300 Mb,no,24300,urbana,96,0,2,0,no
+IH-01238,25,mes a mes,600 Mb,si,36700,urbana,84,0,0,0,no
+IH-01239,13,12 meses,600 Mb,si,35930,urbana,80,0,2,0,no
+IH-01240,15,12 meses,600 Mb,si,36730,urbana,86,1,1,0,no
+IH-01241,25,12 meses,100 Mb,no,18670,urbana,91,0,0,19,no
+IH-01242,20,mes a mes,300 Mb,si,31990,urbana,93,0,1,0,no
+IH-01243,5,mes a mes,1 Gb,no,32820,urbana,94,0,1,0,no
+IH-01244,9,24 meses,300 Mb,no,20940,urbana,100,1,0,0,no
+IH-01245,13,mes a mes,300 Mb,no,24350,urbana,82,0,0,3,si
+IH-01246,18,mes a mes,100 Mb,si,26160,urbana,85,0,1,0,no
+IH-01247,11,24 meses,300 Mb,no,22950,urbana,68,0,0,0,no
+IH-01248,41,12 meses,1 Gb,si,41120,urbana,80,1,5,0,no
+IH-01249,33,12 meses,600 Mb,no,25530,urbana,74,1,2,8,si
+IH-01250,22,mes a mes,100 Mb,no,19630,rural,83,0,0,0,si
+IH-01251,46,mes a mes,300 Mb,si,32120,urbana,93,0,0,0,no
+IH-01252,5,mes a mes,1 Gb,si,38760,urbana,88,0,1,0,no
+IH-01253,13,mes a mes,300 Mb,no,20420,urbana,68,0,2,0,si
+IH-01254,10,mes a mes,300 Mb,si,29600,rural,81,1,3,4,no
+IH-01255,64,mes a mes,100 Mb,no,15490,urbana,93,0,1,0,no
+IH-01256,14,mes a mes,100 Mb,no,15780,urbana,85,0,1,0,no
+IH-01257,22,mes a mes,300 Mb,no,20470,urbana,79,1,0,0,si
+IH-01258,1,mes a mes,300 Mb,no,19600,urbana,88,0,1,0,si
+IH-01259,5,12 meses,100 Mb,no,14740,rural,77,2,2,0,si
+IH-01260,17,mes a mes,300 Mb,no,19560,urbana,85,0,1,13,no
+IH-01261,38,mes a mes,1 Gb,no,31700,urbana,65,0,1,0,no
+IH-01262,18,12 meses,600 Mb,si,37540,urbana,77,0,0,0,no
+IH-01263,2,24 meses,300 Mb,si,34150,urbana,100,1,1,0,no
+IH-01264,46,12 meses,600 Mb,si,37190,urbana,91,0,1,0,no
+IH-01265,52,mes a mes,100 Mb,no,16730,urbana,92,0,0,0,no
+IH-01266,12,mes a mes,100 Mb,no,16050,urbana,74,0,1,0,no
+IH-01267,33,mes a mes,600 Mb,no,27820,urbana,79,1,1,2,no
+IH-01268,11,mes a mes,100 Mb,no,18710,urbana,97,0,0,0,no
+IH-01269,47,mes a mes,600 Mb,si,36490,urbana,100,0,0,0,no
+IH-01270,1,12 meses,300 Mb,si,31330,urbana,82,0,0,0,no
+IH-01271,3,mes a mes,300 Mb,no,21410,urbana,80,1,2,0,si
+IH-01272,5,mes a mes,300 Mb,no,21020,urbana,78,2,3,0,si
+IH-01273,8,12 meses,100 Mb,si,28110,urbana,76,0,1,0,no
+IH-01274,11,mes a mes,300 Mb,no,21010,urbana,95,2,2,9,no
+IH-01275,6,12 meses,100 Mb,no,17260,urbana,84,0,1,8,no
+IH-01276,14,mes a mes,100 Mb,no,18200,urbana,96,1,0,0,si
+IH-01277,3,12 meses,300 Mb,no,20650,rural,91,0,1,31,si
+IH-01278,9,mes a mes,300 Mb,no,20430,urbana,100,1,0,0,no
+IH-01279,12,24 meses,100 Mb,no,16890,urbana,83,0,2,0,no
+IH-01280,17,12 meses,300 Mb,no,19970,urbana,86,1,2,12,no
+IH-01281,26,12 meses,300 Mb,no,23150,urbana,88,2,3,0,no
+IH-01282,42,mes a mes,600 Mb,no,28200,rural,82,2,1,6,no
+IH-01283,16,24 meses,100 Mb,si,26850,urbana,92,1,3,0,no
+IH-01284,31,12 meses,100 Mb,no,16480,urbana,83,0,0,0,no
+IH-01285,50,12 meses,300 Mb,no,22160,urbana,86,0,2,0,no
+IH-01286,43,mes a mes,300 Mb,no,22030,urbana,94,2,1,0,no
+IH-01287,23,24 meses,600 Mb,si,33850,urbana,100,0,0,0,no
+IH-01288,16,mes a mes,100 Mb,no,17420,urbana,87,1,1,0,si
+IH-01289,51,24 meses,300 Mb,no,21060,rural,80,1,0,0,no
+IH-01290,14,mes a mes,300 Mb,no,23380,urbana,77,0,2,0,no
+IH-01291,12,mes a mes,300 Mb,si,32720,rural,83,3,0,0,si
+IH-01292,11,12 meses,300 Mb,no,21790,urbana,93,0,1,0,no
+IH-01293,7,12 meses,1 Gb,no,34440,urbana,100,1,0,9,si
+IH-01294,4,12 meses,1 Gb,no,33110,rural,73,0,1,0,no
+IH-01295,12,mes a mes,1 Gb,si,43030,urbana,84,0,1,0,no
+IH-01296,30,12 meses,600 Mb,si,37580,urbana,89,0,1,0,no
+IH-01297,4,24 meses,1 Gb,no,32010,urbana,96,0,0,0,no
+IH-01298,23,mes a mes,300 Mb,no,23140,rural,72,0,1,12,no
+IH-01299,15,24 meses,600 Mb,no,25610,urbana,85,0,0,0,no
+IH-01300,7,24 meses,600 Mb,si,38050,urbana,92,1,0,0,no
+IH-01301,47,mes a mes,600 Mb,si,35660,urbana,87,0,1,0,no
+IH-01302,15,mes a mes,300 Mb,no,23000,rural,80,3,2,0,si
+IH-01303,20,24 meses,300 Mb,no,20470,urbana,92,2,2,9,no
+IH-01304,17,24 meses,100 Mb,no,15340,urbana,95,0,0,0,no
+IH-01305,11,12 meses,600 Mb,no,29790,urbana,90,2,0,0,no
+IH-01306,20,mes a mes,300 Mb,no,20630,rural,75,2,0,0,no
+IH-01307,27,24 meses,1 Gb,no,33460,rural,78,3,3,6,no
+IH-01308,54,24 meses,100 Mb,no,17180,rural,93,2,3,0,no
+IH-01309,12,12 meses,100 Mb,no,18320,urbana,86,0,0,0,no
+IH-01310,29,mes a mes,100 Mb,no,18640,urbana,93,0,0,26,si
+IH-01311,12,12 meses,100 Mb,si,24620,urbana,85,0,2,20,no
+IH-01312,12,mes a mes,300 Mb,no,22090,rural,70,1,0,0,no
+IH-01313,4,12 meses,100 Mb,no,15870,urbana,88,0,0,0,no
+IH-01314,24,24 meses,100 Mb,no,16980,urbana,93,1,1,22,no
+IH-01315,2,12 meses,300 Mb,no,20810,rural,66,3,0,0,si
+IH-01316,15,24 meses,300 Mb,no,19900,urbana,93,1,1,14,no
+IH-01317,56,mes a mes,100 Mb,si,27810,urbana,92,0,0,0,no
+IH-01318,24,12 meses,100 Mb,no,14680,rural,90,0,1,0,no
+IH-01319,21,mes a mes,1 Gb,no,32850,rural,83,0,3,10,si
+IH-01320,62,24 meses,1 Gb,no,31830,rural,79,2,0,0,no
+IH-01321,30,mes a mes,300 Mb,no,21920,rural,88,3,0,0,no
+IH-01322,33,mes a mes,600 Mb,si,36720,urbana,88,0,1,14,no
+IH-01323,45,mes a mes,300 Mb,no,22110,urbana,83,3,3,23,si
+IH-01324,62,12 meses,600 Mb,no,26830,urbana,100,1,0,0,no
+IH-01325,2,mes a mes,1 Gb,no,33340,rural,95,2,0,0,no
+IH-01326,12,mes a mes,1 Gb,no,31970,urbana,71,0,2,0,si
+IH-01327,13,mes a mes,100 Mb,si,26500,urbana,95,1,1,0,no
+IH-01328,16,12 meses,300 Mb,si,33180,urbana,90,2,1,0,no
+IH-01329,45,12 meses,300 Mb,no,23060,urbana,80,1,0,0,no
+IH-01330,5,mes a mes,600 Mb,no,25140,urbana,93,1,3,0,no
+IH-01331,46,mes a mes,100 Mb,no,15910,urbana,70,0,2,0,si
+IH-01332,17,mes a mes,300 Mb,si,31460,rural,72,2,4,0,si
+IH-01333,18,mes a mes,300 Mb,si,29860,urbana,81,3,0,0,no
+IH-01334,33,mes a mes,600 Mb,si,34700,urbana,89,1,0,0,no
+IH-01335,16,24 meses,300 Mb,no,26140,rural,92,0,1,0,no
+IH-01336,19,mes a mes,300 Mb,no,22340,urbana,94,0,0,0,no
+IH-01337,6,24 meses,100 Mb,no,17530,urbana,74,0,1,8,no
+IH-01338,22,24 meses,100 Mb,no,16180,urbana,100,0,0,15,no
+IH-01339,12,12 meses,100 Mb,no,15310,urbana,87,2,0,28,no
+IH-01340,39,mes a mes,100 Mb,no,16180,urbana,87,1,1,0,no
+IH-01341,8,mes a mes,300 Mb,no,22430,urbana,95,2,1,15,no
+IH-01342,23,mes a mes,1 Gb,si,41200,urbana,97,0,0,0,no
+IH-01343,20,12 meses,600 Mb,no,25840,urbana,89,0,1,0,si
+IH-01344,14,mes a mes,300 Mb,no,20400,urbana,97,0,1,6,no
+IH-01345,22,12 meses,600 Mb,si,36360,urbana,91,0,0,0,no
+IH-01346,9,12 meses,600 Mb,no,28280,urbana,80,0,2,0,no
+IH-01347,11,12 meses,300 Mb,si,31020,rural,76,2,1,0,no
+IH-01348,8,12 meses,600 Mb,si,37070,rural,79,5,2,0,si
+IH-01349,33,24 meses,100 Mb,no,19020,urbana,80,1,2,0,no
+IH-01350,18,24 meses,100 Mb,si,26180,urbana,91,1,1,0,no
+IH-01351,32,mes a mes,600 Mb,no,27190,urbana,78,0,0,0,no
+IH-01352,43,12 meses,300 Mb,no,21040,urbana,82,0,2,13,no
+IH-01353,21,mes a mes,600 Mb,si,37520,urbana,97,1,1,0,no
+IH-01354,8,mes a mes,600 Mb,si,36080,urbana,73,1,0,0,no
+IH-01355,8,mes a mes,600 Mb,si,35490,urbana,80,0,1,0,no
+IH-01356,29,mes a mes,100 Mb,no,17400,rural,78,2,3,0,si
+IH-01357,71,mes a mes,100 Mb,no,13860,urbana,81,0,0,0,no
+IH-01358,42,12 meses,600 Mb,no,28530,urbana,100,0,0,2,no
+IH-01359,13,12 meses,300 Mb,no,21480,urbana,88,1,1,17,no
+IH-01360,17,12 meses,300 Mb,no,21690,urbana,68,0,2,0,no
+IH-01361,44,mes a mes,1 Gb,si,41420,urbana,92,3,1,0,no
+IH-01362,13,mes a mes,100 Mb,no,17420,urbana,86,0,0,0,no
+IH-01363,88,12 meses,600 Mb,no,26700,rural,78,2,2,4,no
+IH-01364,14,mes a mes,600 Mb,no,26140,urbana,83,0,0,0,no
+IH-01365,26,24 meses,300 Mb,si,29280,urbana,82,0,2,0,si
+IH-01366,27,24 meses,600 Mb,no,26460,rural,94,0,0,0,no
+IH-01367,57,mes a mes,100 Mb,si,24700,urbana,81,0,0,0,no
+IH-01368,14,12 meses,1 Gb,no,33430,rural,73,0,2,10,no
+IH-01369,16,24 meses,600 Mb,no,27260,urbana,88,1,2,0,no
+IH-01370,47,mes a mes,1 Gb,no,33740,urbana,100,0,1,0,no
+IH-01371,33,mes a mes,600 Mb,no,29200,rural,73,4,2,0,no
+IH-01372,27,12 meses,600 Mb,si,34780,rural,56,0,1,1,no
+IH-01373,17,24 meses,1 Gb,no,30370,urbana,100,0,0,0,no
+IH-01374,12,mes a mes,300 Mb,si,32380,urbana,88,0,2,8,no
+IH-01375,9,12 meses,1 Gb,si,42770,rural,72,2,2,0,si
+IH-01376,33,mes a mes,600 Mb,si,34590,urbana,95,1,0,0,no
+IH-01377,21,mes a mes,100 Mb,no,20010,urbana,93,0,1,0,no
+IH-01378,10,mes a mes,1 Gb,no,33270,urbana,67,1,1,0,no
+IH-01379,6,mes a mes,600 Mb,si,34710,rural,77,1,1,33,si
+IH-01380,21,mes a mes,300 Mb,no,21470,urbana,100,0,1,0,si
+IH-01381,72,24 meses,600 Mb,no,27550,rural,72,1,2,42,no
+IH-01382,11,12 meses,300 Mb,no,22180,urbana,100,0,1,0,no
+IH-01383,6,mes a mes,300 Mb,si,28380,urbana,86,1,0,0,no
+IH-01384,48,12 meses,1 Gb,no,34590,urbana,96,0,0,0,no
+IH-01385,16,12 meses,600 Mb,si,36020,rural,78,3,5,0,si
+IH-01386,13,24 meses,100 Mb,no,18620,rural,80,2,1,0,no
+IH-01387,32,12 meses,1 Gb,si,40960,urbana,99,0,0,0,no
+IH-01388,8,mes a mes,1 Gb,no,31080,rural,76,1,1,0,si
+IH-01389,8,12 meses,300 Mb,no,22340,urbana,75,0,1,0,no
+IH-01390,14,mes a mes,1 Gb,no,32380,urbana,85,0,2,0,no
+IH-01391,31,mes a mes,300 Mb,si,32250,urbana,79,0,1,0,no
+IH-01392,62,mes a mes,300 Mb,si,30150,rural,63,2,1,29,si
+IH-01393,8,mes a mes,600 Mb,no,27730,rural,63,1,0,0,si
+IH-01394,4,24 meses,100 Mb,no,17430,rural,68,1,1,4,no
+IH-01395,41,12 meses,300 Mb,no,22280,urbana,80,0,1,0,si
+IH-01396,24,mes a mes,600 Mb,si,37540,urbana,88,1,2,12,no
+IH-01397,26,mes a mes,600 Mb,no,23870,urbana,76,0,2,0,no
+IH-01398,15,12 meses,100 Mb,si,25720,urbana,92,0,0,0,no
+IH-01399,18,mes a mes,600 Mb,no,23420,urbana,96,0,2,0,si
+IH-01400,16,mes a mes,300 Mb,si,34300,urbana,71,0,2,17,no
+IH-01401,3,mes a mes,600 Mb,no,26410,urbana,89,0,0,0,no
+IH-01402,37,12 meses,1 Gb,no,32730,urbana,80,1,0,3,no
+IH-01403,50,24 meses,600 Mb,no,28010,urbana,97,0,1,2,no
+IH-01404,15,24 meses,600 Mb,si,37640,urbana,92,0,1,0,no
+IH-01405,5,mes a mes,600 Mb,no,28760,urbana,86,1,1,0,si
+IH-01406,6,mes a mes,100 Mb,si,25340,rural,78,4,2,0,si
+IH-01407,29,mes a mes,600 Mb,no,26990,urbana,75,0,1,0,no
+IH-01408,6,12 meses,300 Mb,no,23340,urbana,81,1,2,0,no
+IH-01409,13,12 meses,600 Mb,no,25430,urbana,86,1,0,0,no
+IH-01410,60,12 meses,300 Mb,no,21830,urbana,80,1,0,0,no
+IH-01411,11,24 meses,100 Mb,no,15330,rural,87,2,0,0,no
+IH-01412,7,12 meses,600 Mb,no,25440,urbana,78,0,0,0,no
+IH-01413,22,12 meses,100 Mb,no,16080,urbana,97,1,0,0,no
+IH-01414,7,mes a mes,300 Mb,si,32670,urbana,76,0,1,0,no
+IH-01415,19,12 meses,100 Mb,no,16390,rural,86,2,0,0,no
+IH-01416,17,mes a mes,100 Mb,no,18840,urbana,82,0,3,0,no
+IH-01417,8,mes a mes,300 Mb,no,21780,urbana,100,0,0,5,no
+IH-01418,82,24 meses,600 Mb,si,37810,urbana,99,1,0,0,no
+IH-01419,18,mes a mes,300 Mb,no,23980,urbana,96,0,0,0,si
+IH-01420,27,12 meses,600 Mb,no,26890,rural,73,4,2,0,no
+IH-01421,10,mes a mes,600 Mb,si,35650,urbana,100,0,0,0,no
+IH-01422,32,12 meses,300 Mb,no,21380,urbana,87,0,0,0,no
+IH-01423,16,mes a mes,600 Mb,no,25570,urbana,86,0,0,0,no
+IH-01424,30,mes a mes,100 Mb,no,16940,urbana,94,1,1,0,no
+IH-01425,7,mes a mes,300 Mb,no,20930,urbana,83,1,1,41,si
+IH-01426,1,mes a mes,300 Mb,no,22220,urbana,93,0,2,0,no
+IH-01427,15,12 meses,600 Mb,si,33950,urbana,80,1,0,0,no
+IH-01428,3,12 meses,100 Mb,no,18660,urbana,77,0,0,0,no
+IH-01429,19,24 meses,300 Mb,no,21730,urbana,94,0,0,0,no
+IH-01430,58,12 meses,100 Mb,no,18480,rural,76,1,2,0,no
+IH-01431,28,mes a mes,600 Mb,si,36940,urbana,85,0,0,38,no
+IH-01432,16,12 meses,100 Mb,no,18570,urbana,94,1,1,0,no
+IH-01433,21,mes a mes,100 Mb,si,26470,urbana,100,0,0,0,no
+IH-01434,57,12 meses,600 Mb,no,26680,urbana,95,0,0,0,no
+IH-01435,9,12 meses,300 Mb,no,20810,urbana,72,0,1,0,no
+IH-01436,5,12 meses,600 Mb,no,29140,urbana,87,2,2,6,si
+IH-01437,23,mes a mes,600 Mb,si,34350,urbana,89,0,0,26,no
+IH-01438,29,mes a mes,1 Gb,no,31770,urbana,100,0,0,0,no
+IH-01439,22,24 meses,300 Mb,no,21590,urbana,80,1,0,0,no
+IH-01440,3,12 meses,300 Mb,no,21750,urbana,82,0,0,17,no
+IH-01441,36,12 meses,100 Mb,si,26910,rural,70,4,2,0,no
+IH-01442,8,24 meses,300 Mb,no,23720,urbana,99,2,0,2,si
+IH-01443,15,12 meses,1 Gb,no,32260,urbana,71,0,1,7,no
+IH-01444,46,12 meses,300 Mb,si,32710,urbana,84,0,0,0,no
+IH-01445,27,mes a mes,1 Gb,no,31170,urbana,91,3,1,0,no
+IH-01446,9,12 meses,600 Mb,no,25670,urbana,94,1,0,0,no
+IH-01447,52,12 meses,1 Gb,si,39790,urbana,94,0,0,0,no
+IH-01448,18,12 meses,600 Mb,no,25550,urbana,91,0,0,0,no
+IH-01449,11,mes a mes,600 Mb,si,35260,urbana,72,0,2,0,si
+IH-01450,15,mes a mes,100 Mb,si,23250,urbana,83,2,1,0,no
+IH-01451,2,mes a mes,300 Mb,no,18950,urbana,100,0,0,0,no
+IH-01452,2,mes a mes,1 Gb,no,32920,urbana,92,1,1,0,no
+IH-01453,16,mes a mes,300 Mb,si,29130,rural,78,2,1,0,no
+IH-01454,24,12 meses,600 Mb,no,26310,urbana,94,1,0,0,no
+IH-01455,20,12 meses,100 Mb,no,16800,urbana,93,0,0,12,no
+IH-01456,4,24 meses,300 Mb,no,19980,rural,80,0,0,0,no
+IH-01457,11,12 meses,300 Mb,no,20780,rural,90,1,1,0,no
+IH-01458,20,12 meses,300 Mb,no,22330,rural,77,0,1,0,no
+IH-01459,40,12 meses,1 Gb,no,35050,urbana,85,0,0,0,no
+IH-01460,60,12 meses,100 Mb,si,26730,urbana,97,0,0,16,no
+IH-01461,16,mes a mes,600 Mb,no,27990,urbana,91,0,1,0,no
+IH-01462,4,24 meses,600 Mb,no,26960,urbana,76,0,0,0,no
+IH-01463,13,12 meses,1 Gb,no,33120,urbana,89,1,0,11,no
+IH-01464,8,24 meses,100 Mb,si,27410,urbana,87,0,3,0,no
+IH-01465,7,mes a mes,300 Mb,no,24430,urbana,84,0,0,1,no
+IH-01466,15,mes a mes,100 Mb,si,24200,urbana,78,0,3,0,no
+IH-01467,42,mes a mes,100 Mb,no,15640,urbana,94,2,0,3,no
+IH-01468,9,24 meses,600 Mb,no,30510,urbana,77,0,2,3,no
+IH-01469,3,mes a mes,300 Mb,si,31270,rural,91,2,2,0,no
+IH-01470,3,mes a mes,600 Mb,no,27460,rural,87,5,1,0,si
+IH-01471,1,mes a mes,100 Mb,no,15320,rural,74,0,0,0,no
+IH-01472,20,mes a mes,100 Mb,no,13500,rural,80,1,2,0,no
+IH-01473,10,12 meses,100 Mb,no,15120,urbana,98,0,0,0,no
+IH-01474,7,12 meses,600 Mb,si,35100,urbana,79,1,0,1,no
+IH-01475,7,mes a mes,1 Gb,no,30970,urbana,88,0,0,0,no
+IH-01476,7,mes a mes,1 Gb,no,31010,urbana,100,1,0,6,no
+IH-01477,65,mes a mes,300 Mb,si,30960,rural,56,1,2,0,no
+IH-01478,2,mes a mes,300 Mb,no,22700,urbana,92,0,0,14,no
+IH-01479,30,mes a mes,100 Mb,si,24850,urbana,83,1,1,0,no
+IH-01480,2,12 meses,300 Mb,no,20940,rural,77,2,2,28,no
+IH-01481,71,12 meses,300 Mb,no,21110,urbana,90,0,0,0,no
+IH-01482,25,24 meses,300 Mb,no,24290,urbana,92,0,0,0,no
+IH-01483,18,24 meses,600 Mb,no,25490,rural,75,1,1,0,no
+IH-01484,42,24 meses,100 Mb,no,18260,rural,61,0,1,9,no
+IH-01485,18,mes a mes,100 Mb,no,15180,urbana,83,0,1,15,no
+IH-01486,4,mes a mes,300 Mb,no,20360,urbana,82,0,2,0,no
+IH-01487,10,12 meses,300 Mb,si,27420,rural,74,2,0,0,no
+IH-01488,9,12 meses,100 Mb,no,16050,urbana,76,0,0,0,no
+IH-01489,1,12 meses,1 Gb,si,42310,urbana,89,0,0,0,no
+IH-01490,20,mes a mes,300 Mb,si,30840,urbana,100,2,0,0,no
+IH-01491,5,12 meses,300 Mb,no,21100,urbana,97,2,1,7,no
+IH-01492,14,mes a mes,1 Gb,si,43130,urbana,90,1,3,0,si
+IH-01493,9,mes a mes,600 Mb,si,40470,rural,73,1,0,0,no
+IH-01494,8,mes a mes,100 Mb,no,15420,urbana,87,0,0,13,no
+IH-01495,8,24 meses,300 Mb,si,30590,urbana,84,0,0,0,no
+IH-01496,53,mes a mes,600 Mb,no,27680,urbana,93,0,1,0,no
+IH-01497,8,24 meses,100 Mb,no,18280,urbana,94,1,1,0,no
+IH-01498,4,12 meses,1 Gb,no,33540,urbana,69,0,1,0,no
+IH-01499,23,24 meses,300 Mb,si,30850,urbana,99,0,1,4,no
+IH-01500,49,mes a mes,600 Mb,no,27420,urbana,93,0,0,18,no
+IH-01501,53,mes a mes,300 Mb,no,22440,urbana,86,0,2,0,no
+IH-01502,29,mes a mes,300 Mb,no,23620,rural,62,0,1,2,no
+IH-01503,3,12 meses,300 Mb,no,20020,urbana,98,0,0,0,no
+IH-01504,16,mes a mes,100 Mb,si,24410,urbana,97,1,1,0,no
+IH-01505,49,mes a mes,300 Mb,si,29560,urbana,91,1,1,8,no
+IH-01506,11,mes a mes,100 Mb,no,17810,urbana,90,0,0,0,no
+IH-01507,17,mes a mes,600 Mb,no,28350,urbana,78,1,0,0,si
+IH-01508,6,mes a mes,300 Mb,no,22690,urbana,95,2,0,0,no
+IH-01509,11,mes a mes,300 Mb,si,31150,rural,87,0,0,0,no
+IH-01510,15,12 meses,300 Mb,si,32590,urbana,81,2,0,7,no
+IH-01511,11,12 meses,300 Mb,no,18620,urbana,77,3,0,0,no
+IH-01512,20,12 meses,300 Mb,si,31610,urbana,85,0,0,0,no
+IH-01513,43,12 meses,600 Mb,no,26670,urbana,92,0,1,0,no
+IH-01514,27,mes a mes,300 Mb,no,20420,urbana,84,0,1,0,no
+IH-01515,32,12 meses,600 Mb,no,28480,urbana,100,1,3,0,no
+IH-01516,3,12 meses,100 Mb,no,18230,urbana,86,1,1,13,no
+IH-01517,34,12 meses,300 Mb,no,19390,urbana,100,0,1,0,no
+IH-01518,16,12 meses,100 Mb,no,17060,urbana,95,0,1,0,no
+IH-01519,44,12 meses,300 Mb,no,24670,urbana,85,0,1,0,si
+IH-01520,3,12 meses,300 Mb,si,32540,urbana,81,0,1,0,no
+IH-01521,9,mes a mes,100 Mb,si,27500,urbana,84,0,1,0,no
+IH-01522,15,mes a mes,600 Mb,no,27800,urbana,80,0,0,0,no
+IH-01523,20,mes a mes,300 Mb,si,31220,rural,70,2,4,11,si
+IH-01524,18,24 meses,100 Mb,no,16930,urbana,78,0,1,0,no
+IH-01525,32,mes a mes,1 Gb,no,36170,urbana,93,1,0,3,no
+IH-01526,15,mes a mes,300 Mb,no,23680,rural,79,2,2,0,no
+IH-01527,15,12 meses,300 Mb,no,24060,urbana,88,1,1,0,no
+IH-01528,32,12 meses,600 Mb,si,36050,rural,73,3,2,1,no
+IH-01529,19,mes a mes,1 Gb,si,43910,rural,80,2,1,0,si
+IH-01530,23,12 meses,600 Mb,no,29550,urbana,85,0,1,0,no
+IH-01531,11,12 meses,300 Mb,no,26900,urbana,100,1,1,0,no
+IH-01532,81,12 meses,100 Mb,si,26670,urbana,100,0,0,0,no
+IH-01533,90,24 meses,100 Mb,no,18950,urbana,90,1,0,0,no
+IH-01534,9,mes a mes,100 Mb,si,26250,urbana,78,0,1,0,no
+IH-01535,13,24 meses,300 Mb,si,29750,urbana,68,0,2,0,no
+IH-01536,4,24 meses,300 Mb,no,21810,rural,80,2,1,0,no
+IH-01537,19,24 meses,600 Mb,no,26110,urbana,87,1,2,0,no
+IH-01538,57,mes a mes,300 Mb,no,23780,urbana,91,0,0,0,no
+IH-01539,3,12 meses,300 Mb,si,31950,urbana,78,0,2,20,no
+IH-01540,6,mes a mes,300 Mb,si,32500,urbana,93,0,2,10,si
+IH-01541,9,mes a mes,100 Mb,si,26850,urbana,81,0,0,0,no
+IH-01542,32,24 meses,300 Mb,si,31320,rural,89,1,2,4,no
+IH-01543,13,12 meses,100 Mb,no,15640,urbana,75,1,0,3,no
+IH-01544,35,mes a mes,300 Mb,si,30290,urbana,95,0,0,0,no
+IH-01545,22,mes a mes,1 Gb,no,33090,urbana,100,1,1,0,no
+IH-01546,15,12 meses,600 Mb,si,37940,urbana,63,1,1,0,no
+IH-01547,3,24 meses,100 Mb,no,17440,urbana,95,0,0,13,no
+IH-01548,38,24 meses,600 Mb,no,25450,urbana,84,1,1,0,no
+IH-01549,4,24 meses,100 Mb,si,27580,urbana,89,1,1,0,no
+IH-01550,31,mes a mes,1 Gb,no,34680,urbana,83,0,0,0,no
+IH-01551,5,12 meses,1 Gb,no,32130,urbana,83,0,0,0,no
+IH-01552,16,12 meses,300 Mb,no,23310,urbana,84,0,1,0,no
+IH-01553,43,mes a mes,300 Mb,no,22930,urbana,97,1,0,0,no
+IH-01554,14,12 meses,1 Gb,si,44200,rural,74,0,1,25,no
+IH-01555,63,mes a mes,100 Mb,no,17130,urbana,83,0,2,0,si
+IH-01556,11,24 meses,300 Mb,si,28620,urbana,85,0,0,0,no
+IH-01557,5,mes a mes,300 Mb,no,21540,rural,63,2,2,22,si
+IH-01558,9,12 meses,100 Mb,no,16120,urbana,76,0,3,8,no
+IH-01559,8,12 meses,300 Mb,si,31400,urbana,72,1,0,8,no
+IH-01560,15,mes a mes,600 Mb,no,28470,urbana,89,1,2,21,si
+IH-01561,8,mes a mes,300 Mb,no,23730,urbana,91,0,1,0,si
+IH-01562,5,24 meses,300 Mb,no,22850,urbana,85,2,1,1,no
+IH-01563,18,12 meses,300 Mb,no,22690,urbana,92,0,0,8,no
+IH-01564,2,12 meses,1 Gb,no,29630,urbana,100,1,0,0,no
+IH-01565,16,12 meses,1 Gb,si,40260,urbana,85,1,2,0,no
+IH-01566,5,mes a mes,300 Mb,si,28500,urbana,69,0,2,18,no
+IH-01567,63,12 meses,300 Mb,no,20650,urbana,75,0,0,0,no
+IH-01568,65,12 meses,600 Mb,no,25940,urbana,96,0,1,0,no
+IH-01569,24,24 meses,100 Mb,no,16170,urbana,100,1,1,0,no
+IH-01570,10,mes a mes,100 Mb,no,17110,urbana,94,2,1,0,si
+IH-01571,26,mes a mes,300 Mb,no,21890,urbana,100,0,0,28,no
+IH-01572,15,mes a mes,600 Mb,no,26300,urbana,97,2,0,0,si
+IH-01573,8,mes a mes,300 Mb,no,23620,rural,81,1,0,6,si
+IH-01574,6,mes a mes,300 Mb,si,30940,urbana,90,1,0,0,no
+IH-01575,10,mes a mes,600 Mb,no,28420,rural,85,2,1,0,no
+IH-01576,21,24 meses,600 Mb,no,28650,urbana,87,1,0,0,no
+IH-01577,5,mes a mes,300 Mb,si,32140,urbana,90,1,1,0,no
+IH-01578,79,12 meses,1 Gb,no,31520,rural,73,1,1,5,no
+IH-01579,27,mes a mes,300 Mb,no,22540,urbana,89,1,0,0,no
+IH-01580,29,24 meses,600 Mb,si,33430,urbana,94,0,1,0,no
+IH-01581,34,12 meses,100 Mb,no,18360,urbana,94,0,2,20,no
+IH-01582,36,24 meses,1 Gb,no,32570,urbana,80,0,0,0,no
+IH-01583,12,24 meses,300 Mb,no,21560,urbana,70,2,1,10,no
+IH-01584,18,24 meses,100 Mb,si,23600,urbana,83,0,0,13,no
+IH-01585,10,24 meses,100 Mb,no,17320,urbana,89,0,3,0,no
+IH-01586,31,12 meses,600 Mb,si,35650,urbana,77,1,1,0,no
+IH-01587,9,24 meses,100 Mb,no,19130,rural,66,2,0,4,no
+IH-01588,7,mes a mes,600 Mb,si,39690,urbana,89,0,0,0,no
+IH-01589,13,12 meses,600 Mb,si,34570,urbana,90,1,1,0,no
+IH-01590,12,12 meses,1 Gb,no,33510,urbana,79,0,1,0,si
+IH-01591,6,mes a mes,300 Mb,no,21400,urbana,85,2,2,0,si
+IH-01592,42,24 meses,300 Mb,no,19990,urbana,92,0,0,0,no
+IH-01593,8,24 meses,1 Gb,no,31760,urbana,96,1,1,0,no
+IH-01594,56,mes a mes,300 Mb,no,23550,urbana,87,0,0,0,no
+IH-01595,7,mes a mes,600 Mb,si,35370,urbana,93,2,0,0,no
+IH-01596,5,mes a mes,300 Mb,no,21990,urbana,85,1,1,0,no
+IH-01597,17,12 meses,1 Gb,si,45560,urbana,97,2,1,0,no
+IH-01598,22,mes a mes,100 Mb,si,25680,urbana,98,1,3,6,no
+IH-01599,11,12 meses,600 Mb,si,36180,urbana,95,0,1,0,no
+IH-01600,16,12 meses,1 Gb,no,32550,urbana,93,0,0,0,si
+IH-01601,29,12 meses,600 Mb,no,27030,urbana,84,2,3,0,no
+IH-01602,22,12 meses,300 Mb,si,31520,urbana,89,0,0,0,si
+IH-01603,6,mes a mes,100 Mb,si,26170,urbana,86,0,4,0,si
+IH-01604,18,24 meses,300 Mb,no,23170,urbana,88,0,0,3,no
+IH-01605,3,mes a mes,100 Mb,no,20510,urbana,89,0,0,0,no
+IH-01606,22,12 meses,300 Mb,si,32970,urbana,75,1,1,0,si
+IH-01607,20,12 meses,300 Mb,si,33010,rural,75,1,0,0,no
+IH-01608,40,mes a mes,100 Mb,no,14760,rural,83,2,0,0,no
+IH-01609,64,12 meses,100 Mb,no,17290,urbana,83,1,1,0,no
+IH-01610,52,mes a mes,100 Mb,no,18400,urbana,81,1,0,0,no
+IH-01611,1,mes a mes,100 Mb,si,24000,urbana,95,2,1,3,no
+IH-01612,2,24 meses,600 Mb,si,37020,urbana,82,0,1,0,no
+IH-01613,10,24 meses,600 Mb,si,36650,urbana,87,0,0,0,no
+IH-01614,32,mes a mes,1 Gb,si,42080,rural,72,5,3,0,si
+IH-01615,11,24 meses,300 Mb,no,20400,urbana,87,1,1,0,no
+IH-01616,55,mes a mes,100 Mb,no,18850,urbana,88,0,0,0,no
+IH-01617,33,mes a mes,300 Mb,no,23020,urbana,90,0,0,0,no
+IH-01618,20,mes a mes,300 Mb,no,22100,urbana,85,2,1,0,si
+IH-01619,2,mes a mes,100 Mb,no,14100,urbana,93,0,0,7,no
+IH-01620,12,24 meses,600 Mb,no,29150,urbana,86,2,0,0,no
+IH-01621,18,12 meses,300 Mb,si,31860,urbana,83,0,0,0,no
+IH-01622,2,24 meses,600 Mb,si,36660,rural,66,1,2,0,no
+IH-01623,47,12 meses,1 Gb,no,30090,urbana,88,1,0,0,si
+IH-01624,3,24 meses,1 Gb,no,31770,rural,79,2,1,0,no
+IH-01625,20,12 meses,1 Gb,no,32660,urbana,57,1,3,0,si
+IH-01626,2,24 meses,300 Mb,no,19250,urbana,88,2,0,0,no
+IH-01627,52,12 meses,100 Mb,no,17520,urbana,79,1,1,8,no
+IH-01628,36,12 meses,100 Mb,no,15530,urbana,77,1,2,0,no
+IH-01629,7,24 meses,1 Gb,si,42260,urbana,79,0,0,0,no
+IH-01630,6,mes a mes,300 Mb,no,22620,rural,75,1,2,14,no
+IH-01631,17,24 meses,300 Mb,si,29370,rural,80,3,1,0,no
+IH-01632,2,12 meses,100 Mb,no,16280,urbana,85,1,4,0,no
+IH-01633,2,mes a mes,300 Mb,no,22540,urbana,100,1,1,0,si
+IH-01634,6,12 meses,600 Mb,si,36260,urbana,82,1,1,0,no
+IH-01635,15,12 meses,600 Mb,si,35330,urbana,73,1,0,26,si
+IH-01636,18,24 meses,100 Mb,no,15460,urbana,74,0,0,17,no
+IH-01637,19,mes a mes,100 Mb,si,24130,urbana,79,1,0,0,no
+IH-01638,37,mes a mes,100 Mb,no,16330,rural,68,1,4,0,no
+IH-01639,4,mes a mes,100 Mb,no,19920,urbana,84,1,2,0,no
+IH-01640,17,mes a mes,300 Mb,si,31480,urbana,85,0,0,2,no
+IH-01641,15,mes a mes,600 Mb,si,36290,rural,75,0,1,0,no
+IH-01642,10,12 meses,100 Mb,si,26450,urbana,87,1,0,0,no
+IH-01643,16,24 meses,100 Mb,no,17600,urbana,85,0,2,0,no
+IH-01644,7,mes a mes,100 Mb,no,14950,urbana,94,2,1,0,si
+IH-01645,20,mes a mes,300 Mb,si,29620,rural,77,1,1,0,no
+IH-01646,3,12 meses,300 Mb,no,24940,rural,83,1,2,0,no
+IH-01647,13,mes a mes,300 Mb,si,30930,urbana,77,0,0,0,no
+IH-01648,46,24 meses,300 Mb,no,22060,rural,91,5,0,0,no
+IH-01649,39,mes a mes,100 Mb,si,26680,urbana,81,1,1,0,si
+IH-01650,11,mes a mes,300 Mb,no,21570,rural,84,2,1,0,no
+IH-01651,43,mes a mes,300 Mb,no,22940,urbana,96,1,1,12,no
+IH-01652,31,12 meses,600 Mb,no,29230,urbana,94,1,1,0,si
+IH-01653,44,12 meses,600 Mb,si,36460,urbana,77,1,1,25,no
+IH-01654,27,mes a mes,600 Mb,no,28040,urbana,88,2,1,0,si
+IH-01655,7,mes a mes,1 Gb,si,42100,urbana,81,1,2,0,si
+IH-01656,25,24 meses,600 Mb,no,25230,urbana,100,0,0,0,no
+IH-01657,14,mes a mes,300 Mb,no,20280,urbana,83,0,0,0,no
+IH-01658,6,12 meses,100 Mb,no,17130,urbana,71,0,1,2,no
+IH-01659,7,mes a mes,1 Gb,no,33810,urbana,84,1,2,0,si
+IH-01660,9,12 meses,300 Mb,no,20030,urbana,78,1,1,0,no
+IH-01661,55,mes a mes,300 Mb,no,22160,urbana,81,1,0,0,no
+IH-01662,13,12 meses,100 Mb,no,15970,urbana,78,0,0,0,no
+IH-01663,5,mes a mes,300 Mb,no,24000,urbana,90,0,2,15,si
+IH-01664,8,12 meses,1 Gb,si,42490,rural,81,2,1,0,no
+IH-01665,21,12 meses,600 Mb,si,37450,rural,65,0,0,0,no
+IH-01666,4,24 meses,300 Mb,si,32750,urbana,91,0,0,0,no
+IH-01667,25,mes a mes,100 Mb,si,26110,urbana,100,0,0,0,no
+IH-01668,61,24 meses,300 Mb,no,21790,urbana,87,1,3,0,no
+IH-01669,15,12 meses,600 Mb,no,26910,urbana,73,0,2,0,no
+IH-01670,20,12 meses,1 Gb,si,41370,urbana,97,1,0,28,no
+IH-01671,14,mes a mes,100 Mb,si,23880,urbana,100,0,0,17,si
+IH-01672,14,12 meses,600 Mb,si,37430,urbana,96,1,1,0,no
+IH-01673,7,24 meses,600 Mb,si,38100,urbana,82,0,0,0,no
+IH-01674,5,mes a mes,600 Mb,no,26220,urbana,100,1,1,26,si
+IH-01675,41,mes a mes,300 Mb,si,33300,urbana,100,2,0,0,no
+IH-01676,10,12 meses,600 Mb,no,27220,urbana,94,0,0,2,no
+IH-01677,28,12 meses,100 Mb,no,14170,rural,75,4,3,0,no
+IH-01678,39,mes a mes,600 Mb,si,36790,urbana,77,2,0,0,no
+IH-01679,2,12 meses,600 Mb,no,28060,rural,80,1,1,19,no
+IH-01680,58,12 meses,100 Mb,no,15670,urbana,92,0,0,2,no
+IH-01681,33,12 meses,300 Mb,no,21860,urbana,97,0,0,0,no
+IH-01682,10,mes a mes,1 Gb,no,30230,urbana,87,0,0,0,no
+IH-01683,7,mes a mes,300 Mb,si,31000,urbana,63,0,2,0,no
+IH-01684,22,24 meses,1 Gb,no,35300,urbana,75,0,0,8,no
+IH-01685,18,12 meses,100 Mb,no,18280,rural,77,3,0,0,no
+IH-01686,47,mes a mes,300 Mb,si,29340,urbana,86,1,2,0,no
+IH-01687,7,mes a mes,1 Gb,no,33420,urbana,100,1,2,0,no
+IH-01688,35,mes a mes,300 Mb,si,31920,rural,63,4,1,0,no
+IH-01689,21,12 meses,300 Mb,no,20940,rural,69,1,3,7,no
+IH-01690,35,mes a mes,1 Gb,si,41610,urbana,81,0,0,26,no
+IH-01691,19,12 meses,100 Mb,no,16320,rural,76,3,3,0,no
+IH-01692,49,24 meses,600 Mb,no,28180,urbana,93,0,0,0,no
+IH-01693,18,mes a mes,600 Mb,no,27810,urbana,98,2,3,40,si
+IH-01694,10,24 meses,300 Mb,si,29800,urbana,99,0,0,0,no
+IH-01695,1,mes a mes,600 Mb,si,37050,urbana,97,0,1,9,no
+IH-01696,70,12 meses,600 Mb,no,28110,urbana,83,1,3,5,no
+IH-01697,24,24 meses,100 Mb,si,24990,urbana,100,1,1,0,no
+IH-01698,12,24 meses,1 Gb,no,33070,urbana,84,0,3,0,no
+IH-01699,16,12 meses,300 Mb,no,24290,urbana,75,0,2,0,no
+IH-01700,13,12 meses,1 Gb,no,33680,rural,72,3,0,0,si
+IH-01701,12,12 meses,300 Mb,no,23490,urbana,79,1,1,0,no
+IH-01702,1,mes a mes,100 Mb,si,27740,urbana,82,1,2,9,no
+IH-01703,12,mes a mes,100 Mb,si,24550,urbana,72,1,1,14,no
+IH-01704,47,12 meses,100 Mb,no,16730,urbana,95,0,1,0,no
+IH-01705,7,24 meses,600 Mb,no,27740,rural,72,1,4,0,no
+IH-01706,14,12 meses,600 Mb,si,36610,rural,73,1,0,0,no
+IH-01707,45,24 meses,100 Mb,no,16140,rural,65,2,2,0,no
+IH-01708,17,mes a mes,300 Mb,si,32340,rural,78,2,1,0,si
+IH-01709,16,12 meses,100 Mb,si,26080,urbana,75,0,0,0,no
+IH-01710,32,mes a mes,100 Mb,si,24240,urbana,91,0,1,0,no
+IH-01711,15,mes a mes,1 Gb,si,40980,urbana,100,2,0,0,no
+IH-01712,43,mes a mes,300 Mb,no,19260,urbana,95,1,0,0,no
+IH-01713,11,mes a mes,100 Mb,no,16310,urbana,81,3,1,0,no
+IH-01714,21,mes a mes,600 Mb,no,26400,urbana,94,0,1,13,no
+IH-01715,2,12 meses,600 Mb,no,25020,urbana,90,1,1,0,no
+IH-01716,17,mes a mes,600 Mb,si,36610,urbana,82,1,3,3,no
+IH-01717,53,12 meses,600 Mb,si,38510,urbana,100,0,0,18,no
+IH-01718,1,12 meses,600 Mb,no,27180,urbana,78,1,2,0,no
+IH-01719,30,12 meses,600 Mb,si,35880,urbana,89,1,0,0,no
+IH-01720,8,12 meses,300 Mb,no,22440,urbana,90,2,1,8,no
+IH-01721,45,mes a mes,300 Mb,si,32860,rural,76,2,0,0,no
+IH-01722,26,12 meses,100 Mb,no,17830,rural,95,3,1,7,no
+IH-01723,28,12 meses,300 Mb,no,22250,urbana,97,2,3,0,no
+IH-01724,23,mes a mes,100 Mb,si,22970,rural,68,0,1,0,no
+IH-01725,3,mes a mes,100 Mb,no,14840,urbana,77,0,1,13,no
+IH-01726,10,mes a mes,300 Mb,no,18900,urbana,83,1,2,0,no
+IH-01727,14,mes a mes,600 Mb,si,37450,urbana,98,1,0,9,no
+IH-01728,33,mes a mes,100 Mb,si,25920,urbana,100,2,2,0,no
+IH-01729,3,24 meses,600 Mb,no,25090,urbana,93,0,1,8,no
+IH-01730,23,24 meses,100 Mb,si,26820,urbana,100,1,0,4,no
+IH-01731,41,mes a mes,300 Mb,si,31880,rural,69,2,2,0,si
+IH-01732,10,12 meses,300 Mb,si,30170,urbana,86,0,0,0,no
+IH-01733,17,12 meses,600 Mb,si,34480,urbana,79,0,0,0,no
+IH-01734,64,mes a mes,300 Mb,no,20860,urbana,91,0,0,0,no
+IH-01735,18,12 meses,100 Mb,no,17160,urbana,91,0,0,0,no
+IH-01736,9,mes a mes,600 Mb,no,28930,urbana,65,0,1,0,si
+IH-01737,12,mes a mes,600 Mb,no,26480,rural,84,5,5,5,si
+IH-01738,3,24 meses,300 Mb,no,22300,urbana,99,1,0,0,no
+IH-01739,1,mes a mes,300 Mb,si,31220,rural,79,2,0,13,no
+IH-01740,60,mes a mes,100 Mb,si,25990,urbana,82,0,0,0,no
+IH-01741,30,12 meses,300 Mb,si,31200,urbana,98,0,1,14,no
+IH-01742,47,12 meses,300 Mb,si,32720,urbana,74,2,0,10,no
+IH-01743,2,12 meses,100 Mb,no,18120,urbana,94,1,3,5,no
+IH-01744,7,mes a mes,300 Mb,no,23260,rural,80,5,3,12,si
+IH-01745,40,mes a mes,600 Mb,no,26040,urbana,83,1,0,0,no
+IH-01746,19,24 meses,1 Gb,si,43770,urbana,100,0,0,0,no
+IH-01747,51,24 meses,600 Mb,no,25450,urbana,96,1,1,0,no
+IH-01748,1,12 meses,300 Mb,no,23490,urbana,94,0,2,0,no
+IH-01749,28,12 meses,100 Mb,no,17990,urbana,90,1,2,3,no
+IH-01750,14,mes a mes,100 Mb,no,17100,urbana,94,0,0,0,no
+IH-01751,21,12 meses,600 Mb,no,28490,urbana,83,0,0,0,no
+IH-01752,29,mes a mes,300 Mb,no,20690,rural,75,2,2,0,no
+IH-01753,12,mes a mes,100 Mb,no,14480,urbana,93,1,0,0,no
+IH-01754,17,mes a mes,100 Mb,no,16180,urbana,100,0,0,10,no
+IH-01755,6,mes a mes,100 Mb,no,19590,urbana,94,0,0,0,no
+IH-01756,21,mes a mes,300 Mb,no,23150,urbana,97,1,0,4,no
+IH-01757,85,24 meses,100 Mb,no,17440,urbana,79,1,1,0,no
+IH-01758,16,12 meses,300 Mb,no,24060,rural,74,1,1,0,si
+IH-01759,16,mes a mes,600 Mb,no,25940,urbana,84,0,0,0,no
+IH-01760,13,12 meses,600 Mb,no,26630,rural,77,3,3,3,si
+IH-01761,31,mes a mes,600 Mb,no,26870,rural,84,1,0,0,no
+IH-01762,21,mes a mes,100 Mb,no,14970,urbana,86,1,0,0,no
+IH-01763,12,mes a mes,300 Mb,no,23010,urbana,98,0,0,11,no
+IH-01764,4,mes a mes,300 Mb,si,32380,urbana,76,1,1,0,si
+IH-01765,15,12 meses,600 Mb,no,27670,urbana,91,0,0,0,no
+IH-01766,46,24 meses,300 Mb,no,19390,urbana,87,0,1,0,no
+IH-01767,31,12 meses,600 Mb,no,25110,urbana,79,3,1,0,no
+IH-01768,1,12 meses,100 Mb,no,17350,rural,48,2,1,0,no
+IH-01769,4,mes a mes,300 Mb,no,20170,urbana,86,1,1,0,si
+IH-01770,11,24 meses,100 Mb,no,17700,urbana,83,0,0,0,no
+IH-01771,27,mes a mes,600 Mb,no,27440,rural,83,6,1,41,no
+IH-01772,18,24 meses,600 Mb,no,29450,urbana,83,0,1,9,si
+IH-01773,120,mes a mes,600 Mb,no,27430,urbana,75,1,0,0,no
+IH-01774,14,24 meses,1 Gb,si,44170,urbana,88,1,2,0,no
+IH-01775,9,12 meses,100 Mb,no,16420,urbana,91,0,0,0,no
+IH-01776,9,mes a mes,300 Mb,si,30770,urbana,100,1,0,0,no
+IH-01777,27,12 meses,600 Mb,no,26930,urbana,97,1,0,0,no
+IH-01778,46,24 meses,100 Mb,si,26300,urbana,94,1,0,3,no
+IH-01779,5,24 meses,100 Mb,no,17640,rural,67,0,0,8,no
+IH-01780,16,mes a mes,600 Mb,no,28260,urbana,100,0,1,2,no
+IH-01781,16,24 meses,600 Mb,no,28650,urbana,75,1,2,0,no
+IH-01782,58,12 meses,600 Mb,no,30310,rural,64,1,2,12,no
+IH-01783,46,24 meses,300 Mb,si,32700,rural,73,4,1,0,no
+IH-01784,5,mes a mes,600 Mb,si,36370,urbana,84,1,0,0,no
+IH-01785,10,mes a mes,1 Gb,no,31910,urbana,82,0,1,5,no
+IH-01786,75,mes a mes,300 Mb,si,32180,urbana,96,0,0,0,no
+IH-01787,3,24 meses,1 Gb,si,42830,urbana,75,1,0,0,no
+IH-01788,40,24 meses,100 Mb,no,15300,urbana,98,1,2,0,no
+IH-01789,4,12 meses,100 Mb,no,16820,urbana,80,1,0,0,no
+IH-01790,18,12 meses,300 Mb,si,29140,urbana,74,0,4,0,no
+IH-01791,9,12 meses,300 Mb,si,30460,urbana,88,0,0,0,no
+IH-01792,2,mes a mes,600 Mb,no,25470,urbana,85,0,0,0,no
+IH-01793,43,12 meses,300 Mb,no,22200,urbana,90,0,0,10,no
+IH-01794,4,12 meses,100 Mb,si,29240,urbana,89,1,0,0,no
+IH-01795,21,12 meses,100 Mb,no,19330,urbana,92,0,0,0,no
+IH-01796,43,mes a mes,600 Mb,si,36560,urbana,96,1,0,14,no
+IH-01797,30,12 meses,300 Mb,no,22320,urbana,94,0,0,0,no
+IH-01798,3,12 meses,1 Gb,si,43220,rural,95,3,0,7,no
+IH-01799,9,12 meses,300 Mb,no,23070,urbana,82,1,1,0,no
+IH-01800,10,mes a mes,600 Mb,no,28890,urbana,100,0,1,42,no
+IH-01801,32,mes a mes,300 Mb,no,22690,urbana,79,2,2,0,no
+IH-01802,15,12 meses,600 Mb,si,33830,rural,70,1,3,7,no
+IH-01803,32,12 meses,100 Mb,si,26100,urbana,87,2,2,0,no
+IH-01804,29,12 meses,600 Mb,no,27460,urbana,83,1,1,0,no
+IH-01805,13,mes a mes,600 Mb,no,27640,rural,90,3,4,0,si
+IH-01806,12,mes a mes,300 Mb,no,21530,urbana,93,0,0,8,no
+IH-01807,39,mes a mes,100 Mb,no,17190,rural,86,1,2,0,no
+IH-01808,12,12 meses,100 Mb,no,14940,urbana,96,0,0,0,no
+IH-01809,3,12 meses,100 Mb,si,27920,rural,78,0,1,0,no
+IH-01810,6,mes a mes,300 Mb,no,22020,rural,86,0,1,0,no
+IH-01811,14,24 meses,600 Mb,no,24190,urbana,85,0,0,11,no
+IH-01812,28,12 meses,600 Mb,si,36140,urbana,79,0,2,0,no
+IH-01813,6,24 meses,300 Mb,si,32450,urbana,85,0,1,0,no
+IH-01814,1,mes a mes,300 Mb,si,34500,urbana,81,0,0,0,no
+IH-01815,52,mes a mes,100 Mb,no,19450,urbana,85,2,1,0,no
+IH-01816,32,mes a mes,100 Mb,si,27750,urbana,88,0,0,0,no
+IH-01817,19,12 meses,600 Mb,no,23810,urbana,79,0,0,0,no
+IH-01818,22,24 meses,100 Mb,no,18000,urbana,88,1,0,0,no
+IH-01819,23,24 meses,100 Mb,si,25600,urbana,70,0,0,0,no
+IH-01820,11,24 meses,1 Gb,si,44930,rural,79,0,0,0,no
+IH-01821,49,24 meses,1 Gb,no,32470,urbana,83,0,0,19,no
+IH-01822,17,24 meses,300 Mb,no,23430,urbana,95,1,0,0,no
+IH-01823,40,12 meses,100 Mb,no,15800,urbana,90,2,2,0,no
+IH-01824,15,24 meses,600 Mb,si,37280,rural,64,0,0,0,no
+IH-01825,13,mes a mes,600 Mb,si,34960,urbana,89,2,2,4,si
+IH-01826,6,mes a mes,300 Mb,no,22220,urbana,69,1,2,0,si
+IH-01827,11,mes a mes,600 Mb,no,26170,rural,85,0,2,0,si
+IH-01828,17,12 meses,1 Gb,si,41330,urbana,91,0,0,0,no
+IH-01829,38,mes a mes,600 Mb,no,29850,urbana,79,0,0,0,si
+IH-01830,15,12 meses,100 Mb,no,17980,rural,75,2,1,0,no
+IH-01831,6,12 meses,1 Gb,no,33740,urbana,82,0,0,0,no
+IH-01832,45,mes a mes,100 Mb,no,17570,urbana,78,1,1,0,no
+IH-01833,15,mes a mes,100 Mb,si,25960,urbana,74,1,1,0,no
+IH-01834,23,mes a mes,300 Mb,si,32490,rural,77,0,1,0,no
+IH-01835,3,24 meses,100 Mb,no,16180,urbana,84,0,0,2,no
+IH-01836,32,mes a mes,600 Mb,no,24970,rural,67,2,2,1,no
+IH-01837,27,mes a mes,100 Mb,si,24040,urbana,87,2,1,0,no
+IH-01838,23,12 meses,600 Mb,no,30370,rural,70,0,0,0,no
+IH-01839,36,12 meses,600 Mb,no,26920,urbana,72,1,0,0,si
+IH-01840,32,12 meses,100 Mb,no,15120,urbana,100,2,0,13,no
+IH-01841,15,mes a mes,1 Gb,si,40750,urbana,96,1,1,0,si
+IH-01842,4,12 meses,300 Mb,si,29610,rural,72,3,2,21,si
+IH-01843,22,mes a mes,300 Mb,no,23330,urbana,82,0,2,0,no
+IH-01844,37,mes a mes,100 Mb,si,24260,urbana,67,3,0,0,no
+IH-01845,12,mes a mes,100 Mb,no,15930,urbana,87,0,0,0,no
+IH-01846,13,mes a mes,300 Mb,no,21480,urbana,83,1,1,0,si
+IH-01847,26,mes a mes,600 Mb,si,33170,urbana,87,0,0,5,no
+IH-01848,14,12 meses,600 Mb,no,27810,urbana,100,0,0,12,no
+IH-01849,30,mes a mes,600 Mb,si,37590,rural,75,0,0,0,no
+IH-01850,43,12 meses,300 Mb,no,23530,urbana,93,0,1,0,no
+IH-01851,6,mes a mes,300 Mb,no,21110,rural,73,1,0,0,si
+IH-01852,33,12 meses,300 Mb,si,31540,urbana,99,0,0,24,no
+IH-01853,3,mes a mes,1 Gb,si,41310,urbana,84,0,0,0,no
+IH-01854,11,mes a mes,300 Mb,si,29210,urbana,85,0,0,0,no
+IH-01855,35,24 meses,1 Gb,si,42400,rural,78,0,2,15,si
+IH-01856,23,mes a mes,600 Mb,si,37750,urbana,90,1,1,26,si
+IH-01857,11,mes a mes,600 Mb,no,27530,rural,76,0,1,0,no
+IH-01858,11,mes a mes,100 Mb,si,26690,urbana,83,0,0,0,no
+IH-01859,5,mes a mes,1 Gb,si,40800,urbana,79,1,1,0,si
+IH-01860,22,mes a mes,300 Mb,no,25490,urbana,69,0,1,11,no
+IH-01861,6,12 meses,100 Mb,no,15330,urbana,90,0,0,0,no
+IH-01862,8,mes a mes,100 Mb,si,26390,urbana,80,0,1,0,si
+IH-01863,33,12 meses,100 Mb,no,16470,urbana,85,2,1,0,no
+IH-01864,10,12 meses,100 Mb,si,23940,rural,73,0,1,0,no
+IH-01865,26,24 meses,300 Mb,no,22790,rural,78,3,2,17,si
+IH-01866,28,mes a mes,1 Gb,no,33110,urbana,90,0,0,0,no
+IH-01867,5,12 meses,600 Mb,si,36090,urbana,90,0,0,18,no
+IH-01868,17,mes a mes,600 Mb,no,27510,urbana,88,1,1,0,no
+IH-01869,27,12 meses,300 Mb,no,23530,rural,59,0,1,0,no
+IH-01870,54,24 meses,600 Mb,no,27880,urbana,100,0,0,0,no
+IH-01871,22,12 meses,1 Gb,no,34690,urbana,85,1,0,0,no
+IH-01872,2,12 meses,100 Mb,no,17450,urbana,79,1,0,0,no
+IH-01873,8,mes a mes,300 Mb,no,21240,urbana,100,2,3,0,no
+IH-01874,11,12 meses,600 Mb,no,26040,rural,82,0,1,0,no
+IH-01875,26,12 meses,100 Mb,no,18640,urbana,75,0,0,0,no
+IH-01876,13,mes a mes,300 Mb,si,31040,urbana,81,0,0,11,no
+IH-01877,19,24 meses,100 Mb,no,16020,urbana,98,1,1,0,no
+IH-01878,52,24 meses,100 Mb,no,19920,rural,79,1,0,0,no
+IH-01879,11,24 meses,100 Mb,no,18460,urbana,92,1,0,0,no
+IH-01880,26,mes a mes,600 Mb,no,25400,urbana,81,1,0,0,no
+IH-01881,13,mes a mes,1 Gb,no,31770,rural,82,2,1,0,si
+IH-01882,16,12 meses,100 Mb,no,17970,urbana,90,0,1,0,no
+IH-01883,11,12 meses,300 Mb,no,23720,urbana,100,1,0,0,no
+IH-01884,69,mes a mes,1 Gb,si,41430,urbana,93,1,1,0,no
+IH-01885,46,12 meses,600 Mb,no,25960,urbana,81,1,2,7,no
+IH-01886,7,mes a mes,100 Mb,si,26670,rural,79,3,0,0,no
+IH-01887,29,12 meses,600 Mb,si,35790,rural,88,1,0,0,no
+IH-01888,17,12 meses,300 Mb,no,23560,urbana,94,1,0,0,no
+IH-01889,1,12 meses,100 Mb,no,17150,urbana,100,1,2,31,no
+IH-01890,26,mes a mes,600 Mb,no,28590,urbana,95,1,3,8,no
+IH-01891,9,12 meses,1 Gb,no,32760,urbana,98,2,0,0,si
+IH-01892,27,mes a mes,300 Mb,no,21190,urbana,96,2,1,19,si
+IH-01893,7,24 meses,300 Mb,no,25440,urbana,91,1,2,3,no
+IH-01894,13,12 meses,600 Mb,no,25490,urbana,90,1,0,0,no
+IH-01895,1,mes a mes,1 Gb,no,33590,urbana,68,0,2,0,si
+IH-01896,101,24 meses,100 Mb,no,18290,rural,79,2,2,0,no
+IH-01897,32,12 meses,300 Mb,si,31270,urbana,95,0,0,0,no
+IH-01898,5,mes a mes,100 Mb,no,13520,urbana,82,0,1,8,no
+IH-01899,30,mes a mes,300 Mb,si,30540,urbana,84,0,1,0,no
+IH-01900,13,mes a mes,300 Mb,no,23020,urbana,85,0,2,7,si
+IH-01901,48,mes a mes,300 Mb,no,19900,rural,88,1,2,0,no
+IH-01902,8,12 meses,600 Mb,no,25070,rural,73,2,1,0,no
+IH-01903,22,12 meses,100 Mb,no,15640,urbana,89,0,0,17,no
+IH-01904,48,12 meses,1 Gb,si,40740,urbana,100,1,1,0,no
+IH-01905,1,12 meses,300 Mb,no,22610,urbana,82,1,3,0,no
+IH-01906,6,mes a mes,300 Mb,si,29300,urbana,92,1,0,28,no
+IH-01907,15,24 meses,100 Mb,no,17430,urbana,89,2,1,0,no
+IH-01908,59,mes a mes,1 Gb,si,40930,urbana,79,1,1,35,si
+IH-01909,12,24 meses,300 Mb,no,22340,rural,80,2,2,0,no
+IH-01910,13,mes a mes,300 Mb,no,22110,urbana,100,0,0,13,no
+IH-01911,9,mes a mes,100 Mb,no,16190,rural,68,0,0,11,no
+IH-01912,3,mes a mes,300 Mb,si,30180,urbana,100,1,0,0,no
+IH-01913,4,12 meses,600 Mb,no,26620,urbana,86,1,0,0,no
+IH-01914,10,12 meses,100 Mb,no,20740,urbana,91,0,0,0,no
+IH-01915,23,12 meses,1 Gb,no,33910,urbana,90,0,0,0,no
+IH-01916,22,12 meses,300 Mb,si,30850,urbana,100,1,1,10,no
+IH-01917,16,mes a mes,300 Mb,no,23930,rural,81,3,4,11,si
+IH-01918,2,12 meses,300 Mb,no,22310,urbana,91,0,0,24,no
+IH-01919,46,12 meses,1 Gb,si,39930,urbana,83,1,0,19,no
+IH-01920,7,24 meses,600 Mb,no,26240,urbana,92,0,0,0,no
+IH-01921,34,24 meses,1 Gb,no,33700,urbana,84,0,0,0,no
+IH-01922,6,mes a mes,100 Mb,si,26920,urbana,88,0,1,10,no
+IH-01923,20,24 meses,1 Gb,no,33110,urbana,92,0,0,1,no
+IH-01924,13,12 meses,1 Gb,no,31710,rural,89,2,1,13,no
+IH-01925,3,12 meses,100 Mb,no,17970,urbana,85,1,2,0,no
+IH-01926,29,12 meses,300 Mb,no,19490,urbana,94,0,0,0,no
+IH-01927,21,mes a mes,600 Mb,no,25050,rural,76,4,2,0,si
+IH-01928,9,12 meses,100 Mb,no,15720,urbana,76,0,0,0,no
+IH-01929,8,12 meses,300 Mb,no,22830,urbana,100,1,1,0,no
+IH-01930,43,24 meses,600 Mb,no,25130,urbana,86,1,1,0,no
+IH-01931,25,mes a mes,300 Mb,no,23140,urbana,91,0,0,0,no
+IH-01932,48,24 meses,600 Mb,no,28130,rural,95,2,2,9,no
+IH-01933,1,mes a mes,600 Mb,si,33330,urbana,94,1,0,0,no
+IH-01934,13,mes a mes,600 Mb,si,36340,urbana,96,0,0,0,no
+IH-01935,5,24 meses,100 Mb,no,16050,rural,71,2,2,0,no
+IH-01936,28,12 meses,100 Mb,no,16480,urbana,71,0,0,0,no
+IH-01937,26,12 meses,600 Mb,no,29210,urbana,75,1,1,8,no
+IH-01938,28,12 meses,300 Mb,no,22610,urbana,78,1,2,0,no
+IH-01939,21,12 meses,100 Mb,no,14710,rural,85,2,1,0,no
+IH-01940,36,12 meses,600 Mb,no,28280,urbana,83,1,0,0,no
+IH-01941,16,12 meses,100 Mb,si,23550,urbana,86,1,1,0,si
+IH-01942,8,24 meses,100 Mb,si,25830,urbana,78,1,0,0,no
+IH-01943,6,mes a mes,600 Mb,no,27260,urbana,80,0,0,0,no
+IH-01944,51,12 meses,300 Mb,si,32690,urbana,88,2,1,0,no
+IH-01945,29,mes a mes,600 Mb,no,28480,urbana,87,0,0,0,no
+IH-01946,8,mes a mes,300 Mb,no,23140,urbana,79,1,2,1,si
+IH-01947,8,mes a mes,100 Mb,si,26220,urbana,100,1,1,0,no
+IH-01948,32,mes a mes,1 Gb,no,32720,urbana,78,1,0,0,si
+IH-01949,15,24 meses,300 Mb,si,29480,rural,83,4,4,0,no
+IH-01950,25,24 meses,600 Mb,si,33860,urbana,90,0,1,0,si
+IH-01951,7,mes a mes,600 Mb,no,25610,urbana,82,3,2,0,no
+IH-01952,17,mes a mes,600 Mb,no,26520,urbana,78,0,1,0,no
+IH-01953,27,mes a mes,1 Gb,si,42940,rural,78,0,1,22,si
+IH-01954,33,12 meses,100 Mb,no,17250,urbana,81,0,0,0,no
+IH-01955,25,12 meses,1 Gb,no,33470,urbana,84,0,0,17,no
+IH-01956,21,24 meses,100 Mb,no,18050,urbana,80,1,1,14,no
+IH-01957,18,12 meses,300 Mb,no,20880,urbana,84,2,0,0,no
+IH-01958,14,mes a mes,100 Mb,si,26690,rural,89,2,1,0,no
+IH-01959,14,mes a mes,300 Mb,no,22000,urbana,84,2,2,0,no
+IH-01960,9,mes a mes,600 Mb,no,25690,urbana,84,1,0,0,no
+IH-01961,17,12 meses,300 Mb,no,23140,urbana,80,0,1,0,no
+IH-01962,19,12 meses,1 Gb,si,38700,urbana,96,3,1,0,si
+IH-01963,11,12 meses,300 Mb,no,23220,urbana,86,0,0,0,no
+IH-01964,30,12 meses,300 Mb,no,23330,urbana,100,1,0,0,no
+IH-01965,30,mes a mes,600 Mb,no,28560,rural,66,0,0,0,no
+IH-01966,11,mes a mes,1 Gb,si,40100,urbana,84,2,2,6,si
+IH-01967,44,24 meses,300 Mb,no,23910,rural,60,1,2,3,no
+IH-01968,10,12 meses,300 Mb,no,22370,urbana,79,1,1,0,no
+IH-01969,2,12 meses,600 Mb,no,25210,rural,83,2,2,0,si
+IH-01970,21,mes a mes,600 Mb,no,29800,urbana,75,0,0,0,si
+IH-01971,35,24 meses,300 Mb,no,20090,urbana,90,0,0,0,no
+IH-01972,41,mes a mes,100 Mb,no,16290,rural,84,0,1,1,no
+IH-01973,4,24 meses,600 Mb,si,37260,rural,86,2,1,0,no
+IH-01974,28,12 meses,300 Mb,no,21160,urbana,96,1,2,23,no
+IH-01975,17,12 meses,300 Mb,no,21030,rural,64,2,2,0,no
+IH-01976,38,12 meses,100 Mb,si,28410,urbana,76,0,1,1,no
+IH-01977,10,12 meses,300 Mb,no,23660,rural,62,0,1,1,si
+IH-01978,11,24 meses,300 Mb,no,22430,urbana,73,0,2,0,no
+IH-01979,15,mes a mes,100 Mb,no,14670,urbana,97,0,0,0,no
+IH-01980,29,mes a mes,600 Mb,no,27300,urbana,90,0,2,9,no
+IH-01981,44,12 meses,100 Mb,no,16130,urbana,87,0,0,0,no
+IH-01982,19,12 meses,100 Mb,no,16360,urbana,93,1,1,10,no
+IH-01983,20,12 meses,600 Mb,si,35440,rural,88,1,0,1,no
+IH-01984,14,12 meses,1 Gb,si,41940,urbana,94,0,1,6,no
+IH-01985,11,mes a mes,300 Mb,no,22620,urbana,75,1,3,0,no
+IH-01986,7,mes a mes,100 Mb,si,27010,urbana,75,0,2,0,si
+IH-01987,26,mes a mes,100 Mb,no,14740,urbana,76,1,2,0,si
+IH-01988,57,12 meses,600 Mb,no,26480,urbana,93,0,1,17,no
+IH-01989,28,mes a mes,600 Mb,no,25080,urbana,86,0,0,4,no
+IH-01990,11,12 meses,300 Mb,si,31310,urbana,93,0,0,0,no
+IH-01991,29,mes a mes,600 Mb,si,35330,urbana,81,1,2,0,si
+IH-01992,4,mes a mes,300 Mb,si,29510,urbana,90,0,0,0,no
+IH-01993,10,mes a mes,300 Mb,no,22750,urbana,100,0,1,8,si
+IH-01994,17,mes a mes,300 Mb,si,32160,rural,83,1,1,0,si
+IH-01995,29,24 meses,100 Mb,si,26510,urbana,92,0,1,0,no
+IH-01996,18,12 meses,600 Mb,no,27450,urbana,84,0,1,0,no
+IH-01997,15,mes a mes,300 Mb,no,22750,rural,77,0,1,0,no
+IH-01998,31,mes a mes,300 Mb,si,31040,urbana,100,0,0,11,no
+IH-01999,18,mes a mes,300 Mb,si,33650,urbana,84,0,0,0,no
+IH-02000,12,mes a mes,300 Mb,no,20410,urbana,87,1,0,6,si
+IH-02001,27,12 meses,1 Gb,no,31870,urbana,94,0,1,6,no
+IH-02002,11,12 meses,100 Mb,no,16750,rural,75,2,1,4,no
+IH-02003,17,12 meses,300 Mb,si,31590,urbana,90,1,0,0,no
+IH-02004,8,mes a mes,100 Mb,si,25970,rural,74,1,3,0,si
+IH-02005,31,12 meses,1 Gb,si,41610,urbana,90,2,2,10,no
+IH-02006,18,24 meses,1 Gb,si,43760,urbana,100,1,1,25,no
+IH-02007,3,mes a mes,600 Mb,no,24400,rural,88,3,1,0,no
+IH-02008,7,24 meses,300 Mb,si,33060,urbana,100,0,0,0,no
+IH-02009,7,mes a mes,300 Mb,no,23300,urbana,91,0,0,1,no
+IH-02010,7,mes a mes,100 Mb,si,25660,rural,77,1,1,6,no
+IH-02011,38,12 meses,1 Gb,no,32080,urbana,82,1,0,0,no
+IH-02012,13,mes a mes,100 Mb,si,27340,urbana,82,1,2,0,si
+IH-02013,54,12 meses,600 Mb,no,25980,urbana,82,1,1,0,no
+IH-02014,25,mes a mes,1 Gb,no,34010,urbana,92,1,0,0,no
+IH-02015,9,12 meses,300 Mb,no,20410,urbana,92,0,0,16,no
+IH-02016,25,mes a mes,600 Mb,si,36360,urbana,90,0,2,0,si
+IH-02017,15,mes a mes,100 Mb,no,16910,rural,100,2,2,17,si
+IH-02018,9,12 meses,100 Mb,si,26670,rural,80,4,1,0,no
+IH-02019,3,mes a mes,600 Mb,si,35880,rural,76,3,2,0,no
+IH-02020,11,mes a mes,300 Mb,no,21690,rural,81,3,2,28,si
+IH-02021,16,12 meses,100 Mb,no,20060,urbana,83,0,0,0,no
+IH-02022,38,mes a mes,300 Mb,si,30590,urbana,95,0,1,25,si
+IH-02023,18,mes a mes,100 Mb,no,15630,urbana,82,0,0,0,no
+IH-02024,9,24 meses,100 Mb,si,28550,urbana,100,0,0,5,no
+IH-02025,51,12 meses,300 Mb,no,24660,urbana,72,1,1,0,no
+IH-02026,27,12 meses,600 Mb,no,24460,urbana,93,0,0,0,no
+IH-02027,12,mes a mes,300 Mb,no,23190,urbana,95,0,0,0,no
+IH-02028,4,12 meses,300 Mb,no,20840,urbana,96,0,1,0,no
+IH-02029,55,mes a mes,1 Gb,no,33330,urbana,76,0,1,14,si
+IH-02030,2,mes a mes,300 Mb,no,22890,urbana,98,0,1,0,no
+IH-02031,30,12 meses,300 Mb,no,21880,urbana,85,0,2,0,no
+IH-02032,17,mes a mes,1 Gb,no,33400,urbana,100,1,0,0,no
+IH-02033,30,12 meses,100 Mb,si,26460,urbana,86,0,0,9,si
+IH-02034,6,mes a mes,600 Mb,no,28080,urbana,80,0,0,0,no
+IH-02035,25,24 meses,100 Mb,no,15410,urbana,80,0,1,0,no
+IH-02036,37,mes a mes,100 Mb,no,18400,rural,76,2,0,5,no
+IH-02037,61,12 meses,300 Mb,no,21790,rural,81,2,3,0,no
+IH-02038,31,mes a mes,1 Gb,si,41490,urbana,88,1,0,0,no
+IH-02039,29,mes a mes,1 Gb,si,41280,rural,73,0,1,22,si
+IH-02040,8,12 meses,100 Mb,si,24870,urbana,88,0,0,0,no
+IH-02041,4,mes a mes,1 Gb,si,44230,urbana,98,0,0,0,no
+IH-02042,5,12 meses,100 Mb,no,18560,urbana,90,1,0,0,no
+IH-02043,29,mes a mes,300 Mb,no,24520,urbana,82,0,2,0,no
+IH-02044,6,mes a mes,1 Gb,si,41320,rural,80,3,1,0,no
+IH-02045,10,mes a mes,1 Gb,si,44730,urbana,95,0,0,0,si
+IH-02046,58,mes a mes,1 Gb,no,30380,urbana,80,2,2,24,no
+IH-02047,18,12 meses,600 Mb,si,38880,urbana,78,0,0,2,si
+IH-02048,55,12 meses,300 Mb,no,23690,urbana,84,0,1,0,no
+IH-02049,64,12 meses,600 Mb,no,29340,rural,92,1,1,0,no
+IH-02050,7,mes a mes,1 Gb,si,42880,urbana,84,0,0,9,no
+IH-02051,20,mes a mes,300 Mb,no,24790,rural,72,1,3,29,si
+IH-02052,22,12 meses,100 Mb,si,26910,urbana,84,0,0,4,si
+IH-02053,2,24 meses,300 Mb,no,22160,urbana,82,0,1,11,no
+IH-02054,32,mes a mes,600 Mb,no,26140,urbana,91,0,0,0,no
+IH-02055,13,12 meses,600 Mb,si,37350,urbana,89,1,2,2,no
+IH-02056,5,mes a mes,100 Mb,si,26800,rural,74,2,1,0,no
+IH-02057,13,mes a mes,300 Mb,si,33710,urbana,78,0,2,0,no
+IH-02058,17,12 meses,300 Mb,si,31710,urbana,82,0,0,0,no
+IH-02059,8,mes a mes,1 Gb,si,41340,rural,69,0,1,0,si
+IH-02060,22,24 meses,100 Mb,no,15640,urbana,90,1,0,0,no
+IH-02061,23,mes a mes,300 Mb,no,22360,urbana,89,0,1,0,no
+IH-02062,14,mes a mes,300 Mb,no,20840,urbana,89,0,0,16,no
+IH-02063,8,12 meses,600 Mb,si,35080,urbana,100,1,0,0,no
+IH-02064,10,12 meses,1 Gb,si,41200,urbana,82,0,1,0,no
+IH-02065,28,mes a mes,1 Gb,no,33570,urbana,91,1,0,0,si
+IH-02066,27,mes a mes,100 Mb,no,16110,rural,83,2,0,0,no
+IH-02067,2,12 meses,100 Mb,no,19030,urbana,93,0,1,16,no
+IH-02068,16,mes a mes,300 Mb,no,20920,urbana,100,0,0,21,no
+IH-02069,57,mes a mes,1 Gb,si,41180,urbana,78,0,1,0,no
+IH-02070,1,12 meses,300 Mb,no,23580,urbana,100,0,0,0,no
+IH-02071,27,24 meses,1 Gb,si,42860,urbana,100,0,0,15,no
+IH-02072,5,12 meses,300 Mb,no,21430,urbana,91,0,0,0,no
+IH-02073,19,mes a mes,600 Mb,si,34080,urbana,85,0,0,0,si
+IH-02074,43,12 meses,1 Gb,no,30320,urbana,97,1,0,1,no
+IH-02075,28,12 meses,300 Mb,si,29110,urbana,83,1,3,4,no
+IH-02076,37,24 meses,100 Mb,no,18560,urbana,81,0,1,0,no
+IH-02077,6,mes a mes,1 Gb,si,44080,urbana,74,1,0,0,no
+IH-02078,9,12 meses,300 Mb,no,18740,rural,81,1,1,21,no
+IH-02079,45,mes a mes,300 Mb,no,23110,urbana,83,0,0,0,no
+IH-02080,55,mes a mes,300 Mb,no,23500,urbana,86,0,2,7,si
+IH-02081,5,mes a mes,300 Mb,no,23980,urbana,85,0,0,0,no
+IH-02082,11,12 meses,100 Mb,si,26850,urbana,88,0,1,0,no
+IH-02083,41,12 meses,300 Mb,no,22110,urbana,87,0,1,2,no
+IH-02084,2,mes a mes,300 Mb,no,22260,urbana,97,0,1,0,no
+IH-02085,13,12 meses,300 Mb,no,19640,urbana,76,0,1,0,no
+IH-02086,6,mes a mes,100 Mb,no,17290,urbana,75,1,1,0,no
+IH-02087,28,24 meses,600 Mb,no,26270,urbana,86,0,0,8,no
+IH-02088,10,12 meses,600 Mb,si,34160,urbana,100,0,0,0,no
+IH-02089,5,24 meses,100 Mb,no,16190,urbana,90,1,0,0,no
+IH-02090,53,mes a mes,600 Mb,si,35600,urbana,91,1,1,0,si
+IH-02091,27,12 meses,100 Mb,no,19430,urbana,93,2,0,0,no
+IH-02092,22,mes a mes,300 Mb,no,17440,urbana,78,0,0,6,no
+IH-02093,4,mes a mes,300 Mb,si,31340,urbana,100,2,1,12,si
+IH-02094,17,mes a mes,600 Mb,no,25340,urbana,97,1,0,0,no
+IH-02095,14,mes a mes,300 Mb,si,31920,urbana,87,0,1,0,no
+IH-02096,26,mes a mes,300 Mb,no,22730,urbana,79,0,3,13,no
+IH-02097,3,12 meses,100 Mb,si,27260,urbana,99,1,1,0,no
+IH-02098,5,mes a mes,300 Mb,si,29990,rural,95,4,5,7,si
+IH-02099,20,12 meses,600 Mb,no,24870,urbana,92,0,0,0,no
+IH-02100,3,24 meses,600 Mb,no,24710,rural,86,2,0,0,no
+IH-02101,120,mes a mes,600 Mb,no,27570,rural,100,1,0,0,no
+IH-02102,16,24 meses,300 Mb,no,24140,urbana,89,0,0,0,no
+IH-02103,14,12 meses,100 Mb,no,15820,urbana,87,1,0,0,no
+IH-02104,49,mes a mes,600 Mb,no,27320,rural,85,3,2,11,no
+IH-02105,8,mes a mes,300 Mb,no,20800,rural,74,1,1,0,no
+IH-02106,43,mes a mes,600 Mb,no,27630,urbana,100,1,0,0,si
+IH-02107,7,24 meses,300 Mb,si,31500,urbana,87,1,1,36,no
+IH-02108,25,mes a mes,300 Mb,no,22550,urbana,93,1,0,0,no
+IH-02109,8,24 meses,100 Mb,no,16820,urbana,91,0,1,0,no
+IH-02110,43,mes a mes,300 Mb,no,20210,urbana,87,1,0,0,no
+IH-02111,59,12 meses,300 Mb,si,30410,rural,84,3,1,0,no
+IH-02112,16,24 meses,100 Mb,no,17170,urbana,89,0,0,0,no
+IH-02113,32,mes a mes,100 Mb,no,17730,urbana,88,1,1,21,si
+IH-02114,20,24 meses,600 Mb,no,28530,rural,71,3,4,11,no
+IH-02115,7,24 meses,600 Mb,si,36920,urbana,98,0,0,21,no
+IH-02116,36,mes a mes,600 Mb,si,33770,urbana,80,2,0,0,no
+IH-02117,16,12 meses,600 Mb,no,25400,urbana,80,0,0,0,no
+IH-02118,34,mes a mes,300 Mb,no,22040,urbana,77,0,1,26,no
+IH-02119,15,mes a mes,100 Mb,si,26420,urbana,85,1,0,0,no
+IH-02120,22,mes a mes,100 Mb,si,24100,urbana,93,0,1,0,no
+IH-02121,10,12 meses,600 Mb,si,37370,urbana,100,1,1,0,si
+IH-02122,30,mes a mes,100 Mb,no,17050,urbana,97,1,3,0,no
+IH-02123,20,mes a mes,300 Mb,no,22330,urbana,98,0,0,0,no
+IH-02124,7,12 meses,300 Mb,si,32260,urbana,94,0,0,0,no
+IH-02125,9,24 meses,100 Mb,no,17860,urbana,98,0,0,0,no
+IH-02126,34,mes a mes,300 Mb,no,20610,rural,74,2,1,0,no
+IH-02127,10,12 meses,600 Mb,no,25100,rural,76,0,0,0,no
+IH-02128,10,mes a mes,1 Gb,no,32780,urbana,91,0,0,15,no
+IH-02129,78,mes a mes,100 Mb,no,17560,urbana,72,1,1,16,no
+IH-02130,31,12 meses,100 Mb,no,17240,urbana,80,1,1,0,no
+IH-02131,6,24 meses,300 Mb,no,22640,urbana,80,1,0,0,no
+IH-02132,8,mes a mes,100 Mb,no,17480,rural,75,1,3,0,si
+IH-02133,25,24 meses,300 Mb,no,22860,urbana,86,0,2,35,no
+IH-02134,60,12 meses,300 Mb,no,23340,urbana,80,0,1,0,no
+IH-02135,5,mes a mes,300 Mb,no,18920,urbana,81,1,0,3,no
+IH-02136,36,12 meses,300 Mb,no,22520,rural,79,1,2,2,no
+IH-02137,16,24 meses,300 Mb,no,23030,urbana,92,0,0,0,no
+IH-02138,40,mes a mes,600 Mb,no,27320,urbana,76,2,1,0,no
+IH-02139,15,12 meses,100 Mb,no,14660,urbana,77,2,0,0,no
+IH-02140,17,12 meses,1 Gb,no,31860,urbana,86,0,0,12,no
+IH-02141,3,24 meses,1 Gb,no,30370,rural,76,1,1,0,no
+IH-02142,16,12 meses,300 Mb,no,22350,urbana,95,0,1,0,no
+IH-02143,59,12 meses,100 Mb,si,25890,urbana,90,1,0,0,no
+IH-02144,23,12 meses,100 Mb,no,18030,urbana,87,0,0,12,no
+IH-02145,8,24 meses,100 Mb,si,24130,urbana,100,1,0,1,no
+IH-02146,30,mes a mes,600 Mb,no,27880,urbana,84,1,2,8,no
+IH-02147,16,mes a mes,600 Mb,no,27190,urbana,92,0,1,15,no
+IH-02148,6,12 meses,600 Mb,si,35620,rural,70,1,1,0,no
+IH-02149,33,12 meses,300 Mb,no,21650,urbana,90,0,1,0,no
+IH-02150,63,mes a mes,1 Gb,no,36090,rural,90,1,1,0,no
+IH-02151,33,mes a mes,600 Mb,si,36350,urbana,73,1,1,0,no
+IH-02152,33,mes a mes,300 Mb,no,23660,urbana,82,1,2,0,si
+IH-02153,59,mes a mes,600 Mb,no,26540,urbana,95,0,0,0,no
+IH-02154,19,mes a mes,600 Mb,no,26860,urbana,95,0,1,4,no
+IH-02155,19,12 meses,1 Gb,si,39400,urbana,75,1,1,0,no
+IH-02156,38,mes a mes,600 Mb,no,28600,urbana,79,0,0,5,no
+IH-02157,50,12 meses,1 Gb,no,30910,rural,84,0,1,0,no
+IH-02158,8,12 meses,1 Gb,no,34760,urbana,79,1,1,0,no
+IH-02159,2,24 meses,300 Mb,no,17860,rural,82,1,1,15,no
+IH-02160,4,mes a mes,600 Mb,si,36510,urbana,99,1,0,0,no
+IH-02161,20,12 meses,100 Mb,no,17100,urbana,84,0,1,4,si
+IH-02162,56,12 meses,100 Mb,no,16550,urbana,100,1,0,0,si
+IH-02163,115,mes a mes,100 Mb,si,26010,urbana,87,0,2,0,no
+IH-02164,20,12 meses,600 Mb,no,29440,urbana,83,0,2,0,si
+IH-02165,86,12 meses,100 Mb,no,16480,urbana,84,2,2,0,si
+IH-02166,22,mes a mes,100 Mb,no,15640,urbana,84,2,1,0,no
+IH-02167,42,mes a mes,300 Mb,si,31860,rural,67,1,0,13,si
+IH-02168,20,24 meses,100 Mb,si,26260,urbana,88,2,2,5,no
+IH-02169,2,12 meses,100 Mb,no,16080,urbana,83,0,0,0,no
+IH-02170,21,24 meses,1 Gb,no,33240,urbana,100,1,0,3,no
+IH-02171,58,12 meses,100 Mb,no,16940,urbana,87,0,0,0,no
+IH-02172,12,24 meses,600 Mb,no,27440,urbana,84,0,0,0,no
+IH-02173,27,mes a mes,100 Mb,si,26760,urbana,74,0,1,0,no
+IH-02174,12,24 meses,300 Mb,si,32820,urbana,83,2,2,29,no
+IH-02175,21,12 meses,1 Gb,si,42260,urbana,73,1,0,34,no
+IH-02176,9,mes a mes,600 Mb,no,27980,urbana,94,2,1,0,si
+IH-02177,25,12 meses,300 Mb,no,21230,urbana,100,1,1,0,no
+IH-02178,7,12 meses,300 Mb,no,21570,rural,84,3,1,13,no
+IH-02179,15,24 meses,300 Mb,no,23730,urbana,84,1,1,0,no
+IH-02180,14,12 meses,600 Mb,no,28310,urbana,81,0,0,0,no
+IH-02181,52,mes a mes,300 Mb,no,21520,urbana,86,0,2,0,no
+IH-02182,108,mes a mes,300 Mb,si,30660,urbana,83,0,0,21,no
+IH-02183,17,12 meses,600 Mb,no,25800,urbana,90,1,2,10,no
+IH-02184,16,12 meses,100 Mb,si,26760,urbana,98,0,0,0,no
+IH-02185,5,12 meses,300 Mb,no,21420,urbana,92,1,2,0,no
+IH-02186,32,mes a mes,1 Gb,no,33310,urbana,82,0,1,0,no
+IH-02187,22,12 meses,100 Mb,no,18300,urbana,89,1,1,0,no
+IH-02188,9,mes a mes,100 Mb,si,23980,urbana,78,0,0,10,si
+IH-02189,34,12 meses,1 Gb,no,33640,urbana,76,2,0,14,no
+IH-02190,11,mes a mes,600 Mb,no,26920,urbana,91,0,1,5,si
+IH-02191,1,12 meses,600 Mb,no,25480,rural,70,4,3,1,no
+IH-02192,2,12 meses,100 Mb,si,28210,rural,84,0,0,0,no
+IH-02193,4,24 meses,600 Mb,si,34280,rural,75,1,0,0,no
+IH-02194,35,12 meses,300 Mb,no,21920,urbana,91,0,0,0,no
+IH-02195,13,12 meses,1 Gb,no,33760,urbana,81,0,0,16,no
+IH-02196,13,mes a mes,600 Mb,si,36930,rural,86,3,0,0,no
+IH-02197,3,mes a mes,100 Mb,no,14490,urbana,96,2,1,0,no
+IH-02198,93,mes a mes,300 Mb,si,30150,urbana,85,0,0,9,no
+IH-02199,3,24 meses,300 Mb,si,31160,urbana,93,1,0,0,no
+IH-02200,26,12 meses,100 Mb,no,15460,urbana,100,1,1,0,no
+IH-02201,31,24 meses,300 Mb,no,22970,urbana,100,0,1,0,no
+IH-02202,12,mes a mes,300 Mb,no,21190,urbana,84,0,1,9,si
+IH-02203,6,mes a mes,300 Mb,si,31250,urbana,72,1,2,0,si
+IH-02204,3,24 meses,600 Mb,no,25880,urbana,95,0,0,0,no
+IH-02205,31,24 meses,300 Mb,si,29370,urbana,89,2,2,0,no
+IH-02206,13,mes a mes,600 Mb,no,24720,urbana,100,1,0,0,no
+IH-02207,4,mes a mes,600 Mb,no,27320,urbana,82,0,0,0,no
+IH-02208,21,24 meses,300 Mb,si,28020,urbana,79,1,0,0,no
+IH-02209,4,24 meses,300 Mb,no,21520,rural,99,1,1,0,no
+IH-02210,27,12 meses,600 Mb,no,24550,urbana,68,1,0,44,si
+IH-02211,52,mes a mes,100 Mb,no,18420,urbana,81,1,0,0,no
+IH-02212,20,mes a mes,100 Mb,si,26710,urbana,94,0,1,0,si
+IH-02213,5,12 meses,600 Mb,si,35040,rural,76,0,0,14,no
+IH-02214,29,mes a mes,300 Mb,no,21970,urbana,71,1,1,0,no
+IH-02215,4,24 meses,600 Mb,si,37120,urbana,75,0,1,1,no
+IH-02216,38,12 meses,600 Mb,si,37000,urbana,100,1,0,0,no
+IH-02217,3,12 meses,600 Mb,no,28590,urbana,84,1,0,0,no
+IH-02218,32,mes a mes,100 Mb,no,17790,urbana,99,0,2,3,no
+IH-02219,21,12 meses,100 Mb,si,27400,urbana,88,0,0,3,no
+IH-02220,1,mes a mes,600 Mb,si,35230,urbana,92,1,3,0,si
+IH-02221,58,12 meses,300 Mb,si,33010,urbana,82,0,0,0,no
+IH-02222,35,24 meses,300 Mb,si,29090,urbana,86,1,2,0,no
+IH-02223,1,mes a mes,100 Mb,no,18520,urbana,83,1,1,0,no
+IH-02224,8,12 meses,300 Mb,si,30800,urbana,77,2,0,7,no
+IH-02225,56,12 meses,600 Mb,si,35490,rural,68,2,0,0,no
+IH-02226,18,24 meses,100 Mb,no,18050,rural,71,1,1,0,no
+IH-02227,20,12 meses,600 Mb,no,26580,urbana,82,0,1,2,no
+IH-02228,17,12 meses,300 Mb,si,32170,rural,72,1,2,6,no
+IH-02229,21,mes a mes,600 Mb,no,27500,urbana,93,1,1,0,si
+IH-02230,12,24 meses,100 Mb,si,26180,urbana,79,0,0,0,si
+IH-02231,26,12 meses,300 Mb,si,29950,urbana,72,1,3,0,no
+IH-02232,21,mes a mes,300 Mb,no,24400,urbana,75,0,1,5,si
+IH-02233,20,mes a mes,300 Mb,si,31950,urbana,89,0,0,0,no
+IH-02234,8,mes a mes,600 Mb,si,36140,urbana,95,1,0,0,no
+IH-02235,19,mes a mes,100 Mb,no,14600,urbana,91,2,4,0,si
+IH-02236,8,12 meses,100 Mb,si,26690,urbana,85,1,2,11,no
+IH-02237,4,mes a mes,300 Mb,si,30860,rural,66,2,2,0,si
+IH-02238,6,mes a mes,1 Gb,no,33160,urbana,100,0,0,6,no
+IH-02239,45,12 meses,300 Mb,no,20870,urbana,88,1,2,0,no
+IH-02240,33,mes a mes,100 Mb,no,15200,urbana,89,1,1,0,si
+IH-02241,13,12 meses,600 Mb,no,24950,urbana,87,0,0,0,no
+IH-02242,3,12 meses,300 Mb,si,30640,urbana,73,1,2,0,si
+IH-02243,10,12 meses,600 Mb,si,34390,urbana,77,0,0,0,no
+IH-02244,12,mes a mes,300 Mb,si,30720,rural,60,3,2,13,si
+IH-02245,14,24 meses,300 Mb,no,19970,urbana,97,0,0,5,no
+IH-02246,14,12 meses,100 Mb,no,16340,urbana,90,1,2,0,no
+IH-02247,47,mes a mes,300 Mb,no,21990,urbana,75,0,3,0,no
+IH-02248,52,12 meses,100 Mb,no,16570,urbana,95,0,1,17,no
+IH-02249,1,24 meses,100 Mb,si,25410,urbana,100,2,0,0,no
+IH-02250,47,mes a mes,1 Gb,no,33190,urbana,90,0,0,0,no
+IH-02251,7,12 meses,600 Mb,no,28780,urbana,80,0,1,14,no
+IH-02252,38,12 meses,300 Mb,no,22720,urbana,98,1,0,5,no
+IH-02253,10,mes a mes,100 Mb,no,17200,urbana,77,2,1,0,si
+IH-02254,16,mes a mes,100 Mb,no,15430,urbana,96,0,0,0,no
+IH-02255,7,12 meses,100 Mb,no,17860,urbana,85,0,0,4,no
+IH-02256,13,24 meses,300 Mb,no,21360,urbana,82,1,0,0,no
+IH-02257,21,mes a mes,300 Mb,no,18070,urbana,85,1,2,0,no
+IH-02258,18,12 meses,600 Mb,no,28100,urbana,77,0,2,0,no
+IH-02259,26,24 meses,100 Mb,no,18820,rural,79,2,2,0,no
+IH-02260,5,12 meses,300 Mb,no,20690,urbana,76,2,5,0,no
+IH-02261,31,12 meses,100 Mb,si,26200,urbana,79,0,0,9,no
+IH-02262,47,mes a mes,300 Mb,si,28470,urbana,99,1,0,3,no
+IH-02263,21,mes a mes,600 Mb,si,34140,urbana,91,0,1,11,si
+IH-02264,49,24 meses,300 Mb,no,20750,urbana,82,1,1,0,no
+IH-02265,7,12 meses,300 Mb,no,24030,urbana,82,2,1,0,si
+IH-02266,27,mes a mes,300 Mb,no,21240,urbana,86,0,2,0,no
+IH-02267,19,12 meses,600 Mb,no,27900,urbana,88,0,0,0,no
+IH-02268,16,mes a mes,600 Mb,si,35220,urbana,72,0,0,0,no
+IH-02269,5,12 meses,100 Mb,no,18060,urbana,80,0,0,0,no
+IH-02270,15,mes a mes,600 Mb,si,39170,urbana,100,0,0,0,no
+IH-02271,20,mes a mes,1 Gb,si,41790,urbana,87,1,3,11,no
+IH-02272,14,24 meses,100 Mb,si,26220,urbana,81,1,2,0,no
+IH-02273,5,12 meses,300 Mb,si,31030,urbana,97,0,0,5,no
+IH-02274,2,12 meses,100 Mb,no,16020,urbana,78,0,0,0,no
+IH-02275,18,24 meses,600 Mb,no,28000,urbana,82,3,1,0,no
+IH-02276,17,mes a mes,600 Mb,no,29320,urbana,96,0,0,0,no
+IH-02277,20,12 meses,100 Mb,si,27150,urbana,88,2,0,0,no
+IH-02278,18,mes a mes,100 Mb,si,25300,urbana,93,0,1,0,no
+IH-02279,6,12 meses,300 Mb,no,21830,rural,88,2,1,0,no
+IH-02280,30,24 meses,300 Mb,no,24190,urbana,93,2,1,10,no
+IH-02281,14,mes a mes,300 Mb,si,29060,urbana,84,1,0,10,no
+IH-02282,10,12 meses,300 Mb,no,21290,urbana,85,0,1,2,no
+IH-02283,15,12 meses,300 Mb,no,23890,urbana,95,0,0,5,no
+IH-02284,13,mes a mes,600 Mb,si,34310,urbana,84,1,0,0,no
+IH-02285,16,mes a mes,100 Mb,no,18190,urbana,89,1,1,0,no
+IH-02286,2,mes a mes,100 Mb,si,24650,urbana,92,0,0,6,no
+IH-02287,14,12 meses,100 Mb,si,26440,urbana,96,0,1,0,no
+IH-02288,52,mes a mes,300 Mb,no,23650,urbana,86,0,1,7,no
+IH-02289,26,24 meses,1 Gb,no,34610,urbana,82,0,2,0,no
+IH-02290,28,mes a mes,300 Mb,si,30990,rural,65,3,4,0,si
+IH-02291,51,mes a mes,100 Mb,si,25710,urbana,82,1,0,0,no
+IH-02292,84,mes a mes,1 Gb,no,32560,urbana,92,0,0,0,no
+IH-02293,11,mes a mes,1 Gb,no,31890,urbana,87,0,1,0,si
+IH-02294,15,12 meses,1 Gb,si,42200,rural,83,0,0,0,no
+IH-02295,45,mes a mes,300 Mb,no,21950,urbana,77,0,1,0,no
+IH-02296,5,12 meses,300 Mb,no,22340,urbana,88,1,1,0,si
+IH-02297,47,mes a mes,600 Mb,si,37430,urbana,100,0,0,0,no
+IH-02298,47,12 meses,100 Mb,si,25910,rural,77,2,0,0,no
+IH-02299,36,mes a mes,1 Gb,no,29290,urbana,96,2,2,0,si
+IH-02300,18,12 meses,300 Mb,no,21490,urbana,91,1,0,12,no
+IH-02301,32,12 meses,1 Gb,si,42780,urbana,94,1,1,0,no
+IH-02302,17,mes a mes,600 Mb,si,38080,urbana,92,1,1,1,si
+IH-02303,23,mes a mes,600 Mb,si,35970,rural,74,2,3,20,si
+IH-02304,4,mes a mes,600 Mb,si,36770,urbana,79,1,2,3,si
+IH-02305,12,24 meses,600 Mb,no,27350,urbana,100,1,0,0,no
+IH-02306,37,24 meses,600 Mb,no,26990,rural,80,1,0,3,no
+IH-02307,20,mes a mes,600 Mb,no,28220,urbana,70,1,1,0,si
+IH-02308,10,12 meses,100 Mb,no,15870,urbana,99,0,1,8,no
+IH-02309,6,12 meses,300 Mb,si,30040,urbana,86,0,2,0,no
+IH-02310,55,12 meses,300 Mb,no,24610,urbana,88,0,0,6,no
+IH-02311,13,24 meses,100 Mb,si,25850,rural,85,1,1,0,no
+IH-02312,37,12 meses,300 Mb,no,23130,urbana,86,0,0,0,no
+IH-02313,64,24 meses,600 Mb,si,36470,urbana,98,1,2,10,no
+IH-02314,19,12 meses,300 Mb,si,30080,urbana,82,0,0,0,no
+IH-02315,26,12 meses,100 Mb,no,18120,urbana,71,0,1,0,si
+IH-02316,13,mes a mes,300 Mb,no,22250,rural,92,2,0,0,no
+IH-02317,30,12 meses,100 Mb,no,20210,urbana,97,1,1,0,no
+IH-02318,2,mes a mes,100 Mb,si,23490,urbana,81,0,1,0,si
+IH-02319,12,24 meses,100 Mb,no,20640,urbana,93,1,1,7,no
+IH-02320,20,12 meses,300 Mb,si,32120,rural,67,1,1,10,si
+IH-02321,38,24 meses,600 Mb,no,27010,urbana,90,0,2,0,no
+IH-02322,1,12 meses,300 Mb,si,32520,rural,72,3,0,4,no
+IH-02323,14,mes a mes,300 Mb,no,22100,urbana,83,0,0,0,no
+IH-02324,37,24 meses,100 Mb,no,17250,rural,86,0,0,0,no
+IH-02325,10,mes a mes,600 Mb,si,30920,urbana,90,0,0,4,no
+IH-02326,36,24 meses,1 Gb,no,35150,urbana,99,2,1,0,no
+IH-02327,5,12 meses,1 Gb,no,32070,urbana,95,1,3,0,no
+IH-02328,34,24 meses,300 Mb,si,29830,rural,73,1,4,0,no
+IH-02329,9,mes a mes,1 Gb,si,41590,urbana,84,1,1,0,si
+IH-02330,38,mes a mes,300 Mb,no,21900,rural,85,0,2,0,no
+IH-02331,16,mes a mes,1 Gb,no,33970,rural,79,3,1,19,si
+IH-02332,51,mes a mes,300 Mb,si,31910,urbana,88,0,2,0,si
+IH-02333,12,12 meses,600 Mb,no,25260,urbana,86,0,1,0,no
+IH-02334,6,mes a mes,1 Gb,no,32170,urbana,76,1,1,8,no
+IH-02335,16,mes a mes,600 Mb,no,29790,urbana,93,1,0,0,no
+IH-02336,29,12 meses,100 Mb,no,17150,rural,83,0,0,0,no
+IH-02337,16,24 meses,600 Mb,no,25630,rural,89,2,0,10,no
+IH-02338,7,12 meses,1 Gb,no,35880,rural,100,0,1,14,no
+IH-02339,16,mes a mes,300 Mb,no,21150,urbana,88,0,1,0,no
+IH-02340,5,mes a mes,600 Mb,no,25060,rural,85,3,0,0,no
+IH-02341,39,mes a mes,300 Mb,no,23340,urbana,96,0,0,0,no
+IH-02342,13,12 meses,300 Mb,si,32140,rural,72,0,0,3,no
+IH-02343,34,mes a mes,300 Mb,no,23270,urbana,89,1,1,0,no
+IH-02344,41,12 meses,600 Mb,no,27510,urbana,88,1,2,0,no
+IH-02345,6,mes a mes,600 Mb,no,29650,urbana,93,0,0,0,no
+IH-02346,3,mes a mes,100 Mb,no,16220,urbana,79,0,1,0,no
+IH-02347,21,12 meses,300 Mb,si,29650,urbana,95,2,1,2,no
+IH-02348,23,mes a mes,300 Mb,no,22620,urbana,87,0,0,0,si
+IH-02349,8,mes a mes,600 Mb,no,27230,rural,88,2,0,10,no
+IH-02350,10,12 meses,300 Mb,no,20150,urbana,75,0,0,0,no
+IH-02351,72,mes a mes,600 Mb,no,28110,urbana,92,0,2,0,no
+IH-02352,75,mes a mes,300 Mb,no,20920,urbana,76,1,1,0,no
+IH-02353,53,12 meses,600 Mb,si,35910,urbana,78,2,1,0,no
+IH-02354,4,12 meses,1 Gb,no,29040,urbana,100,2,1,0,si
+IH-02355,10,mes a mes,1 Gb,no,31490,urbana,74,1,1,10,no
+IH-02356,9,12 meses,100 Mb,si,25430,urbana,83,0,1,16,no
+IH-02357,10,mes a mes,300 Mb,no,20220,urbana,84,1,1,0,no
+IH-02358,41,mes a mes,300 Mb,si,29760,urbana,90,1,1,0,no
+IH-02359,41,24 meses,600 Mb,no,26730,rural,70,1,0,2,no
+IH-02360,7,24 meses,100 Mb,si,26150,urbana,94,0,0,37,no
+IH-02361,14,mes a mes,100 Mb,no,19070,urbana,94,0,0,0,no
+IH-02362,22,mes a mes,1 Gb,si,43570,urbana,100,0,0,0,no
+IH-02363,4,mes a mes,300 Mb,si,30550,rural,89,1,1,15,si
+IH-02364,32,24 meses,1 Gb,si,40660,urbana,92,1,2,3,no
+IH-02365,19,24 meses,300 Mb,no,19620,urbana,80,1,0,6,no
+IH-02366,7,24 meses,1 Gb,no,32440,urbana,92,1,1,77,si
+IH-02367,24,mes a mes,300 Mb,no,25310,urbana,100,0,1,1,no
+IH-02368,16,12 meses,300 Mb,no,20740,rural,82,2,1,0,no
+IH-02369,7,12 meses,300 Mb,no,19420,rural,83,3,3,0,no
+IH-02370,19,mes a mes,300 Mb,si,29720,urbana,100,0,0,0,no
+IH-02371,17,mes a mes,600 Mb,si,36610,urbana,100,0,0,0,no
+IH-02372,10,mes a mes,300 Mb,no,21320,urbana,86,2,1,7,si
+IH-02373,14,24 meses,600 Mb,no,25900,rural,74,1,2,0,no
+IH-02374,52,mes a mes,1 Gb,no,30860,rural,71,1,0,0,no
+IH-02375,43,12 meses,600 Mb,no,26770,rural,61,3,2,0,si
+IH-02376,5,mes a mes,100 Mb,si,24160,urbana,94,0,0,0,no
+IH-02377,4,24 meses,100 Mb,si,26090,urbana,90,0,0,12,no
+IH-02378,48,12 meses,100 Mb,no,17650,urbana,86,3,2,0,no
+IH-02379,37,mes a mes,600 Mb,si,34570,urbana,86,0,1,0,no
+IH-02380,21,24 meses,300 Mb,si,32820,urbana,67,1,1,5,no
+IH-02381,32,24 meses,100 Mb,no,17560,urbana,99,3,1,0,no
+IH-02382,21,24 meses,300 Mb,no,22560,urbana,79,0,0,7,no
+IH-02383,16,12 meses,600 Mb,no,26230,urbana,98,1,2,0,no
+IH-02384,7,12 meses,600 Mb,si,35400,urbana,87,1,1,0,no
+IH-02385,2,mes a mes,300 Mb,si,30110,urbana,75,1,1,31,si
+IH-02386,27,12 meses,100 Mb,no,16470,urbana,87,0,0,0,no
+IH-02387,4,mes a mes,300 Mb,si,29510,urbana,72,1,1,4,si
+IH-02388,43,12 meses,1 Gb,no,31500,urbana,99,0,1,1,no
+IH-02389,29,mes a mes,600 Mb,no,28060,rural,87,0,0,0,no
+IH-02390,46,12 meses,600 Mb,si,35880,urbana,94,1,1,0,no
+IH-02391,34,12 meses,300 Mb,si,29710,rural,72,2,1,13,si
+IH-02392,58,mes a mes,100 Mb,si,29430,urbana,80,0,0,16,no
+IH-02393,25,mes a mes,100 Mb,no,16460,urbana,82,0,0,10,no
+IH-02394,37,mes a mes,1 Gb,no,31190,urbana,96,0,0,7,no
+IH-02395,31,12 meses,300 Mb,si,30670,urbana,94,1,0,8,no
+IH-02396,29,mes a mes,300 Mb,si,32570,rural,69,0,3,0,no
+IH-02397,13,mes a mes,1 Gb,no,32670,urbana,99,0,0,0,no
+IH-02398,24,mes a mes,100 Mb,no,18630,urbana,97,0,1,0,no
+IH-02399,14,24 meses,600 Mb,no,27380,urbana,99,2,2,0,no
+IH-02400,28,12 meses,300 Mb,no,21580,urbana,68,2,1,13,no
+IH-02401,19,mes a mes,600 Mb,no,28060,urbana,93,1,1,11,si
+IH-02402,5,mes a mes,300 Mb,si,29990,urbana,82,1,1,3,no
+IH-02403,63,mes a mes,100 Mb,no,18350,urbana,94,0,0,0,no
+IH-02404,17,mes a mes,300 Mb,no,24130,rural,95,1,1,0,no
+IH-02405,24,12 meses,300 Mb,no,22220,urbana,81,2,3,0,no
+IH-02406,27,mes a mes,300 Mb,no,23920,rural,78,2,1,0,si
+IH-02407,25,mes a mes,100 Mb,no,15730,urbana,98,1,1,0,si
+IH-02408,20,mes a mes,100 Mb,no,19100,urbana,89,0,2,0,no
+IH-02409,46,12 meses,1 Gb,si,43750,urbana,94,0,0,0,no
+IH-02410,2,12 meses,600 Mb,si,36830,rural,75,1,2,24,no
+IH-02411,46,24 meses,1 Gb,no,31290,urbana,91,0,1,24,no
+IH-02412,45,mes a mes,100 Mb,si,27860,urbana,95,0,1,0,no
+IH-02413,14,24 meses,100 Mb,no,14270,urbana,94,0,0,0,no
+IH-02414,24,12 meses,100 Mb,si,26880,urbana,93,2,0,0,no
+IH-02415,10,mes a mes,600 Mb,no,27460,urbana,95,1,0,0,si
+IH-02416,8,mes a mes,600 Mb,si,36960,rural,74,3,1,0,si
+IH-02417,50,12 meses,100 Mb,no,16280,urbana,75,0,1,11,no
+IH-02418,80,24 meses,100 Mb,no,18960,urbana,99,0,0,0,no
+IH-02419,32,12 meses,100 Mb,si,26440,urbana,79,0,1,0,no
+IH-02420,23,mes a mes,100 Mb,si,27280,urbana,87,1,1,9,no
+IH-02421,10,12 meses,300 Mb,no,20180,urbana,100,1,2,0,no
+IH-02422,15,12 meses,1 Gb,si,40040,urbana,79,0,1,21,no
+IH-02423,15,mes a mes,100 Mb,no,16590,urbana,94,1,1,0,no
+IH-02424,34,12 meses,100 Mb,no,17260,rural,72,2,2,0,no
+IH-02425,3,12 meses,1 Gb,no,32090,urbana,81,1,0,0,no
+IH-02426,20,mes a mes,300 Mb,no,23260,urbana,88,1,1,29,no
+IH-02427,35,24 meses,300 Mb,si,34150,urbana,88,0,1,0,no
+IH-02428,8,12 meses,300 Mb,no,24620,rural,85,1,0,0,no
+IH-02429,24,12 meses,100 Mb,no,18370,urbana,83,0,1,0,no
+IH-02430,10,mes a mes,600 Mb,no,25480,rural,81,0,0,0,no
+IH-02431,10,24 meses,100 Mb,no,16910,urbana,100,0,0,0,no
+IH-02432,33,mes a mes,300 Mb,si,32660,urbana,84,0,1,0,si
+IH-02433,9,mes a mes,300 Mb,no,18250,urbana,88,1,2,0,no
+IH-02434,9,12 meses,100 Mb,no,18940,urbana,76,0,0,0,no
+IH-02435,18,mes a mes,1 Gb,no,33530,rural,75,1,3,0,si
+IH-02436,13,mes a mes,100 Mb,no,18850,rural,84,1,1,3,si
+IH-02437,36,mes a mes,300 Mb,no,20120,urbana,72,1,1,0,no
+IH-02438,27,24 meses,600 Mb,si,38300,urbana,92,0,0,0,no
+IH-02439,13,mes a mes,300 Mb,no,22690,urbana,78,0,0,0,no
+IH-02440,38,mes a mes,100 Mb,si,27770,urbana,81,1,2,7,si
+IH-02441,37,24 meses,600 Mb,si,34270,urbana,83,1,0,0,no
+IH-02442,20,mes a mes,300 Mb,si,30140,urbana,94,0,1,0,no
+IH-02443,25,24 meses,600 Mb,no,29080,urbana,74,0,1,0,no
+IH-02444,29,mes a mes,600 Mb,no,24630,urbana,87,2,1,0,no
+IH-02445,49,24 meses,1 Gb,no,33860,urbana,91,1,1,0,no
+IH-02446,4,24 meses,100 Mb,si,29760,urbana,100,1,2,0,no
+IH-02447,10,mes a mes,300 Mb,si,30640,urbana,81,0,2,12,si
+IH-02448,10,mes a mes,1 Gb,si,39770,urbana,83,1,0,0,si
+IH-02449,77,mes a mes,100 Mb,si,30030,urbana,88,1,0,0,no
+IH-02450,6,12 meses,300 Mb,si,32940,rural,77,2,1,2,no
+IH-02451,13,12 meses,300 Mb,no,20270,urbana,95,0,0,0,no
+IH-02452,21,24 meses,600 Mb,si,36680,rural,91,0,0,2,no
+IH-02453,8,12 meses,300 Mb,si,29040,urbana,95,1,1,0,no
+IH-02454,16,mes a mes,600 Mb,no,27570,urbana,81,1,1,0,no
+IH-02455,6,mes a mes,600 Mb,no,25340,urbana,78,2,1,0,si
+IH-02456,56,mes a mes,300 Mb,si,31040,urbana,83,2,2,4,no
+IH-02457,21,mes a mes,1 Gb,si,38820,urbana,85,0,1,0,no
+IH-02458,3,mes a mes,300 Mb,si,31080,urbana,100,0,0,0,no
+IH-02459,20,mes a mes,600 Mb,no,25580,urbana,99,2,0,0,si
+IH-02460,3,mes a mes,300 Mb,si,31110,urbana,93,1,0,0,si
+IH-02461,17,12 meses,600 Mb,no,28020,urbana,86,1,0,0,no
+IH-02462,2,12 meses,1 Gb,no,34550,urbana,81,1,0,0,no
+IH-02463,35,12 meses,600 Mb,no,27790,urbana,91,1,3,0,no
+IH-02464,28,mes a mes,1 Gb,no,32730,urbana,92,1,0,18,no
+IH-02465,60,12 meses,100 Mb,si,27030,urbana,77,0,3,10,no
+IH-02466,32,24 meses,300 Mb,no,22630,urbana,77,1,3,0,no
+IH-02467,36,mes a mes,600 Mb,si,32570,urbana,80,0,1,0,no
+IH-02468,17,12 meses,300 Mb,si,29250,rural,75,2,1,0,no
+IH-02469,2,mes a mes,100 Mb,no,16060,urbana,82,0,1,10,no
+IH-02470,26,12 meses,300 Mb,si,32800,urbana,97,1,1,0,no
+IH-02471,38,mes a mes,300 Mb,si,30160,urbana,100,1,0,0,si
+IH-02472,13,24 meses,300 Mb,no,20100,urbana,95,0,0,1,no
+IH-02473,9,12 meses,600 Mb,si,35220,rural,83,1,1,0,no
+IH-02474,3,12 meses,600 Mb,si,36130,urbana,87,3,3,16,si
+IH-02475,18,12 meses,600 Mb,si,35730,urbana,67,0,1,0,no
+IH-02476,3,24 meses,600 Mb,no,27600,urbana,94,0,0,0,no
+IH-02477,16,mes a mes,600 Mb,no,24880,rural,68,1,0,0,no
+IH-02478,93,12 meses,100 Mb,no,18550,urbana,91,1,1,0,no
+IH-02479,38,mes a mes,300 Mb,no,24240,urbana,90,1,1,0,si
+IH-02480,16,mes a mes,1 Gb,no,31060,urbana,90,0,0,2,si
+IH-02481,1,12 meses,300 Mb,no,21150,rural,68,1,1,0,no
+IH-02482,2,mes a mes,300 Mb,no,23710,urbana,83,0,2,0,no
+IH-02483,15,mes a mes,600 Mb,si,34090,urbana,86,1,1,0,no
+IH-02484,13,12 meses,100 Mb,no,17820,urbana,94,1,1,13,no
+IH-02485,9,12 meses,100 Mb,si,27080,urbana,94,1,0,14,no
+IH-02486,32,12 meses,100 Mb,si,27700,urbana,93,2,2,41,si
+IH-02487,37,12 meses,600 Mb,si,36350,urbana,89,1,0,0,no
+IH-02488,7,mes a mes,600 Mb,si,37130,urbana,92,0,3,0,no
+IH-02489,20,mes a mes,300 Mb,si,29900,rural,84,1,0,0,no
+IH-02490,31,24 meses,300 Mb,no,23730,urbana,79,0,1,0,no
+IH-02491,26,24 meses,300 Mb,no,22490,urbana,86,1,3,0,si
+IH-02492,3,12 meses,600 Mb,no,27160,rural,80,5,3,0,si
+IH-02493,11,12 meses,100 Mb,si,25700,urbana,77,0,1,0,no
+IH-02494,9,24 meses,100 Mb,si,24090,urbana,86,0,0,0,no
+IH-02495,29,12 meses,300 Mb,no,20920,urbana,80,0,0,0,no
+IH-02496,9,mes a mes,1 Gb,no,30750,urbana,76,1,2,0,no
+IH-02497,31,mes a mes,600 Mb,no,27000,rural,83,1,2,2,no
+IH-02498,6,24 meses,600 Mb,no,28980,urbana,95,0,0,0,no
+IH-02499,39,mes a mes,300 Mb,no,22850,urbana,91,1,1,34,no
+IH-02500,19,12 meses,300 Mb,si,29990,urbana,90,0,0,23,no
+IH-02501,23,24 meses,600 Mb,no,27820,urbana,90,1,1,20,no
+IH-02502,18,12 meses,1 Gb,no,33070,urbana,84,1,0,28,no
+IH-02503,10,mes a mes,100 Mb,no,14300,urbana,86,0,1,0,no
+IH-02504,4,mes a mes,1 Gb,si,41450,urbana,78,1,0,1,no
+IH-02505,6,mes a mes,1 Gb,no,34070,rural,69,0,0,0,no
+IH-02506,8,mes a mes,600 Mb,no,27200,rural,89,0,1,0,si
+IH-02507,21,12 meses,600 Mb,no,25520,urbana,90,1,2,0,no
+IH-02508,60,mes a mes,300 Mb,no,23260,urbana,86,1,1,2,no
+IH-02509,25,mes a mes,300 Mb,no,20760,urbana,97,0,0,0,no
+IH-02510,5,24 meses,600 Mb,si,35640,urbana,89,0,0,18,no
+IH-02511,34,12 meses,600 Mb,si,33860,urbana,97,0,0,0,no
+IH-02512,14,12 meses,600 Mb,no,26660,urbana,91,2,3,0,no
+IH-02513,7,24 meses,1 Gb,no,34650,urbana,97,3,0,1,no
+IH-02514,106,mes a mes,600 Mb,no,26330,urbana,94,1,0,0,no
+IH-02515,29,24 meses,300 Mb,no,19210,urbana,90,1,1,0,no
+IH-02516,4,mes a mes,300 Mb,no,22950,urbana,94,2,2,0,no
+IH-02517,1,24 meses,100 Mb,no,16110,urbana,84,0,0,4,no
+IH-02518,26,12 meses,1 Gb,si,41110,urbana,100,0,1,0,no
+IH-02519,6,mes a mes,100 Mb,no,16370,urbana,88,0,1,0,no
+IH-02520,32,mes a mes,300 Mb,si,33440,urbana,98,1,1,0,no
+IH-02521,25,12 meses,600 Mb,no,29070,urbana,85,1,2,0,no
+IH-02522,3,24 meses,1 Gb,no,33020,urbana,100,0,2,0,no
+IH-02523,19,mes a mes,100 Mb,si,23140,urbana,85,1,2,0,no
+IH-02524,4,12 meses,100 Mb,no,18200,urbana,99,1,0,0,no
+IH-02525,51,mes a mes,300 Mb,no,21560,urbana,67,0,1,9,no
+IH-02526,12,12 meses,600 Mb,no,27220,urbana,78,0,1,10,no
+IH-02527,38,mes a mes,300 Mb,no,20550,urbana,86,0,0,0,no
+IH-02528,45,mes a mes,100 Mb,no,17090,urbana,98,0,0,10,no
+IH-02529,31,mes a mes,300 Mb,no,23700,urbana,87,0,0,4,no
+IH-02530,19,12 meses,100 Mb,si,26740,urbana,100,2,4,0,si
+IH-02531,31,mes a mes,600 Mb,no,27410,rural,77,5,1,0,si
+IH-02532,25,mes a mes,100 Mb,si,24080,rural,70,1,1,13,no
+IH-02533,31,12 meses,300 Mb,no,23590,urbana,79,0,1,0,no
+IH-02534,31,mes a mes,600 Mb,si,36330,urbana,89,0,0,0,no
+IH-02535,10,12 meses,300 Mb,si,30060,rural,68,2,2,0,no
+IH-02536,26,12 meses,100 Mb,si,27850,urbana,93,3,2,6,no
+IH-02537,19,12 meses,100 Mb,no,18850,rural,70,3,1,0,no
+IH-02538,4,24 meses,300 Mb,no,22470,urbana,87,0,2,3,no
+IH-02539,94,24 meses,600 Mb,si,34740,urbana,89,0,1,15,no
+IH-02540,4,12 meses,100 Mb,si,26740,urbana,96,0,0,0,no
+IH-02541,14,12 meses,100 Mb,no,16480,urbana,92,1,0,0,no
+IH-02542,16,mes a mes,600 Mb,no,27910,urbana,97,0,0,18,no
+IH-02543,14,mes a mes,600 Mb,si,35090,urbana,85,0,0,0,no
+IH-02544,11,mes a mes,300 Mb,si,32390,urbana,96,1,2,0,si
+IH-02545,13,mes a mes,300 Mb,si,32570,rural,85,5,0,7,si
+IH-02546,1,mes a mes,300 Mb,no,22130,urbana,93,0,1,0,no
+IH-02547,3,mes a mes,1 Gb,no,33390,rural,59,4,4,0,si
+IH-02548,34,mes a mes,100 Mb,no,20140,rural,88,0,1,0,no
+IH-02549,14,mes a mes,300 Mb,no,23830,urbana,81,0,0,9,no
+IH-02550,7,mes a mes,600 Mb,no,28370,urbana,89,0,2,19,si
+IH-02551,35,12 meses,100 Mb,no,16290,rural,68,2,0,26,si
+IH-02552,28,12 meses,1 Gb,si,43460,urbana,77,0,1,13,no
+IH-02553,8,12 meses,300 Mb,no,22310,urbana,80,0,1,0,no
+IH-02554,37,12 meses,300 Mb,si,33690,urbana,96,0,0,14,no
+IH-02555,10,mes a mes,300 Mb,si,32230,rural,68,3,1,39,si
+IH-02556,25,12 meses,1 Gb,no,33850,rural,72,1,0,0,no
+IH-02557,23,12 meses,300 Mb,si,29480,urbana,88,0,0,4,no
+IH-02558,25,12 meses,300 Mb,no,21080,urbana,92,1,1,12,no
+IH-02559,12,24 meses,100 Mb,si,25350,rural,77,4,2,0,si
+IH-02560,7,mes a mes,600 Mb,no,28680,urbana,91,0,2,6,si
+IH-02561,2,mes a mes,300 Mb,si,31100,urbana,87,0,1,0,no
+IH-02562,11,24 meses,300 Mb,si,30050,urbana,79,0,1,0,no
+IH-02563,18,12 meses,600 Mb,si,37940,rural,75,2,1,0,no
+IH-02564,67,12 meses,300 Mb,si,30060,urbana,100,0,0,0,no
+IH-02565,2,24 meses,600 Mb,si,37340,urbana,100,0,0,22,no
+IH-02566,10,12 meses,300 Mb,no,24730,urbana,92,1,1,0,no
+IH-02567,45,24 meses,300 Mb,no,21070,urbana,100,0,0,0,no
+IH-02568,38,mes a mes,300 Mb,si,32710,urbana,88,3,2,0,si
+IH-02569,60,12 meses,100 Mb,si,25910,urbana,91,2,0,0,no
+IH-02570,12,24 meses,100 Mb,no,19300,rural,70,2,0,0,no
+IH-02571,8,mes a mes,1 Gb,no,33720,urbana,81,0,1,20,si
+IH-02572,13,24 meses,600 Mb,no,25900,urbana,90,0,0,0,no
+IH-02573,7,12 meses,300 Mb,si,30100,urbana,80,0,0,0,no
+IH-02574,2,mes a mes,1 Gb,si,42260,urbana,89,0,1,0,si
+IH-02575,120,mes a mes,600 Mb,no,26980,urbana,72,3,2,0,no
+IH-02576,2,mes a mes,600 Mb,no,26580,urbana,75,1,2,17,si
+IH-02577,36,24 meses,300 Mb,no,19880,urbana,100,1,1,5,no
+IH-02578,12,mes a mes,600 Mb,si,33110,urbana,100,1,1,0,no
+IH-02579,14,24 meses,600 Mb,no,29340,urbana,89,2,2,3,no
+IH-02580,18,mes a mes,100 Mb,no,17050,urbana,100,0,0,26,no
+IH-02581,11,mes a mes,100 Mb,no,16120,rural,76,2,2,8,si
+IH-02582,8,24 meses,600 Mb,no,28150,urbana,84,1,1,0,no
+IH-02583,6,24 meses,100 Mb,no,15730,rural,89,4,3,0,no
+IH-02584,54,mes a mes,600 Mb,si,37570,urbana,95,0,0,15,no
+IH-02585,48,24 meses,300 Mb,si,28190,urbana,88,1,0,0,no
+IH-02586,13,12 meses,100 Mb,si,25500,rural,82,0,1,0,no
+IH-02587,14,mes a mes,300 Mb,si,30060,urbana,83,0,1,3,no
+IH-02588,34,mes a mes,300 Mb,no,22300,urbana,67,1,1,10,no
+IH-02589,12,24 meses,300 Mb,si,30520,urbana,94,0,1,0,no
+IH-02590,20,24 meses,300 Mb,si,33120,rural,62,0,2,0,no
+IH-02591,3,mes a mes,1 Gb,si,44310,urbana,85,2,2,19,no
+IH-02592,14,mes a mes,100 Mb,no,20340,urbana,94,1,2,34,no
+IH-02593,19,24 meses,300 Mb,no,24270,urbana,79,2,0,0,no
+IH-02594,28,24 meses,600 Mb,no,27700,rural,57,0,3,20,no
+IH-02595,65,mes a mes,300 Mb,no,22550,urbana,82,2,3,0,si
+IH-02596,10,12 meses,300 Mb,no,20190,urbana,82,0,1,0,no
+IH-02597,1,12 meses,300 Mb,si,31180,urbana,96,0,0,0,no
+IH-02598,89,12 meses,600 Mb,no,27770,rural,68,2,2,0,no
+IH-02599,22,mes a mes,100 Mb,si,26140,urbana,93,0,0,0,no
+IH-02600,6,12 meses,1 Gb,no,31400,rural,72,0,3,0,no
+IH-02601,13,24 meses,100 Mb,si,26330,urbana,100,0,1,0,no
+IH-02602,88,mes a mes,100 Mb,si,27260,urbana,95,3,1,0,no
+IH-02603,53,12 meses,1 Gb,si,43550,urbana,79,0,0,0,no
+IH-02604,2,mes a mes,600 Mb,no,27370,rural,67,2,0,5,no
+IH-02605,16,mes a mes,1 Gb,no,34600,urbana,93,0,0,20,no
+IH-02606,51,mes a mes,1 Gb,si,43130,urbana,93,0,1,0,no
+IH-02607,6,12 meses,600 Mb,no,30050,rural,82,3,4,7,no
+IH-02608,80,mes a mes,300 Mb,si,31150,urbana,91,1,2,8,no
+IH-02609,11,12 meses,600 Mb,no,26220,urbana,87,1,1,0,no
+IH-02610,26,24 meses,100 Mb,si,23100,rural,77,1,1,1,no
+IH-02611,33,24 meses,1 Gb,no,32220,urbana,81,1,2,0,no
+IH-02612,19,mes a mes,600 Mb,si,37430,rural,73,1,1,0,si
+IH-02613,11,12 meses,300 Mb,no,21840,urbana,86,2,4,0,no
+IH-02614,19,24 meses,100 Mb,no,13360,urbana,83,1,2,5,no
+IH-02615,16,mes a mes,600 Mb,no,25940,urbana,83,1,1,0,no
+IH-02616,19,12 meses,300 Mb,no,22310,urbana,84,0,0,0,no
+IH-02617,52,12 meses,600 Mb,si,35730,urbana,88,1,0,0,no
+IH-02618,29,12 meses,100 Mb,si,26800,urbana,75,1,2,0,si
+IH-02619,10,mes a mes,300 Mb,no,22610,urbana,93,1,2,7,no
+IH-02620,5,mes a mes,1 Gb,si,43520,rural,79,2,3,0,si
+IH-02621,20,mes a mes,600 Mb,no,27140,urbana,88,0,0,0,no
+IH-02622,7,mes a mes,600 Mb,no,24150,rural,77,1,1,0,no
+IH-02623,15,12 meses,1 Gb,no,32550,urbana,89,1,1,0,si
+IH-02624,22,24 meses,100 Mb,si,28570,urbana,87,0,0,23,no
+IH-02625,5,mes a mes,300 Mb,no,22760,urbana,95,2,5,0,si
+IH-02626,40,mes a mes,100 Mb,si,26330,rural,90,3,1,0,no
+IH-02627,6,mes a mes,1 Gb,no,31870,urbana,86,0,0,0,no
+IH-02628,3,mes a mes,300 Mb,no,22520,urbana,100,0,0,0,no
+IH-02629,28,mes a mes,300 Mb,no,23150,urbana,88,3,4,0,si
+IH-02630,13,12 meses,600 Mb,no,25200,urbana,93,0,0,4,no
+IH-02631,44,mes a mes,300 Mb,no,20380,rural,85,3,2,0,no
+IH-02632,20,24 meses,300 Mb,no,20130,urbana,94,1,0,0,no
+IH-02633,29,mes a mes,100 Mb,si,27230,rural,68,1,1,32,no
+IH-02634,4,12 meses,600 Mb,no,28500,urbana,75,1,0,0,no
+IH-02635,4,mes a mes,600 Mb,no,31140,urbana,89,1,0,6,no
+IH-02636,23,24 meses,100 Mb,si,26370,urbana,94,0,0,0,no
+IH-02637,15,12 meses,300 Mb,no,20290,urbana,96,2,0,3,no
+IH-02638,59,12 meses,300 Mb,si,32100,urbana,94,1,0,0,no
+IH-02639,14,mes a mes,1 Gb,no,31340,urbana,90,0,0,0,si
+IH-02640,21,mes a mes,100 Mb,si,25270,urbana,92,0,1,0,no
+IH-02641,2,12 meses,1 Gb,no,35280,urbana,91,0,0,15,no
+IH-02642,2,mes a mes,300 Mb,si,32210,urbana,94,0,0,0,no
+IH-02643,45,12 meses,100 Mb,no,16360,rural,78,2,0,0,no
+IH-02644,34,12 meses,600 Mb,no,30630,urbana,81,1,0,0,no
+IH-02645,19,12 meses,1 Gb,no,33720,urbana,89,0,1,5,no
+IH-02646,7,mes a mes,100 Mb,no,15980,rural,76,2,0,0,no
+IH-02647,22,12 meses,600 Mb,si,32000,urbana,94,1,1,0,no
+IH-02648,5,mes a mes,100 Mb,si,25460,rural,89,0,1,5,si
+IH-02649,21,24 meses,300 Mb,si,30220,urbana,99,0,0,0,no
+IH-02650,5,mes a mes,300 Mb,si,29350,urbana,74,0,0,9,no
+IH-02651,16,24 meses,300 Mb,no,22090,urbana,94,2,0,22,no
+IH-02652,17,12 meses,600 Mb,no,27000,urbana,75,0,1,0,si
+IH-02653,10,12 meses,300 Mb,si,30060,urbana,85,1,1,0,no
+IH-02654,14,mes a mes,1 Gb,no,33270,urbana,74,0,2,10,no
+IH-02655,23,24 meses,300 Mb,no,24650,urbana,95,0,0,0,no
+IH-02656,24,24 meses,1 Gb,si,42420,urbana,90,0,0,7,no
+IH-02657,7,12 meses,100 Mb,no,15590,urbana,73,0,0,0,no
+IH-02658,2,mes a mes,600 Mb,no,28990,urbana,99,1,0,0,no
+IH-02659,24,mes a mes,100 Mb,no,16180,rural,76,3,3,0,si
+IH-02660,27,mes a mes,600 Mb,si,35070,urbana,90,1,0,0,no
+IH-02661,33,12 meses,600 Mb,no,27190,urbana,81,2,0,12,no
+IH-02662,28,mes a mes,600 Mb,si,34530,urbana,83,0,0,0,no
+IH-02663,17,mes a mes,300 Mb,no,22690,urbana,85,0,1,0,si
+IH-02664,12,12 meses,300 Mb,si,32120,urbana,86,1,2,0,no
+IH-02665,1,mes a mes,300 Mb,no,22940,urbana,89,0,1,0,no
+IH-02666,9,24 meses,100 Mb,no,14590,rural,75,2,2,2,no
+IH-02667,41,mes a mes,600 Mb,si,37100,urbana,100,0,0,0,no
+IH-02668,21,mes a mes,600 Mb,no,26790,urbana,96,0,0,10,no
+IH-02669,12,mes a mes,600 Mb,si,37400,urbana,89,0,2,8,no
+IH-02670,23,24 meses,1 Gb,no,33540,urbana,84,0,0,7,no
+IH-02671,23,mes a mes,1 Gb,no,34380,urbana,85,0,2,16,no
+IH-02672,1,12 meses,100 Mb,no,19130,rural,77,2,1,10,no
+IH-02673,25,24 meses,300 Mb,si,33960,urbana,95,1,1,0,no
+IH-02674,5,mes a mes,1 Gb,no,34960,urbana,91,0,0,0,no
+IH-02675,15,mes a mes,100 Mb,no,16230,rural,76,3,0,0,no
+IH-02676,96,24 meses,600 Mb,no,28840,rural,73,3,4,0,no
+IH-02677,1,12 meses,100 Mb,si,24060,urbana,82,1,2,0,no
+IH-02678,26,12 meses,600 Mb,no,27370,urbana,92,0,0,0,no
+IH-02679,61,12 meses,1 Gb,no,34530,urbana,89,1,0,11,no
+IH-02680,7,mes a mes,100 Mb,si,25780,urbana,87,0,1,0,no
+IH-02681,20,24 meses,1 Gb,si,40490,rural,60,2,0,0,no
+IH-02682,14,12 meses,600 Mb,no,29030,urbana,85,2,1,0,no
+IH-02683,62,mes a mes,100 Mb,si,24660,urbana,83,1,0,1,no
+IH-02684,5,12 meses,100 Mb,no,20210,urbana,82,0,0,0,no
+IH-02685,9,24 meses,300 Mb,no,21050,urbana,81,0,1,0,no
+IH-02686,19,24 meses,600 Mb,no,29190,urbana,89,0,0,0,no
+IH-02687,27,12 meses,600 Mb,si,37100,urbana,98,0,2,0,no
+IH-02688,33,mes a mes,1 Gb,si,41410,urbana,100,1,1,0,no
+IH-02689,11,mes a mes,1 Gb,no,32740,urbana,77,1,0,11,si
+IH-02690,13,mes a mes,600 Mb,si,35330,rural,85,3,2,0,no
+IH-02691,50,mes a mes,300 Mb,no,22970,urbana,92,1,0,0,no
+IH-02692,14,12 meses,100 Mb,si,25590,urbana,98,0,1,0,no
+IH-02693,67,12 meses,100 Mb,no,14930,rural,61,0,1,0,no
+IH-02694,7,24 meses,1 Gb,si,40300,urbana,94,0,0,0,no
+IH-02695,7,24 meses,100 Mb,no,14450,urbana,92,2,2,35,no
+IH-02696,15,24 meses,100 Mb,no,16060,urbana,83,2,0,0,no
+IH-02697,12,mes a mes,100 Mb,no,14980,urbana,80,0,1,0,no
+IH-02698,24,mes a mes,600 Mb,no,24920,urbana,82,0,1,0,no
+IH-02699,26,24 meses,300 Mb,si,30460,urbana,91,0,0,0,no
+IH-02700,33,12 meses,1 Gb,no,30530,urbana,93,1,0,24,si
+IH-02701,1,mes a mes,1 Gb,no,33160,urbana,99,0,1,0,no
+IH-02702,71,24 meses,100 Mb,no,16040,urbana,99,1,0,0,no
+IH-02703,14,mes a mes,600 Mb,si,37400,urbana,100,0,1,17,no
+IH-02704,28,12 meses,1 Gb,no,32760,urbana,87,0,0,0,no
+IH-02705,47,12 meses,100 Mb,si,26270,urbana,86,1,1,0,no
+IH-02706,12,12 meses,600 Mb,no,27120,urbana,100,1,0,0,no
+IH-02707,2,12 meses,100 Mb,no,15630,urbana,92,0,2,0,no
+IH-02708,61,24 meses,600 Mb,si,38170,rural,65,4,0,0,no
+IH-02709,5,12 meses,300 Mb,no,21810,urbana,71,2,1,0,si
+IH-02710,46,12 meses,300 Mb,no,22700,rural,73,1,2,0,no
+IH-02711,4,12 meses,300 Mb,no,22420,urbana,70,1,3,0,no
+IH-02712,30,12 meses,600 Mb,si,35820,rural,70,4,4,0,si
+IH-02713,3,12 meses,600 Mb,no,25540,rural,86,3,1,0,no
+IH-02714,20,mes a mes,300 Mb,si,29610,urbana,87,0,3,11,no
+IH-02715,43,mes a mes,600 Mb,si,39170,urbana,71,0,2,0,si
+IH-02716,40,mes a mes,100 Mb,no,16030,urbana,92,0,0,0,no
+IH-02717,48,24 meses,300 Mb,si,30590,urbana,86,1,1,0,no
+IH-02718,9,mes a mes,600 Mb,no,24120,urbana,77,1,0,0,si
+IH-02719,8,mes a mes,100 Mb,si,25440,urbana,95,0,0,0,no
+IH-02720,27,mes a mes,1 Gb,si,39870,urbana,93,1,0,0,no
+IH-02721,17,12 meses,100 Mb,si,28600,urbana,98,1,0,9,no
+IH-02722,28,12 meses,1 Gb,si,43740,urbana,99,0,1,0,no
+IH-02723,17,mes a mes,300 Mb,si,32530,rural,98,2,2,6,no
+IH-02724,30,mes a mes,300 Mb,no,20440,urbana,100,2,1,0,no
+IH-02725,13,24 meses,300 Mb,si,30600,urbana,76,0,1,10,no
+IH-02726,32,mes a mes,100 Mb,no,17410,urbana,92,1,0,0,no
+IH-02727,1,mes a mes,300 Mb,si,31320,rural,71,2,3,0,si
+IH-02728,26,12 meses,100 Mb,no,14670,urbana,86,1,1,0,no
+IH-02729,20,12 meses,300 Mb,si,29380,urbana,100,1,2,0,no
+IH-02730,10,24 meses,600 Mb,no,27840,urbana,98,0,0,0,no
+IH-02731,45,24 meses,100 Mb,si,26520,urbana,89,0,0,21,no
+IH-02732,13,12 meses,600 Mb,no,30050,urbana,76,0,0,0,no
+IH-02733,18,mes a mes,600 Mb,no,29510,urbana,94,0,0,20,no
+IH-02734,39,12 meses,1 Gb,no,33420,urbana,82,0,0,0,no
+IH-02735,60,24 meses,600 Mb,no,28300,urbana,87,1,0,0,no
+IH-02736,11,24 meses,300 Mb,si,28030,urbana,95,2,2,0,no
+IH-02737,13,12 meses,1 Gb,si,40170,urbana,81,1,2,0,no
+IH-02738,9,12 meses,600 Mb,no,26300,urbana,87,0,0,25,no
+IH-02739,29,12 meses,300 Mb,si,30680,urbana,97,2,3,0,no
+IH-02740,37,mes a mes,300 Mb,no,24820,urbana,90,1,3,0,si
+IH-02741,14,12 meses,600 Mb,si,38290,urbana,75,2,2,0,no
+IH-02742,26,12 meses,300 Mb,no,23570,urbana,74,0,0,2,no
+IH-02743,19,12 meses,300 Mb,si,33410,urbana,78,0,0,2,no
+IH-02744,10,mes a mes,300 Mb,no,22100,urbana,95,1,0,35,si
+IH-02745,43,12 meses,300 Mb,si,31170,rural,71,1,1,5,no
+IH-02746,22,mes a mes,1 Gb,no,34220,urbana,90,0,0,20,no
+IH-02747,28,24 meses,1 Gb,no,32790,urbana,93,3,3,0,no
+IH-02748,30,mes a mes,300 Mb,si,30890,urbana,80,0,0,0,no
+IH-02749,16,mes a mes,100 Mb,no,18080,rural,100,1,0,0,no
+IH-02750,22,mes a mes,600 Mb,no,28530,urbana,83,1,1,0,no
+IH-02751,6,12 meses,600 Mb,no,27330,rural,69,1,1,0,no
+IH-02752,24,24 meses,1 Gb,no,33860,rural,90,2,2,12,no
+IH-02753,33,mes a mes,300 Mb,no,23770,rural,70,2,3,0,si
+IH-02754,17,12 meses,100 Mb,no,15570,urbana,87,2,1,0,no
+IH-02755,29,12 meses,300 Mb,no,20090,urbana,89,0,1,0,no
+IH-02756,33,mes a mes,1 Gb,no,32290,urbana,73,0,2,6,si
+IH-02757,5,24 meses,300 Mb,no,22400,urbana,88,0,0,0,no
+IH-02758,3,mes a mes,1 Gb,no,35820,rural,71,1,3,0,si
+IH-02759,7,mes a mes,300 Mb,si,29700,urbana,70,1,2,9,si
+IH-02760,24,12 meses,600 Mb,no,25910,urbana,85,0,0,0,no
+IH-02761,3,12 meses,300 Mb,si,30290,urbana,92,1,1,0,no
+IH-02762,25,mes a mes,100 Mb,no,16890,urbana,96,2,1,0,si
+IH-02763,38,mes a mes,600 Mb,no,25140,rural,100,1,2,0,no
+IH-02764,6,mes a mes,300 Mb,si,31790,urbana,97,2,3,20,si
+IH-02765,6,12 meses,100 Mb,no,18250,urbana,71,0,0,21,no
+IH-02766,45,24 meses,100 Mb,no,17420,rural,84,1,1,0,no
+IH-02767,19,12 meses,300 Mb,no,24280,urbana,100,0,0,0,no
+IH-02768,34,12 meses,300 Mb,no,24260,urbana,88,1,1,0,no
+IH-02769,56,12 meses,300 Mb,no,19960,rural,73,5,1,0,no
+IH-02770,16,24 meses,100 Mb,no,18430,urbana,88,0,0,0,no
+IH-02771,11,24 meses,100 Mb,no,18850,urbana,84,0,0,0,no
+IH-02772,9,12 meses,100 Mb,no,16670,urbana,80,2,0,0,no
+IH-02773,5,12 meses,1 Gb,si,42000,urbana,79,1,0,0,no
+IH-02774,42,mes a mes,100 Mb,no,15640,urbana,88,0,0,0,no
+IH-02775,28,mes a mes,600 Mb,si,39060,urbana,84,0,0,0,si
+IH-02776,15,mes a mes,1 Gb,no,33850,urbana,100,1,1,0,no
+IH-02777,20,mes a mes,600 Mb,no,27260,urbana,82,0,0,0,no
+IH-02778,96,24 meses,300 Mb,no,21210,rural,86,4,2,0,no
+IH-02779,5,12 meses,100 Mb,no,17360,urbana,100,1,1,0,no
+IH-02780,4,mes a mes,300 Mb,no,23060,rural,77,2,1,0,si
+IH-02781,22,24 meses,600 Mb,no,28390,urbana,67,0,2,0,no
+IH-02782,11,mes a mes,100 Mb,si,25600,urbana,84,1,1,8,no
+IH-02783,18,mes a mes,300 Mb,no,21540,urbana,100,0,0,0,no
+IH-02784,19,mes a mes,300 Mb,si,29440,urbana,96,0,1,0,no
+IH-02785,35,mes a mes,1 Gb,no,31410,urbana,77,0,1,9,no
+IH-02786,30,12 meses,300 Mb,no,24560,urbana,100,0,1,0,no
+IH-02787,110,12 meses,300 Mb,no,21500,rural,82,7,5,9,no
+IH-02788,9,24 meses,100 Mb,no,16510,urbana,88,0,0,0,no
+IH-02789,28,mes a mes,100 Mb,no,15200,urbana,89,1,1,0,no
+IH-02790,48,mes a mes,100 Mb,si,29340,urbana,86,1,1,15,no
+IH-02791,9,mes a mes,600 Mb,si,36760,urbana,87,1,2,0,si
+IH-02792,13,12 meses,1 Gb,no,31420,rural,91,1,0,0,no
+IH-02793,5,mes a mes,300 Mb,no,21990,rural,67,1,1,0,si
+IH-02794,11,mes a mes,300 Mb,si,31140,rural,69,1,2,10,si
+IH-02795,7,mes a mes,600 Mb,si,36870,urbana,99,0,1,0,no
+IH-02796,35,24 meses,600 Mb,si,35340,urbana,89,1,0,0,no
+IH-02797,33,12 meses,100 Mb,si,23060,urbana,100,1,1,6,no
+IH-02798,2,mes a mes,300 Mb,no,22520,rural,65,2,4,6,no
+IH-02799,5,24 meses,1 Gb,no,32720,urbana,90,0,0,0,no
+IH-02800,46,12 meses,600 Mb,no,29760,rural,62,1,1,0,si
+IH-02801,7,24 meses,300 Mb,si,32010,urbana,82,1,1,0,si
+IH-02802,21,12 meses,300 Mb,no,24520,urbana,88,0,0,0,no
+IH-02803,21,mes a mes,600 Mb,no,28180,urbana,87,1,0,0,si
+IH-02804,52,12 meses,100 Mb,no,17360,rural,63,0,2,0,no
+IH-02805,28,mes a mes,1 Gb,no,33500,rural,69,5,4,18,si
+IH-02806,17,mes a mes,300 Mb,si,29710,urbana,82,0,0,13,no
+IH-02807,10,mes a mes,100 Mb,no,16120,urbana,87,0,0,0,no
+IH-02808,16,12 meses,300 Mb,no,22950,urbana,87,0,0,0,no
+IH-02809,60,mes a mes,100 Mb,si,26280,urbana,94,0,0,0,no
+IH-02810,13,mes a mes,600 Mb,no,26810,urbana,80,1,2,0,no
+IH-02811,16,12 meses,600 Mb,si,35250,urbana,76,0,2,0,no
+IH-02812,14,12 meses,300 Mb,si,26660,urbana,84,1,0,0,si
+IH-02813,24,mes a mes,600 Mb,no,27630,rural,94,2,0,0,no
+IH-02814,9,mes a mes,600 Mb,no,30020,rural,76,2,2,18,si
+IH-02815,17,mes a mes,300 Mb,si,27580,urbana,80,0,1,0,no
+IH-02816,14,12 meses,300 Mb,no,22230,rural,78,1,4,5,si
+IH-02817,48,mes a mes,300 Mb,no,22280,urbana,85,0,0,0,no
+IH-02818,11,mes a mes,300 Mb,no,20260,rural,91,1,1,0,si
+IH-02819,6,12 meses,300 Mb,no,22270,urbana,94,0,0,1,no
+IH-02820,5,12 meses,100 Mb,no,16140,urbana,92,1,0,0,no
+IH-02821,27,mes a mes,300 Mb,no,20760,urbana,80,0,3,0,si
+IH-02822,87,12 meses,600 Mb,no,26280,urbana,80,1,2,13,no
+IH-02823,28,12 meses,600 Mb,no,25140,urbana,93,0,1,0,no
+IH-02824,1,24 meses,300 Mb,si,33950,urbana,76,0,2,0,no
+IH-02825,20,24 meses,600 Mb,no,27780,urbana,79,1,1,21,no
+IH-02826,52,12 meses,300 Mb,no,23290,urbana,89,1,2,0,no
+IH-02827,20,mes a mes,600 Mb,si,34460,urbana,81,0,1,0,si
+IH-02828,3,12 meses,300 Mb,no,21830,urbana,86,1,2,0,si
+IH-02829,5,12 meses,600 Mb,si,34270,urbana,91,0,0,5,no
+IH-02830,13,mes a mes,1 Gb,no,32610,rural,83,3,0,0,no
+IH-02831,4,24 meses,100 Mb,no,17290,urbana,80,0,1,0,no
+IH-02832,15,12 meses,600 Mb,si,36160,rural,75,1,1,9,no
+IH-02833,26,12 meses,600 Mb,no,25910,urbana,100,1,2,0,no
+IH-02834,30,mes a mes,300 Mb,si,31380,rural,62,2,2,12,no
+IH-02835,13,mes a mes,300 Mb,no,21540,urbana,83,0,1,0,no
+IH-02836,5,mes a mes,600 Mb,si,34260,urbana,83,1,3,0,no
+IH-02837,42,12 meses,600 Mb,no,28410,urbana,97,0,0,0,no
+IH-02838,41,mes a mes,300 Mb,no,20010,urbana,92,1,2,0,si
+IH-02839,6,12 meses,600 Mb,si,37530,urbana,97,0,0,0,no
+IH-02840,7,12 meses,300 Mb,no,22600,urbana,92,2,0,0,no
+IH-02841,9,mes a mes,100 Mb,si,26120,urbana,82,2,1,9,no
+IH-02842,6,mes a mes,600 Mb,no,25630,urbana,100,0,0,3,no
+IH-02843,81,mes a mes,100 Mb,no,18430,rural,71,3,3,0,no
+IH-02844,25,mes a mes,100 Mb,no,16660,urbana,100,0,0,13,no
+IH-02845,19,24 meses,600 Mb,no,25510,urbana,100,0,0,0,no
+IH-02846,13,mes a mes,300 Mb,no,22420,urbana,83,1,1,0,no
+IH-02847,16,24 meses,600 Mb,no,27650,urbana,90,2,2,0,no
+IH-02848,16,12 meses,300 Mb,si,29490,urbana,84,1,2,0,no
+IH-02849,30,12 meses,600 Mb,no,27160,urbana,86,1,0,0,no
+IH-02850,29,mes a mes,100 Mb,no,17430,rural,84,2,2,0,no
+IH-02851,16,12 meses,600 Mb,si,36840,urbana,89,4,1,0,no
+IH-02852,59,mes a mes,300 Mb,no,23290,urbana,100,1,0,0,no
+IH-02853,5,12 meses,100 Mb,si,25940,rural,79,6,3,0,si
+IH-02854,21,12 meses,600 Mb,no,26620,urbana,88,0,0,14,no
+IH-02855,58,12 meses,1 Gb,si,42720,urbana,92,0,0,0,no
+IH-02856,14,12 meses,1 Gb,si,40010,urbana,91,2,0,0,no
+IH-02857,4,mes a mes,300 Mb,no,23440,rural,79,1,3,0,si
+IH-02858,5,mes a mes,600 Mb,no,26890,urbana,81,0,1,0,si
+IH-02859,31,24 meses,300 Mb,si,31130,rural,66,0,0,0,no
+IH-02860,38,12 meses,100 Mb,no,17970,urbana,73,0,3,0,si
+IH-02861,19,24 meses,100 Mb,no,17950,urbana,93,0,0,0,no
+IH-02862,12,24 meses,100 Mb,si,25680,urbana,86,1,1,2,no
+IH-02863,19,24 meses,300 Mb,no,21390,urbana,88,0,2,2,no
+IH-02864,9,12 meses,100 Mb,si,22290,urbana,89,0,0,0,no
+IH-02865,18,mes a mes,100 Mb,no,15510,urbana,83,1,1,7,no
+IH-02866,41,mes a mes,300 Mb,no,20490,urbana,100,1,0,0,no
+IH-02867,48,mes a mes,1 Gb,no,32510,urbana,86,1,0,0,no
+IH-02868,10,mes a mes,300 Mb,no,20950,rural,85,1,0,21,no
+IH-02869,9,24 meses,100 Mb,no,14370,urbana,87,0,0,7,no
+IH-02870,20,mes a mes,300 Mb,no,23530,urbana,98,2,0,18,si
+IH-02871,4,24 meses,600 Mb,no,25180,urbana,94,3,2,0,no
+IH-02872,16,12 meses,100 Mb,si,26930,urbana,78,0,0,13,no
+IH-02873,12,12 meses,600 Mb,si,35270,rural,68,3,3,3,si
+IH-02874,20,12 meses,600 Mb,no,27500,urbana,94,0,0,0,no
+IH-02875,12,24 meses,100 Mb,si,23650,urbana,74,2,2,10,no
+IH-02876,7,mes a mes,100 Mb,no,17080,urbana,92,1,1,0,no
+IH-02877,10,mes a mes,600 Mb,no,26670,urbana,95,1,1,0,no
+IH-02878,9,12 meses,1 Gb,si,43050,urbana,87,3,1,14,no
+IH-02879,3,mes a mes,300 Mb,no,22760,urbana,85,2,1,0,no
+IH-02880,25,mes a mes,300 Mb,si,30920,urbana,74,1,1,0,si
+IH-02881,28,mes a mes,1 Gb,si,42300,urbana,93,0,0,0,no
+IH-02882,35,mes a mes,300 Mb,no,21090,urbana,92,1,2,0,no
+IH-02883,8,24 meses,300 Mb,si,30260,urbana,94,0,0,0,no
+IH-02884,7,24 meses,600 Mb,no,25940,urbana,88,0,1,0,no
+IH-02885,7,mes a mes,100 Mb,no,17760,urbana,100,0,1,8,no
+IH-02886,43,mes a mes,100 Mb,no,19010,urbana,98,0,0,0,no
+IH-02887,20,12 meses,100 Mb,no,15480,rural,82,0,1,1,no
+IH-02888,33,12 meses,600 Mb,no,25110,urbana,100,1,0,2,no
+IH-02889,5,mes a mes,100 Mb,no,15660,urbana,96,0,0,0,no
+IH-02890,26,mes a mes,100 Mb,no,14470,urbana,79,1,1,0,no
+IH-02891,14,12 meses,100 Mb,no,18420,urbana,83,2,0,0,si
+IH-02892,4,12 meses,600 Mb,si,34680,urbana,75,0,0,0,no
+IH-02893,14,12 meses,300 Mb,si,28460,urbana,81,0,0,4,no
+IH-02894,1,mes a mes,600 Mb,no,26620,urbana,86,0,0,36,no
+IH-02895,17,mes a mes,300 Mb,no,21420,urbana,93,1,1,0,no
+IH-02896,2,mes a mes,100 Mb,si,25730,urbana,88,1,1,6,no
+IH-02897,16,12 meses,100 Mb,no,18540,urbana,87,2,1,0,si
+IH-02898,24,12 meses,600 Mb,no,25900,urbana,93,2,4,16,no
+IH-02899,9,12 meses,300 Mb,si,28550,urbana,98,0,0,0,no
+IH-02900,10,mes a mes,1 Gb,no,33410,urbana,79,0,0,0,no
+IH-02901,23,12 meses,1 Gb,no,34330,urbana,97,0,0,0,no
+IH-02902,7,mes a mes,600 Mb,no,25850,urbana,93,1,1,0,si
+IH-02903,56,mes a mes,600 Mb,no,25300,urbana,84,1,1,0,no
+IH-02904,6,12 meses,600 Mb,no,26340,urbana,85,1,3,0,si
+IH-02905,42,24 meses,1 Gb,si,40250,urbana,89,1,0,0,no
+IH-02906,66,mes a mes,100 Mb,no,14490,urbana,83,1,1,16,no
+IH-02907,11,24 meses,600 Mb,si,36330,urbana,88,1,2,0,no
+IH-02908,29,mes a mes,600 Mb,si,36490,urbana,96,0,2,0,no
+IH-02909,39,mes a mes,100 Mb,no,19290,urbana,83,0,0,0,no
+IH-02910,21,12 meses,1 Gb,no,32410,rural,81,3,1,21,no
+IH-02911,24,24 meses,100 Mb,no,20340,urbana,100,1,0,0,no
+IH-02912,28,mes a mes,300 Mb,no,23830,urbana,100,0,0,0,no
+IH-02913,11,12 meses,100 Mb,no,15920,urbana,83,1,1,5,no
+IH-02914,27,mes a mes,300 Mb,no,19670,rural,74,3,0,0,no
+IH-02915,50,12 meses,600 Mb,no,26540,urbana,91,0,0,0,no
+IH-02916,26,mes a mes,300 Mb,no,20600,rural,73,2,1,0,si
+IH-02917,17,12 meses,600 Mb,no,25840,urbana,81,0,1,0,no
+IH-02918,15,mes a mes,100 Mb,no,15780,rural,75,1,2,0,no
+IH-02919,8,mes a mes,600 Mb,no,25680,rural,65,2,2,9,si
+IH-02920,17,mes a mes,300 Mb,no,23030,urbana,90,0,2,0,no
+IH-02921,5,mes a mes,300 Mb,no,19230,urbana,87,1,1,0,no
+IH-02922,8,mes a mes,300 Mb,no,21970,rural,74,0,0,0,no
+IH-02923,28,mes a mes,300 Mb,no,23550,urbana,91,0,1,10,no
+IH-02924,1,mes a mes,600 Mb,no,27070,urbana,84,0,1,0,no
+IH-02925,33,mes a mes,300 Mb,si,30610,urbana,83,1,0,0,no
+IH-02926,20,24 meses,1 Gb,si,42810,urbana,98,0,0,0,no
+IH-02927,20,12 meses,300 Mb,no,21700,urbana,80,0,0,0,no
+IH-02928,11,24 meses,300 Mb,no,20550,urbana,100,0,0,0,no
+IH-02929,54,24 meses,300 Mb,no,21720,urbana,82,1,3,0,no
+IH-02930,57,mes a mes,600 Mb,no,27820,urbana,83,1,4,0,no
+IH-02931,39,mes a mes,300 Mb,no,23220,urbana,92,0,0,4,no
+IH-02932,3,mes a mes,1 Gb,no,35470,urbana,100,0,0,0,no
+IH-02933,9,mes a mes,600 Mb,si,36400,urbana,86,1,0,0,no
+IH-02934,23,12 meses,600 Mb,no,27560,urbana,96,0,0,11,no
+IH-02935,44,12 meses,1 Gb,no,34380,urbana,84,1,1,0,no
+IH-02936,10,mes a mes,300 Mb,si,30320,urbana,66,0,0,0,no
+IH-02937,69,mes a mes,300 Mb,no,21180,urbana,76,0,2,0,no
+IH-02938,3,mes a mes,300 Mb,no,24510,rural,69,2,1,0,no
+IH-02939,3,12 meses,100 Mb,si,24440,urbana,87,2,3,0,no
+IH-02940,34,12 meses,300 Mb,no,24290,urbana,99,0,0,0,no
+IH-02941,61,12 meses,300 Mb,si,29860,rural,73,2,1,0,no
+IH-02942,27,12 meses,1 Gb,no,34610,urbana,96,1,1,0,no
+IH-02943,46,mes a mes,600 Mb,no,26740,rural,76,3,4,0,si
+IH-02944,49,mes a mes,600 Mb,si,34650,rural,87,2,1,0,no
+IH-02945,16,mes a mes,300 Mb,no,21120,urbana,75,0,0,0,no
+IH-02946,19,mes a mes,100 Mb,no,16640,urbana,76,2,3,0,si
+IH-02947,2,mes a mes,1 Gb,si,40090,rural,86,0,1,0,si
+IH-02948,19,mes a mes,300 Mb,no,20560,rural,98,3,1,0,no
+IH-02949,8,12 meses,300 Mb,no,22110,rural,81,2,1,0,no
+IH-02950,20,12 meses,100 Mb,no,17620,urbana,87,0,0,0,no
+IH-02951,8,12 meses,1 Gb,si,43960,rural,78,1,1,0,no
+IH-02952,28,12 meses,300 Mb,no,19470,urbana,92,1,0,0,no
+IH-02953,23,mes a mes,100 Mb,si,26430,rural,92,1,0,0,no
+IH-02954,6,mes a mes,100 Mb,no,15750,urbana,84,1,3,0,si
+IH-02955,9,mes a mes,300 Mb,no,22390,urbana,82,1,1,0,no
+IH-02956,2,mes a mes,600 Mb,no,27070,urbana,78,1,0,15,no
+IH-02957,3,mes a mes,600 Mb,no,27750,urbana,83,0,1,0,no
+IH-02958,9,12 meses,300 Mb,no,22460,urbana,75,1,0,0,si
+IH-02959,20,12 meses,1 Gb,no,33740,urbana,85,0,1,0,no
+IH-02960,22,mes a mes,300 Mb,si,29090,urbana,85,0,0,0,no
+IH-02961,6,12 meses,600 Mb,si,36940,urbana,88,2,1,0,no
+IH-02962,28,12 meses,300 Mb,no,20850,urbana,100,0,0,0,no
+IH-02963,38,24 meses,600 Mb,no,26400,urbana,71,0,3,5,no
+IH-02964,5,12 meses,300 Mb,no,22450,urbana,95,4,2,0,no
+IH-02965,4,mes a mes,600 Mb,no,26780,rural,69,0,1,0,si
+IH-02966,47,mes a mes,600 Mb,no,26570,urbana,86,1,1,0,no
+IH-02967,10,mes a mes,600 Mb,si,34390,urbana,100,1,0,0,si
+IH-02968,37,24 meses,600 Mb,no,29000,rural,83,0,1,18,no
+IH-02969,19,12 meses,300 Mb,si,29390,urbana,94,1,0,0,no
+IH-02970,12,mes a mes,300 Mb,no,20210,urbana,94,1,0,0,si
+IH-02971,84,mes a mes,600 Mb,no,28000,urbana,81,1,1,0,si
+IH-02972,23,12 meses,300 Mb,si,31000,urbana,75,1,0,0,no
+IH-02973,23,mes a mes,300 Mb,no,19040,urbana,97,0,0,1,si
+IH-02974,28,24 meses,600 Mb,si,36530,urbana,100,0,1,0,no
+IH-02975,65,mes a mes,600 Mb,no,30610,urbana,85,0,0,2,no
+IH-02976,23,12 meses,600 Mb,si,36510,rural,70,3,4,0,si
+IH-02977,34,24 meses,1 Gb,si,41830,urbana,94,0,0,0,no
+IH-02978,39,12 meses,100 Mb,si,24210,rural,87,1,0,12,no
+IH-02979,44,mes a mes,600 Mb,no,28700,urbana,100,0,0,0,no
+IH-02980,25,mes a mes,600 Mb,no,27420,rural,70,5,4,4,si
+IH-02981,18,mes a mes,300 Mb,si,30480,urbana,88,0,0,0,no
+IH-02982,16,12 meses,300 Mb,si,30680,urbana,85,1,0,0,no
+IH-02983,11,mes a mes,300 Mb,no,19550,urbana,85,1,0,0,no
+IH-02984,25,24 meses,300 Mb,no,22800,rural,86,0,1,0,no
+IH-02985,17,12 meses,300 Mb,no,21140,urbana,88,0,0,2,no
+IH-02986,55,12 meses,300 Mb,si,31650,urbana,88,1,1,0,no
+IH-02987,17,mes a mes,300 Mb,no,20920,urbana,83,0,1,0,no
+IH-02988,12,12 meses,100 Mb,no,17070,urbana,100,0,0,18,no
+IH-02989,3,12 meses,100 Mb,si,27650,urbana,80,0,1,2,no
+IH-02990,25,mes a mes,300 Mb,no,21930,rural,82,1,2,6,no
+IH-02991,5,12 meses,100 Mb,si,26940,rural,75,0,1,0,no
+IH-02992,21,mes a mes,100 Mb,no,16540,rural,55,3,2,8,si
+IH-02993,15,mes a mes,100 Mb,si,21910,urbana,80,1,2,0,no
+IH-02994,37,mes a mes,300 Mb,no,19560,urbana,91,2,2,0,no
+IH-02995,47,mes a mes,600 Mb,no,29030,rural,92,2,3,0,no
+IH-02996,22,mes a mes,600 Mb,si,34740,urbana,94,1,2,0,no
+IH-02997,1,12 meses,600 Mb,no,28310,urbana,86,0,2,18,si
+IH-02998,40,12 meses,300 Mb,no,22920,urbana,88,1,1,0,no
+IH-02999,40,mes a mes,100 Mb,no,16480,rural,70,0,0,0,no
+IH-03000,29,24 meses,600 Mb,si,35750,urbana,67,1,0,0,no

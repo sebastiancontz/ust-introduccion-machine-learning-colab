@@ -1,0 +1,401 @@
+id_evento,fecha_cotizacion,tipo_evento,menu,comuna,asistentes_confirmados,duracion_horas,incluye_bar,dias_anticipacion,km_desde_cocina,asistentes_reales,costo_por_asistente,porciones_sobrantes,nota_cliente,costo_insumos
+EV-00107,2025-01-05,cóctel,vegetariano,Estación Central,157,4,no,63,14.9,135,6.67,14,6,900
+EV-00150,2025-01-05,desayuno,estándar,La Cisterna,79,2,no,53,8.7,71,4.83,7,6,343
+EV-00238,2025-01-05,almuerzo,estándar,La Florida,217,3,no,12,5.8,186,7.65,20,6,1423
+EV-00138,2025-01-07,cena,estándar,La Cisterna,217,3,no,29,10.5,196,11.53,16,7,2260
+EV-00218,2025-01-07,jornada completa,premium,Puente Alto,162,8,si,10,18.7,151,24.03,8,6,3629
+EV-00309,2025-01-08,cena,estándar,Peñalolén,270,4,si,36,16.5,220,16.74,34,6,3683
+EV-00391,2025-01-08,cena,estándar,Independencia,95,4,no,64,18.9,102,14.52,0,7,1481
+EV-00172,2025-01-09,almuerzo,premium,Quinta Normal,155,4,no,49,,149,11.77,4,6,1754
+EV-00188,2025-01-11,jornada completa,estándar,San Joaquín,199,8,si,48,12.4,215,18.61,0,6,4001
+EV-00234,2025-01-11,cena,premium,Vitacura,262,3,no,41,15.1,243,20.85,18,6,5067
+EV-00380,2025-01-11,desayuno,estándar,Macul,41,2,no,78,,37,9.32,3,7,345
+EV-00290,2025-01-12,almuerzo,vegetariano,Colina,204,4,no,36,22.8,179,9.32,18,6,1668
+EV-00018,2025-01-13,cóctel,vegetariano,Colina,85,2,no,10,3.9,82,7.28,3,6,597
+EV-00336,2025-01-14,almuerzo,estándar,Las Condes,198,4,no,50,3.4,175,8.58,15,7,1501
+EV-00009,2025-01-15,cóctel,estándar,Colina,110,4,no,56,4.9,104,6.48,5,7,674
+EV-00034,2025-01-15,cena,estándar,Las Condes,221,5,no,45,9.8,198,14.05,17,5,2781
+EV-00193,2025-01-15,almuerzo,estándar,Quilicura,181,3,no,31,5.6,169,8.0,7,7,1352
+EV-00262,2025-01-15,desayuno,vegetariano,Huechuraba,253,2,no,14,6.7,235,3.41,16,7,801
+EV-00399,2025-01-15,cóctel,vegetariano,Conchalí,72,4,si,41,9.4,67,13.25,4,6,888
+EV-00055,2025-01-16,cena,estándar,Vitacura,296,3,no,83,24.0,265,11.09,22,5,2939
+EV-00028,2025-01-17,desayuno,estándar,Pudahuel,217,2,no,32,4.4,216,4.08,1,7,882
+EV-00123,2025-01-18,cena,premium,Ñuñoa,252,3,no,72,26.3,240,16.02,8,5,3845
+EV-00227,2025-01-19,jornada completa,estándar,Recoleta,293,8,no,67,6.5,282,15.58,7,6,4393
+EV-00053,2025-01-23,cóctel,premium,Lo Barnechea,212,4,si,65,3.9,189,16.19,21,6,3060
+EV-00094,2025-01-23,almuerzo,vegetariano,Estación Central,293,2,no,79,7.8,278,6.67,9,5,1855
+EV-00213,2025-01-23,jornada completa,estándar,Pudahuel,161,9,si,79,16.1,137,18.58,21,5,2546
+EV-00239,2025-01-23,cena,vegetariano,Puente Alto,29,4,no,59,,26,12.62,2,7,328
+EV-00258,2025-01-23,jornada completa,vegetariano,Pudahuel,171,8,no,45,10.0,158,13.74,11,7,2171
+EV-00313,2025-01-23,cóctel,estándar,Macul,60,3,si,90,,59,13.61,1,6,803
+EV-00206,2025-01-24,jornada completa,estándar,Renca,220,8,no,2,1.5,214,16.18,5,6,3463
+EV-00396,2025-01-25,desayuno,estándar,Maipú,259,1,no,42,11.7,234,4.21,24,5,985
+EV-00199,2025-01-26,cena,estándar,Colina,239,4,no,28,15.5,244,11.06,0,6,2698
+EV-00212,2025-01-26,cena,estándar,Lo Barnechea,288,5,no,20,11.7,299,13.48,0,6,4031
+EV-00261,2025-01-26,almuerzo,vegetariano,Providencia,52,3,si,67,5.7,53,9.38,0,5,497
+EV-00334,2025-01-26,desayuno,premium,San Bernardo,64,3,no,74,9.4,60,6.18,2,6,371
+EV-00192,2025-01-27,jornada completa,estándar,La Cisterna,275,7,si,35,37.4,233,19.15,41,5,4461
+EV-00269,2025-01-27,desayuno,premium,Renca,154,2,no,37,11.7,131,5.6,15,6,733
+EV-00299,2025-01-27,almuerzo,premium,Estación Central,95,3,si,23,6.6,78,15.76,14,6,1229
+EV-00114,2025-01-28,desayuno,estándar,Macul,175,3,no,87,,181,3.7,0,6,670
+EV-00351,2025-01-29,cóctel,estándar,San Bernardo,39,2,si,54,1.3,38,9.34,1,6,355
+EV-00275,2025-01-30,desayuno,premium,Puente Alto,60,2,no,27,32.0,53,9.91,7,7,525
+EV-00223,2025-01-31,jornada completa,estándar,Puente Alto,216,8,no,66,34.5,195,16.16,16,7,3152
+EV-00341,2025-01-31,cóctel,estándar,Vitacura,115,3,no,2,3.8,101,9.34,11,5,943
+EV-00052,2025-02-01,cóctel,premium,Las Condes,180,4,no,66,43.7,143,11.35,24,5,1623
+EV-00255,2025-02-01,cena,premium,Pudahuel,206,4,no,45,10.4,202,17.83,3,7,3601
+EV-00349,2025-02-01,cena,premium,Lampa,185,4,no,40,19.9,176,19.2,7,7,3379
+EV-00013,2025-02-05,almuerzo,premium,La Cisterna,272,3,si,2,7.5,247,15.79,19,7,3900
+EV-00271,2025-02-07,cena,estándar,Las Condes,136,4,si,86,4.8,101,13.9,31,6,1404
+EV-00074,2025-02-08,cóctel,estándar,Ñuñoa,122,4,no,16,3.7,103,10.67,16,7,1099
+EV-00024,2025-02-09,cóctel,estándar,La Cisterna,100,2,si,17,8.7,86,12.74,10,5,1096
+EV-00113,2025-02-09,cena,premium,La Florida,231,4,no,12,6.4,203,17.71,24,6,3595
+EV-00211,2025-02-09,almuerzo,premium,Pudahuel,275,2,no,48,27.2,241,10.79,34,6,2601
+EV-00214,2025-02-09,almuerzo,estándar,Renca,60,2,si,44,1.1,55,9.36,4,6,515
+EV-00383,2025-02-09,cena,estándar,Lo Barnechea,119,5,no,78,18.3,128,11.02,0,7,1411
+EV-00363,2025-02-10,cóctel,vegetariano,La Reina,267,2,no,18,9.0,248,5.61,14,7,1391
+EV-00382,2025-02-10,almuerzo,estándar,Vitacura,177,3,si,82,7.4,145,11.88,29,5,1723
+EV-00060,2025-02-11,jornada completa,vegetariano,Las Condes,34,9,si,52,5.5,32,21.69,1,6,694
+EV-00167,2025-02-11,jornada completa,premium,Lampa,110,7,si,38,11.6,100,25.5,9,6,2550
+EV-00388,2025-02-11,jornada completa,premium,Puente Alto,290,8,no,23,4.3,270,15.85,17,6,4279
+EV-00288,2025-02-12,jornada completa,estándar,Renca,194,8,no,69,,176,14.01,16,6,2466
+EV-00207,2025-02-15,almuerzo,vegetariano,Colina,166,3,no,69,5.8,155,7.87,10,6,1220
+EV-00327,2025-02-15,almuerzo,premium,Quilicura,181,3,no,63,6.7,181,11.81,0,7,2138
+EV-00196,2025-02-16,desayuno,vegetariano,La Cisterna,131,1,no,12,5.4,113,4.73,15,5,534
+EV-00012,2025-02-18,almuerzo,premium,Vitacura,128,4,no,76,20.8,127,12.57,1,5,1596
+EV-00205,2025-02-18,desayuno,estándar,Recoleta,22,2,si,75,4.1,19,6.47,2,6,123
+EV-00210,2025-02-18,desayuno,estándar,Estación Central,67,1,si,31,,59,9.47,6,7,559
+EV-00329,2025-02-19,almuerzo,estándar,La Cisterna,217,4,no,7,44.4,192,10.26,22,6,1969
+EV-00240,2025-02-22,desayuno,estándar,Huechuraba,146,1,no,32,13.5,131,4.15,12,6,544
+EV-00387,2025-02-22,desayuno,estándar,La Cisterna,189,1,si,19,,182,7.52,5,7,1369
+EV-00392,2025-02-23,cóctel,premium,Huechuraba,232,2,no,48,3.1,197,10.68,34,5,2103
+EV-00087,2025-02-25,desayuno,vegetariano,Cerrillos,263,2,si,87,35.8,268,8.18,0,6,2193
+EV-00358,2025-02-25,desayuno,premium,La Florida,194,3,no,5,14.8,199,6.63,0,6,1320
+EV-00016,2025-02-26,cóctel,estándar,Ñuñoa,188,4,no,34,5.4,174,8.13,13,6,1415
+EV-00273,2025-02-26,almuerzo,estándar,San Miguel,229,3,si,13,7.6,251,9.59,0,7,2408
+EV-00096,2025-02-28,cena,premium,Cerrillos,165,3,no,60,4.2,161,16.31,3,6,2626
+EV-00302,2025-02-28,desayuno,estándar,San Bernardo,160,2,si,12,54.6,148,9.59,11,6,1419
+EV-00110,2025-03-02,desayuno,estándar,Quilicura,87,3,no,54,31.8,84,6.79,3,6,570
+EV-00226,2025-03-03,desayuno,estándar,Colina,248,3,no,43,8.2,204,3.62,40,5,738
+EV-00278,2025-03-03,desayuno,premium,Maipú,242,2,no,62,31.2,239,8.05,2,6,1925
+EV-00050,2025-03-05,jornada completa,estándar,Quilicura,261,7,no,45,25.0,281,14.3,0,7,4018
+EV-00139,2025-03-05,cóctel,estándar,Peñalolén,114,3,no,84,8.7,121,7.26,0,7,878
+EV-00051,2025-03-06,desayuno,estándar,La Florida,27,3,no,63,6.4,25,5.76,2,6,144
+EV-00030,2025-03-07,jornada completa,estándar,La Florida,195,8,no,68,24.1,175,15.44,16,6,2702
+EV-00037,2025-03-07,cóctel,estándar,Macul,68,2,no,16,12.5,74,7.99,0,6,591
+EV-00091,2025-03-09,desayuno,estándar,Huechuraba,151,2,si,61,9.3,130,7.96,19,7,1035
+EV-00323,2025-03-10,desayuno,estándar,Quinta Normal,141,1,no,90,39.9,139,5.94,1,7,826
+EV-00230,2025-03-14,cóctel,estándar,Vitacura,180,2,no,72,,180,6.47,0,6,1165
+EV-00003,2025-03-15,desayuno,estándar,Colina,138,2,no,83,12.5,135,4.73,2,6,639
+EV-00071,2025-03-16,desayuno,estándar,Independencia,78,1,no,8,2.0,70,4.44,6,6,311
+EV-00268,2025-03-16,almuerzo,premium,Puente Alto,91,3,no,74,20.3,93,11.74,0,5,1092
+EV-00389,2025-03-16,desayuno,estándar,La Cisterna,247,2,no,32,5.5,210,3.9,23,4,818
+EV-00118,2025-03-17,cena,premium,San Miguel,105,4,no,9,20.6,99,18.83,4,6,1864
+EV-00147,2025-03-17,almuerzo,estándar,Quilicura,101,2,si,71,16.1,94,13.55,6,6,1274
+EV-00073,2025-03-18,desayuno,estándar,Las Condes,38,3,no,25,19.0,31,7.74,5,6,240
+EV-00326,2025-03-18,desayuno,estándar,Santiago,129,2,si,73,,108,7.8,16,7,842
+EV-00069,2025-03-20,cóctel,estándar,Peñalolén,76,4,no,13,28.6,72,12.01,3,7,865
+EV-00119,2025-03-22,jornada completa,estándar,San Joaquín,102,9,si,20,7.6,87,16.8,9,6,1462
+EV-00225,2025-03-22,cena,estándar,Conchalí,263,3,no,26,7.4,250,12.36,12,7,3091
+EV-00217,2025-03-23,cóctel,premium,Maipú,138,3,si,24,14.3,107,14.58,29,5,1560
+EV-00054,2025-03-25,almuerzo,vegetariano,Conchalí,148,3,si,87,21.6,128,11.02,15,6,1410
+EV-00177,2025-03-25,desayuno,estándar,Puente Alto,234,1,si,24,18.4,181,7.85,47,5,1420
+EV-00257,2025-03-25,cóctel,vegetariano,Quilicura,172,3,no,49,12.5,162,6.67,9,7,1081
+EV-00263,2025-03-25,cóctel,estándar,Macul,215,4,si,42,23.4,199,10.16,15,6,2022
+EV-00035,2025-03-27,cóctel,premium,Conchalí,213,3,no,35,14.8,211,12.72,1,6,2683
+EV-00062,2025-03-29,almuerzo,estándar,San Joaquín,66,4,si,67,21.9,67,14.09,0,6,944
+EV-00142,2025-03-29,almuerzo,estándar,Lo Barnechea,262,3,si,81,37.2,239,12.83,15,7,3066
+EV-00295,2025-03-30,jornada completa,estándar,Quinta Normal,67,8,no,13,36.3,59,18.86,7,6,1113
+EV-00337,2025-03-30,cena,estándar,Colina,151,4,si,33,6.2,136,15.06,11,5,2048
+EV-00340,2025-03-30,cóctel,estándar,San Joaquín,36,3,si,3,29.8,35,14.63,1,6,512
+EV-00297,2025-03-31,desayuno,estándar,Lampa,73,2,no,5,26.6,65,7.2,8,7,468
+EV-00360,2025-04-01,jornada completa,estándar,Lo Barnechea,180,8,no,49,24.3,169,14.81,11,7,2503
+EV-00320,2025-04-04,desayuno,premium,Providencia,190,3,no,79,27.1,192,6.02,0,6,1156
+EV-00109,2025-04-05,desayuno,estándar,Peñalolén,294,3,no,22,24.8,284,4.94,9,7,1404
+EV-00127,2025-04-05,cóctel,estándar,Peñalolén,65,3,no,15,,61,13.02,3,7,794
+EV-00296,2025-04-05,almuerzo,vegetariano,Estación Central,264,3,si,73,1.3,253,11.74,8,7,2969
+EV-00216,2025-04-07,cena,vegetariano,Las Condes,60,4,no,35,5.3,55,10.89,3,6,599
+EV-00038,2025-04-10,almuerzo,estándar,Puente Alto,60,3,si,82,2.5,59,9.42,1,6,556
+EV-00164,2025-04-10,jornada completa,premium,San Miguel,189,7,no,25,23.6,172,18.48,16,7,3178
+EV-00182,2025-04-11,almuerzo,estándar,Pudahuel,220,4,si,83,6.6,187,11.72,21,6,2192
+EV-00397,2025-04-12,almuerzo,premium,Lampa,35,3,si,13,,33,19.15,1,6,632
+EV-00041,2025-04-13,almuerzo,estándar,Quinta Normal,259,3,no,19,12.0,250,8.77,6,6,2193
+EV-00190,2025-04-14,almuerzo,estándar,La Florida,279,3,si,76,21.7,262,11.35,14,5,2974
+EV-00385,2025-04-18,jornada completa,vegetariano,Peñalolén,58,8,si,81,7.5,46,17.61,9,6,810
+EV-00201,2025-04-19,cóctel,premium,Renca,171,4,no,45,10.4,149,10.28,22,6,1531
+EV-00026,2025-04-21,desayuno,premium,Quilicura,254,2,no,49,8.7,221,6.61,21,5,1461
+EV-00286,2025-04-21,desayuno,estándar,San Miguel,223,2,no,50,5.5,201,4.02,14,7,809
+EV-00108,2025-04-23,almuerzo,estándar,Cerrillos,27,3,si,37,2.2,22,12.73,3,7,280
+EV-00129,2025-04-24,cóctel,estándar,Pudahuel,231,3,no,27,9.8,195,7.86,24,6,1533
+EV-00287,2025-04-24,desayuno,vegetariano,La Reina,223,2,no,30,38.6,220,5.03,3,6,1106
+EV-00066,2025-04-27,desayuno,vegetariano,Quilicura,41,2,no,49,25.6,41,6.61,0,7,271
+EV-00233,2025-04-27,almuerzo,estándar,Estación Central,83,4,si,42,5.2,80,14.34,2,6,1147
+EV-00101,2025-04-28,almuerzo,estándar,Renca,199,4,si,59,8.9,207,12.16,0,7,2518
+EV-00187,2025-04-28,jornada completa,estándar,Vitacura,94,8,no,2,9.1,88,16.42,5,7,1445
+EV-00344,2025-05-02,cóctel,premium,Lo Barnechea,279,2,no,52,13.4,272,11.65,6,7,3170
+EV-00027,2025-05-07,jornada completa,vegetariano,Independencia,120,8,no,28,9.4,117,12.66,3,6,1481
+EV-00126,2025-05-07,desayuno,premium,Puente Alto,98,2,no,48,31.4,97,7.3,1,7,708
+EV-00065,2025-05-09,almuerzo,vegetariano,Providencia,274,4,no,76,3.5,244,7.41,22,6,1809
+EV-00244,2025-05-09,jornada completa,premium,Vitacura,179,8,si,3,1.9,174,21.48,3,6,3738
+EV-00132,2025-05-14,cena,estándar,Renca,107,3,no,40,,100,12.71,7,6,1271
+EV-00298,2025-05-15,desayuno,premium,Maipú,61,2,no,2,4.0,56,6.64,4,7,372
+EV-00367,2025-05-17,almuerzo,estándar,Las Condes,146,3,no,32,,144,8.35,2,6,1203
+EV-00208,2025-05-19,almuerzo,estándar,Quilicura,117,3,no,10,12.2,99,10.4,14,6,1030
+EV-00307,2025-05-22,jornada completa,estándar,Macul,142,7,no,88,9.0,130,14.66,10,6,1906
+EV-00153,2025-05-23,cena,estándar,Puente Alto,100,5,si,58,25.6,97,19.14,2,6,1857
+EV-00184,2025-05-23,cóctel,premium,Pudahuel,287,2,no,27,3.9,291,12.06,0,7,3510
+EV-00104,2025-05-25,almuerzo,premium,San Miguel,258,4,no,17,4.6,213,11.49,39,6,2448
+EV-00106,2025-05-26,cóctel,premium,Peñalolén,80,4,no,30,7.3,70,12.0,8,6,840
+EV-00284,2025-05-29,cóctel,premium,Quilicura,59,4,no,64,31.8,63,14.79,0,5,932
+EV-00076,2025-05-30,desayuno,vegetariano,Quinta Normal,268,3,si,59,9.9,260,6.56,6,6,1705
+EV-00359,2025-05-30,jornada completa,estándar,Independencia,218,9,no,4,12.6,218,15.52,0,7,3383
+EV-00173,2025-05-31,desayuno,estándar,Quinta Normal,239,2,si,42,3.1,196,7.21,28,5,1413
+EV-00174,2025-05-31,cóctel,estándar,Pudahuel,59,3,si,26,2.3,55,8.98,3,6,494
+EV-00355,2025-05-31,desayuno,premium,Las Condes,156,3,si,72,15.3,150,10.9,4,6,1635
+EV-00283,2025-06-01,jornada completa,estándar,Independencia,74,8,no,68,,71,16.39,2,7,1164
+EV-00305,2025-06-01,almuerzo,estándar,Santiago,36,3,si,27,8.2,34,13.35,1,5,454
+EV-00322,2025-06-01,jornada completa,estándar,Maipú,254,8,no,11,,260,15.34,0,6,3988
+EV-00111,2025-06-02,cóctel,premium,Providencia,295,2,no,34,10.7,270,10.66,20,7,2877
+EV-00158,2025-06-02,almuerzo,vegetariano,Huechuraba,274,4,si,59,13.8,226,12.08,29,6,2730
+EV-00049,2025-06-03,cena,vegetariano,Huechuraba,272,3,si,67,57.6,285,13.98,0,6,3985
+EV-00058,2025-06-04,cena,estándar,San Joaquín,191,3,no,55,,174,11.75,13,6,2044
+EV-00077,2025-06-04,almuerzo,estándar,San Joaquín,289,3,si,9,34.1,278,12.31,8,6,3421
+EV-00356,2025-06-04,almuerzo,premium,Recoleta,285,2,no,26,9.2,259,12.32,21,5,3190
+EV-00370,2025-06-04,jornada completa,estándar,San Miguel,271,8,no,50,12.8,253,14.56,13,6,3683
+EV-00145,2025-06-05,jornada completa,estándar,Colina,45,8,no,66,19.9,40,18.9,4,7,756
+EV-00246,2025-06-05,desayuno,estándar,Quinta Normal,112,2,no,90,3.5,92,3.33,17,5,306
+EV-00169,2025-06-06,desayuno,premium,Recoleta,269,2,no,54,13.1,265,5.65,3,6,1496
+EV-00116,2025-06-07,almuerzo,estándar,Lampa,61,3,si,32,19.4,47,14.04,12,6,660
+EV-00318,2025-06-07,almuerzo,vegetariano,Huechuraba,165,2,si,11,11.5,162,10.19,3,6,1651
+EV-00365,2025-06-10,cena,premium,Lo Barnechea,232,5,no,47,32.6,231,19.57,1,6,4521
+EV-00198,2025-06-11,cóctel,premium,Puente Alto,298,2,no,51,20.1,268,10.68,25,6,2862
+EV-00386,2025-06-12,almuerzo,estándar,Independencia,136,3,no,19,19.7,141,8.61,0,7,1214
+EV-00047,2025-06-13,cóctel,estándar,La Cisterna,86,4,si,82,12.1,75,14.15,10,7,1061
+EV-00105,2025-06-13,desayuno,vegetariano,San Joaquín,256,1,no,82,13.7,242,3.63,12,7,879
+EV-00345,2025-06-13,cóctel,estándar,Recoleta,131,3,no,12,20.4,144,8.88,0,7,1279
+EV-00001,2025-06-15,cena,estándar,Quinta Normal,43,5,no,89,12.9,39,13.03,3,6,508
+EV-00176,2025-06-15,cóctel,estándar,La Florida,101,3,si,25,11.5,92,10.83,9,6,996
+EV-00276,2025-06-15,almuerzo,premium,Estación Central,127,3,no,17,5.4,120,12.01,6,6,1441
+EV-00089,2025-06-17,cena,estándar,Las Condes,103,3,no,3,14.8,100,10.83,2,7,1083
+EV-00274,2025-06-17,cena,premium,Las Condes,282,5,no,2,18.1,272,19.06,9,6,5183
+EV-00072,2025-06-20,desayuno,estándar,Quilicura,168,1,no,90,1.0,152,3.65,14,6,555
+EV-00204,2025-06-22,jornada completa,estándar,La Florida,216,9,no,45,61.2,203,16.48,9,7,3346
+EV-00300,2025-06-24,cóctel,estándar,Vitacura,168,4,no,28,3.6,169,7.18,0,7,1213
+EV-00015,2025-06-25,cena,premium,Quinta Normal,186,3,no,33,14.5,159,17.3,20,6,2751
+EV-00249,2025-06-25,cena,estándar,San Bernardo,23,4,no,67,11.9,23,12.61,0,6,290
+EV-00369,2025-06-26,cena,premium,Conchalí,179,3,no,61,15.7,165,23.16,9,5,3821
+EV-00042,2025-06-27,desayuno,estándar,Estación Central,32,3,no,12,34.9,26,12.15,4,6,316
+EV-00102,2025-06-27,jornada completa,estándar,Peñalolén,251,9,no,11,2.3,263,12.71,0,6,3344
+EV-00140,2025-06-28,cóctel,estándar,Estación Central,111,4,no,35,5.2,99,6.83,10,6,676
+EV-00185,2025-06-28,desayuno,estándar,Quilicura,85,1,si,48,15.1,73,7.33,8,6,535
+EV-00171,2025-06-29,jornada completa,estándar,Independencia,40,7,no,54,38.7,39,24.74,1,6,965
+EV-00157,2025-06-30,jornada completa,vegetariano,La Reina,23,7,si,13,5.8,23,21.87,0,6,503
+EV-00338,2025-07-01,almuerzo,estándar,Puente Alto,48,4,si,51,6.1,33,13.39,12,6,442
+EV-00033,2025-07-02,jornada completa,estándar,Huechuraba,51,9,no,63,,42,14.88,6,6,625
+EV-00064,2025-07-02,cena,premium,Maipú,70,3,no,25,14.8,70,19.69,0,7,1378
+EV-00235,2025-07-02,cóctel,premium,Lampa,192,3,no,15,8.6,190,12.82,2,6,2435
+EV-00311,2025-07-02,cena,premium,Quilicura,123,4,si,78,20.5,111,23.25,9,5,2581
+EV-00068,2025-07-04,cóctel,estándar,San Joaquín,113,4,no,84,5.8,99,7.31,12,6,724
+EV-00231,2025-07-04,cóctel,premium,Quinta Normal,183,3,si,42,22.6,169,15.25,13,6,2577
+EV-00155,2025-07-05,cena,estándar,San Joaquín,289,3,si,77,11.7,294,14.53,0,7,4271
+EV-00143,2025-07-06,cóctel,estándar,Independencia,132,2,si,4,46.6,121,12.02,8,7,1454
+EV-00303,2025-07-06,cóctel,vegetariano,Providencia,143,3,no,90,15.9,133,6.18,9,6,822
+EV-00304,2025-07-09,cóctel,vegetariano,Renca,175,2,no,6,14.3,173,5.95,2,7,1029
+EV-00366,2025-07-09,cena,vegetariano,San Miguel,70,5,no,89,14.8,60,14.22,6,6,853
+EV-00017,2025-07-10,desayuno,premium,La Cisterna,24,2,si,19,16.1,22,12.91,1,7,284
+EV-00348,2025-07-12,almuerzo,premium,Renca,223,3,no,7,6.3,211,11.97,8,7,2526
+EV-00353,2025-07-16,cena,vegetariano,La Florida,285,5,si,49,27.8,275,15.17,8,5,4173
+EV-00215,2025-07-18,desayuno,estándar,Quinta Normal,42,3,no,83,3.8,39,3.18,2,6,124
+EV-00224,2025-07-19,cóctel,estándar,Ñuñoa,37,2,si,25,,31,11.29,4,7,350
+EV-00377,2025-07-20,cóctel,vegetariano,Puente Alto,277,2,no,13,5.0,277,5.56,0,7,1540
+EV-00036,2025-07-21,cóctel,estándar,La Florida,87,3,si,42,,86,9.83,1,6,845
+EV-00168,2025-07-23,almuerzo,estándar,San Bernardo,216,3,no,5,7.8,197,8.33,14,7,1641
+EV-00122,2025-07-24,jornada completa,estándar,Lo Barnechea,78,8,no,15,9.3,71,18.96,5,6,1346
+EV-00220,2025-07-24,cóctel,estándar,Huechuraba,86,3,si,69,12.8,81,11.23,5,6,910
+EV-00242,2025-07-25,cena,estándar,Vitacura,88,4,no,50,7.3,89,16.89,0,5,1503
+EV-00098,2025-07-27,desayuno,premium,Conchalí,84,3,si,75,2.4,78,8.56,6,6,668
+EV-00400,2025-07-27,almuerzo,estándar,Cerrillos,162,3,no,50,38.9,147,10.52,14,6,1546
+EV-00070,2025-07-28,cena,estándar,Macul,262,4,no,47,5.0,266,12.28,0,6,3267
+EV-00253,2025-07-29,cóctel,estándar,Recoleta,285,3,si,13,6.1,207,10.38,50,5,2149
+EV-00289,2025-07-29,desayuno,premium,Vitacura,61,1,si,31,22.4,57,11.53,4,6,657
+EV-00023,2025-07-30,cena,estándar,Santiago,183,5,no,71,12.6,187,12.6,0,6,2356
+EV-00203,2025-08-02,almuerzo,estándar,Maipú,118,4,si,33,8.1,123,11.68,0,7,1437
+EV-00221,2025-08-02,desayuno,estándar,Colina,260,3,no,86,24.3,246,4.07,14,5,1002
+EV-00315,2025-08-03,almuerzo,estándar,Providencia,113,4,no,75,7.8,100,7.5,9,6,750
+EV-00331,2025-08-04,almuerzo,premium,Lampa,289,3,no,74,17.9,254,12.1,29,6,3073
+EV-00332,2025-08-05,almuerzo,estándar,Macul,144,3,no,80,28.4,139,10.03,3,7,1394
+EV-00010,2025-08-06,cóctel,estándar,Lo Barnechea,264,2,no,35,10.6,276,7.71,0,7,2127
+EV-00063,2025-08-07,desayuno,premium,Puente Alto,257,1,no,66,15.7,249,5.43,7,6,1352
+EV-00245,2025-08-07,desayuno,estándar,Recoleta,243,2,no,55,7.0,199,4.56,37,6,908
+EV-00316,2025-08-07,desayuno,vegetariano,Santiago,179,2,si,68,24.3,181,7.25,0,6,1313
+EV-00007,2025-08-10,desayuno,premium,Colina,223,1,no,79,9.6,220,6.1,3,7,1342
+EV-00084,2025-08-10,desayuno,vegetariano,Independencia,33,3,si,47,9.0,34,9.47,0,7,322
+EV-00254,2025-08-10,cena,vegetariano,Santiago,31,4,no,62,18.9,28,16.07,3,6,450
+EV-00088,2025-08-11,almuerzo,premium,Cerrillos,186,3,si,54,12.9,188,13.67,0,6,2570
+EV-00229,2025-08-11,jornada completa,estándar,Providencia,65,8,no,58,14.3,62,17.71,2,6,1098
+EV-00161,2025-08-13,cena,estándar,San Bernardo,218,4,no,76,9.5,191,11.36,22,6,2169
+EV-00197,2025-08-13,cena,estándar,Peñalolén,300,3,no,74,1.2,262,13.71,24,6,3591
+EV-00292,2025-08-13,cena,estándar,Huechuraba,211,4,no,85,7.5,192,13.03,18,7,2501
+EV-00248,2025-08-16,almuerzo,estándar,Independencia,270,3,no,72,9.1,254,9.36,13,6,2378
+EV-00270,2025-08-16,cóctel,estándar,Independencia,38,4,si,55,1.7,35,11.03,2,7,386
+EV-00136,2025-08-18,almuerzo,estándar,Lo Barnechea,154,3,no,9,9.3,148,8.36,5,6,1238
+EV-00328,2025-08-19,almuerzo,premium,Renca,214,3,no,19,12.8,195,11.06,14,6,2156
+EV-00306,2025-08-21,almuerzo,estándar,Peñalolén,109,2,no,89,10.2,112,8.01,0,6,897
+EV-00092,2025-08-23,almuerzo,premium,Macul,84,2,no,48,3.6,72,13.25,9,6,954
+EV-00125,2025-08-23,desayuno,estándar,San Joaquín,171,2,si,64,13.5,165,6.47,4,6,1068
+EV-00137,2025-08-23,desayuno,premium,Independencia,137,1,no,32,9.8,124,6.15,10,7,763
+EV-00375,2025-08-23,jornada completa,estándar,Peñalolén,126,8,no,36,1.0,123,13.69,2,6,1684
+EV-00310,2025-08-24,almuerzo,premium,Puente Alto,155,3,si,29,15.6,145,15.08,9,6,2187
+EV-00081,2025-08-25,cóctel,vegetariano,Providencia,277,3,si,38,34.6,283,11.22,0,7,3176
+EV-00325,2025-08-25,jornada completa,premium,Pudahuel,234,9,si,61,1.0,212,20.02,18,6,4244
+EV-00085,2025-08-26,almuerzo,premium,Quilicura,78,3,no,57,1.6,73,12.49,3,7,912
+EV-00357,2025-08-26,jornada completa,estándar,Lo Barnechea,196,8,si,35,14.1,182,17.55,14,5,3194
+EV-00080,2025-08-27,almuerzo,premium,La Cisterna,77,3,no,66,4.0,71,11.52,5,6,818
+EV-00194,2025-08-27,jornada completa,estándar,La Cisterna,206,8,si,44,2.4,172,17.31,31,6,2977
+EV-00222,2025-08-27,jornada completa,premium,Independencia,170,8,no,53,1.1,149,19.69,13,6,2934
+EV-00183,2025-08-28,cóctel,vegetariano,Peñalolén,58,4,no,5,9.6,56,7.36,1,6,412
+EV-00291,2025-08-28,cena,estándar,Puente Alto,103,3,no,53,9.5,96,12.68,5,6,1217
+EV-00075,2025-08-29,jornada completa,estándar,San Miguel,184,8,no,38,,182,12.37,1,6,2252
+EV-00120,2025-08-29,jornada completa,vegetariano,San Bernardo,62,9,no,36,6.8,50,15.44,8,6,772
+EV-00362,2025-08-29,cóctel,estándar,Providencia,269,2,no,20,9.6,243,7.16,18,7,1741
+EV-00180,2025-08-30,desayuno,estándar,Colina,126,1,si,74,17.1,109,5.9,16,7,643
+EV-00237,2025-08-30,jornada completa,estándar,San Miguel,186,7,si,82,42.6,193,19.07,0,7,3681
+EV-00259,2025-08-31,almuerzo,estándar,Providencia,72,2,si,56,17.4,70,11.31,1,7,792
+EV-00354,2025-08-31,cóctel,vegetariano,Macul,189,3,si,52,31.2,179,10.23,9,7,1831
+EV-00103,2025-09-01,jornada completa,estándar,Pudahuel,234,8,no,83,3.9,208,14.61,20,6,3038
+EV-00372,2025-09-01,cóctel,estándar,Renca,242,2,no,39,4.4,232,6.52,8,7,1512
+EV-00374,2025-09-01,cena,premium,Macul,97,3,no,14,6.7,87,18.64,7,7,1622
+EV-00040,2025-09-04,almuerzo,premium,Maipú,117,3,no,57,9.4,110,12.97,4,7,1427
+EV-00046,2025-09-04,almuerzo,estándar,Puente Alto,165,2,no,44,3.8,135,8.81,23,6,1189
+EV-00209,2025-09-05,cena,vegetariano,Quinta Normal,97,4,no,40,4.4,87,11.69,9,6,1017
+EV-00232,2025-09-05,desayuno,estándar,Renca,211,2,no,88,11.6,210,4.01,1,6,843
+EV-00350,2025-09-05,cena,estándar,Ñuñoa,115,3,no,63,23.4,95,11.78,16,7,1119
+EV-00067,2025-09-07,desayuno,premium,Quinta Normal,196,2,no,29,21.5,188,6.57,5,5,1235
+EV-00308,2025-09-08,cóctel,premium,Recoleta,288,3,si,19,16.1,278,15.5,9,6,4310
+EV-00141,2025-09-12,cena,vegetariano,Conchalí,250,5,no,24,9.4,247,10.69,2,6,2641
+EV-00312,2025-09-12,cena,estándar,Quilicura,138,5,no,55,22.8,121,12.36,13,5,1496
+EV-00335,2025-09-12,desayuno,estándar,Santiago,120,1,si,45,16.8,126,6.31,0,7,795
+EV-00282,2025-09-13,cóctel,estándar,San Bernardo,143,4,no,17,5.4,137,6.99,6,7,957
+EV-00021,2025-09-14,desayuno,premium,Estación Central,136,3,si,4,55.5,128,12.99,8,6,1663
+EV-00251,2025-09-14,jornada completa,estándar,Peñalolén,206,8,no,32,12.9,228,17.13,0,7,3906
+EV-00002,2025-09-17,cóctel,premium,Recoleta,212,4,no,38,21.5,197,11.84,15,7,2333
+EV-00321,2025-09-17,almuerzo,estándar,Quilicura,189,4,no,42,13.7,179,9.46,7,7,1694
+EV-00079,2025-09-18,desayuno,estándar,La Florida,88,1,si,43,17.8,87,8.57,1,7,746
+EV-00031,2025-09-19,jornada completa,estándar,San Bernardo,125,8,si,78,,127,17.4,0,7,2210
+EV-00277,2025-09-19,desayuno,vegetariano,Recoleta,279,1,si,36,5.9,253,6.35,20,7,1606
+EV-00219,2025-09-20,cena,vegetariano,Recoleta,28,3,si,48,19.1,25,22.88,3,5,572
+EV-00333,2025-09-21,almuerzo,premium,Lampa,212,2,no,11,,202,10.46,7,5,2112
+EV-00352,2025-09-21,cóctel,vegetariano,Maipú,189,2,no,51,20.8,192,6.55,0,6,1257
+EV-00059,2025-09-22,cena,estándar,Maipú,215,4,si,86,13.5,201,16.81,12,7,3378
+EV-00241,2025-09-22,almuerzo,estándar,Huechuraba,280,3,si,59,6.6,265,10.41,9,7,2758
+EV-00294,2025-09-22,cóctel,premium,Quilicura,72,3,no,51,,68,10.13,3,7,689
+EV-00093,2025-09-25,cóctel,estándar,Colina,279,3,no,19,6.9,231,6.78,42,6,1567
+EV-00130,2025-09-25,almuerzo,premium,Las Condes,47,3,no,86,10.7,43,12.26,3,7,527
+EV-00156,2025-09-25,cóctel,estándar,La Florida,38,2,no,30,17.7,38,10.21,0,7,388
+EV-00061,2025-09-30,cena,estándar,Providencia,34,4,si,77,,32,22.25,1,7,712
+EV-00301,2025-09-30,desayuno,premium,Estación Central,213,2,no,80,16.1,192,5.56,19,7,1068
+EV-00381,2025-09-30,desayuno,estándar,San Joaquín,157,1,no,39,5.7,156,3.83,1,7,598
+EV-00398,2025-09-30,almuerzo,premium,Santiago,42,2,no,26,7.1,36,12.5,5,6,450
+EV-00243,2025-10-01,desayuno,vegetariano,Peñalolén,201,1,si,57,8.5,190,6.67,8,6,1268
+EV-00260,2025-10-02,desayuno,vegetariano,Providencia,149,2,si,28,23.6,156,8.27,0,6,1290
+EV-00095,2025-10-03,jornada completa,estándar,San Joaquín,61,9,no,18,32.7,58,19.03,2,6,1104
+EV-00124,2025-10-05,cena,premium,Puente Alto,143,5,no,70,10.7,138,18.49,3,6,2551
+EV-00324,2025-10-05,almuerzo,estándar,Las Condes,75,3,no,41,4.2,74,8.35,1,6,618
+EV-00202,2025-10-07,cóctel,estándar,Las Condes,27,4,no,56,9.4,24,11.04,2,6,265
+EV-00044,2025-10-08,cena,estándar,Macul,143,3,si,89,12.2,135,13.63,6,7,1840
+EV-00371,2025-10-08,almuerzo,vegetariano,Cerrillos,88,2,no,3,4.0,74,8.34,14,6,617
+EV-00039,2025-10-09,jornada completa,premium,Ñuñoa,152,7,si,74,6.4,123,25.37,27,5,3121
+EV-00154,2025-10-11,cena,estándar,Conchalí,51,4,si,41,2.8,48,16.69,2,6,801
+EV-00160,2025-10-11,jornada completa,premium,Colina,75,9,si,48,22.1,59,24.49,12,6,1445
+EV-00314,2025-10-14,cóctel,premium,Las Condes,216,2,no,76,8.0,214,10.19,2,6,2181
+EV-00279,2025-10-15,jornada completa,estándar,Estación Central,48,7,si,11,,51,18.25,0,6,931
+EV-00379,2025-10-15,cena,vegetariano,San Miguel,271,4,no,88,1.6,244,12.04,27,6,2937
+EV-00056,2025-10-16,cena,vegetariano,Vitacura,77,3,no,36,11.2,77,10.84,0,6,835
+EV-00247,2025-10-16,desayuno,estándar,Ñuñoa,207,2,si,25,2.7,180,6.71,19,7,1207
+EV-00280,2025-10-17,cóctel,estándar,Pudahuel,107,2,no,7,12.5,93,8.18,14,6,761
+EV-00228,2025-10-18,desayuno,estándar,Vitacura,277,3,no,27,10.2,283,3.63,0,7,1028
+EV-00057,2025-10-19,desayuno,estándar,La Reina,107,3,no,55,5.3,99,4.93,6,6,488
+EV-00293,2025-10-19,jornada completa,vegetariano,Cerrillos,215,9,si,29,41.4,202,19.83,8,7,4005
+EV-00082,2025-10-20,almuerzo,vegetariano,Conchalí,278,3,no,6,2.9,242,8.32,35,5,2014
+EV-00043,2025-10-21,cóctel,premium,Colina,232,4,si,2,11.3,173,12.31,54,6,2130
+EV-00195,2025-10-21,desayuno,vegetariano,San Joaquín,244,3,no,16,21.7,215,4.71,18,7,1013
+EV-00112,2025-10-22,almuerzo,premium,San Miguel,268,3,no,8,5.5,228,10.72,30,6,2444
+EV-00178,2025-10-22,almuerzo,estándar,Colina,90,4,no,12,8.6,75,10.16,11,6,762
+EV-00181,2025-10-23,almuerzo,estándar,Pudahuel,142,3,si,21,9.1,142,10.46,0,6,1486
+EV-00281,2025-10-23,jornada completa,estándar,Peñalolén,203,8,si,18,8.3,195,15.04,7,6,2932
+EV-00342,2025-10-24,cóctel,estándar,Macul,153,4,si,38,34.6,126,10.15,20,6,1279
+EV-00393,2025-10-24,almuerzo,estándar,Las Condes,159,3,no,34,6.7,142,7.73,11,6,1098
+EV-00006,2025-10-25,desayuno,estándar,Macul,40,1,no,57,,39,4.18,1,5,163
+EV-00020,2025-10-26,jornada completa,estándar,Vitacura,221,7,si,18,4.9,207,15.98,10,5,3307
+EV-00250,2025-10-26,desayuno,estándar,Macul,75,3,si,53,19.1,72,7.88,2,6,567
+EV-00170,2025-10-27,desayuno,estándar,Macul,122,1,si,61,15.8,116,8.01,5,6,929
+EV-00272,2025-10-27,cóctel,estándar,Cerrillos,114,3,no,70,24.1,107,7.02,7,7,751
+EV-00019,2025-10-29,desayuno,estándar,Vitacura,157,1,no,69,1.0,159,3.63,0,6,577
+EV-00319,2025-10-29,cena,estándar,Renca,228,3,si,43,11.6,208,15.3,16,6,3182
+EV-00347,2025-10-29,cena,estándar,Santiago,260,3,no,71,7.9,246,11.38,13,6,2800
+EV-00364,2025-10-30,almuerzo,estándar,Macul,131,2,si,13,15.8,131,12.34,0,7,1617
+EV-00090,2025-10-31,almuerzo,estándar,Quinta Normal,100,3,si,79,11.7,102,10.76,0,6,1098
+EV-00200,2025-10-31,cóctel,estándar,Vitacura,251,3,no,5,24.6,250,7.06,1,7,1765
+EV-00163,2025-11-02,jornada completa,estándar,Santiago,251,8,no,87,14.5,230,17.79,15,7,4091
+EV-00022,2025-11-03,almuerzo,estándar,Ñuñoa,269,4,no,73,28.0,226,9.0,34,5,2033
+EV-00131,2025-11-05,jornada completa,estándar,San Joaquín,142,8,no,56,13.5,126,16.87,14,7,2125
+EV-00029,2025-11-06,almuerzo,estándar,Providencia,20,3,si,80,16.3,17,15.12,2,6,257
+EV-00078,2025-11-07,almuerzo,vegetariano,Quinta Normal,249,3,no,35,18.5,227,6.55,16,6,1486
+EV-00133,2025-11-09,desayuno,estándar,Santiago,52,2,si,16,10.6,49,7.22,2,5,354
+EV-00343,2025-11-09,cena,vegetariano,Peñalolén,108,3,si,64,6.8,114,14.78,0,6,1685
+EV-00186,2025-11-10,almuerzo,vegetariano,Lampa,111,3,si,53,9.4,111,9.14,0,5,1015
+EV-00330,2025-11-13,desayuno,estándar,Santiago,181,2,no,58,17.6,189,4.57,0,7,863
+EV-00032,2025-11-14,almuerzo,premium,Recoleta,201,3,no,39,10.9,207,11.71,0,6,2423
+EV-00165,2025-11-14,almuerzo,premium,Providencia,223,2,no,40,4.8,184,12.52,34,6,2304
+EV-00390,2025-11-15,desayuno,estándar,Pudahuel,31,2,no,19,20.6,30,9.27,1,7,278
+EV-00265,2025-11-16,almuerzo,estándar,Conchalí,160,3,no,71,25.9,152,8.91,8,6,1354
+EV-00162,2025-11-17,cena,estándar,Cerrillos,261,5,si,49,15.6,255,15.95,6,6,4068
+EV-00236,2025-11-17,cóctel,estándar,La Reina,80,3,no,40,13.5,70,10.41,8,6,729
+EV-00152,2025-11-19,cena,premium,Puente Alto,72,3,no,52,25.2,64,18.78,5,6,1202
+EV-00025,2025-11-20,jornada completa,estándar,Quinta Normal,150,9,si,28,10.6,130,17.54,15,7,2280
+EV-00115,2025-11-21,almuerzo,estándar,Lampa,84,2,si,13,16.4,77,13.35,6,7,1028
+EV-00378,2025-11-21,cóctel,premium,Colina,131,2,si,61,15.6,124,13.75,6,6,1705
+EV-00394,2025-11-21,cóctel,vegetariano,La Florida,286,3,no,70,4.2,274,6.42,10,6,1758
+EV-00083,2025-11-23,jornada completa,vegetariano,Lampa,34,8,no,82,21.5,29,16.45,5,6,477
+EV-00166,2025-11-25,jornada completa,premium,Quinta Normal,206,7,no,25,3.8,178,19.26,26,5,3429
+EV-00011,2025-11-27,cóctel,estándar,Puente Alto,173,3,si,67,11.2,162,10.37,7,7,1680
+EV-00149,2025-11-28,cóctel,premium,Las Condes,230,3,si,16,21.2,241,17.17,0,6,4137
+EV-00267,2025-11-28,almuerzo,estándar,Maipú,161,4,no,58,3.1,160,9.34,1,6,1495
+EV-00189,2025-11-29,jornada completa,premium,Quilicura,193,7,no,27,8.8,201,23.36,0,7,4695
+EV-00376,2025-11-30,cóctel,estándar,Conchalí,107,3,no,41,23.7,101,9.3,4,6,939
+EV-00117,2025-12-01,cóctel,premium,Maipú,286,2,no,69,18.5,265,10.23,14,7,2711
+EV-00144,2025-12-01,desayuno,vegetariano,Macul,234,3,no,12,34.2,223,4.91,8,6,1094
+EV-00179,2025-12-01,almuerzo,premium,Peñalolén,241,3,si,60,6.0,203,17.24,27,6,3499
+EV-00191,2025-12-01,almuerzo,estándar,Huechuraba,151,3,no,84,10.3,141,7.92,8,7,1117
+EV-00252,2025-12-01,cóctel,vegetariano,Independencia,194,2,no,6,19.4,162,8.07,31,5,1307
+EV-00384,2025-12-01,cóctel,estándar,Vitacura,111,2,no,53,20.8,105,7.4,4,6,777
+EV-00014,2025-12-03,almuerzo,estándar,Quilicura,235,3,si,25,13.4,255,11.61,0,6,2960
+EV-00121,2025-12-03,almuerzo,estándar,Recoleta,183,3,no,31,8.2,196,8.95,0,6,1754
+EV-00266,2025-12-03,almuerzo,vegetariano,Conchalí,178,3,no,57,9.9,162,7.4,13,6,1198
+EV-00368,2025-12-04,desayuno,vegetariano,Peñalolén,56,2,no,35,2.3,55,3.89,1,6,214
+EV-00361,2025-12-05,almuerzo,estándar,Providencia,27,2,si,19,3.0,23,13.39,3,7,308
+EV-00005,2025-12-06,cóctel,estándar,Lo Barnechea,142,2,no,87,16.7,134,7.6,6,6,1018
+EV-00256,2025-12-06,cóctel,estándar,San Joaquín,241,3,no,31,12.7,229,7.63,10,6,1747
+EV-00045,2025-12-08,cena,estándar,Maipú,123,3,no,3,12.4,114,13.78,6,7,1571
+EV-00148,2025-12-10,almuerzo,estándar,Cerrillos,277,3,no,54,13.1,236,7.82,26,6,1846
+EV-00151,2025-12-11,desayuno,estándar,Renca,258,2,si,15,4.0,241,5.76,12,7,1387
+EV-00317,2025-12-11,desayuno,premium,Renca,131,2,no,8,28.7,108,10.05,18,7,1085
+EV-00346,2025-12-12,desayuno,vegetariano,La Florida,76,2,si,83,23.2,64,9.3,11,6,595
+EV-00159,2025-12-13,cóctel,vegetariano,San Miguel,82,3,si,62,29.9,72,11.43,6,7,823
+EV-00134,2025-12-15,cóctel,estándar,Huechuraba,81,3,no,80,15.0,87,7.8,0,6,679
+EV-00048,2025-12-16,desayuno,estándar,Lampa,269,2,si,68,3.6,268,6.97,1,7,1867
+EV-00099,2025-12-18,desayuno,premium,Pudahuel,173,3,no,5,22.0,154,6.77,12,6,1043
+EV-00135,2025-12-18,cóctel,premium,Pudahuel,272,3,si,7,8.6,289,13.55,0,6,3916
+EV-00339,2025-12-18,cóctel,estándar,La Reina,31,3,no,75,7.8,32,7.34,0,7,235
+EV-00004,2025-12-19,almuerzo,estándar,Santiago,186,2,no,87,7.2,169,7.78,12,6,1314
+EV-00285,2025-12-19,almuerzo,estándar,Conchalí,268,4,no,8,2.4,256,8.8,9,6,2253
+EV-00008,2025-12-20,jornada completa,premium,La Florida,236,8,no,56,,209,21.73,27,6,4542
+EV-00086,2025-12-20,almuerzo,estándar,Macul,241,2,no,52,1.5,227,7.99,13,6,1814
+EV-00264,2025-12-21,cena,premium,Estación Central,241,4,no,69,13.6,178,22.66,55,5,4034
+EV-00373,2025-12-21,cena,estándar,San Miguel,115,3,no,9,27.2,111,14.23,4,6,1579
+EV-00146,2025-12-22,almuerzo,estándar,Las Condes,52,2,si,61,17.6,42,13.74,9,6,577
+EV-00175,2025-12-23,cóctel,premium,La Florida,58,3,no,11,,54,13.13,3,7,709
+EV-00128,2025-12-24,cena,premium,Ñuñoa,27,5,no,50,29.4,28,25.39,0,7,711
+EV-00395,2025-12-25,cóctel,estándar,Quilicura,220,3,si,15,,203,10.98,12,5,2228
+EV-00100,2025-12-26,jornada completa,estándar,Las Condes,216,9,no,46,17.6,204,17.53,9,6,3577
+EV-00097,2025-12-27,cóctel,estándar,Huechuraba,175,3,si,8,10.0,181,12.34,0,6,2234
